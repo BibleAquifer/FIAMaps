@@ -1,0 +1,1169 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Images",
+    "resource_type": "Images, Maps, Videos",
+    "title": "Maps (SRV)",
+    "aquifer_name": "Maps (SRV)",
+    "collection_title": "Maps (SRV)",
+    "short_name": "FIA",
+    "license_info": {
+      "title": "Familiarization, Internalization, Articulation (Fia) Maps",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "SRV Partners",
+          "url": "https://srvpartners.org/home/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "FIAMaps",
+    "date_created": "2025-10-20",
+    "language": "eng",
+    "localizations": [],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-20T20:02:16.789905"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "FIAMaps": {
+            "timestamp": "2025-10-20T20:02:16.789905"
+          }
+        }
+      },
+      "name": {
+        "en": "Familiarization, Internalization, Articulation (Fia) Maps"
+      },
+      "abbreviation": {
+        "en": "FIA"
+      }
+    },
+    "languages": [
+      {
+        "tag": "en",
+        "name": {
+          "en": "English"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 978
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 730
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 928
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 768
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 761
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 735
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 837
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 933
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 822
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 726
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 795
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 1037
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 699
+      },
+      "json/000014.content.json": {
+        "mimeType": "text/json",
+        "size": 775
+      },
+      "json/000015.content.json": {
+        "mimeType": "text/json",
+        "size": 1541
+      },
+      "json/000016.content.json": {
+        "mimeType": "text/json",
+        "size": 1982
+      },
+      "json/000017.content.json": {
+        "mimeType": "text/json",
+        "size": 1684
+      },
+      "json/000018.content.json": {
+        "mimeType": "text/json",
+        "size": 755
+      },
+      "json/000019.content.json": {
+        "mimeType": "text/json",
+        "size": 755
+      },
+      "json/000020.content.json": {
+        "mimeType": "text/json",
+        "size": 990
+      },
+      "json/000021.content.json": {
+        "mimeType": "text/json",
+        "size": 831
+      },
+      "json/000022.content.json": {
+        "mimeType": "text/json",
+        "size": 946
+      },
+      "json/000023.content.json": {
+        "mimeType": "text/json",
+        "size": 768
+      },
+      "json/000024.content.json": {
+        "mimeType": "text/json",
+        "size": 751
+      },
+      "json/000025.content.json": {
+        "mimeType": "text/json",
+        "size": 733
+      },
+      "json/000026.content.json": {
+        "mimeType": "text/json",
+        "size": 799
+      },
+      "json/000027.content.json": {
+        "mimeType": "text/json",
+        "size": 831
+      },
+      "json/000028.content.json": {
+        "mimeType": "text/json",
+        "size": 867
+      },
+      "json/000029.content.json": {
+        "mimeType": "text/json",
+        "size": 743
+      },
+      "json/000030.content.json": {
+        "mimeType": "text/json",
+        "size": 1219
+      },
+      "json/000031.content.json": {
+        "mimeType": "text/json",
+        "size": 2678
+      },
+      "json/000032.content.json": {
+        "mimeType": "text/json",
+        "size": 773
+      },
+      "json/000033.content.json": {
+        "mimeType": "text/json",
+        "size": 1348
+      },
+      "json/000034.content.json": {
+        "mimeType": "text/json",
+        "size": 2044
+      },
+      "json/000035.content.json": {
+        "mimeType": "text/json",
+        "size": 877
+      },
+      "json/000036.content.json": {
+        "mimeType": "text/json",
+        "size": 757
+      },
+      "json/000037.content.json": {
+        "mimeType": "text/json",
+        "size": 1652
+      },
+      "json/000038.content.json": {
+        "mimeType": "text/json",
+        "size": 965
+      },
+      "json/000039.content.json": {
+        "mimeType": "text/json",
+        "size": 755
+      },
+      "json/000040.content.json": {
+        "mimeType": "text/json",
+        "size": 1478
+      },
+      "json/000041.content.json": {
+        "mimeType": "text/json",
+        "size": 976
+      },
+      "json/000042.content.json": {
+        "mimeType": "text/json",
+        "size": 777
+      },
+      "json/000043.content.json": {
+        "mimeType": "text/json",
+        "size": 783
+      },
+      "json/000044.content.json": {
+        "mimeType": "text/json",
+        "size": 816
+      },
+      "json/000045.content.json": {
+        "mimeType": "text/json",
+        "size": 836
+      },
+      "json/000046.content.json": {
+        "mimeType": "text/json",
+        "size": 754
+      },
+      "json/000047.content.json": {
+        "mimeType": "text/json",
+        "size": 814
+      },
+      "json/000048.content.json": {
+        "mimeType": "text/json",
+        "size": 815
+      },
+      "json/000049.content.json": {
+        "mimeType": "text/json",
+        "size": 747
+      },
+      "json/000050.content.json": {
+        "mimeType": "text/json",
+        "size": 983
+      },
+      "json/000051.content.json": {
+        "mimeType": "text/json",
+        "size": 805
+      },
+      "json/000052.content.json": {
+        "mimeType": "text/json",
+        "size": 780
+      },
+      "json/000053.content.json": {
+        "mimeType": "text/json",
+        "size": 799
+      },
+      "json/000054.content.json": {
+        "mimeType": "text/json",
+        "size": 721
+      },
+      "json/000055.content.json": {
+        "mimeType": "text/json",
+        "size": 735
+      },
+      "json/000056.content.json": {
+        "mimeType": "text/json",
+        "size": 1046
+      },
+      "json/000057.content.json": {
+        "mimeType": "text/json",
+        "size": 736
+      },
+      "json/000058.content.json": {
+        "mimeType": "text/json",
+        "size": 757
+      },
+      "json/000059.content.json": {
+        "mimeType": "text/json",
+        "size": 714
+      },
+      "json/000060.content.json": {
+        "mimeType": "text/json",
+        "size": 726
+      },
+      "json/000061.content.json": {
+        "mimeType": "text/json",
+        "size": 763
+      },
+      "json/000062.content.json": {
+        "mimeType": "text/json",
+        "size": 1201
+      },
+      "json/000063.content.json": {
+        "mimeType": "text/json",
+        "size": 729
+      },
+      "json/000064.content.json": {
+        "mimeType": "text/json",
+        "size": 770
+      },
+      "json/000065.content.json": {
+        "mimeType": "text/json",
+        "size": 904
+      },
+      "json/000066.content.json": {
+        "mimeType": "text/json",
+        "size": 789
+      },
+      "json/000067.content.json": {
+        "mimeType": "text/json",
+        "size": 722
+      },
+      "json/000068.content.json": {
+        "mimeType": "text/json",
+        "size": 1008
+      },
+      "json/000069.content.json": {
+        "mimeType": "text/json",
+        "size": 781
+      },
+      "json/000070.content.json": {
+        "mimeType": "text/json",
+        "size": 960
+      },
+      "json/000071.content.json": {
+        "mimeType": "text/json",
+        "size": 1004
+      },
+      "json/000072.content.json": {
+        "mimeType": "text/json",
+        "size": 694
+      },
+      "json/000073.content.json": {
+        "mimeType": "text/json",
+        "size": 733
+      },
+      "json/000074.content.json": {
+        "mimeType": "text/json",
+        "size": 1176
+      },
+      "json/000075.content.json": {
+        "mimeType": "text/json",
+        "size": 1124
+      },
+      "json/000076.content.json": {
+        "mimeType": "text/json",
+        "size": 979
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 783
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 705
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 746
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 731
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 728
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 709
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 785
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 749
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 774
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 702
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 749
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 719
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 682
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 739
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 877
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 887
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 880
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 724
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 724
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 790
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 774
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 759
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 733
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 721
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 707
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 756
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 780
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 699
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 715
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 856
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 982
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 737
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 845
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 937
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 708
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 725
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 858
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 774
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 724
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 830
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 781
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 731
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 745
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 769
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 755
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 723
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 753
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 754
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 718
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 787
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 761
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 740
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 753
+      },
+      "md/000054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 698
+      },
+      "md/000055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 709
+      },
+      "md/000056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 725
+      },
+      "md/000057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 707
+      },
+      "md/000058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 725
+      },
+      "md/000059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 693
+      },
+      "md/000060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 702
+      },
+      "md/000061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 719
+      },
+      "md/000062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 843
+      },
+      "md/000063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 704
+      },
+      "md/000064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 735
+      },
+      "md/000065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 728
+      },
+      "md/000066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 742
+      },
+      "md/000067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 699
+      },
+      "md/000068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 805
+      },
+      "md/000069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 743
+      },
+      "md/000070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 769
+      },
+      "md/000071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 799
+      },
+      "md/000072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 678
+      },
+      "md/000073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 707
+      },
+      "md/000074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 824
+      },
+      "md/000075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 785
+      },
+      "md/000076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 783
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Familiarization, Internalization, Articulation (Fia) Maps © 2023 SRV Partners.</p>",
+          "mimetype": "text/html",
+          "lang": "en"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "368172": {
+      "content_id": 368172,
+      "reference_id": 186995,
+      "index_reference": "abram's journey from ur to canaan",
+      "localizations": {}
+    },
+    "368170": {
+      "content_id": 368170,
+      "reference_id": 186993,
+      "index_reference": "beer lahai roi",
+      "localizations": {}
+    },
+    "368184": {
+      "content_id": 368184,
+      "reference_id": 187007,
+      "index_reference": "beersheba and moriah",
+      "localizations": {}
+    },
+    "368177": {
+      "content_id": 368177,
+      "reference_id": 187000,
+      "index_reference": "beersheba, paran and egypt",
+      "localizations": {}
+    },
+    "280034": {
+      "content_id": 280034,
+      "reference_id": 186454,
+      "index_reference": "bethlehem to jerusalem",
+      "localizations": {}
+    },
+    "368162": {
+      "content_id": 368162,
+      "reference_id": 186985,
+      "index_reference": "canaan to egypt",
+      "localizations": {}
+    },
+    "280023": {
+      "content_id": 280023,
+      "reference_id": 186443,
+      "index_reference": "capernaum on route from egypt to damascus",
+      "localizations": {}
+    },
+    "280014": {
+      "content_id": 280014,
+      "reference_id": 186434,
+      "index_reference": "capernaum to decapolis",
+      "localizations": {}
+    },
+    "280002": {
+      "content_id": 280002,
+      "reference_id": 186422,
+      "index_reference": "capernaum with judea and jordan river",
+      "localizations": {}
+    },
+    "368185": {
+      "content_id": 368185,
+      "reference_id": 187008,
+      "index_reference": "edom and seir",
+      "localizations": {}
+    },
+    "368169": {
+      "content_id": 368169,
+      "reference_id": 186992,
+      "index_reference": "edom, seir, median, moab and bozrah",
+      "localizations": {}
+    },
+    "368180": {
+      "content_id": 368180,
+      "reference_id": 187003,
+      "index_reference": "egypt",
+      "localizations": {}
+    },
+    "279996": {
+      "content_id": 279996,
+      "reference_id": 186416,
+      "index_reference": "emmaus",
+      "localizations": {}
+    },
+    "280025": {
+      "content_id": 280025,
+      "reference_id": 186445,
+      "index_reference": "four corners of the world",
+      "localizations": {}
+    },
+    "280028": {
+      "content_id": 280028,
+      "reference_id": 186448,
+      "index_reference": "galilee area with caesarea philippi and capernaum",
+      "localizations": {}
+    },
+    "280024": {
+      "content_id": 280024,
+      "reference_id": 186444,
+      "index_reference": "galilee area with capernaum",
+      "localizations": {}
+    },
+    "280020": {
+      "content_id": 280020,
+      "reference_id": 186440,
+      "index_reference": "galilee area with capernaum and gerasa",
+      "localizations": {}
+    },
+    "280004": {
+      "content_id": 280004,
+      "reference_id": 186424,
+      "index_reference": "galilee to jerusalem",
+      "localizations": {}
+    },
+    "280037": {
+      "content_id": 280037,
+      "reference_id": 186457,
+      "index_reference": "galilee with magdala",
+      "localizations": {}
+    },
+    "280027": {
+      "content_id": 280027,
+      "reference_id": 186447,
+      "index_reference": "galilee, judea, samaria, and jerusalem",
+      "localizations": {}
+    },
+    "280021": {
+      "content_id": 280021,
+      "reference_id": 186441,
+      "index_reference": "galilee, syrian phoenicia, gennesaret and tyre",
+      "localizations": {}
+    },
+    "280036": {
+      "content_id": 280036,
+      "reference_id": 186456,
+      "index_reference": "galilee,judea and samaria",
+      "localizations": {}
+    },
+    "280022": {
+      "content_id": 280022,
+      "reference_id": 186442,
+      "index_reference": "gennesaret and capernaum",
+      "localizations": {}
+    },
+    "368164": {
+      "content_id": 368164,
+      "reference_id": 186987,
+      "index_reference": "haran and beersheba",
+      "localizations": {}
+    },
+    "368167": {
+      "content_id": 368167,
+      "reference_id": 186990,
+      "index_reference": "haran to canaan",
+      "localizations": {}
+    },
+    "368178": {
+      "content_id": 368178,
+      "reference_id": 187001,
+      "index_reference": "havilah, shur, egypt and assyria",
+      "localizations": {}
+    },
+    "368161": {
+      "content_id": 368161,
+      "reference_id": 186984,
+      "index_reference": "hebron, canaan, negev and beer lahai roi",
+      "localizations": {}
+    },
+    "280043": {
+      "content_id": 280043,
+      "reference_id": 186463,
+      "index_reference": "israel",
+      "localizations": {}
+    },
+    "280010": {
+      "content_id": 280010,
+      "reference_id": 186430,
+      "index_reference": "israel with negeb",
+      "localizations": {}
+    },
+    "280031": {
+      "content_id": 280031,
+      "reference_id": 186451,
+      "index_reference": "israel with region of galilee, nazareth, jerusalem",
+      "localizations": {}
+    },
+    "368166": {
+      "content_id": 368166,
+      "reference_id": 186989,
+      "index_reference": "israel, jordan and egypt",
+      "localizations": {}
+    },
+    "280041": {
+      "content_id": 280041,
+      "reference_id": 186461,
+      "index_reference": "israel, ninevah and sheba",
+      "localizations": {}
+    },
+    "368174": {
+      "content_id": 368174,
+      "reference_id": 186997,
+      "index_reference": "jacob's journey from beersheba to haran",
+      "localizations": {}
+    },
+    "368165": {
+      "content_id": 368165,
+      "reference_id": 186988,
+      "index_reference": "jacob's journey from haran to beersheba",
+      "localizations": {}
+    },
+    "280044": {
+      "content_id": 280044,
+      "reference_id": 186464,
+      "index_reference": "jericho",
+      "localizations": {}
+    },
+    "280016": {
+      "content_id": 280016,
+      "reference_id": 186436,
+      "index_reference": "jerusalem and galilee",
+      "localizations": {}
+    },
+    "280017": {
+      "content_id": 280017,
+      "reference_id": 186437,
+      "index_reference": "jerusalem and galilee region",
+      "localizations": {}
+    },
+    "279998": {
+      "content_id": 279998,
+      "reference_id": 186418,
+      "index_reference": "jerusalem and mount of olives",
+      "localizations": {}
+    },
+    "280026": {
+      "content_id": 280026,
+      "reference_id": 186446,
+      "index_reference": "jerusalem to jericho",
+      "localizations": {}
+    },
+    "280007": {
+      "content_id": 280007,
+      "reference_id": 186427,
+      "index_reference": "jerusalem, bethany and the temple",
+      "localizations": {}
+    },
+    "280018": {
+      "content_id": 280018,
+      "reference_id": 186438,
+      "index_reference": "jerusalem, bethphage, and bethany",
+      "localizations": {}
+    },
+    "280013": {
+      "content_id": 280013,
+      "reference_id": 186433,
+      "index_reference": "jesus' route from capernaum to nain",
+      "localizations": {}
+    },
+    "280040": {
+      "content_id": 280040,
+      "reference_id": 186460,
+      "index_reference": "jesus' travels to jerusalem",
+      "localizations": {}
+    },
+    "280029": {
+      "content_id": 280029,
+      "reference_id": 186449,
+      "index_reference": "jordan river and wilderness of judah",
+      "localizations": {}
+    },
+    "280030": {
+      "content_id": 280030,
+      "reference_id": 186450,
+      "index_reference": "jordan river featuring galilee, judea, iturea, traconitis, and abilene",
+      "localizations": {}
+    },
+    "368181": {
+      "content_id": 368181,
+      "reference_id": 187004,
+      "index_reference": "jordan valley region",
+      "localizations": {}
+    },
+    "280006": {
+      "content_id": 280006,
+      "reference_id": 186426,
+      "index_reference": "joseph and mary's route from nazareth to bethlehem",
+      "localizations": {}
+    },
+    "280012": {
+      "content_id": 280012,
+      "reference_id": 186432,
+      "index_reference": "joseph and mary's route from nazareth to jerusalem",
+      "localizations": {}
+    },
+    "280003": {
+      "content_id": 280003,
+      "reference_id": 186423,
+      "index_reference": "judea and dead sea",
+      "localizations": {}
+    },
+    "280009": {
+      "content_id": 280009,
+      "reference_id": 186429,
+      "index_reference": "lake with bethsaida and gennesaret",
+      "localizations": {}
+    },
+    "279997": {
+      "content_id": 279997,
+      "reference_id": 186417,
+      "index_reference": "lake with capernaum and bethsaida",
+      "localizations": {}
+    },
+    "279999": {
+      "content_id": 279999,
+      "reference_id": 186419,
+      "index_reference": "locations in the book of mark",
+      "localizations": {}
+    },
+    "280011": {
+      "content_id": 280011,
+      "reference_id": 186431,
+      "index_reference": "mary's route from nazareth to judea",
+      "localizations": {}
+    },
+    "280038": {
+      "content_id": 280038,
+      "reference_id": 186458,
+      "index_reference": "mount hermon",
+      "localizations": {}
+    },
+    "280042": {
+      "content_id": 280042,
+      "reference_id": 186462,
+      "index_reference": "mount of olives",
+      "localizations": {}
+    },
+    "280039": {
+      "content_id": 280039,
+      "reference_id": 186459,
+      "index_reference": "nazareth",
+      "localizations": {}
+    },
+    "280015": {
+      "content_id": 280015,
+      "reference_id": 186435,
+      "index_reference": "nazareth and judea",
+      "localizations": {}
+    },
+    "280000": {
+      "content_id": 280000,
+      "reference_id": 186420,
+      "index_reference": "nazareth to capernaum",
+      "localizations": {}
+    },
+    "368182": {
+      "content_id": 368182,
+      "reference_id": 187005,
+      "index_reference": "negeb area",
+      "localizations": {}
+    },
+    "368171": {
+      "content_id": 368171,
+      "reference_id": 186994,
+      "index_reference": "oaks of mamre",
+      "localizations": {}
+    },
+    "368173": {
+      "content_id": 368173,
+      "reference_id": 186996,
+      "index_reference": "paddan-aram and surrounding areas",
+      "localizations": {}
+    },
+    "368175": {
+      "content_id": 368175,
+      "reference_id": 186998,
+      "index_reference": "people groups between egypt and the euphrates",
+      "localizations": {}
+    },
+    "280005": {
+      "content_id": 280005,
+      "reference_id": 186425,
+      "index_reference": "pilate's house",
+      "localizations": {}
+    },
+    "368163": {
+      "content_id": 368163,
+      "reference_id": 186986,
+      "index_reference": "rebel kings in the south",
+      "localizations": {}
+    },
+    "368168": {
+      "content_id": 368168,
+      "reference_id": 186991,
+      "index_reference": "region of seir",
+      "localizations": {}
+    },
+    "279995": {
+      "content_id": 279995,
+      "reference_id": 186415,
+      "index_reference": "region of the gerasenes to capernaum",
+      "localizations": {}
+    },
+    "368179": {
+      "content_id": 368179,
+      "reference_id": 187002,
+      "index_reference": "road to shur",
+      "localizations": {}
+    },
+    "280045": {
+      "content_id": 280045,
+      "reference_id": 186465,
+      "index_reference": "route from bethsaida to caeserea philippi",
+      "localizations": {}
+    },
+    "280032": {
+      "content_id": 280032,
+      "reference_id": 186452,
+      "index_reference": "sea of galilee western side",
+      "localizations": {}
+    },
+    "280008": {
+      "content_id": 280008,
+      "reference_id": 186428,
+      "index_reference": "sea of galilee with bethsaida",
+      "localizations": {}
+    },
+    "280001": {
+      "content_id": 280001,
+      "reference_id": 186421,
+      "index_reference": "sea of galilee with capernaum and decapolis",
+      "localizations": {}
+    },
+    "368176": {
+      "content_id": 368176,
+      "reference_id": 186999,
+      "index_reference": "sidon",
+      "localizations": {}
+    },
+    "280019": {
+      "content_id": 280019,
+      "reference_id": 186439,
+      "index_reference": "sidon and syria",
+      "localizations": {}
+    },
+    "368183": {
+      "content_id": 368183,
+      "reference_id": 187006,
+      "index_reference": "sodom, gomorrah and great oaks of mamre",
+      "localizations": {}
+    },
+    "280033": {
+      "content_id": 280033,
+      "reference_id": 186453,
+      "index_reference": "territory of herod antipas",
+      "localizations": {}
+    },
+    "280035": {
+      "content_id": 280035,
+      "reference_id": 186455,
+      "index_reference": "tyre, sidon and the sea of galilee",
+      "localizations": {}
+    }
+  }
+}

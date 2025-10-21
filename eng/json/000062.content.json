@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 368175,
+    "reference_id": 186998,
+    "title": "People Groups Between Egypt and the Euphrates",
+    "media_type": "Image",
+    "index_reference": "people groups between egypt and the euphrates",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/people-groups-between-egypt-and-the-euphrates.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/people-groups-between-egypt-and-the-euphrates.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "02013001",
+          "start_ref_usfm": "EXO 13:1",
+          "end_ref": "02013016",
+          "end_ref_usfm": "EXO 13:16"
+        },
+        {
+          "start_ref": "02023020",
+          "start_ref_usfm": "EXO 23:20",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

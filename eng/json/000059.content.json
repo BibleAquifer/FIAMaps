@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 368182,
+    "reference_id": 187005,
+    "title": "Negeb Area",
+    "media_type": "Image",
+    "index_reference": "negeb area",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/negeb-area.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/negeb-area.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020018",
+          "end_ref_usfm": "GEN 20:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

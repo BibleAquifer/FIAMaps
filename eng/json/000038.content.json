@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 279998,
+    "reference_id": 186418,
+    "title": "Jerusalem and Mount of Olives",
+    "media_type": "Image",
+    "index_reference": "jerusalem and mount of olives",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-mount-of-olives.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-mount-of-olives.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "42024036",
+          "start_ref_usfm": "LUK 24:36",
+          "end_ref": "42024053",
+          "end_ref_usfm": "LUK 24:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

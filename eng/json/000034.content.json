@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 368165,
+    "reference_id": 186988,
+    "title": "Jacob's Journey from Haran to Beersheba",
+    "media_type": "Image",
+    "index_reference": "jacob's journey from haran to beersheba",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jacobs-journey-from-haran-to-beersheba.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jacobs-journey-from-haran-to-beersheba.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031001",
+          "start_ref_usfm": "GEN 31:1",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        },
+        {
+          "start_ref": "01031022",
+          "start_ref_usfm": "GEN 31:22",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01031036",
+          "start_ref_usfm": "GEN 31:36",
+          "end_ref": "01031055",
+          "end_ref_usfm": "GEN 31:55"
+        },
+        {
+          "start_ref": "01032022",
+          "start_ref_usfm": "GEN 32:22",
+          "end_ref": "01032032",
+          "end_ref_usfm": "GEN 32:32"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033020",
+          "end_ref_usfm": "GEN 33:20"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034017",
+          "end_ref_usfm": "GEN 34:17"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034031",
+          "end_ref_usfm": "GEN 34:31"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035029",
+          "end_ref_usfm": "GEN 35:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

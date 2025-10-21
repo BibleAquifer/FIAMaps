@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280043,
+    "reference_id": 186463,
+    "title": "Israel",
+    "media_type": "Image",
+    "index_reference": "israel",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41003007",
+          "start_ref_usfm": "MRK 3:7",
+          "end_ref": "41003012",
+          "end_ref_usfm": "MRK 3:12"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 279999,
+    "reference_id": 186419,
+    "title": "Locations in the Book of Mark",
+    "media_type": "Image",
+    "index_reference": "locations in the book of mark",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/locations-in-book-of-mark.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/locations-in-book-of-mark.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 368168,
+    "reference_id": 186991,
+    "title": "Region of Seir",
+    "media_type": "Image",
+    "index_reference": "region of seir",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036001",
+          "start_ref_usfm": "GEN 36:1",
+          "end_ref": "01036019",
+          "end_ref_usfm": "GEN 36:19"
+        },
+        {
+          "start_ref": "01036020",
+          "start_ref_usfm": "GEN 36:20",
+          "end_ref": "01036030",
+          "end_ref_usfm": "GEN 36:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

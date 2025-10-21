@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 368172,
+    "reference_id": 186995,
+    "title": "Abram's Journey from Ur to Canaan",
+    "media_type": "Image",
+    "index_reference": "abram's journey from ur to canaan",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/abrams-journey-from-ur-to-canaan.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/abrams-journey-from-ur-to-canaan.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

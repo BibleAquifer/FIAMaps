@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 368181,
+    "reference_id": 187004,
+    "title": "Jordan Valley Region",
+    "media_type": "Image",
+    "index_reference": "jordan valley region",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-valley-region.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-valley-region.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

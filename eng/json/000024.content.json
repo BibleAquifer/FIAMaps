@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 368164,
+    "reference_id": 186987,
+    "title": "Haran and Beersheba",
+    "media_type": "Image",
+    "index_reference": "haran and beersheba",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/haran-and-beersheba.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/haran-and-beersheba.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022020",
+          "start_ref_usfm": "GEN 22:20",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

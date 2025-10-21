@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280009,
+    "reference_id": 186429,
+    "title": "Lake with Bethsaida and Gennesaret",
+    "media_type": "Image",
+    "index_reference": "lake with bethsaida and gennesaret",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-bethsaida-and-gennesaret.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-bethsaida-and-gennesaret.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006045",
+          "start_ref_usfm": "MRK 6:45",
+          "end_ref": "41006056",
+          "end_ref_usfm": "MRK 6:56"
+        },
+        {
+          "start_ref": "40014022",
+          "start_ref_usfm": "MAT 14:22",
+          "end_ref": "40014036",
+          "end_ref_usfm": "MAT 14:36"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

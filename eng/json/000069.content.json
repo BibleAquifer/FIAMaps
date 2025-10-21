@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280032,
+    "reference_id": 186452,
+    "title": "Sea of Galilee Western Side",
+    "media_type": "Image",
+    "index_reference": "sea of galilee western side",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-western-side.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-western-side.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008011",
+          "start_ref_usfm": "MRK 8:11",
+          "end_ref": "41008021",
+          "end_ref_usfm": "MRK 8:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

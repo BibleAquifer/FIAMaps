@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280034,
+    "reference_id": 186454,
+    "title": "Bethlehem to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "bethlehem to jerusalem",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

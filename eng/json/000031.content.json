@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 368166,
+    "reference_id": 186989,
+    "title": "Israel, Jordan and Egypt",
+    "media_type": "Image",
+    "index_reference": "israel, jordan and egypt",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039023",
+          "end_ref_usfm": "GEN 39:23"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01042026",
+          "end_ref_usfm": "GEN 42:26"
+        },
+        {
+          "start_ref": "01042027",
+          "start_ref_usfm": "GEN 42:27",
+          "end_ref": "01042038",
+          "end_ref_usfm": "GEN 42:38"
+        },
+        {
+          "start_ref": "01043001",
+          "start_ref_usfm": "GEN 43:1",
+          "end_ref": "01043034",
+          "end_ref_usfm": "GEN 43:34"
+        },
+        {
+          "start_ref": "01045001",
+          "start_ref_usfm": "GEN 45:1",
+          "end_ref": "01045028",
+          "end_ref_usfm": "GEN 45:28"
+        },
+        {
+          "start_ref": "01046001",
+          "start_ref_usfm": "GEN 46:1",
+          "end_ref": "01046027",
+          "end_ref_usfm": "GEN 46:27"
+        },
+        {
+          "start_ref": "01046028",
+          "start_ref_usfm": "GEN 46:28",
+          "end_ref": "01047012",
+          "end_ref_usfm": "GEN 47:12"
+        },
+        {
+          "start_ref": "01047027",
+          "start_ref_usfm": "GEN 47:27",
+          "end_ref": "01047031",
+          "end_ref_usfm": "GEN 47:31"
+        },
+        {
+          "start_ref": "01049029",
+          "start_ref_usfm": "GEN 49:29",
+          "end_ref": "01050014",
+          "end_ref_usfm": "GEN 50:14"
+        },
+        {
+          "start_ref": "01050015",
+          "start_ref_usfm": "GEN 50:15",
+          "end_ref": "01050021",
+          "end_ref_usfm": "GEN 50:21"
+        },
+        {
+          "start_ref": "01050022",
+          "start_ref_usfm": "GEN 50:22",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

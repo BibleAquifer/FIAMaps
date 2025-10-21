@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280012,
+    "reference_id": 186432,
+    "title": "Joseph and Mary's Route from Nazareth to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "joseph and mary's route from nazareth to jerusalem",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/nazareth-to-jersualem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/nazareth-to-jersualem.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002041",
+          "start_ref_usfm": "LUK 2:41",
+          "end_ref": "42002052",
+          "end_ref_usfm": "LUK 2:52"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

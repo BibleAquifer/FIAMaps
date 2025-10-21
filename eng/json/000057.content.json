@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280015,
+    "reference_id": 186435,
+    "title": "Nazareth and Judea",
+    "media_type": "Image",
+    "index_reference": "nazareth and judea",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/nazareth-judea.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/nazareth-judea.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

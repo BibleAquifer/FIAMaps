@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280001,
+    "reference_id": 186421,
+    "title": "Sea of Galilee with Capernaum and Decapolis",
+    "media_type": "Image",
+    "index_reference": "sea of galilee with capernaum and decapolis",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-capernaum-to-decapolis.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-capernaum-to-decapolis.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41004035",
+          "start_ref_usfm": "MRK 4:35",
+          "end_ref": "41004041",
+          "end_ref_usfm": "MRK 4:41"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

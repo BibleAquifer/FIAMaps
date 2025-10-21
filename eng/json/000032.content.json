@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280041,
+    "reference_id": 186461,
+    "title": "Israel, Ninevah and Sheba",
+    "media_type": "Image",
+    "index_reference": "israel, ninevah and sheba",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42011014",
+          "start_ref_usfm": "LUK 11:14",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

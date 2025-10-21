@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280016,
+    "reference_id": 186436,
+    "title": "Jerusalem and Galilee",
+    "media_type": "Image",
+    "index_reference": "jerusalem and galilee",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-galilee.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-galilee.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

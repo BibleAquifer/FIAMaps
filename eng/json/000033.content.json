@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 368174,
+    "reference_id": 186997,
+    "title": "Jacob's Journey from Beersheba to Haran",
+    "media_type": "Image",
+    "index_reference": "jacob's journey from beersheba to haran",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jacobs-journey-from-beersheba-to-haran.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jacobs-journey-from-beersheba-to-haran.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024001",
+          "start_ref_usfm": "GEN 24:1",
+          "end_ref": "01024014",
+          "end_ref_usfm": "GEN 24:14"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028022",
+          "end_ref_usfm": "GEN 28:22"
+        },
+        {
+          "start_ref": "01029001",
+          "start_ref_usfm": "GEN 29:1",
+          "end_ref": "01029014",
+          "end_ref_usfm": "GEN 29:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

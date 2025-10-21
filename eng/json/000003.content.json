@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 368184,
+    "reference_id": 187007,
+    "title": "Beersheba and Moriah",
+    "media_type": "Image",
+    "index_reference": "beersheba and moriah",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021022",
+          "start_ref_usfm": "GEN 21:22",
+          "end_ref": "01021034",
+          "end_ref_usfm": "GEN 21:34"
+        },
+        {
+          "start_ref": "01022001",
+          "start_ref_usfm": "GEN 22:1",
+          "end_ref": "01022019",
+          "end_ref_usfm": "GEN 22:19"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

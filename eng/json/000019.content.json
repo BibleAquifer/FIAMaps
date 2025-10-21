@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280037,
+    "reference_id": 186457,
+    "title": "Galilee with Magdala",
+    "media_type": "Image",
+    "index_reference": "galilee with magdala",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-with-magdala.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-with-magdala.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41015040",
+          "start_ref_usfm": "MRK 15:40",
+          "end_ref": "41015047",
+          "end_ref_usfm": "MRK 15:47"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

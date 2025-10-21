@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 280024,
+    "reference_id": 186444,
+    "title": "Galilee Area with Capernaum",
+    "media_type": "Image",
+    "index_reference": "galilee area with capernaum",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-area-with-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-area-with-capernaum.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42007001",
+          "start_ref_usfm": "LUK 7:1",
+          "end_ref": "42007010",
+          "end_ref_usfm": "LUK 7:10"
+        },
+        {
+          "start_ref": "40013001",
+          "start_ref_usfm": "MAT 13:1",
+          "end_ref": "40013009",
+          "end_ref_usfm": "MAT 13:9"
+        },
+        {
+          "start_ref": "41004001",
+          "start_ref_usfm": "MRK 4:1",
+          "end_ref": "41004020",
+          "end_ref_usfm": "MRK 4:20"
+        },
+        {
+          "start_ref": "41004021",
+          "start_ref_usfm": "MRK 4:21",
+          "end_ref": "41004025",
+          "end_ref_usfm": "MRK 4:25"
+        },
+        {
+          "start_ref": "41004026",
+          "start_ref_usfm": "MRK 4:26",
+          "end_ref": "41004034",
+          "end_ref_usfm": "MRK 4:34"
+        },
+        {
+          "start_ref": "41001035",
+          "start_ref_usfm": "MRK 1:35",
+          "end_ref": "41001039",
+          "end_ref_usfm": "MRK 1:39"
+        },
+        {
+          "start_ref": "41002001",
+          "start_ref_usfm": "MRK 2:1",
+          "end_ref": "41002012",
+          "end_ref_usfm": "MRK 2:12"
+        },
+        {
+          "start_ref": "41002013",
+          "start_ref_usfm": "MRK 2:13",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

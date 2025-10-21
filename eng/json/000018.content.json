@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280004,
+    "reference_id": 186424,
+    "title": "Galilee to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "galilee to jerusalem",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-to-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-to-jerusalem.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42017011",
+          "start_ref_usfm": "LUK 17:11",
+          "end_ref": "42017019",
+          "end_ref_usfm": "LUK 17:19"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

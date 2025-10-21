@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280014,
+    "reference_id": 186434,
+    "title": "Capernaum to Decapolis",
+    "media_type": "Image",
+    "index_reference": "capernaum to decapolis",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-to-decapolis.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-to-decapolis.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008022",
+          "start_ref_usfm": "LUK 8:22",
+          "end_ref": "42008025",
+          "end_ref_usfm": "LUK 8:25"
+        },
+        {
+          "start_ref": "40008028",
+          "start_ref_usfm": "MAT 8:28",
+          "end_ref": "40008034",
+          "end_ref_usfm": "MAT 8:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
