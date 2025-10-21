@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280002,
+    "reference_id": 186422,
+    "title": "Capernaum with Judea and Jordan River",
+    "media_type": "Image",
+    "index_reference": "capernaum with judea and jordan river",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-with-judea-and-jordan-river.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-with-judea-and-jordan-river.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010001",
+          "start_ref_usfm": "MRK 10:1",
+          "end_ref": "41010012",
+          "end_ref_usfm": "MRK 10:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

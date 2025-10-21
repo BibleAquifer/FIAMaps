@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280044,
+    "reference_id": 186464,
+    "title": "Jericho",
+    "media_type": "Image",
+    "index_reference": "jericho",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jericho.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jericho.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020034",
+          "end_ref_usfm": "MAT 20:34"
+        },
+        {
+          "start_ref": "42018035",
+          "start_ref_usfm": "LUK 18:35",
+          "end_ref": "42019010",
+          "end_ref_usfm": "LUK 19:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

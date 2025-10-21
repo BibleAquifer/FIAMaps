@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280030,
+    "reference_id": 186450,
+    "title": "Jordan River featuring Galilee, Judea, Iturea, Traconitis, and Abilene",
+    "media_type": "Image",
+    "index_reference": "jordan river featuring galilee, judea, iturea, traconitis, and abilene",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-river.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-river.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

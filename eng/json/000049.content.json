@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280003,
+    "reference_id": 186423,
+    "title": "Judea and Dead Sea",
+    "media_type": "Image",
+    "index_reference": "judea and dead sea",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/judea-and-dead-sea.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/judea-and-dead-sea.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42021020",
+          "start_ref_usfm": "LUK 21:20",
+          "end_ref": "42021028",
+          "end_ref_usfm": "LUK 21:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

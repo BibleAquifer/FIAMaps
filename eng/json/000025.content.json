@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 368167,
+    "reference_id": 186990,
+    "title": "Haran to Canaan",
+    "media_type": "Image",
+    "index_reference": "haran to canaan",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/haran-to-canaan.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/haran-to-canaan.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

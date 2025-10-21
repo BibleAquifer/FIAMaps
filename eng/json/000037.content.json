@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 280017,
+    "reference_id": 186437,
+    "title": "Jerusalem and Galilee region",
+    "media_type": "Image",
+    "index_reference": "jerusalem and galilee region",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-galilee-region.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-galilee-region.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40028001",
+          "start_ref_usfm": "MAT 28:1",
+          "end_ref": "40028015",
+          "end_ref_usfm": "MAT 28:15"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014031",
+          "end_ref_usfm": "MRK 14:31"
+        },
+        {
+          "start_ref": "41016001",
+          "start_ref_usfm": "MRK 16:1",
+          "end_ref": "41016008",
+          "end_ref_usfm": "MRK 16:8"
+        },
+        {
+          "start_ref": "40016021",
+          "start_ref_usfm": "MAT 16:21",
+          "end_ref": "40016028",
+          "end_ref_usfm": "MAT 16:28"
+        },
+        {
+          "start_ref": "43007045",
+          "start_ref_usfm": "JHN 7:45",
+          "end_ref": "43007053",
+          "end_ref_usfm": "JHN 7:53"
+        },
+        {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

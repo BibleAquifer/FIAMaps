@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280008,
+    "reference_id": 186428,
+    "title": "Sea of Galilee with Bethsaida",
+    "media_type": "Image",
+    "index_reference": "sea of galilee with bethsaida",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-with-bethsaida.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-with-bethsaida.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008022",
+          "start_ref_usfm": "MRK 8:22",
+          "end_ref": "41008026",
+          "end_ref_usfm": "MRK 8:26"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

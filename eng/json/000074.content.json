@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 368183,
+    "reference_id": 187006,
+    "title": "Sodom, Gomorrah and Great Oaks of Mamre",
+    "media_type": "Image",
+    "index_reference": "sodom, gomorrah and great oaks of mamre",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sodom-gomorrah-and-great-oaks-of-mamre.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sodom-gomorrah-and-great-oaks-of-mamre.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01018016",
+          "start_ref_usfm": "GEN 18:16",
+          "end_ref": "01018033",
+          "end_ref_usfm": "GEN 18:33"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019029",
+          "end_ref_usfm": "GEN 19:29"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

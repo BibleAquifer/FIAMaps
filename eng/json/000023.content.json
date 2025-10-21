@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280022,
+    "reference_id": 186442,
+    "title": "Gennesaret and Capernaum",
+    "media_type": "Image",
+    "index_reference": "gennesaret and capernaum",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gennesaret-and-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gennesaret-and-capernaum.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42005001",
+          "start_ref_usfm": "LUK 5:1",
+          "end_ref": "42005011",
+          "end_ref_usfm": "LUK 5:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

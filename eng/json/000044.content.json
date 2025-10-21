@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280029,
+    "reference_id": 186449,
+    "title": "Jordan River and Wilderness of Judah",
+    "media_type": "Image",
+    "index_reference": "jordan river and wilderness of judah",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-river-and-wilderness-of-judah.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jordan-river-and-wilderness-of-judah.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004013",
+          "end_ref_usfm": "LUK 4:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

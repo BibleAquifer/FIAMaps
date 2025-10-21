@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280036,
+    "reference_id": 186456,
+    "title": "Galilee,Judea and Samaria",
+    "media_type": "Image",
+    "index_reference": "galilee,judea and samaria",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-judea-and-samaria.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-judea-and-samaria.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42018031",
+          "start_ref_usfm": "LUK 18:31",
+          "end_ref": "42018034",
+          "end_ref_usfm": "LUK 18:34"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

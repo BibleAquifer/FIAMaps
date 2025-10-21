@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280040,
+    "reference_id": 186460,
+    "title": "Jesus' Travels to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "jesus' travels to jerusalem",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jesus-travels-to-jerusalem-.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jesus-travels-to-jerusalem-.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010052",
+          "end_ref_usfm": "MRK 10:52"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

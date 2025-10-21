@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 368177,
+    "reference_id": 187000,
+    "title": "Beersheba, Paran and Egypt",
+    "media_type": "Image",
+    "index_reference": "beersheba, paran and egypt",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021001",
+          "start_ref_usfm": "GEN 21:1",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

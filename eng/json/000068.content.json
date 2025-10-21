@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280045,
+    "reference_id": 186465,
+    "title": "Route from Bethsaida to Caeserea Philippi",
+    "media_type": "Image",
+    "index_reference": "route from bethsaida to caeserea philippi",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008027",
+          "start_ref_usfm": "MRK 8:27",
+          "end_ref": "41008030",
+          "end_ref_usfm": "MRK 8:30"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41009001",
+          "end_ref_usfm": "MRK 9:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

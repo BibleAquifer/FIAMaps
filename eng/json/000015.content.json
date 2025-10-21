@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 280028,
+    "reference_id": 186448,
+    "title": "Galilee Area with Caesarea Philippi and Capernaum",
+    "media_type": "Image",
+    "index_reference": "galilee area with caesarea philippi and capernaum",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-caesarea-philippi-to-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-caesarea-philippi-to-capernaum.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001020",
+          "end_ref_usfm": "MRK 1:20"
+        },
+        {
+          "start_ref": "41001021",
+          "start_ref_usfm": "MRK 1:21",
+          "end_ref": "41001028",
+          "end_ref_usfm": "MRK 1:28"
+        },
+        {
+          "start_ref": "41009030",
+          "start_ref_usfm": "MRK 9:30",
+          "end_ref": "41009050",
+          "end_ref_usfm": "MRK 9:50"
+        },
+        {
+          "start_ref": "40009027",
+          "start_ref_usfm": "MAT 9:27",
+          "end_ref": "40009038",
+          "end_ref_usfm": "MAT 9:38"
+        },
+        {
+          "start_ref": "40011001",
+          "start_ref_usfm": "MAT 11:1",
+          "end_ref": "40011006",
+          "end_ref_usfm": "MAT 11:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

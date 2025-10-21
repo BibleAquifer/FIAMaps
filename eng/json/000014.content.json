@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 280025,
+    "reference_id": 186445,
+    "title": "Four Corners of the World",
+    "media_type": "Image",
+    "index_reference": "four corners of the world",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/four-corners-of-the-world.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/four-corners-of-the-world.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41013024",
+          "start_ref_usfm": "MRK 13:24",
+          "end_ref": "41013031",
+          "end_ref_usfm": "MRK 13:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 279995,
+    "reference_id": 186415,
+    "title": "Region of the Gerasenes to Capernaum",
+    "media_type": "Image",
+    "index_reference": "region of the gerasenes to capernaum",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008040",
+          "start_ref_usfm": "LUK 8:40",
+          "end_ref": "42008056",
+          "end_ref_usfm": "LUK 8:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

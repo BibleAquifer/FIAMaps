@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 280007,
+    "reference_id": 186427,
+    "title": "Jerusalem, Bethany and the Temple",
+    "media_type": "Image",
+    "index_reference": "jerusalem, bethany and the temple",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-bethany.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-and-bethany.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41011012",
+          "start_ref_usfm": "MRK 11:12",
+          "end_ref": "41011026",
+          "end_ref_usfm": "MRK 11:26"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012012",
+          "start_ref_usfm": "JHN 12:12",
+          "end_ref": "43012019",
+          "end_ref_usfm": "JHN 12:19"
+        },
+        {
+          "start_ref": "40026001",
+          "start_ref_usfm": "MAT 26:1",
+          "end_ref": "40026016",
+          "end_ref_usfm": "MAT 26:16"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026025",
+          "end_ref_usfm": "MAT 26:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

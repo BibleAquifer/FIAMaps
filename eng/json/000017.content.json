@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 280020,
+    "reference_id": 186440,
+    "title": "Galilee Area with Capernaum and Gerasa",
+    "media_type": "Image",
+    "index_reference": "galilee area with capernaum and gerasa",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-area-with-capernaum-and-gerasa.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/galilee-area-with-capernaum-and-gerasa.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41004035",
+          "start_ref_usfm": "MRK 4:35",
+          "end_ref": "41004041",
+          "end_ref_usfm": "MRK 4:41"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "41005021",
+          "start_ref_usfm": "MRK 5:21",
+          "end_ref": "41005034",
+          "end_ref_usfm": "MRK 5:34"
+        },
+        {
+          "start_ref": "41005035",
+          "start_ref_usfm": "MRK 5:35",
+          "end_ref": "41005043",
+          "end_ref_usfm": "MRK 5:43"
+        },
+        {
+          "start_ref": "40008023",
+          "start_ref_usfm": "MAT 8:23",
+          "end_ref": "40008027",
+          "end_ref_usfm": "MAT 8:27"
+        },
+        {
+          "start_ref": "42008026",
+          "start_ref_usfm": "LUK 8:26",
+          "end_ref": "42008039",
+          "end_ref_usfm": "LUK 8:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

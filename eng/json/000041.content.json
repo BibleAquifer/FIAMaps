@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 280018,
+    "reference_id": 186438,
+    "title": "Jerusalem, Bethphage, and Bethany",
+    "media_type": "Image",
+    "index_reference": "jerusalem, bethphage, and bethany",
+    "language": "eng",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-bethphage-and-bethany.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/jerusalem-bethphage-and-bethany.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011011",
+          "end_ref_usfm": "MRK 11:11"
+        },
+        {
+          "start_ref": "42019028",
+          "start_ref_usfm": "LUK 19:28",
+          "end_ref": "42019044",
+          "end_ref_usfm": "LUK 19:44"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
