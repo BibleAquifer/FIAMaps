@@ -4,7 +4,7 @@ This repository (`FIAMaps`) contains Aquifer resource data with resource-level m
 
 ## License
 
-_Familiarization, Internalization, Articulation (Fia) Maps_ © 2023 [SRV Partners](https://srvpartners.org/home/)
+_Familiarization, Internalization, Articulation (Fia) Maps_ © 2023 [Biblica Inc.](https://www.biblica.com/)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
 
