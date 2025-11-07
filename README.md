@@ -1,4 +1,4 @@
-# _Maps (SRV)_ Aquifer Resource
+# _Familiarization, Internalization, Articulation (FIA) Maps_ Aquifer Resource
 
 This repository (`FIAMaps`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
