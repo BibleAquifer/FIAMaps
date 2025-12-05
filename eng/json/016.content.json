@@ -1,0 +1,158 @@
+[
+  {
+    "content_id": 280032,
+    "reference_id": 186452,
+    "version": "1.0.1",
+    "title": "Sea of Galilee Western Side",
+    "media_type": "Image",
+    "index_reference": "sea of galilee western side",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-western-side.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-western-side.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008011",
+          "start_ref_usfm": "MRK 8:11",
+          "end_ref": "41008021",
+          "end_ref_usfm": "MRK 8:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280008,
+    "reference_id": 186428,
+    "version": "1.0.1",
+    "title": "Sea of Galilee with Bethsaida",
+    "media_type": "Image",
+    "index_reference": "sea of galilee with bethsaida",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-with-bethsaida.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-with-bethsaida.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008022",
+          "start_ref_usfm": "MRK 8:22",
+          "end_ref": "41008026",
+          "end_ref_usfm": "MRK 8:26"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280001,
+    "reference_id": 186421,
+    "version": "1.0.1",
+    "title": "Sea of Galilee with Capernaum and Decapolis",
+    "media_type": "Image",
+    "index_reference": "sea of galilee with capernaum and decapolis",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-capernaum-to-decapolis.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sea-of-galilee-capernaum-to-decapolis.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41004035",
+          "start_ref_usfm": "MRK 4:35",
+          "end_ref": "41004041",
+          "end_ref_usfm": "MRK 4:41"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368176,
+    "reference_id": 186999,
+    "version": "1.0.1",
+    "title": "Sidon",
+    "media_type": "Image",
+    "index_reference": "sidon",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sidon.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sidon.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049001",
+          "start_ref_usfm": "GEN 49:1",
+          "end_ref": "01049028",
+          "end_ref_usfm": "GEN 49:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280019,
+    "reference_id": 186439,
+    "version": "1.0.1",
+    "title": "Sidon and Syria",
+    "media_type": "Image",
+    "index_reference": "sidon and syria",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sidon-and-syria.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sidon-and-syria.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368183,
+    "reference_id": 187006,
+    "version": "1.0.1",
+    "title": "Sodom, Gomorrah and Great Oaks of Mamre",
+    "media_type": "Image",
+    "index_reference": "sodom, gomorrah and great oaks of mamre",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sodom-gomorrah-and-great-oaks-of-mamre.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/sodom-gomorrah-and-great-oaks-of-mamre.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01018016",
+          "start_ref_usfm": "GEN 18:16",
+          "end_ref": "01018033",
+          "end_ref_usfm": "GEN 18:33"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019029",
+          "end_ref_usfm": "GEN 19:29"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 280033,
+    "reference_id": 186453,
+    "version": "1.0.1",
+    "title": "Territory of Herod Antipas",
+    "media_type": "Image",
+    "index_reference": "territory of herod antipas",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/territory-of-herod-antipas.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/territory-of-herod-antipas.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
+          "start_ref": "40014013",
+          "start_ref_usfm": "MAT 14:13",
+          "end_ref": "40014021",
+          "end_ref_usfm": "MAT 14:21"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280035,
+    "reference_id": 186455,
+    "version": "1.0.1",
+    "title": "Tyre, Sidon and The Sea of Galilee",
+    "media_type": "Image",
+    "index_reference": "tyre, sidon and the sea of galilee",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/tyre-sidon-and-the-sea-of-galilee.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/tyre-sidon-and-the-sea-of-galilee.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006019",
+          "end_ref_usfm": "LUK 6:19"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007037",
+          "end_ref_usfm": "MRK 7:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

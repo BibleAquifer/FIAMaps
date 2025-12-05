@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 368163,
+    "reference_id": 186986,
+    "version": "1.0.1",
+    "title": "Rebel Kings in the South",
+    "media_type": "Image",
+    "index_reference": "rebel kings in the south",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/rebel-kings-in-the-south.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/rebel-kings-in-the-south.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368168,
+    "reference_id": 186991,
+    "version": "1.0.1",
+    "title": "Region of Seir",
+    "media_type": "Image",
+    "index_reference": "region of seir",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036001",
+          "start_ref_usfm": "GEN 36:1",
+          "end_ref": "01036019",
+          "end_ref_usfm": "GEN 36:19"
+        },
+        {
+          "start_ref": "01036020",
+          "start_ref_usfm": "GEN 36:20",
+          "end_ref": "01036030",
+          "end_ref_usfm": "GEN 36:30"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 279995,
+    "reference_id": 186415,
+    "version": "1.0.1",
+    "title": "Region of the Gerasenes to Capernaum",
+    "media_type": "Image",
+    "index_reference": "region of the gerasenes to capernaum",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008040",
+          "start_ref_usfm": "LUK 8:40",
+          "end_ref": "42008056",
+          "end_ref_usfm": "LUK 8:56"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368179,
+    "reference_id": 187002,
+    "version": "1.0.1",
+    "title": "Road to Shur",
+    "media_type": "Image",
+    "index_reference": "road to shur",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/road-to-shur.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/road-to-shur.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280045,
+    "reference_id": 186465,
+    "version": "1.0.1",
+    "title": "Route from Bethsaida to Caeserea Philippi",
+    "media_type": "Image",
+    "index_reference": "route from bethsaida to caeserea philippi",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008027",
+          "start_ref_usfm": "MRK 8:27",
+          "end_ref": "41008030",
+          "end_ref_usfm": "MRK 8:30"
+        },
+        {
+          "start_ref": "41008031",
+          "start_ref_usfm": "MRK 8:31",
+          "end_ref": "41009001",
+          "end_ref_usfm": "MRK 9:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

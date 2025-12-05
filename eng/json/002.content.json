@@ -1,0 +1,96 @@
+[
+  {
+    "content_id": 368170,
+    "reference_id": 186993,
+    "version": "1.0.1",
+    "title": "Beer Lahai Roi",
+    "media_type": "Image",
+    "index_reference": "beer lahai roi",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beer-lahai-roi.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beer-lahai-roi.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025001",
+          "start_ref_usfm": "GEN 25:1",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368184,
+    "reference_id": 187007,
+    "version": "1.0.1",
+    "title": "Beersheba and Moriah",
+    "media_type": "Image",
+    "index_reference": "beersheba and moriah",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021022",
+          "start_ref_usfm": "GEN 21:22",
+          "end_ref": "01021034",
+          "end_ref_usfm": "GEN 21:34"
+        },
+        {
+          "start_ref": "01022001",
+          "start_ref_usfm": "GEN 22:1",
+          "end_ref": "01022019",
+          "end_ref_usfm": "GEN 22:19"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368177,
+    "reference_id": 187000,
+    "version": "1.0.1",
+    "title": "Beersheba, Paran and Egypt",
+    "media_type": "Image",
+    "index_reference": "beersheba, paran and egypt",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021001",
+          "start_ref_usfm": "GEN 21:1",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280034,
+    "reference_id": 186454,
+    "version": "1.0.1",
+    "title": "Bethlehem to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "bethlehem to jerusalem",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "content_id": 368162,
+    "reference_id": 186985,
+    "version": "1.0.1",
+    "title": "Canaan to Egypt",
+    "media_type": "Image",
+    "index_reference": "canaan to egypt",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/canaan-to-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/canaan-to-egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012010",
+          "start_ref_usfm": "GEN 12:10",
+          "end_ref": "01012020",
+          "end_ref_usfm": "GEN 12:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280023,
+    "reference_id": 186443,
+    "version": "1.0.1",
+    "title": "Capernaum on Route from Egypt to Damascus",
+    "media_type": "Image",
+    "index_reference": "capernaum on route from egypt to damascus",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-on-route-from-egypt-to-damascus.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-on-route-from-egypt-to-damascus.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001021",
+          "start_ref_usfm": "MRK 1:21",
+          "end_ref": "41001028",
+          "end_ref_usfm": "MRK 1:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280014,
+    "reference_id": 186434,
+    "version": "1.0.1",
+    "title": "Capernaum to Decapolis",
+    "media_type": "Image",
+    "index_reference": "capernaum to decapolis",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-to-decapolis.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-to-decapolis.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008022",
+          "start_ref_usfm": "LUK 8:22",
+          "end_ref": "42008025",
+          "end_ref_usfm": "LUK 8:25"
+        },
+        {
+          "start_ref": "40008028",
+          "start_ref_usfm": "MAT 8:28",
+          "end_ref": "40008034",
+          "end_ref_usfm": "MAT 8:34"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280002,
+    "reference_id": 186422,
+    "version": "1.0.1",
+    "title": "Capernaum with Judea and Jordan River",
+    "media_type": "Image",
+    "index_reference": "capernaum with judea and jordan river",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-with-judea-and-jordan-river.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/capernaum-with-judea-and-jordan-river.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010001",
+          "start_ref_usfm": "MRK 10:1",
+          "end_ref": "41010012",
+          "end_ref_usfm": "MRK 10:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "content_id": 368173,
+    "reference_id": 186996,
+    "version": "1.0.1",
+    "title": "Paddan-Aram and Surrounding Areas",
+    "media_type": "Image",
+    "index_reference": "paddan-aram and surrounding areas",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/paddan-aram.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/paddan-aram.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025019",
+          "start_ref_usfm": "GEN 25:19",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368175,
+    "reference_id": 186998,
+    "version": "1.0.1",
+    "title": "People Groups Between Egypt and the Euphrates",
+    "media_type": "Image",
+    "index_reference": "people groups between egypt and the euphrates",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/people-groups-between-egypt-and-the-euphrates.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/people-groups-between-egypt-and-the-euphrates.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "02013001",
+          "start_ref_usfm": "EXO 13:1",
+          "end_ref": "02013016",
+          "end_ref_usfm": "EXO 13:16"
+        },
+        {
+          "start_ref": "02023020",
+          "start_ref_usfm": "EXO 23:20",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280005,
+    "reference_id": 186425,
+    "version": "1.0.1",
+    "title": "Pilate's House",
+    "media_type": "Image",
+    "index_reference": "pilate's house",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/pilates-house.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/pilates-house.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023043",
+          "end_ref_usfm": "LUK 23:43"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

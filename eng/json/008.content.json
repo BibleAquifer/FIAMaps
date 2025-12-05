@@ -1,0 +1,196 @@
+[
+  {
+    "content_id": 280043,
+    "reference_id": 186463,
+    "version": "1.0.1",
+    "title": "Israel",
+    "media_type": "Image",
+    "index_reference": "israel",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41003007",
+          "start_ref_usfm": "MRK 3:7",
+          "end_ref": "41003012",
+          "end_ref_usfm": "MRK 3:12"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280010,
+    "reference_id": 186430,
+    "version": "1.0.1",
+    "title": "Israel with Negeb",
+    "media_type": "Image",
+    "index_reference": "israel with negeb",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-negeb.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-negeb.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42012049",
+          "start_ref_usfm": "LUK 12:49",
+          "end_ref": "42012059",
+          "end_ref_usfm": "LUK 12:59"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280031,
+    "reference_id": 186451,
+    "version": "1.0.1",
+    "title": "Israel with region of Galilee, Nazareth, Jerusalem",
+    "media_type": "Image",
+    "index_reference": "israel with region of galilee, nazareth, jerusalem",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-region-of-galilee-nazareth-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-region-of-galilee-nazareth-jerusalem.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014066",
+          "start_ref_usfm": "MRK 14:66",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "40026069",
+          "start_ref_usfm": "MAT 26:69",
+          "end_ref": "40026075",
+          "end_ref_usfm": "MAT 26:75"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019030",
+          "end_ref_usfm": "JHN 19:30"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368166,
+    "reference_id": 186989,
+    "version": "1.0.1",
+    "title": "Israel, Jordan and Egypt",
+    "media_type": "Image",
+    "index_reference": "israel, jordan and egypt",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039023",
+          "end_ref_usfm": "GEN 39:23"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01042026",
+          "end_ref_usfm": "GEN 42:26"
+        },
+        {
+          "start_ref": "01042027",
+          "start_ref_usfm": "GEN 42:27",
+          "end_ref": "01042038",
+          "end_ref_usfm": "GEN 42:38"
+        },
+        {
+          "start_ref": "01043001",
+          "start_ref_usfm": "GEN 43:1",
+          "end_ref": "01043034",
+          "end_ref_usfm": "GEN 43:34"
+        },
+        {
+          "start_ref": "01045001",
+          "start_ref_usfm": "GEN 45:1",
+          "end_ref": "01045028",
+          "end_ref_usfm": "GEN 45:28"
+        },
+        {
+          "start_ref": "01046001",
+          "start_ref_usfm": "GEN 46:1",
+          "end_ref": "01046027",
+          "end_ref_usfm": "GEN 46:27"
+        },
+        {
+          "start_ref": "01046028",
+          "start_ref_usfm": "GEN 46:28",
+          "end_ref": "01047012",
+          "end_ref_usfm": "GEN 47:12"
+        },
+        {
+          "start_ref": "01047027",
+          "start_ref_usfm": "GEN 47:27",
+          "end_ref": "01047031",
+          "end_ref_usfm": "GEN 47:31"
+        },
+        {
+          "start_ref": "01049029",
+          "start_ref_usfm": "GEN 49:29",
+          "end_ref": "01050014",
+          "end_ref_usfm": "GEN 50:14"
+        },
+        {
+          "start_ref": "01050015",
+          "start_ref_usfm": "GEN 50:15",
+          "end_ref": "01050021",
+          "end_ref_usfm": "GEN 50:21"
+        },
+        {
+          "start_ref": "01050022",
+          "start_ref_usfm": "GEN 50:22",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 280041,
+    "reference_id": 186461,
+    "version": "1.0.1",
+    "title": "Israel, Ninevah and Sheba",
+    "media_type": "Image",
+    "index_reference": "israel, ninevah and sheba",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42011014",
+          "start_ref_usfm": "LUK 11:14",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

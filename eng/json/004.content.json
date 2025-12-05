@@ -1,0 +1,102 @@
+[
+  {
+    "content_id": 368185,
+    "reference_id": 187008,
+    "version": "1.0.1",
+    "title": "Edom and Seir",
+    "media_type": "Image",
+    "index_reference": "edom and seir",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/edom-and-seir.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/edom-and-seir.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01032001",
+          "start_ref_usfm": "GEN 32:1",
+          "end_ref": "01032021",
+          "end_ref_usfm": "GEN 32:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368169,
+    "reference_id": 186992,
+    "version": "1.0.1",
+    "title": "Edom, Seir, Median, Moab and Bozrah",
+    "media_type": "Image",
+    "index_reference": "edom, seir, median, moab and bozrah",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/edom-seir-midian-and-moab.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/edom-seir-midian-and-moab.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036031",
+          "start_ref_usfm": "GEN 36:31",
+          "end_ref": "01036043",
+          "end_ref_usfm": "GEN 36:43"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 368180,
+    "reference_id": 187003,
+    "version": "1.0.1",
+    "title": "Egypt",
+    "media_type": "Image",
+    "index_reference": "egypt",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/egypt.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041036",
+          "end_ref_usfm": "GEN 41:36"
+        },
+        {
+          "start_ref": "02007014",
+          "start_ref_usfm": "EXO 7:14",
+          "end_ref": "02007025",
+          "end_ref_usfm": "EXO 7:25"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 279996,
+    "reference_id": 186416,
+    "version": "1.0.1",
+    "title": "Emmaus",
+    "media_type": "Image",
+    "index_reference": "emmaus",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/emmaus.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/emmaus.jpg'>link</a></p>\n</block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42024013",
+          "start_ref_usfm": "LUK 24:13",
+          "end_ref": "42024035",
+          "end_ref_usfm": "LUK 24:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
