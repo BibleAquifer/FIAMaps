@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": "869974",
+    "reference_id": 222502,
+    "version": "1.0.1",
+    "title": "Ur of the Chaldeans",
+    "media_type": "Image",
+    "index_reference": "ur of the chaldeans",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c36-ur-of-the-chaldeans.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c36-ur-of-the-chaldeans.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869975",
+    "reference_id": 222503,
+    "version": "1.0.1",
+    "title": "Ur, Haran, and Canaan",
+    "media_type": "Image",
+    "index_reference": "ur, haran, and canaan",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c163-ur-haran-and-canaan.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c163-ur-haran-and-canaan.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

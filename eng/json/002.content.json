@@ -1,14 +1,14 @@
 [
   {
-    "content_id": 368170,
+    "content_id": "368170",
     "reference_id": 186993,
     "version": "1.0.1",
     "title": "Beer Lahai Roi",
     "media_type": "Image",
     "index_reference": "beer lahai roi",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beer-lahai-roi.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beer-lahai-roi.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c66-beer-lahai-roi.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c66-beer-lahai-roi.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
@@ -22,15 +22,15 @@
     }
   },
   {
-    "content_id": 368184,
+    "content_id": "368184",
     "reference_id": 187007,
     "version": "1.0.1",
     "title": "Beersheba and Moriah",
     "media_type": "Image",
     "index_reference": "beersheba and moriah",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-and-moriah.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c157-beersheba-and-moriah.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c157-beersheba-and-moriah.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
@@ -50,15 +50,15 @@
     }
   },
   {
-    "content_id": 368177,
+    "content_id": "368177",
     "reference_id": 187000,
     "version": "1.0.1",
     "title": "Beersheba, Paran and Egypt",
     "media_type": "Image",
     "index_reference": "beersheba, paran and egypt",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/beersheba-paran-egypt.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c155-beersheba-paran-egypt.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c155-beersheba-paran-egypt.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
@@ -72,15 +72,109 @@
     }
   },
   {
-    "content_id": 280034,
+    "content_id": "869858",
+    "reference_id": 222386,
+    "version": "1.0.1",
+    "title": "Berea to Athens",
+    "media_type": "Image",
+    "index_reference": "berea to athens",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c117-berea-to-athens.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c117-berea-to-athens.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869859",
+    "reference_id": 222387,
+    "version": "1.0.1",
+    "title": "Bethel and Ai",
+    "media_type": "Image",
+    "index_reference": "bethel and ai",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c38-bethel-and-ai.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c38-bethel-and-ai.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869860",
+    "reference_id": 222388,
+    "version": "1.0.1",
+    "title": "Bethel to Ephrath",
+    "media_type": "Image",
+    "index_reference": "bethel to ephrath",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c106-bethel-to-ephrath.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c106-bethel-to-ephrath.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869861",
+    "reference_id": 222389,
+    "version": "1.0.1",
+    "title": "Bethlehem to Hebron",
+    "media_type": "Image",
+    "index_reference": "bethlehem to hebron",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c111-bethlehem-to-hebron.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c111-bethlehem-to-hebron.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035029",
+          "end_ref_usfm": "GEN 35:29"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280034",
     "reference_id": 186454,
     "version": "1.0.1",
     "title": "Bethlehem to Jerusalem",
     "media_type": "Image",
     "index_reference": "bethlehem to jerusalem",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/bethlehem-to-jerusalem.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c94-bethlehem-to-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c94-bethlehem-to-jerusalem.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
@@ -88,6 +182,50 @@
           "start_ref_usfm": "LUK 2:22",
           "end_ref": "42002040",
           "end_ref_usfm": "LUK 2:40"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869862",
+    "reference_id": 222390,
+    "version": "1.0.1",
+    "title": "Book of Luke: Jerusalem and Environs",
+    "media_type": "Image",
+    "index_reference": "book of luke: jerusalem and environs",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c211-book-of-luke-jerusalem-and-environs.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c211-book-of-luke-jerusalem-and-environs.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869863",
+    "reference_id": 222391,
+    "version": "1.0.1",
+    "title": "Book of Matthew: Jerusalem and Environs",
+    "media_type": "Image",
+    "index_reference": "book of matthew: jerusalem and environs",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c213-book-of-matthew-jerusalem-and-environs.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c213-book-of-matthew-jerusalem-and-environs.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
         }
       ],
       "resource": []

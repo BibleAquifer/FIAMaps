@@ -1,121 +1,569 @@
 [
   {
-    "content_id": 368163,
-    "reference_id": 186986,
+    "content_id": "368173",
+    "reference_id": 186996,
     "version": "1.0.1",
-    "title": "Rebel Kings in the South",
+    "title": "Paddan-Aram and Surrounding Areas",
     "media_type": "Image",
-    "index_reference": "rebel kings in the south",
+    "index_reference": "paddan-aram and surrounding areas",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/rebel-kings-in-the-south.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/rebel-kings-in-the-south.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c68-paddan-aram.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c68-paddan-aram.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014001",
-          "start_ref_usfm": "GEN 14:1",
-          "end_ref": "01014016",
-          "end_ref_usfm": "GEN 14:16"
+          "start_ref": "01025019",
+          "start_ref_usfm": "GEN 25:19",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 368168,
-    "reference_id": 186991,
+    "content_id": "869935",
+    "reference_id": 222463,
     "version": "1.0.1",
-    "title": "Region of Seir",
+    "title": "Palestine",
     "media_type": "Image",
-    "index_reference": "region of seir",
+    "index_reference": "palestine",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/region-of-seir.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c29-palestine.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c29-palestine.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036001",
-          "start_ref_usfm": "GEN 36:1",
-          "end_ref": "01036019",
-          "end_ref_usfm": "GEN 36:19"
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869936",
+    "reference_id": 222464,
+    "version": "1.0.1",
+    "title": "Paul and Apollos' Travels",
+    "media_type": "Image",
+    "index_reference": "paul and apollos' travels",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c105-paul-and-apollos-travels.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c105-paul-and-apollos-travels.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019007",
+          "end_ref_usfm": "ACT 19:7"
         },
         {
-          "start_ref": "01036020",
-          "start_ref_usfm": "GEN 36:20",
-          "end_ref": "01036030",
-          "end_ref_usfm": "GEN 36:30"
+          "start_ref": "44019008",
+          "start_ref_usfm": "ACT 19:8",
+          "end_ref": "44019010",
+          "end_ref_usfm": "ACT 19:10"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 279995,
-    "reference_id": 186415,
+    "content_id": "869937",
+    "reference_id": 222465,
     "version": "1.0.1",
-    "title": "Region of the Gerasenes to Capernaum",
+    "title": "Paul and Barnabas at Iconium",
     "media_type": "Image",
-    "index_reference": "region of the gerasenes to capernaum",
+    "index_reference": "paul and barnabas at iconium",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/gerasenes-to-capernaum.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c91-paul-and-barnabas-at-iconium.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c91-paul-and-barnabas-at-iconium.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42008040",
-          "start_ref_usfm": "LUK 8:40",
-          "end_ref": "42008056",
-          "end_ref_usfm": "LUK 8:56"
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014007",
+          "end_ref_usfm": "ACT 14:7"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 368179,
-    "reference_id": 187002,
+    "content_id": "869938",
+    "reference_id": 222466,
     "version": "1.0.1",
-    "title": "Road to Shur",
+    "title": "Paul and Barnabas' Journey to Antioch in Pisidia",
     "media_type": "Image",
-    "index_reference": "road to shur",
+    "index_reference": "paul and barnabas' journey to antioch in pisidia",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/road-to-shur.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/road-to-shur.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c85-paul-and-barnabas-journey-to-antioch-in-pisidia.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c85-paul-and-barnabas-journey-to-antioch-in-pisidia.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01016001",
-          "start_ref_usfm": "GEN 16:1",
-          "end_ref": "01016016",
-          "end_ref_usfm": "GEN 16:16"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": 280045,
-    "reference_id": 186465,
-    "version": "1.0.1",
-    "title": "Route from Bethsaida to Caeserea Philippi",
-    "media_type": "Image",
-    "index_reference": "route from bethsaida to caeserea philippi",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/route-from-bethsaida-to-caeserea-philippi.jpg'>link</a></p>\n</block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41008027",
-          "start_ref_usfm": "MRK 8:27",
-          "end_ref": "41008030",
-          "end_ref_usfm": "MRK 8:30"
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
         },
         {
-          "start_ref": "41008031",
-          "start_ref_usfm": "MRK 8:31",
-          "end_ref": "41009001",
-          "end_ref_usfm": "MRK 9:1"
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869939",
+    "reference_id": 222467,
+    "version": "1.0.1",
+    "title": "Paul and Barnabas'Journey",
+    "media_type": "Image",
+    "index_reference": "paul and barnabas'journey",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c167-paul-and-barnabas-journey.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c167-paul-and-barnabas-journey.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014028",
+          "end_ref_usfm": "ACT 14:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869940",
+    "reference_id": 222468,
+    "version": "1.0.1",
+    "title": "Paul's Journey from Caesarea to Phrygia",
+    "media_type": "Image",
+    "index_reference": "paul's journey from caesarea to phrygia",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c231-paul-caesarea-phrygia.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c231-paul-caesarea-phrygia.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018023",
+          "end_ref_usfm": "ACT 18:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869941",
+    "reference_id": 222469,
+    "version": "1.0.1",
+    "title": "Paul's Journey from Corinth to Caesarea",
+    "media_type": "Image",
+    "index_reference": "paul's journey from corinth to caesarea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c230-paul-corinth-caesarea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c230-paul-corinth-caesarea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018023",
+          "end_ref_usfm": "ACT 18:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869942",
+    "reference_id": 222470,
+    "version": "1.0.1",
+    "title": "Paul's Journey from Syrian Antioch to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "paul's journey from syrian antioch to jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c223-paul-antioch-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c223-paul-antioch-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44015001",
+          "start_ref_usfm": "ACT 15:1",
+          "end_ref": "44015021",
+          "end_ref_usfm": "ACT 15:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869943",
+    "reference_id": 222471,
+    "version": "1.0.1",
+    "title": "Paul's Journey to Corinth",
+    "media_type": "Image",
+    "index_reference": "paul's journey to corinth",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c134-pauls-journey-to-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c134-pauls-journey-to-corinth.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020001",
+          "start_ref_usfm": "ACT 20:1",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869944",
+    "reference_id": 222472,
+    "version": "1.0.1",
+    "title": "Paul's Journey to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "paul's journey to jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c133-pauls-journey-to-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c133-pauls-journey-to-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019021",
+          "start_ref_usfm": "ACT 19:21",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869945",
+    "reference_id": 222473,
+    "version": "1.0.1",
+    "title": "Paul's Journey to Macedonia",
+    "media_type": "Image",
+    "index_reference": "paul's journey to macedonia",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c135-pauls-journey-to-macedonia.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c135-pauls-journey-to-macedonia.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020001",
+          "start_ref_usfm": "ACT 20:1",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869946",
+    "reference_id": 222474,
+    "version": "1.0.1",
+    "title": "Paul's Second Missionary Journey",
+    "media_type": "Image",
+    "index_reference": "paul's second missionary journey",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c236-paul-second-journey.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c236-paul-second-journey.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002011",
+          "start_ref_usfm": "EXO 2:11",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869947",
+    "reference_id": 222475,
+    "version": "1.0.1",
+    "title": "Paul's Third Missionary Journey",
+    "media_type": "Image",
+    "index_reference": "paul's third missionary journey",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c42-pauls-third-missionary-journey.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c42-pauls-third-missionary-journey.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44021001",
+          "start_ref_usfm": "ACT 21:1",
+          "end_ref": "44021009",
+          "end_ref_usfm": "ACT 21:9"
+        },
+        {
+          "start_ref": "44021015",
+          "start_ref_usfm": "ACT 21:15",
+          "end_ref": "44021026",
+          "end_ref_usfm": "ACT 21:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869948",
+    "reference_id": 222476,
+    "version": "1.0.1",
+    "title": "Paul's Voyage to Rome",
+    "media_type": "Image",
+    "index_reference": "paul's voyage to rome",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c93-pauls-voyage-to-rome.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c93-pauls-voyage-to-rome.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44027001",
+          "start_ref_usfm": "ACT 27:1",
+          "end_ref": "44027008",
+          "end_ref_usfm": "ACT 27:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869949",
+    "reference_id": 222477,
+    "version": "1.0.1",
+    "title": "Paul's Voyage to Rome via Fair Havens",
+    "media_type": "Image",
+    "index_reference": "paul's voyage to rome via fair havens",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c156-pauls-voyage-to-rome-from-fair-havens.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c156-pauls-voyage-to-rome-from-fair-havens.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44027009",
+          "start_ref_usfm": "ACT 27:9",
+          "end_ref": "44027026",
+          "end_ref_usfm": "ACT 27:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "368175",
+    "reference_id": 186998,
+    "version": "1.0.1",
+    "title": "People Groups Between Egypt and the Euphrates",
+    "media_type": "Image",
+    "index_reference": "people groups between egypt and the euphrates",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c59-people-groups-between-egypt-and-the-euphrates.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c59-people-groups-between-egypt-and-the-euphrates.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "02013001",
+          "start_ref_usfm": "EXO 13:1",
+          "end_ref": "02013016",
+          "end_ref_usfm": "EXO 13:16"
+        },
+        {
+          "start_ref": "02023020",
+          "start_ref_usfm": "EXO 23:20",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869950",
+    "reference_id": 222478,
+    "version": "1.0.1",
+    "title": "Peter's Journey to Caesarea",
+    "media_type": "Image",
+    "index_reference": "peter's journey to caesarea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c216-peter-meeting-cornelius-in-caesarea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c216-peter-meeting-cornelius-in-caesarea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44010023",
+          "start_ref_usfm": "ACT 10:23",
+          "end_ref": "44010033",
+          "end_ref_usfm": "ACT 10:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869951",
+    "reference_id": 222479,
+    "version": "1.0.1",
+    "title": "Peter's Journeys",
+    "media_type": "Image",
+    "index_reference": "peter's journeys",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c99-peters-journeys.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c99-peters-journeys.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011001",
+          "start_ref_usfm": "ACT 11:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869952",
+    "reference_id": 222480,
+    "version": "1.0.1",
+    "title": "Philip's Journey to the Capital of Samaria",
+    "media_type": "Image",
+    "index_reference": "philip's journey to the capital of samaria",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c151-philips-journey-to-the-capital-of-samaria.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c151-philips-journey-to-the-capital-of-samaria.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008025",
+          "end_ref_usfm": "ACT 8:25"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869953",
+    "reference_id": 222481,
+    "version": "1.0.1",
+    "title": "Philip's Journey to the Desert Road and to Gaza",
+    "media_type": "Image",
+    "index_reference": "philip's journey to the desert road and to gaza",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c152-philips-journey-to-the-desert-road-to-gaza.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c152-philips-journey-to-the-desert-road-to-gaza.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280005",
+    "reference_id": 186425,
+    "version": "1.0.1",
+    "title": "Pilate's House",
+    "media_type": "Image",
+    "index_reference": "pilate's house",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c141-pilates-house.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c141-pilates-house.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023043",
+          "end_ref_usfm": "LUK 23:43"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869954",
+    "reference_id": 222482,
+    "version": "1.0.1",
+    "title": "Pontus and Italy",
+    "media_type": "Image",
+    "index_reference": "pontus and italy",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c190-pontus-and-italy.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c190-pontus-and-italy.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018017",
+          "end_ref_usfm": "ACT 18:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869955",
+    "reference_id": 222483,
+    "version": "1.0.1",
+    "title": "Prophets and Teachers in Antioch",
+    "media_type": "Image",
+    "index_reference": "prophets and teachers in antioch",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c70-prophets-and-teachers-in-antioch.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c70-prophets-and-teachers-in-antioch.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44013003",
+          "end_ref_usfm": "ACT 13:3"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
         }
       ],
       "resource": []
