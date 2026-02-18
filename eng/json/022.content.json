@@ -1,0 +1,90 @@
+[
+  {
+    "content_id": "869980",
+    "reference_id": 222508,
+    "version": "1.0.1",
+    "title": "Zoomed in View of Locations in the Book of Genesis",
+    "media_type": "Image",
+    "index_reference": "zoomed in view of locations in the book of genesis",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01002003",
+          "end_ref_usfm": "GEN 2:3"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869978",
+    "reference_id": 222506,
+    "version": "1.0.1",
+    "title": "Zoomed Out View of the Book of Luke",
+    "media_type": "Image",
+    "index_reference": "zoomed out view of the book of luke",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869979",
+    "reference_id": 222507,
+    "version": "1.0.1",
+    "title": "Zoomed Out View of the Book of Matthew",
+    "media_type": "Image",
+    "index_reference": "zoomed out view of the book of matthew",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869981",
+    "reference_id": 222509,
+    "version": "1.0.1",
+    "title": "Zoomed-Out View of Locations in the Book of Acts",
+    "media_type": "Image",
+    "index_reference": "zoomed-out view of locations in the book of acts",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,193 +1,109 @@
 [
   {
-    "content_id": 280043,
-    "reference_id": 186463,
+    "content_id": "368164",
+    "reference_id": 186987,
     "version": "1.0.1",
-    "title": "Israel",
+    "title": "Haran and Beersheba",
     "media_type": "Image",
-    "index_reference": "israel",
+    "index_reference": "haran and beersheba",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c158-haran-and-beersheba.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c158-haran-and-beersheba.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41003007",
-          "start_ref_usfm": "MRK 3:7",
-          "end_ref": "41003012",
-          "end_ref_usfm": "MRK 3:12"
-        },
-        {
-          "start_ref": "43002001",
-          "start_ref_usfm": "JHN 2:1",
-          "end_ref": "43002012",
-          "end_ref_usfm": "JHN 2:12"
+          "start_ref": "01022020",
+          "start_ref_usfm": "GEN 22:20",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 280010,
-    "reference_id": 186430,
+    "content_id": "368167",
+    "reference_id": 186990,
     "version": "1.0.1",
-    "title": "Israel with Negeb",
+    "title": "Haran to Canaan",
     "media_type": "Image",
-    "index_reference": "israel with negeb",
+    "index_reference": "haran to canaan",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-negeb.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-negeb.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c39-haran-to-canaan.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c39-haran-to-canaan.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42012049",
-          "start_ref_usfm": "LUK 12:49",
-          "end_ref": "42012059",
-          "end_ref_usfm": "LUK 12:59"
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 280031,
-    "reference_id": 186451,
+    "content_id": "368178",
+    "reference_id": 187001,
     "version": "1.0.1",
-    "title": "Israel with region of Galilee, Nazareth, Jerusalem",
+    "title": "Havilah, Shur, Egypt and Assyria",
     "media_type": "Image",
-    "index_reference": "israel with region of galilee, nazareth, jerusalem",
+    "index_reference": "havilah, shur, egypt and assyria",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-region-of-galilee-nazareth-jerusalem.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-with-region-of-galilee-nazareth-jerusalem.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c67-havilah-shur-egypt-and-assyria.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c67-havilah-shur-egypt-and-assyria.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41014066",
-          "start_ref_usfm": "MRK 14:66",
-          "end_ref": "41014072",
-          "end_ref_usfm": "MRK 14:72"
-        },
-        {
-          "start_ref": "40026069",
-          "start_ref_usfm": "MAT 26:69",
-          "end_ref": "40026075",
-          "end_ref_usfm": "MAT 26:75"
-        },
-        {
-          "start_ref": "43019017",
-          "start_ref_usfm": "JHN 19:17",
-          "end_ref": "43019030",
-          "end_ref_usfm": "JHN 19:30"
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 368166,
-    "reference_id": 186989,
+    "content_id": "869887",
+    "reference_id": 222415,
     "version": "1.0.1",
-    "title": "Israel, Jordan and Egypt",
+    "title": "Hebron, Adullam and Timnah",
     "media_type": "Image",
-    "index_reference": "israel, jordan and egypt",
+    "index_reference": "hebron, adullam and timnah",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-jordan-and-egypt.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c120-hebron-adullam-and-timnah.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c120-hebron-adullam-and-timnah.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01037012",
-          "start_ref_usfm": "GEN 37:12",
-          "end_ref": "01037036",
-          "end_ref_usfm": "GEN 37:36"
-        },
-        {
-          "start_ref": "01039001",
-          "start_ref_usfm": "GEN 39:1",
-          "end_ref": "01039023",
-          "end_ref_usfm": "GEN 39:23"
-        },
-        {
-          "start_ref": "01042001",
-          "start_ref_usfm": "GEN 42:1",
-          "end_ref": "01042026",
-          "end_ref_usfm": "GEN 42:26"
-        },
-        {
-          "start_ref": "01042027",
-          "start_ref_usfm": "GEN 42:27",
-          "end_ref": "01042038",
-          "end_ref_usfm": "GEN 42:38"
-        },
-        {
-          "start_ref": "01043001",
-          "start_ref_usfm": "GEN 43:1",
-          "end_ref": "01043034",
-          "end_ref_usfm": "GEN 43:34"
-        },
-        {
-          "start_ref": "01045001",
-          "start_ref_usfm": "GEN 45:1",
-          "end_ref": "01045028",
-          "end_ref_usfm": "GEN 45:28"
-        },
-        {
-          "start_ref": "01046001",
-          "start_ref_usfm": "GEN 46:1",
-          "end_ref": "01046027",
-          "end_ref_usfm": "GEN 46:27"
-        },
-        {
-          "start_ref": "01046028",
-          "start_ref_usfm": "GEN 46:28",
-          "end_ref": "01047012",
-          "end_ref_usfm": "GEN 47:12"
-        },
-        {
-          "start_ref": "01047027",
-          "start_ref_usfm": "GEN 47:27",
-          "end_ref": "01047031",
-          "end_ref_usfm": "GEN 47:31"
-        },
-        {
-          "start_ref": "01049029",
-          "start_ref_usfm": "GEN 49:29",
-          "end_ref": "01050014",
-          "end_ref_usfm": "GEN 50:14"
-        },
-        {
-          "start_ref": "01050015",
-          "start_ref_usfm": "GEN 50:15",
-          "end_ref": "01050021",
-          "end_ref_usfm": "GEN 50:21"
-        },
-        {
-          "start_ref": "01050022",
-          "start_ref_usfm": "GEN 50:22",
-          "end_ref": "01050026",
-          "end_ref_usfm": "GEN 50:26"
+          "start_ref": "01038001",
+          "start_ref_usfm": "GEN 38:1",
+          "end_ref": "01038030",
+          "end_ref_usfm": "GEN 38:30"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 280041,
-    "reference_id": 186461,
+    "content_id": "368161",
+    "reference_id": 186984,
     "version": "1.0.1",
-    "title": "Israel, Ninevah and Sheba",
+    "title": "Hebron, Canaan, Negev and Beer Lahai Roi",
     "media_type": "Image",
-    "index_reference": "israel, ninevah and sheba",
+    "index_reference": "hebron, canaan, negev and beer lahai roi",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/israel-nineveh-and-sheba.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c108-hebron-canaan-negev-and-beer-lahai-roi.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c108-hebron-canaan-negev-and-beer-lahai-roi.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42011014",
-          "start_ref_usfm": "LUK 11:14",
-          "end_ref": "42011032",
-          "end_ref_usfm": "LUK 11:32"
+          "start_ref": "01024062",
+          "start_ref_usfm": "GEN 24:62",
+          "end_ref": "01024067",
+          "end_ref_usfm": "GEN 24:67"
         }
       ],
       "resource": []

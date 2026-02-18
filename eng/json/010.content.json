@@ -1,71 +1,1159 @@
 [
   {
-    "content_id": 280009,
-    "reference_id": 186429,
+    "content_id": "368174",
+    "reference_id": 186997,
     "version": "1.0.1",
-    "title": "Lake with Bethsaida and Gennesaret",
+    "title": "Jacob's Journey from Beersheba to Haran",
     "media_type": "Image",
-    "index_reference": "lake with bethsaida and gennesaret",
+    "index_reference": "jacob's journey from beersheba to haran",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-bethsaida-and-gennesaret.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-bethsaida-and-gennesaret.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c72-jacobs-journey-from-beersheba-to-haran.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c72-jacobs-journey-from-beersheba-to-haran.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41006045",
-          "start_ref_usfm": "MRK 6:45",
-          "end_ref": "41006056",
-          "end_ref_usfm": "MRK 6:56"
+          "start_ref": "01024001",
+          "start_ref_usfm": "GEN 24:1",
+          "end_ref": "01024014",
+          "end_ref_usfm": "GEN 24:14"
         },
         {
-          "start_ref": "40014022",
-          "start_ref_usfm": "MAT 14:22",
-          "end_ref": "40014036",
-          "end_ref_usfm": "MAT 14:36"
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028022",
+          "end_ref_usfm": "GEN 28:22"
+        },
+        {
+          "start_ref": "01029001",
+          "start_ref_usfm": "GEN 29:1",
+          "end_ref": "01029014",
+          "end_ref_usfm": "GEN 29:14"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 279997,
-    "reference_id": 186417,
+    "content_id": "368165",
+    "reference_id": 186988,
     "version": "1.0.1",
-    "title": "Lake with Capernaum and Bethsaida",
+    "title": "Jacob's Journey from Haran to Beersheba",
     "media_type": "Image",
-    "index_reference": "lake with capernaum and bethsaida",
+    "index_reference": "jacob's journey from haran to beersheba",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-capernaum-and-bethsaida.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/lake-with-capernaum-and-bethsaida.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c81-jacobs-journey-from-haran-to-beersheba.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c81-jacobs-journey-from-haran-to-beersheba.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41006030",
-          "start_ref_usfm": "MRK 6:30",
-          "end_ref": "41006044",
-          "end_ref_usfm": "MRK 6:44"
+          "start_ref": "01031001",
+          "start_ref_usfm": "GEN 31:1",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        },
+        {
+          "start_ref": "01031022",
+          "start_ref_usfm": "GEN 31:22",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01031036",
+          "start_ref_usfm": "GEN 31:36",
+          "end_ref": "01031055",
+          "end_ref_usfm": "GEN 31:55"
+        },
+        {
+          "start_ref": "01032022",
+          "start_ref_usfm": "GEN 32:22",
+          "end_ref": "01032032",
+          "end_ref_usfm": "GEN 32:32"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033020",
+          "end_ref_usfm": "GEN 33:20"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034017",
+          "end_ref_usfm": "GEN 34:17"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034031",
+          "end_ref_usfm": "GEN 34:31"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035029",
+          "end_ref_usfm": "GEN 35:29"
         }
       ],
       "resource": []
     }
   },
   {
-    "content_id": 279999,
-    "reference_id": 186419,
+    "content_id": "280044",
+    "reference_id": 186464,
     "version": "1.0.1",
-    "title": "Locations in the Book of Mark",
+    "title": "Jericho",
     "media_type": "Image",
-    "index_reference": "locations in the book of mark",
+    "index_reference": "jericho",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/locations-in-book-of-mark.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/locations-in-book-of-mark.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c110-jericho.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c110-jericho.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41001001",
-          "start_ref_usfm": "MRK 1:1",
-          "end_ref": "41001013",
-          "end_ref_usfm": "MRK 1:13"
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020034",
+          "end_ref_usfm": "MAT 20:34"
+        },
+        {
+          "start_ref": "42018035",
+          "start_ref_usfm": "LUK 18:35",
+          "end_ref": "42019010",
+          "end_ref_usfm": "LUK 19:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869895",
+    "reference_id": 222423,
+    "version": "1.0.1",
+    "title": "Jericho to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "jericho to jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c200-jericho-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c200-jericho-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40020017",
+          "start_ref_usfm": "MAT 20:17",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869897",
+    "reference_id": 222425,
+    "version": "1.0.1",
+    "title": "Jerusalem and Bethsaida",
+    "media_type": "Image",
+    "index_reference": "jerusalem and bethsaida",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c181-jerusalem-and-bethsaida.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c181-jerusalem-and-bethsaida.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43012020",
+          "start_ref_usfm": "JHN 12:20",
+          "end_ref": "43012036",
+          "end_ref_usfm": "JHN 12:36"
+        },
+        {
+          "start_ref": "43007045",
+          "start_ref_usfm": "JHN 7:45",
+          "end_ref": "43007053",
+          "end_ref_usfm": "JHN 7:53"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869898",
+    "reference_id": 222426,
+    "version": "1.0.1",
+    "title": "Jerusalem and Cyrene",
+    "media_type": "Image",
+    "index_reference": "jerusalem and cyrene",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c127-jerusalem-and-cyrene.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c127-jerusalem-and-cyrene.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027032",
+          "start_ref_usfm": "MAT 27:32",
+          "end_ref": "40027044",
+          "end_ref_usfm": "MAT 27:44"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280016",
+    "reference_id": 186436,
+    "version": "1.0.1",
+    "title": "Jerusalem and Galilee",
+    "media_type": "Image",
+    "index_reference": "jerusalem and galilee",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c25-jerusalem-and-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c25-jerusalem-and-galilee.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280017",
+    "reference_id": 186437,
+    "version": "1.0.1",
+    "title": "Jerusalem and Galilee region",
+    "media_type": "Image",
+    "index_reference": "jerusalem and galilee region",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c19-jerusalem-and-galilee-region.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c19-jerusalem-and-galilee-region.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40028001",
+          "start_ref_usfm": "MAT 28:1",
+          "end_ref": "40028015",
+          "end_ref_usfm": "MAT 28:15"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014031",
+          "end_ref_usfm": "MRK 14:31"
+        },
+        {
+          "start_ref": "41016001",
+          "start_ref_usfm": "MRK 16:1",
+          "end_ref": "41016008",
+          "end_ref_usfm": "MRK 16:8"
+        },
+        {
+          "start_ref": "40016021",
+          "start_ref_usfm": "MAT 16:21",
+          "end_ref": "40016028",
+          "end_ref_usfm": "MAT 16:28"
+        },
+        {
+          "start_ref": "43007045",
+          "start_ref_usfm": "JHN 7:45",
+          "end_ref": "43007053",
+          "end_ref_usfm": "JHN 7:53"
+        },
+        {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869899",
+    "reference_id": 222427,
+    "version": "1.0.1",
+    "title": "Jerusalem and Galilee region in the book of John",
+    "media_type": "Image",
+    "index_reference": "jerusalem and galilee region in the book of john",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c250-jerusalem-and-galilee-region-john.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c250-jerusalem-and-galilee-region-john.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43004016",
+          "start_ref_usfm": "JHN 4:16",
+          "end_ref": "43004026",
+          "end_ref_usfm": "JHN 4:26"
+        },
+        {
+          "start_ref": "43007045",
+          "start_ref_usfm": "JHN 7:45",
+          "end_ref": "43007053",
+          "end_ref_usfm": "JHN 7:53"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869900",
+    "reference_id": 222428,
+    "version": "1.0.1",
+    "title": "Jerusalem and Gennesaret",
+    "media_type": "Image",
+    "index_reference": "jerusalem and gennesaret",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c122-jerusalem-and-gennesaret.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c122-jerusalem-and-gennesaret.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40015001",
+          "start_ref_usfm": "MAT 15:1",
+          "end_ref": "40015020",
+          "end_ref_usfm": "MAT 15:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869901",
+    "reference_id": 222429,
+    "version": "1.0.1",
+    "title": "Jerusalem and Hebron",
+    "media_type": "Image",
+    "index_reference": "jerusalem and hebron",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c52-jerusalem-and-hebron.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c52-jerusalem-and-hebron.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "279998",
+    "reference_id": 186418,
+    "version": "1.0.1",
+    "title": "Jerusalem and Mount of Olives",
+    "media_type": "Image",
+    "index_reference": "jerusalem and mount of olives",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c138-jerusalem-and-mount-of-olives.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c138-jerusalem-and-mount-of-olives.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "42024036",
+          "start_ref_usfm": "LUK 24:36",
+          "end_ref": "42024053",
+          "end_ref_usfm": "LUK 24:53"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869902",
+    "reference_id": 222430,
+    "version": "1.0.1",
+    "title": "Jerusalem and Perea",
+    "media_type": "Image",
+    "index_reference": "jerusalem and perea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c177-jerusalem-and-perea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c177-jerusalem-and-perea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43010022",
+          "start_ref_usfm": "JHN 10:22",
+          "end_ref": "43010042",
+          "end_ref_usfm": "JHN 10:42"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869903",
+    "reference_id": 222431,
+    "version": "1.0.1",
+    "title": "Jerusalem and Temple",
+    "media_type": "Image",
+    "index_reference": "jerusalem and temple",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c188-jerusalem-and-temple.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c188-jerusalem-and-temple.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44005012",
+          "start_ref_usfm": "ACT 5:12",
+          "end_ref": "44005016",
+          "end_ref_usfm": "ACT 5:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869896",
+    "reference_id": 222424,
+    "version": "1.0.1",
+    "title": "Jerusalem Area",
+    "media_type": "Image",
+    "index_reference": "jerusalem area",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c144-jerusalem-area.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c144-jerusalem-area.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40026036",
+          "start_ref_usfm": "MAT 26:36",
+          "end_ref": "40026046",
+          "end_ref_usfm": "MAT 26:46"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869904",
+    "reference_id": 222432,
+    "version": "1.0.1",
+    "title": "Jerusalem to Bethany",
+    "media_type": "Image",
+    "index_reference": "jerusalem to bethany",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c218-jerusalem-to-bethany.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c218-jerusalem-to-bethany.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "43011017",
+          "start_ref_usfm": "JHN 11:17",
+          "end_ref": "43011027",
+          "end_ref_usfm": "JHN 11:27"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869905",
+    "reference_id": 222433,
+    "version": "1.0.1",
+    "title": "Jerusalem to Galilee",
+    "media_type": "Image",
+    "index_reference": "jerusalem to galilee",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c148-jerusalem-to-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c148-jerusalem-to-galilee.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40028016",
+          "start_ref_usfm": "MAT 28:16",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280026",
+    "reference_id": 186446,
+    "version": "1.0.1",
+    "title": "Jerusalem to Jericho",
+    "media_type": "Image",
+    "index_reference": "jerusalem to jericho",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c77-jerusalem-to-jericho.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c77-jerusalem-to-jericho.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42010025",
+          "start_ref_usfm": "LUK 10:25",
+          "end_ref": "42010037",
+          "end_ref_usfm": "LUK 10:37"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280007",
+    "reference_id": 186427,
+    "version": "1.0.1",
+    "title": "Jerusalem, Bethany and the Temple",
+    "media_type": "Image",
+    "index_reference": "jerusalem, bethany and the temple",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c8-jerusalem-and-bethany.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c8-jerusalem-and-bethany.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41011012",
+          "start_ref_usfm": "MRK 11:12",
+          "end_ref": "41011026",
+          "end_ref_usfm": "MRK 11:26"
+        },
+        {
+          "start_ref": "41011027",
+          "start_ref_usfm": "MRK 11:27",
+          "end_ref": "41011033",
+          "end_ref_usfm": "MRK 11:33"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012012",
+          "start_ref_usfm": "JHN 12:12",
+          "end_ref": "43012019",
+          "end_ref_usfm": "JHN 12:19"
+        },
+        {
+          "start_ref": "40026001",
+          "start_ref_usfm": "MAT 26:1",
+          "end_ref": "40026016",
+          "end_ref_usfm": "MAT 26:16"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026025",
+          "end_ref_usfm": "MAT 26:25"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280018",
+    "reference_id": 186438,
+    "version": "1.0.1",
+    "title": "Jerusalem, Bethphage, and Bethany",
+    "media_type": "Image",
+    "index_reference": "jerusalem, bethphage, and bethany",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c9-jerusalem-bethphage-and-bethany.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c9-jerusalem-bethphage-and-bethany.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011011",
+          "end_ref_usfm": "MRK 11:11"
+        },
+        {
+          "start_ref": "42019028",
+          "start_ref_usfm": "LUK 19:28",
+          "end_ref": "42019044",
+          "end_ref_usfm": "LUK 19:44"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869906",
+    "reference_id": 222434,
+    "version": "1.0.1",
+    "title": "Jerusalem, Caesarea and Rome",
+    "media_type": "Image",
+    "index_reference": "jerusalem, caesarea and rome",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c95-jerusalem-caesarea-and-rome.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c95-jerusalem-caesarea-and-rome.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44025022",
+          "end_ref_usfm": "ACT 25:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869907",
+    "reference_id": 222435,
+    "version": "1.0.1",
+    "title": "Jerusalem, Caesarea and Tarsus",
+    "media_type": "Image",
+    "index_reference": "jerusalem, caesarea and tarsus",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c49-jerusalem-caesarea-and-tarsus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c49-jerusalem-caesarea-and-tarsus.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009019",
+          "start_ref_usfm": "ACT 9:19",
+          "end_ref": "44009031",
+          "end_ref_usfm": "ACT 9:31"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869908",
+    "reference_id": 222436,
+    "version": "1.0.1",
+    "title": "Jerusalem, Ephraim, Bethany",
+    "media_type": "Image",
+    "index_reference": "jerusalem, ephraim, bethany",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c179-jerusalem-ephraim-bethany.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c179-jerusalem-ephraim-bethany.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43011045",
+          "start_ref_usfm": "JHN 11:45",
+          "end_ref": "43011057",
+          "end_ref_usfm": "JHN 11:57"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869909",
+    "reference_id": 222437,
+    "version": "1.0.1",
+    "title": "Jerusalem, Kidron Valley, and Mount of Olives",
+    "media_type": "Image",
+    "index_reference": "jerusalem, kidron valley, and mount of olives",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c227-jerusalem-kidron-valley.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c227-jerusalem-kidron-valley.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43018001",
+          "start_ref_usfm": "JHN 18:1",
+          "end_ref": "43018014",
+          "end_ref_usfm": "JHN 18:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869910",
+    "reference_id": 222438,
+    "version": "1.0.1",
+    "title": "Jerusalem, Lydda and Joppa",
+    "media_type": "Image",
+    "index_reference": "jerusalem, lydda and joppa",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c51-jerusalem-lydda-and-joppa.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c51-jerusalem-lydda-and-joppa.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009036",
+          "start_ref_usfm": "ACT 9:36",
+          "end_ref": "44009043",
+          "end_ref_usfm": "ACT 9:43"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869911",
+    "reference_id": 222439,
+    "version": "1.0.1",
+    "title": "Jerusalem, Lydda, Joppa, and Sharon Plains",
+    "media_type": "Image",
+    "index_reference": "jerusalem, lydda, joppa, and sharon plains",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c53-jerusalem-lydda-joppa-and-sharon-plains.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c53-jerusalem-lydda-joppa-and-sharon-plains.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009032",
+          "start_ref_usfm": "ACT 9:32",
+          "end_ref": "44009035",
+          "end_ref_usfm": "ACT 9:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869912",
+    "reference_id": 222440,
+    "version": "1.0.1",
+    "title": "Jesus in Israel",
+    "media_type": "Image",
+    "index_reference": "jesus in israel",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c90-jesus-in-israel.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c90-jesus-in-israel.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004012",
+          "start_ref_usfm": "MAT 4:12",
+          "end_ref": "40004025",
+          "end_ref_usfm": "MAT 4:25"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280013",
+    "reference_id": 186433,
+    "version": "1.0.1",
+    "title": "Jesus' Route from Capernaum to Nain",
+    "media_type": "Image",
+    "index_reference": "jesus' route from capernaum to nain",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c33-capernaum-to-nain.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c33-capernaum-to-nain.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42007011",
+          "start_ref_usfm": "LUK 7:11",
+          "end_ref": "42007017",
+          "end_ref_usfm": "LUK 7:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280040",
+    "reference_id": 186460,
+    "version": "1.0.1",
+    "title": "Jesus' Travels to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "jesus' travels to jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c196-jesus-travels-to-jerusalem-.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c196-jesus-travels-to-jerusalem-.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010052",
+          "end_ref_usfm": "MRK 10:52"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869913",
+    "reference_id": 222441,
+    "version": "1.0.1",
+    "title": "Jewish Territory of Judah",
+    "media_type": "Image",
+    "index_reference": "jewish territory of judah",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c45-jewish-territory-of-judah.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c45-jewish-territory-of-judah.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012006",
+          "start_ref_usfm": "ACT 12:6",
+          "end_ref": "44012019",
+          "end_ref_usfm": "ACT 12:19"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869914",
+    "reference_id": 222442,
+    "version": "1.0.1",
+    "title": "John the Baptist",
+    "media_type": "Image",
+    "index_reference": "john the baptist",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c169-john-the-baptist.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c169-john-the-baptist.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280029",
+    "reference_id": 186449,
+    "version": "1.0.1",
+    "title": "Jordan River and Wilderness of Judah",
+    "media_type": "Image",
+    "index_reference": "jordan river and wilderness of judah",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c24-jordan-river-and-wilderness-of-judah.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c24-jordan-river-and-wilderness-of-judah.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004013",
+          "end_ref_usfm": "LUK 4:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280030",
+    "reference_id": 186450,
+    "version": "1.0.1",
+    "title": "Jordan River featuring Galilee, Judea, Iturea, Traconitis, and Abilene",
+    "media_type": "Image",
+    "index_reference": "jordan river featuring galilee, judea, iturea, traconitis, and abilene",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c23-jordan-river.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c23-jordan-river.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869915",
+    "reference_id": 222443,
+    "version": "1.0.1",
+    "title": "Jordan River Valley",
+    "media_type": "Image",
+    "index_reference": "jordan river valley",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c255-jordan-river-valley.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c255-jordan-river-valley.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "368181",
+    "reference_id": 187004,
+    "version": "1.0.1",
+    "title": "Jordan Valley Region",
+    "media_type": "Image",
+    "index_reference": "jordan valley region",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c64-jordan-valley-region.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c64-jordan-valley-region.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280006",
+    "reference_id": 186426,
+    "version": "1.0.1",
+    "title": "Joseph and Mary's Route from Nazareth to Bethlehem",
+    "media_type": "Image",
+    "index_reference": "joseph and mary's route from nazareth to bethlehem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c13-nazareth-to-bethlehem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c13-nazareth-to-bethlehem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002021",
+          "end_ref_usfm": "LUK 2:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280012",
+    "reference_id": 186432,
+    "version": "1.0.1",
+    "title": "Joseph and Mary's Route from Nazareth to Jerusalem",
+    "media_type": "Image",
+    "index_reference": "joseph and mary's route from nazareth to jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c22-nazareth-to-jersualem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c22-nazareth-to-jersualem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002041",
+          "start_ref_usfm": "LUK 2:41",
+          "end_ref": "42002052",
+          "end_ref_usfm": "LUK 2:52"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869916",
+    "reference_id": 222444,
+    "version": "1.0.1",
+    "title": "Journey from Paddan Aram to Ephrath",
+    "media_type": "Image",
+    "index_reference": "journey from paddan aram to ephrath",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c215-paddan-aram-to-ephrath-bethlehem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c215-paddan-aram-to-ephrath-bethlehem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869917",
+    "reference_id": 222445,
+    "version": "1.0.1",
+    "title": "Judea and Bethany",
+    "media_type": "Image",
+    "index_reference": "judea and bethany",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c180-judea-and-bethany.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c180-judea-and-bethany.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011016",
+          "end_ref_usfm": "JHN 11:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280003",
+    "reference_id": 186423,
+    "version": "1.0.1",
+    "title": "Judea and Dead Sea",
+    "media_type": "Image",
+    "index_reference": "judea and dead sea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c128-judea-and-dead-sea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c128-judea-and-dead-sea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42021020",
+          "start_ref_usfm": "LUK 21:20",
+          "end_ref": "42021028",
+          "end_ref_usfm": "LUK 21:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869918",
+    "reference_id": 222446,
+    "version": "1.0.1",
+    "title": "Judea and Galilee",
+    "media_type": "Image",
+    "index_reference": "judea and galilee",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c189-judea-and-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c189-judea-and-galilee.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001051",
+          "end_ref_usfm": "JHN 1:51"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869919",
+    "reference_id": 222447,
+    "version": "1.0.1",
+    "title": "Judea, Antioch and Jerusalem",
+    "media_type": "Image",
+    "index_reference": "judea, antioch and jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c31-judea-antioch-and-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c31-judea-antioch-and-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011027",
+          "start_ref_usfm": "ACT 11:27",
+          "end_ref": "44011030",
+          "end_ref_usfm": "ACT 11:30"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44015022",
+          "start_ref_usfm": "ACT 15:22",
+          "end_ref": "44015035",
+          "end_ref_usfm": "ACT 15:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869920",
+    "reference_id": 222448,
+    "version": "1.0.1",
+    "title": "Judea, Galilee and Samaria",
+    "media_type": "Image",
+    "index_reference": "judea, galilee and samaria",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c50-judea-galilee-and-samaria.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c50-judea-galilee-and-samaria.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009019",
+          "start_ref_usfm": "ACT 9:19",
+          "end_ref": "44009031",
+          "end_ref_usfm": "ACT 9:31"
+        },
+        {
+          "start_ref": "40019001",
+          "start_ref_usfm": "MAT 19:1",
+          "end_ref": "40019012",
+          "end_ref_usfm": "MAT 19:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869921",
+    "reference_id": 222449,
+    "version": "1.0.1",
+    "title": "Judea, Galilee and Samaria",
+    "media_type": "Image",
+    "index_reference": "judea, galilee and samaria",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c185-judea-galilee-and-samaria.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c185-judea-galilee-and-samaria.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43004043",
+          "start_ref_usfm": "JHN 4:43",
+          "end_ref": "43004054",
+          "end_ref_usfm": "JHN 4:54"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
         }
       ],
       "resource": []

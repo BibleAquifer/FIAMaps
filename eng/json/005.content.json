@@ -1,21 +1,233 @@
 [
   {
-    "content_id": 280025,
-    "reference_id": 186445,
+    "content_id": "869873",
+    "reference_id": 222401,
     "version": "1.0.1",
-    "title": "Four Corners of the World",
+    "title": "Eastern Mediterranean",
     "media_type": "Image",
-    "index_reference": "four corners of the world",
+    "index_reference": "eastern mediterranean",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/four-corners-of-the-world.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/four-corners-of-the-world.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c30-eastern-mediterranean.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c30-eastern-mediterranean.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41013024",
-          "start_ref_usfm": "MRK 13:24",
-          "end_ref": "41013031",
-          "end_ref_usfm": "MRK 13:31"
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869874",
+    "reference_id": 222402,
+    "version": "1.0.1",
+    "title": "Eastern Mediterranean and Asia Minor",
+    "media_type": "Image",
+    "index_reference": "eastern mediterranean and asia minor",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c61-eastern-mediterranean-and-asia-minor.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c61-eastern-mediterranean-and-asia-minor.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010032",
+          "end_ref_usfm": "GEN 10:32"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "368185",
+    "reference_id": 187008,
+    "version": "1.0.1",
+    "title": "Edom and Seir",
+    "media_type": "Image",
+    "index_reference": "edom and seir",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c88-edom-and-seir.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c88-edom-and-seir.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01032001",
+          "start_ref_usfm": "GEN 32:1",
+          "end_ref": "01032021",
+          "end_ref_usfm": "GEN 32:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "368169",
+    "reference_id": 186992,
+    "version": "1.0.1",
+    "title": "Edom, Seir, Median, Moab and Bozrah",
+    "media_type": "Image",
+    "index_reference": "edom, seir, median, moab and bozrah",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c114-edom-seir-midian-and-moab.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c114-edom-seir-midian-and-moab.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036031",
+          "start_ref_usfm": "GEN 36:31",
+          "end_ref": "01036043",
+          "end_ref_usfm": "GEN 36:43"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "368180",
+    "reference_id": 187003,
+    "version": "1.0.1",
+    "title": "Egypt",
+    "media_type": "Image",
+    "index_reference": "egypt",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c147-egypt.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c147-egypt.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041036",
+          "end_ref_usfm": "GEN 41:36"
+        },
+        {
+          "start_ref": "02025023",
+          "start_ref_usfm": "EXO 25:23",
+          "end_ref": "02025030",
+          "end_ref_usfm": "EXO 25:30"
+        },
+        {
+          "start_ref": "02010001",
+          "start_ref_usfm": "EXO 10:1",
+          "end_ref": "02010020",
+          "end_ref_usfm": "EXO 10:20"
+        },
+        {
+          "start_ref": "02007014",
+          "start_ref_usfm": "EXO 7:14",
+          "end_ref": "02007025",
+          "end_ref_usfm": "EXO 7:25"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869875",
+    "reference_id": 222403,
+    "version": "1.0.1",
+    "title": "Egypt and Midian",
+    "media_type": "Image",
+    "index_reference": "egypt and midian",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c165-egypt-and-midian.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c165-egypt-and-midian.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44007020",
+          "start_ref_usfm": "ACT 7:20",
+          "end_ref": "44007034",
+          "end_ref_usfm": "ACT 7:34"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002025",
+          "end_ref_usfm": "EXO 2:25"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003010",
+          "end_ref_usfm": "EXO 3:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "279996",
+    "reference_id": 186416,
+    "version": "1.0.1",
+    "title": "Emmaus",
+    "media_type": "Image",
+    "index_reference": "emmaus",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c139-emmaus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c139-emmaus.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42024013",
+          "start_ref_usfm": "LUK 24:13",
+          "end_ref": "42024035",
+          "end_ref_usfm": "LUK 24:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869876",
+    "reference_id": 222404,
+    "version": "1.0.1",
+    "title": "Ephesus to Miletus",
+    "media_type": "Image",
+    "index_reference": "ephesus to miletus",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c161-ephesus-to-miletus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c161-ephesus-to-miletus.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020018",
+          "start_ref_usfm": "ACT 20:18",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869877",
+    "reference_id": 222405,
+    "version": "1.0.1",
+    "title": "Ethiopia",
+    "media_type": "Image",
+    "index_reference": "ethiopia",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c153-ethiopia.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c153-ethiopia.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
         }
       ],
       "resource": []

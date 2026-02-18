@@ -1,14 +1,14 @@
 [
   {
-    "content_id": 368172,
+    "content_id": "368172",
     "reference_id": 186995,
     "version": "1.0.1",
     "title": "Abram's Journey from Ur to Canaan",
     "media_type": "Image",
     "index_reference": "abram's journey from ur to canaan",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Image Content</h3>\n<block>\n<p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/abrams-journey-from-ur-to-canaan.jpg' alt='Image' /></p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/abrams-journey-from-ur-to-canaan.jpg'>link</a></p>\n</block>",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png'>link</a></p></block>",
     "associations": {
       "passage": [
         {
@@ -22,6 +22,138 @@
           "start_ref_usfm": "GEN 23:1",
           "end_ref": "01023020",
           "end_ref_usfm": "GEN 23:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869852",
+    "reference_id": 222380,
+    "version": "1.0.1",
+    "title": "Aerial View of Judea and Jerusalem",
+    "media_type": "Image",
+    "index_reference": "aerial view of judea and jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869853",
+    "reference_id": 222381,
+    "version": "1.0.1",
+    "title": "Antioch of Pisidia and Iconium",
+    "media_type": "Image",
+    "index_reference": "antioch of pisidia and iconium",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013042",
+          "start_ref_usfm": "ACT 13:42",
+          "end_ref": "44013052",
+          "end_ref_usfm": "ACT 13:52"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869854",
+    "reference_id": 222382,
+    "version": "1.0.1",
+    "title": "Apollos' Journey from Ephesus to Corinth",
+    "media_type": "Image",
+    "index_reference": "apollos' journey from ephesus to corinth",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869855",
+    "reference_id": 222383,
+    "version": "1.0.1",
+    "title": "Areas Surrounding Jerusalem",
+    "media_type": "Image",
+    "index_reference": "areas surrounding jerusalem",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002013",
+          "end_ref_usfm": "ACT 2:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869856",
+    "reference_id": 222384,
+    "version": "1.0.1",
+    "title": "Athens to Corinth",
+    "media_type": "Image",
+    "index_reference": "athens to corinth",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018017",
+          "end_ref_usfm": "ACT 18:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869857",
+    "reference_id": 222385,
+    "version": "1.0.1",
+    "title": "Athens, Thessalonica, and Berea",
+    "media_type": "Image",
+    "index_reference": "athens, thessalonica, and berea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017021",
+          "end_ref_usfm": "ACT 17:21"
         }
       ],
       "resource": []

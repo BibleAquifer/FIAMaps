@@ -1,0 +1,202 @@
+[
+  {
+    "content_id": "869968",
+    "reference_id": 222496,
+    "version": "1.0.1",
+    "title": "Territory of Herod Agrippa",
+    "media_type": "Image",
+    "index_reference": "territory of herod agrippa",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012005",
+          "end_ref_usfm": "ACT 12:5"
+        },
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012024",
+          "end_ref_usfm": "ACT 12:24"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280033",
+    "reference_id": 186453,
+    "version": "1.0.1",
+    "title": "Territory of Herod Antipas",
+    "media_type": "Image",
+    "index_reference": "territory of herod antipas",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
+          "start_ref": "40014013",
+          "start_ref_usfm": "MAT 14:13",
+          "end_ref": "40014021",
+          "end_ref_usfm": "MAT 14:21"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869969",
+    "reference_id": 222497,
+    "version": "1.0.1",
+    "title": "Territory of Pilate",
+    "media_type": "Image",
+    "index_reference": "territory of pilate",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027001",
+          "start_ref_usfm": "MAT 27:1",
+          "end_ref": "40027010",
+          "end_ref_usfm": "MAT 27:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869970",
+    "reference_id": 222498,
+    "version": "1.0.1",
+    "title": "Thessalonica to Berea",
+    "media_type": "Image",
+    "index_reference": "thessalonica to berea",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869971",
+    "reference_id": 222499,
+    "version": "1.0.1",
+    "title": "Troas to Assos",
+    "media_type": "Image",
+    "index_reference": "troas to assos",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020013",
+          "start_ref_usfm": "ACT 20:13",
+          "end_ref": "44020017",
+          "end_ref_usfm": "ACT 20:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869972",
+    "reference_id": 222500,
+    "version": "1.0.1",
+    "title": "Troas to Miletus",
+    "media_type": "Image",
+    "index_reference": "troas to miletus",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020013",
+          "start_ref_usfm": "ACT 20:13",
+          "end_ref": "44020017",
+          "end_ref_usfm": "ACT 20:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "280035",
+    "reference_id": 186455,
+    "version": "1.0.1",
+    "title": "Tyre, Sidon and The Sea of Galilee",
+    "media_type": "Image",
+    "index_reference": "tyre, sidon and the sea of galilee",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006019",
+          "end_ref_usfm": "LUK 6:19"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007037",
+          "end_ref_usfm": "MRK 7:37"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "869973",
+    "reference_id": 222501,
+    "version": "1.0.1",
+    "title": "Tyre, Sidon and The Sea of Galilee",
+    "media_type": "Image",
+    "index_reference": "tyre, sidon and the sea of galilee",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006019",
+          "end_ref_usfm": "LUK 6:19"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

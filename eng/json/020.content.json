@@ -1,0 +1,24 @@
+[
+  {
+    "content_id": "869976",
+    "reference_id": 222504,
+    "version": "1.0.1",
+    "title": "Valley of Shaveh",
+    "media_type": "Image",
+    "index_reference": "valley of shaveh",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c58-valley-of-shaveh.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c58-valley-of-shaveh.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014017",
+          "start_ref_usfm": "GEN 14:17",
+          "end_ref": "01014024",
+          "end_ref_usfm": "GEN 14:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

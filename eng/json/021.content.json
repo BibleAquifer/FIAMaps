@@ -1,0 +1,24 @@
+[
+  {
+    "content_id": "869977",
+    "reference_id": 222505,
+    "version": "1.0.1",
+    "title": "Wide View of Locations in Book of Genesis",
+    "media_type": "Image",
+    "index_reference": "wide view of locations in book of genesis",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c209-wider-view-of-locations-in-book-of-genesis.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c209-wider-view-of-locations-in-book-of-genesis.png'>link</a></p></block>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01002003",
+          "end_ref_usfm": "GEN 2:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
