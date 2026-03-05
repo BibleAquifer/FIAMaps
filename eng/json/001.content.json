@@ -1,162 +1,1499 @@
 [
-  {
-    "content_id": "368172",
-    "reference_id": 186995,
-    "version": "1.0.1",
-    "title": "Abram's Journey from Ur to Canaan",
-    "media_type": "Image",
-    "index_reference": "abram's journey from ur to canaan",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01011027",
-          "start_ref_usfm": "GEN 11:27",
-          "end_ref": "01011032",
-          "end_ref_usfm": "GEN 11:32"
-        },
-        {
-          "start_ref": "01023001",
-          "start_ref_usfm": "GEN 23:1",
-          "end_ref": "01023020",
-          "end_ref_usfm": "GEN 23:20"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869852",
-    "reference_id": 222380,
-    "version": "1.0.1",
-    "title": "Aerial View of Judea and Jerusalem",
-    "media_type": "Image",
-    "index_reference": "aerial view of judea and jerusalem",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001001",
-          "start_ref_usfm": "MRK 1:1",
-          "end_ref": "41001013",
-          "end_ref_usfm": "MRK 1:13"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869853",
-    "reference_id": 222381,
-    "version": "1.0.1",
-    "title": "Antioch of Pisidia and Iconium",
-    "media_type": "Image",
-    "index_reference": "antioch of pisidia and iconium",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44013042",
-          "start_ref_usfm": "ACT 13:42",
-          "end_ref": "44013052",
-          "end_ref_usfm": "ACT 13:52"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869854",
-    "reference_id": 222382,
-    "version": "1.0.1",
-    "title": "Apollos' Journey from Ephesus to Corinth",
-    "media_type": "Image",
-    "index_reference": "apollos' journey from ephesus to corinth",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44018024",
-          "start_ref_usfm": "ACT 18:24",
-          "end_ref": "44018028",
-          "end_ref_usfm": "ACT 18:28"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869855",
-    "reference_id": 222383,
-    "version": "1.0.1",
-    "title": "Areas Surrounding Jerusalem",
-    "media_type": "Image",
-    "index_reference": "areas surrounding jerusalem",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44002001",
-          "start_ref_usfm": "ACT 2:1",
-          "end_ref": "44002013",
-          "end_ref_usfm": "ACT 2:13"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869856",
-    "reference_id": 222384,
-    "version": "1.0.1",
-    "title": "Athens to Corinth",
-    "media_type": "Image",
-    "index_reference": "athens to corinth",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44018001",
-          "start_ref_usfm": "ACT 18:1",
-          "end_ref": "44018017",
-          "end_ref_usfm": "ACT 18:17"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869857",
-    "reference_id": 222385,
-    "version": "1.0.1",
-    "title": "Athens, Thessalonica, and Berea",
-    "media_type": "Image",
-    "index_reference": "athens, thessalonica, and berea",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44017016",
-          "start_ref_usfm": "ACT 17:16",
-          "end_ref": "44017021",
-          "end_ref_usfm": "ACT 17:21"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "368172",
+"reference_id": 186995,
+"version": "1.0.1",
+"title": "Abram's Journey from Ur to Canaan",
+"media_type": "Image",
+"index_reference": "abram's journey from ur to canaan",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c37-abrams-journey-from-ur-to-canaan.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011027",
+"start_ref_usfm": "GEN 11:27",
+"end_ref": "01011032",
+"end_ref_usfm": "GEN 11:32"
+},
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.5923,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.4712,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"preferred_label": "Ephron",
+"confidence": 0.4692,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.4692,
+"match_method": "canonical"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"preferred_label": "Haran",
+"confidence": 0.4077,
+"match_method": "canonical"
+},
+{
+"id": "person:Terah",
+"type": "person",
+"preferred_label": "Terah",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
+"id": "place:Machpelah",
+"type": "place",
+"preferred_label": "Machpelah",
+"confidence": 0.3173,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.3169,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.3096,
+"match_method": "canonical"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"preferred_label": "Ur",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"preferred_label": "Shekel",
+"confidence": 0.1823,
+"match_method": "canonical"
+},
+{
+"id": "person:Zohar",
+"type": "person",
+"preferred_label": "Zohar",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"preferred_label": "Iscah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1673,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869852",
+"reference_id": 222380,
+"version": "1.0.1",
+"title": "Aerial View of Judea and Jerusalem",
+"media_type": "Image",
+"index_reference": "aerial view of judea and jerusalem",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c201-aerial-view-judea-jerusalem.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.4385,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"preferred_label": "Beloved",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"preferred_label": "Put to the Test",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"preferred_label": "Straightness",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "realia:Strap",
+"type": "realia",
+"preferred_label": "Strap",
+"confidence": 0.14,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"preferred_label": "Bee",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"preferred_label": "Leather",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"preferred_label": "Sandal",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1246,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869853",
+"reference_id": 222381,
+"version": "1.0.1",
+"title": "Antioch of Pisidia and Iconium",
+"media_type": "Image",
+"index_reference": "antioch of pisidia and iconium",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c89-antioch-of-pisidia-and-iconium.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013042",
+"start_ref_usfm": "ACT 13:42",
+"end_ref": "44013052",
+"end_ref_usfm": "ACT 13:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5955,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4636,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.3727,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.3727,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.3727,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.2818,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.2818,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2818,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"preferred_label": "Resentment",
+"confidence": 0.2091,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"preferred_label": "Iconium",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1909,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869854",
+"reference_id": 222382,
+"version": "1.0.1",
+"title": "Apollos' Journey from Ephesus to Corinth",
+"media_type": "Image",
+"index_reference": "apollos' journey from ephesus to corinth",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c232-apollos-ephesus-corinth.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44018024",
+"start_ref_usfm": "ACT 18:24",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"preferred_label": "Aquila",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"preferred_label": "Apollos",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"preferred_label": "Alexandrians",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Alexandria",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Achaia",
+"type": "place",
+"preferred_label": "Achaia",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"preferred_label": "Priscilla",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.18,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869855",
+"reference_id": 222383,
+"version": "1.0.1",
+"title": "Areas Surrounding Jerusalem",
+"media_type": "Image",
+"index_reference": "areas surrounding jerusalem",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c170-areas-surrounding-jerusalem.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002013",
+"end_ref_usfm": "ACT 2:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "place:Cappadocia",
+"type": "place",
+"preferred_label": "Cappadocia",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"preferred_label": "Phrygia",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "group:Parthians",
+"type": "group",
+"preferred_label": "Parthians",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"preferred_label": "Cretans",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"preferred_label": "Galileans",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"preferred_label": "Elamites",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"preferred_label": "Pontus",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"preferred_label": "Elam",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Medan",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:MightyAct",
+"type": "keyterm",
+"preferred_label": "Mighty Act",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "group:Mede",
+"type": "group",
+"preferred_label": "Medes",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamphylia",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"preferred_label": "Mesopotamia",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"preferred_label": "Arabians",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"preferred_label": "Crete",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "realia:SweetWine",
+"type": "realia",
+"preferred_label": "Sweet Wine",
+"confidence": 0.14,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1246,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869856",
+"reference_id": 222384,
+"version": "1.0.1",
+"title": "Athens to Corinth",
+"media_type": "Image",
+"index_reference": "athens to corinth",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c126-athens-to-corinth.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44018001",
+"start_ref_usfm": "ACT 18:1",
+"end_ref": "44018017",
+"end_ref_usfm": "ACT 18:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4824,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4059,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4059,
+"match_method": "canonical"
+},
+{
+"id": "person:Gallio",
+"type": "person",
+"preferred_label": "Gallio",
+"confidence": 0.3647,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.3459,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"preferred_label": "Judgment Seat",
+"confidence": 0.2812,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "place:Corinth",
+"type": "place",
+"preferred_label": "Corinth",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"preferred_label": "Aquila",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Achaia",
+"type": "place",
+"preferred_label": "Achaia",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Crispus",
+"type": "person",
+"preferred_label": "Crispus",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"preferred_label": "Corinthians",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"preferred_label": "Pontus",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"preferred_label": "Pontus",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"preferred_label": "Priscilla",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Justus.2",
+"type": "person",
+"preferred_label": "Justus",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Claudius",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Sosthenes",
+"type": "person",
+"preferred_label": "Sosthenes",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UnrighteousAct",
+"type": "keyterm",
+"preferred_label": "Unrighteous Act",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Athens",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"preferred_label": "Italy",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Macedonia",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "Clean",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.1165,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869857",
+"reference_id": 222385,
+"version": "1.0.1",
+"title": "Athens, Thessalonica, and Berea",
+"media_type": "Image",
+"index_reference": "athens, thessalonica, and berea",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c124-athens-thessalonica-and-berea.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44017016",
+"start_ref_usfm": "ACT 17:16",
+"end_ref": "44017021",
+"end_ref_usfm": "ACT 17:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Athens",
+"confidence": 0.3833,
+"match_method": "canonical"
+},
+{
+"id": "group:Athens",
+"type": "group",
+"preferred_label": "Athenians",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "place:Areopagus",
+"type": "place",
+"preferred_label": "Areopagus",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "group:Epicurean",
+"type": "group",
+"preferred_label": "Epicureans",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "group:Stoic",
+"type": "group",
+"preferred_label": "Stoics",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringToTheAttentionOf",
+"type": "keyterm",
+"preferred_label": "Bring to the Attention Of",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.165,
+"match_method": "canonical"
+}
+]
+}
+}
 ]
