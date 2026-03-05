@@ -1,90 +1,637 @@
 [
-  {
-    "content_id": "869980",
-    "reference_id": 222508,
-    "version": "1.0.1",
-    "title": "Zoomed in View of Locations in the Book of Genesis",
-    "media_type": "Image",
-    "index_reference": "zoomed in view of locations in the book of genesis",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01001001",
-          "start_ref_usfm": "GEN 1:1",
-          "end_ref": "01002003",
-          "end_ref_usfm": "GEN 2:3"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869978",
-    "reference_id": 222506,
-    "version": "1.0.1",
-    "title": "Zoomed Out View of the Book of Luke",
-    "media_type": "Image",
-    "index_reference": "zoomed out view of the book of luke",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42001001",
-          "start_ref_usfm": "LUK 1:1",
-          "end_ref": "42001004",
-          "end_ref_usfm": "LUK 1:4"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869979",
-    "reference_id": 222507,
-    "version": "1.0.1",
-    "title": "Zoomed Out View of the Book of Matthew",
-    "media_type": "Image",
-    "index_reference": "zoomed out view of the book of matthew",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40001001",
-          "start_ref_usfm": "MAT 1:1",
-          "end_ref": "40001017",
-          "end_ref_usfm": "MAT 1:17"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869981",
-    "reference_id": 222509,
-    "version": "1.0.1",
-    "title": "Zoomed-Out View of Locations in the Book of Acts",
-    "media_type": "Image",
-    "index_reference": "zoomed-out view of locations in the book of acts",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44001001",
-          "start_ref_usfm": "ACT 1:1",
-          "end_ref": "44001005",
-          "end_ref_usfm": "ACT 1:5"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "869980",
+"reference_id": 222508,
+"version": "1.0.1",
+"title": "Zoomed in View of Locations in the Book of Genesis",
+"media_type": "Image",
+"index_reference": "zoomed in view of locations in the book of genesis",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c204-zoomed-in-view-of-locations-in-book-of-genesis.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001001",
+"start_ref_usfm": "GEN 1:1",
+"end_ref": "01002003",
+"end_ref_usfm": "GEN 2:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.7206,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kind.2",
+"type": "keyterm",
+"preferred_label": "Kind",
+"confidence": 0.4338,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2956,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.2929,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Semblance",
+"type": "keyterm",
+"preferred_label": "Likeness",
+"confidence": 0.2382,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.2356,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"preferred_label": "Chameleon",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"preferred_label": "Monitor",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"preferred_label": "Coriander",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"preferred_label": "Lizard",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"preferred_label": "Green Vegetation",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dragon",
+"type": "fauna",
+"preferred_label": "Dragon",
+"confidence": 0.1091,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869978",
+"reference_id": 222506,
+"version": "1.0.1",
+"title": "Zoomed Out View of the Book of Luke",
+"media_type": "Image",
+"index_reference": "zoomed out view of the book of luke",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c210-zoomed-out-view-of-book-of-luke.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001001",
+"start_ref_usfm": "LUK 1:1",
+"end_ref": "42001004",
+"end_ref_usfm": "LUK 1:4"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Theophilus",
+"type": "person",
+"preferred_label": "Theophilus",
+"confidence": 0.3125,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Certainty",
+"type": "keyterm",
+"preferred_label": "Certainty",
+"confidence": 0.2625,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869979",
+"reference_id": 222507,
+"version": "1.0.1",
+"title": "Zoomed Out View of the Book of Matthew",
+"media_type": "Image",
+"index_reference": "zoomed out view of the book of matthew",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c212-zoomed-out-view-of-book-of-matthew.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40001001",
+"start_ref_usfm": "MAT 1:1",
+"end_ref": "40001017",
+"end_ref_usfm": "MAT 1:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3412,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.3412,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"preferred_label": "Zerubbabel",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliud",
+"type": "person",
+"preferred_label": "Eliud",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Azor",
+"type": "person",
+"preferred_label": "Azor",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Jacob.2",
+"type": "person",
+"preferred_label": "Jacob",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Salmon",
+"type": "person",
+"preferred_label": "Salmon",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "Uzziah",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Ram",
+"type": "person",
+"preferred_label": "Ram",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"preferred_label": "Jehoiachin",
+"confidence": 0.2647,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "person:Achim",
+"type": "person",
+"preferred_label": "Achim",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"preferred_label": "Ahaz",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"preferred_label": "Zerah",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Amminadab",
+"type": "person",
+"preferred_label": "Amminadab",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Boaz",
+"type": "person",
+"preferred_label": "Boaz",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"preferred_label": "Amon",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Matthan",
+"type": "person",
+"preferred_label": "Matthan",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezron.2",
+"type": "person",
+"preferred_label": "Hezron",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Jotham.2",
+"type": "person",
+"preferred_label": "Jotham",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Obed",
+"type": "person",
+"preferred_label": "Obed",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiud",
+"type": "person",
+"preferred_label": "Abiud",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"preferred_label": "Jehoram",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahshon",
+"type": "person",
+"preferred_label": "Nahshon",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"preferred_label": "Perez",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliakim",
+"type": "person",
+"preferred_label": "Eliakim",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"preferred_label": "Eleazar",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Rahab",
+"type": "person",
+"preferred_label": "Rahab",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Ruth",
+"type": "person",
+"preferred_label": "Ruth",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "person:Shealtiel.2",
+"type": "person",
+"preferred_label": "Shealtiel",
+"confidence": 0.1765,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869981",
+"reference_id": 222509,
+"version": "1.0.1",
+"title": "Zoomed-Out View of Locations in the Book of Acts",
+"media_type": "Image",
+"index_reference": "zoomed-out view of locations in the book of acts",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c257-zoomed-out-map-of-book-of-acts.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44001001",
+"start_ref_usfm": "ACT 1:1",
+"end_ref": "44001005",
+"end_ref_usfm": "ACT 1:5"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.52,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "Promise",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "person:Theophilus",
+"type": "person",
+"preferred_label": "Theophilus",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.24,
+"match_method": "canonical"
+}
+]
+}
+}
 ]

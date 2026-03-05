@@ -1,202 +1,1142 @@
 [
-  {
-    "content_id": "869968",
-    "reference_id": 222496,
-    "version": "1.0.1",
-    "title": "Territory of Herod Agrippa",
-    "media_type": "Image",
-    "index_reference": "territory of herod agrippa",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44012001",
-          "start_ref_usfm": "ACT 12:1",
-          "end_ref": "44012005",
-          "end_ref_usfm": "ACT 12:5"
-        },
-        {
-          "start_ref": "44012020",
-          "start_ref_usfm": "ACT 12:20",
-          "end_ref": "44012024",
-          "end_ref_usfm": "ACT 12:24"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "280033",
-    "reference_id": 186453,
-    "version": "1.0.1",
-    "title": "Territory of Herod Antipas",
-    "media_type": "Image",
-    "index_reference": "territory of herod antipas",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014012",
-          "end_ref_usfm": "MAT 14:12"
-        },
-        {
-          "start_ref": "40014013",
-          "start_ref_usfm": "MAT 14:13",
-          "end_ref": "40014021",
-          "end_ref_usfm": "MAT 14:21"
-        },
-        {
-          "start_ref": "41006014",
-          "start_ref_usfm": "MRK 6:14",
-          "end_ref": "41006029",
-          "end_ref_usfm": "MRK 6:29"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869969",
-    "reference_id": 222497,
-    "version": "1.0.1",
-    "title": "Territory of Pilate",
-    "media_type": "Image",
-    "index_reference": "territory of pilate",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40027001",
-          "start_ref_usfm": "MAT 27:1",
-          "end_ref": "40027010",
-          "end_ref_usfm": "MAT 27:10"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869970",
-    "reference_id": 222498,
-    "version": "1.0.1",
-    "title": "Thessalonica to Berea",
-    "media_type": "Image",
-    "index_reference": "thessalonica to berea",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44017010",
-          "start_ref_usfm": "ACT 17:10",
-          "end_ref": "44017015",
-          "end_ref_usfm": "ACT 17:15"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869971",
-    "reference_id": 222499,
-    "version": "1.0.1",
-    "title": "Troas to Assos",
-    "media_type": "Image",
-    "index_reference": "troas to assos",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44020013",
-          "start_ref_usfm": "ACT 20:13",
-          "end_ref": "44020017",
-          "end_ref_usfm": "ACT 20:17"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869972",
-    "reference_id": 222500,
-    "version": "1.0.1",
-    "title": "Troas to Miletus",
-    "media_type": "Image",
-    "index_reference": "troas to miletus",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44020013",
-          "start_ref_usfm": "ACT 20:13",
-          "end_ref": "44020017",
-          "end_ref_usfm": "ACT 20:17"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "280035",
-    "reference_id": 186455,
-    "version": "1.0.1",
-    "title": "Tyre, Sidon and The Sea of Galilee",
-    "media_type": "Image",
-    "index_reference": "tyre, sidon and the sea of galilee",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42006017",
-          "start_ref_usfm": "LUK 6:17",
-          "end_ref": "42006019",
-          "end_ref_usfm": "LUK 6:19"
-        },
-        {
-          "start_ref": "41007031",
-          "start_ref_usfm": "MRK 7:31",
-          "end_ref": "41007037",
-          "end_ref_usfm": "MRK 7:37"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "869973",
-    "reference_id": 222501,
-    "version": "1.0.1",
-    "title": "Tyre, Sidon and The Sea of Galilee",
-    "media_type": "Image",
-    "index_reference": "tyre, sidon and the sea of galilee",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42006017",
-          "start_ref_usfm": "LUK 6:17",
-          "end_ref": "42006019",
-          "end_ref_usfm": "LUK 6:19"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "869968",
+"reference_id": 222496,
+"version": "1.0.1",
+"title": "Territory of Herod Agrippa",
+"media_type": "Image",
+"index_reference": "territory of herod agrippa",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c35-territory-of-herod-agrippa.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012005",
+"end_ref_usfm": "ACT 12:5"
+},
+{
+"start_ref": "44012020",
+"start_ref_usfm": "ACT 12:20",
+"end_ref": "44012024",
+"end_ref_usfm": "ACT 12:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.385,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod.3",
+"type": "person",
+"preferred_label": "Herod",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.29,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.29,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.235,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"preferred_label": "Tyrians",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Blastus",
+"type": "person",
+"preferred_label": "Blastus",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bedroom",
+"type": "realia",
+"preferred_label": "Bedroom",
+"confidence": 0.155,
+"match_method": "canonical"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"preferred_label": "Judgment Seat",
+"confidence": 0.135,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"preferred_label": "Worm",
+"confidence": 0.135,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.135,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "280033",
+"reference_id": 186453,
+"version": "1.0.1",
+"title": "Territory of Herod Antipas",
+"media_type": "Image",
+"index_reference": "territory of herod antipas",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c87-territory-of-herod-antipas.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014012",
+"end_ref_usfm": "MAT 14:12"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.4959,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
+"confidence": 0.4824,
+"match_method": "canonical"
+},
+{
+"id": "person:Herodias",
+"type": "person",
+"preferred_label": "Herodias",
+"confidence": 0.4486,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.2941,
+"match_method": "canonical"
+},
+{
+"id": "realia:Plate.2",
+"type": "realia",
+"preferred_label": "Plate",
+"confidence": 0.2941,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "person:DaughterOfHerodias",
+"type": "person",
+"preferred_label": "Daughter of Herodias",
+"confidence": 0.2351,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.2",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.2351,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Haste",
+"type": "keyterm",
+"preferred_label": "Haste",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"preferred_label": "Basket",
+"confidence": 0.1076,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.1022,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869969",
+"reference_id": 222497,
+"version": "1.0.1",
+"title": "Territory of Pilate",
+"media_type": "Image",
+"index_reference": "territory of pilate",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c121-territory-of-pilate.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027001",
+"start_ref_usfm": "MAT 27:1",
+"end_ref": "40027010",
+"end_ref_usfm": "MAT 27:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Akeldama",
+"type": "place",
+"preferred_label": "Akeldama",
+"confidence": 0.405,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.385,
+"match_method": "canonical"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"preferred_label": "Pilate",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Corban",
+"type": "place",
+"preferred_label": "Temple Treasury",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"preferred_label": "Judas",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"preferred_label": "Condemn",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"preferred_label": "Priests",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "realia:Treasury",
+"type": "realia",
+"preferred_label": "Treasury",
+"confidence": 0.135,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.135,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869970",
+"reference_id": 222498,
+"version": "1.0.1",
+"title": "Thessalonica to Berea",
+"media_type": "Image",
+"index_reference": "thessalonica to berea",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c116-thessalonica-to-berea.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44017010",
+"start_ref_usfm": "ACT 17:10",
+"end_ref": "44017015",
+"end_ref_usfm": "ACT 17:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.6,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.475,
+"match_method": "canonical"
+},
+{
+"id": "place:Berea",
+"type": "place",
+"preferred_label": "Berea",
+"confidence": 0.3833,
+"match_method": "canonical"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Thessalonica",
+"confidence": 0.3833,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.35,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.35,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Athens",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"preferred_label": "Commandment",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.165,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869971",
+"reference_id": 222499,
+"version": "1.0.1",
+"title": "Troas to Assos",
+"media_type": "Image",
+"index_reference": "troas to assos",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c159-troas-to-assos.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44020013",
+"start_ref_usfm": "ACT 20:13",
+"end_ref": "44020017",
+"end_ref_usfm": "ACT 20:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Miletus",
+"type": "place",
+"preferred_label": "Miletus",
+"confidence": 0.46,
+"match_method": "canonical"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"preferred_label": "Assos",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "place:Samos",
+"type": "place",
+"preferred_label": "Samos",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Mitylene",
+"type": "place",
+"preferred_label": "Mitylene",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Chios",
+"type": "place",
+"preferred_label": "Chios",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.18,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869972",
+"reference_id": 222500,
+"version": "1.0.1",
+"title": "Troas to Miletus",
+"media_type": "Image",
+"index_reference": "troas to miletus",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c160-troas-to-miletus.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44020013",
+"start_ref_usfm": "ACT 20:13",
+"end_ref": "44020017",
+"end_ref_usfm": "ACT 20:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Miletus",
+"type": "place",
+"preferred_label": "Miletus",
+"confidence": 0.46,
+"match_method": "canonical"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"preferred_label": "Assos",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "place:Samos",
+"type": "place",
+"preferred_label": "Samos",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Mitylene",
+"type": "place",
+"preferred_label": "Mitylene",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Chios",
+"type": "place",
+"preferred_label": "Chios",
+"confidence": 0.28,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.18,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "280035",
+"reference_id": 186455,
+"version": "1.0.1",
+"title": "Tyre, Sidon and The Sea of Galilee",
+"media_type": "Image",
+"index_reference": "tyre, sidon and the sea of galilee",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c18-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42006017",
+"start_ref_usfm": "LUK 6:17",
+"end_ref": "42006019",
+"end_ref_usfm": "LUK 6:19"
+},
+{
+"start_ref": "41007031",
+"start_ref_usfm": "MRK 7:31",
+"end_ref": "41007037",
+"end_ref_usfm": "MRK 7:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.31,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.29,
+"match_method": "canonical"
+},
+{
+"id": "place:Decapolis",
+"type": "place",
+"preferred_label": "Decapolis",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"preferred_label": "Sea of Galilee",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.195,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "869973",
+"reference_id": 222501,
+"version": "1.0.1",
+"title": "Tyre, Sidon and The Sea of Galilee",
+"media_type": "Image",
+"index_reference": "tyre, sidon and the sea of galilee",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c34-tyre-sidon-and-the-sea-of-galilee.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42006017",
+"start_ref_usfm": "LUK 6:17",
+"end_ref": "42006019",
+"end_ref_usfm": "LUK 6:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.3,
+"match_method": "canonical"
+}
+]
+}
+}
 ]

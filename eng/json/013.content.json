@@ -1,102 +1,894 @@
 [
-  {
-    "content_id": "280039",
-    "reference_id": 186459,
-    "version": "1.0.1",
-    "title": "Nazareth",
-    "media_type": "Image",
-    "index_reference": "nazareth",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c10-nazareth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c10-nazareth.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42001026",
-          "start_ref_usfm": "LUK 1:26",
-          "end_ref": "42001038",
-          "end_ref_usfm": "LUK 1:38"
-        },
-        {
-          "start_ref": "41006001",
-          "start_ref_usfm": "MRK 6:1",
-          "end_ref": "41006006",
-          "end_ref_usfm": "MRK 6:6"
-        },
-        {
-          "start_ref": "41006006",
-          "start_ref_usfm": "MRK 6:6",
-          "end_ref": "41006013",
-          "end_ref_usfm": "MRK 6:13"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "280015",
-    "reference_id": 186435,
-    "version": "1.0.1",
-    "title": "Nazareth and Judea",
-    "media_type": "Image",
-    "index_reference": "nazareth and judea",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c168-nazareth-judea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c168-nazareth-judea.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001001",
-          "start_ref_usfm": "MRK 1:1",
-          "end_ref": "41001013",
-          "end_ref_usfm": "MRK 1:13"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "280000",
-    "reference_id": 186420,
-    "version": "1.0.1",
-    "title": "Nazareth to Capernaum",
-    "media_type": "Image",
-    "index_reference": "nazareth to capernaum",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c27-nazareth-to-capernaum.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c27-nazareth-to-capernaum.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42004031",
-          "start_ref_usfm": "LUK 4:31",
-          "end_ref": "42004044",
-          "end_ref_usfm": "LUK 4:44"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "368182",
-    "reference_id": 187005,
-    "version": "1.0.1",
-    "title": "Negeb Area",
-    "media_type": "Image",
-    "index_reference": "negeb area",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c154-negeb-area.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c154-negeb-area.png'>link</a></p></block>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01020001",
-          "start_ref_usfm": "GEN 20:1",
-          "end_ref": "01020018",
-          "end_ref_usfm": "GEN 20:18"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "280039",
+"reference_id": 186459,
+"version": "1.0.1",
+"title": "Nazareth",
+"media_type": "Image",
+"index_reference": "nazareth",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c10-nazareth.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c10-nazareth.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001026",
+"start_ref_usfm": "LUK 1:26",
+"end_ref": "42001038",
+"end_ref_usfm": "LUK 1:38"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4712,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.4442,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.4365,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"preferred_label": "Gabriel",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.3",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"preferred_label": "Jude",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Engaged",
+"type": "keyterm",
+"preferred_label": "Be Engaged",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Elizabeth",
+"type": "person",
+"preferred_label": "Elizabeth",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"preferred_label": "Tunic",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"preferred_label": "Sandal",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"preferred_label": "Staff",
+"confidence": 0.1073,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "280015",
+"reference_id": 186435,
+"version": "1.0.1",
+"title": "Nazareth and Judea",
+"media_type": "Image",
+"index_reference": "nazareth and judea",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c168-nazareth-judea.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c168-nazareth-judea.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.4385,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2692,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"preferred_label": "Beloved",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"preferred_label": "Put to the Test",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"preferred_label": "Straightness",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "realia:Strap",
+"type": "realia",
+"preferred_label": "Strap",
+"confidence": 0.14,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"preferred_label": "Bee",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"preferred_label": "Leather",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"preferred_label": "Sandal",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
+"confidence": 0.1246,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1246,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "280000",
+"reference_id": 186420,
+"version": "1.0.1",
+"title": "Nazareth to Capernaum",
+"media_type": "Image",
+"index_reference": "nazareth to capernaum",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c27-nazareth-to-capernaum.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c27-nazareth-to-capernaum.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.3607,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.3464,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.3464,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.2864,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2643,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2643,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2643,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2643,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
+"confidence": 0.1964,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1964,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1964,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1221,
+"match_method": "canonical"
+}
+]
+}
+},
+{
+"content_id": "368182",
+"reference_id": 187005,
+"version": "1.0.1",
+"title": "Negeb Area",
+"media_type": "Image",
+"index_reference": "negeb area",
+"language": "eng",
+"review_level": "Professional",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c154-negeb-area.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c154-negeb-area.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01020001",
+"start_ref_usfm": "GEN 20:1",
+"end_ref": "01020018",
+"end_ref_usfm": "GEN 20:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abimelech",
+"type": "person",
+"preferred_label": "Abimelech",
+"confidence": 0.6111,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.55,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.525,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"preferred_label": "Gerar",
+"confidence": 0.2722,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Innocence",
+"type": "keyterm",
+"preferred_label": "Innocence",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"preferred_label": "Kadesh-barnea",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.115,
+"match_method": "canonical"
+}
+]
+}
+}
 ]
