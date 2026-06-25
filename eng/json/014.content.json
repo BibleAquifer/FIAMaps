@@ -1,14 +1,14 @@
 [
 {
-"content_id": "368171",
-"reference_id": 186994,
-"version": "1.0.1",
+"content_id": "c187",
+"reference_id": 0,
+"version": "1.0.4",
 "title": "Oaks of Mamre",
 "media_type": "Image",
 "index_reference": "oaks of mamre",
 "language": "eng",
-"review_level": "Professional",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c187-oaks-of-mamre.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c187-oaks-of-mamre.png'>link</a></p></block>",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c187/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c187/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
@@ -23,72 +23,72 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sarah",
 "confidence": 0.59,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Sarah"
 },
 {
 "id": "realia:Tent",
 "type": "realia",
-"preferred_label": "Tent",
 "confidence": 0.4533,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Tent"
 },
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraham",
 "confidence": 0.42,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Abraham"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.34,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "fauna:Bull",
 "type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.2,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.18,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Cattle"
 },
 {
 "id": "place:Mamre",
 "type": "place",
-"preferred_label": "Mamre",
 "confidence": 0.18,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Mamre"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "realia:Seah",
 "type": "realia",
-"preferred_label": "Seah",
 "confidence": 0.1333,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Seah"
 },
 {
 "id": "flora:Oak",
 "type": "flora",
-"preferred_label": "Oak",
 "confidence": 0.12,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Oak"
 }
 ]
 }

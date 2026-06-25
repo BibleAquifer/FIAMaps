@@ -1,1988 +1,1833 @@
 {
-"resource_metadata": {
-"aquifer_type": "Images",
-"resource_type": "Images, Maps, Videos",
-"title": "Familiarization, Internalization, Articulation (FIA) Maps",
-"aquifer_name": "Maps (FIA)",
-"version": "1.0.1",
-"collection_title": "Maps (FIA)",
-"short_name": "FIA",
-"license_info": {
-"title": "Familiarization, Internalization, Articulation (Fia) Maps",
-"copyright": {
-"dates": "2023",
-"holder": {
-"name": "Biblica Inc.",
-"url": "https://www.biblica.com/"
-}
-},
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0 license",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-}
-],
-"showAdaptationNoticeForEnglish": false,
-"showAdaptationNoticeForNonEnglish": false
-},
-"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
-"resource_code": "FIAMaps",
-"date_created": "2026-02-18",
-"language": "eng",
-"localizations": [],
-"order": "alphabetical",
-"content_type": "Html"
-},
-"scripture_burrito": {
-"format": "scripture burrito",
-"meta": {
-"version": "1.0.0",
-"category": "source",
-"defaultLocale": "en",
-"dateCreated": "2026-02-18T07:56:12.583705"
-},
-"idAuthorities": {
-"aquifer": {
-"id": "https://aquifer.bible",
-"name": {
-"en": "Bible Aquifer"
-}
-}
-},
-"identification": {
-"primary": {
-"aquifer": {
-"FIAMaps": {
-"timestamp": "2026-02-18T07:56:12.583705"
-}
-}
-},
-"name": {
-"en": "Familiarization, Internalization, Articulation (Fia) Maps"
-},
-"abbreviation": {
-"en": "FIA"
-}
-},
-"languages": [
-{
-"tag": "en",
-"name": {
-"en": "English"
-}
-}
-],
-"type": {
-"flavorType": {
-"name": "peripheral",
-"flavor": {
-"name": "textAquiferAlphabetical",
-"audience": "common"
-},
-"currentScope": {}
-}
-},
-"ingredients": {
-"json/001.content.json": {
-"mimeType": "text/json",
-"size": 6223,
-"scope": {
-"a": [
-"Abram's Journey from Ur to Canaan",
-"Aerial View of Judea and Jerusalem",
-"Antioch of Pisidia and Iconium",
-"Apollos' Journey from Ephesus to Corinth",
-"Areas Surrounding Jerusalem",
-"Athens to Corinth",
-"Athens, Thessalonica, and Berea"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 8720,
-"scope": {
-"b": [
-"Beer Lahai Roi",
-"Beersheba and Moriah",
-"Beersheba, Paran and Egypt",
-"Berea to Athens",
-"Bethel and Ai",
-"Bethel to Ephrath",
-"Bethlehem to Hebron",
-"Bethlehem to Jerusalem",
-"Book of Luke: Jerusalem and Environs",
-"Book of Matthew: Jerusalem and Environs"
-]
-}
-},
-"json/003.content.json": {
-"mimeType": "text/json",
-"size": 9022,
-"scope": {
-"c": [
-"Caesarea, Joppa and Jerusalem",
-"Canaan",
-"Canaan and Egypt",
-"Canaan to Egypt",
-"Capernaum on Route from Egypt to Damascus",
-"Capernaum to Decapolis",
-"Capernaum to Jerusalem",
-"Capernaum with Judea and Jordan River",
-"Conquering Kings from the North",
-"Cyrene, Alexandria, Cilicia, and Asia"
-]
-}
-},
-"json/004.content.json": {
-"mimeType": "text/json",
-"size": 2469,
-"scope": {
-"d": [
-"Descendants of Ham",
-"Descendants of Shem",
-"Detour to Ephesus"
-]
-}
-},
-"json/005.content.json": {
-"mimeType": "text/json",
-"size": 8403,
-"scope": {
-"e": [
-"Eastern Mediterranean",
-"Eastern Mediterranean and Asia Minor",
-"Edom and Seir",
-"Edom, Seir, Median, Moab and Bozrah",
-"Egypt",
-"Egypt and Midian",
-"Emmaus",
-"Ephesus to Miletus",
-"Ethiopia"
-]
-}
-},
-"json/006.content.json": {
-"mimeType": "text/json",
-"size": 1866,
-"scope": {
-"f": [
-"First Century Jerusalem",
-"Four Corners of the World"
-]
-}
-},
-"json/007.content.json": {
-"mimeType": "text/json",
-"size": 18546,
-"scope": {
-"g": [
-"Galilee",
-"Galilee and Jerusalem",
-"Galilee Area with Caesarea Philippi and Capernaum",
-"Galilee Area with Capernaum",
-"Galilee Area with Capernaum and Gerasa",
-"Galilee Region",
-"Galilee to Jerusalem",
-"Galilee with Magdala",
-"Galilee, Judea, Samaria, and Jerusalem",
-"Galilee, Judea, Samaria, and Jerusalem in the book of John",
-"Galilee, Nazareth and Bethlehem",
-"Galilee, Syrian Phoenicia, Gennesaret and Tyre",
-"Galilee,Judea and Samaria",
-"Galilee,Judea and Samaria in the book of John",
-"Garden of Eden",
-"Gennesaret and Capernaum",
-"Gerar and Beersheba"
-]
-}
-},
-"json/008.content.json": {
-"mimeType": "text/json",
-"size": 4274,
-"scope": {
-"h": [
-"Haran and Beersheba",
-"Haran to Canaan",
-"Havilah, Shur, Egypt and Assyria",
-"Hebron, Adullam and Timnah",
-"Hebron, Canaan, Negev and Beer Lahai Roi"
-]
-}
-},
-"json/009.content.json": {
-"mimeType": "text/json",
-"size": 12938,
-"scope": {
-"i": [
-"Important Locations in Jerusalem",
-"Israel",
-"Israel",
-"Israel and Phoenicia",
-"Israel and Surrounding Areas",
-"Israel with Galilee and Caesarea Philippi",
-"Israel with Negeb",
-"Israel with Ninevah and Sheba",
-"Israel with region of Galilee, Nazareth, Jerusalem",
-"Israel with region of Galilee, Nazareth, Jerusalem in the book of John",
-"Israel, Jordan and Egypt",
-"Israel, Ninevah and Sheba"
-]
-}
-},
-"json/010.content.json": {
-"mimeType": "text/json",
-"size": 43032,
-"scope": {
-"j": [
-"Jacob's Journey from Beersheba to Haran",
-"Jacob's Journey from Haran to Beersheba",
-"Jericho",
-"Jericho to Jerusalem",
-"Jerusalem and Bethsaida",
-"Jerusalem and Cyrene",
-"Jerusalem and Galilee",
-"Jerusalem and Galilee region",
-"Jerusalem and Galilee region in the book of John",
-"Jerusalem and Gennesaret",
-"Jerusalem and Hebron",
-"Jerusalem and Mount of Olives",
-"Jerusalem and Perea",
-"Jerusalem and Temple",
-"Jerusalem Area",
-"Jerusalem to Bethany",
-"Jerusalem to Galilee",
-"Jerusalem to Jericho",
-"Jerusalem, Bethany and the Temple",
-"Jerusalem, Bethphage, and Bethany",
-"Jerusalem, Caesarea and Rome",
-"Jerusalem, Caesarea and Tarsus",
-"Jerusalem, Ephraim, Bethany",
-"Jerusalem, Kidron Valley, and Mount of Olives",
-"Jerusalem, Lydda and Joppa",
-"Jerusalem, Lydda, Joppa, and Sharon Plains",
-"Jesus in Israel",
-"Jesus' Route from Capernaum to Nain",
-"Jesus' Travels to Jerusalem",
-"Jewish Territory of Judah",
-"John the Baptist",
-"Jordan River and Wilderness of Judah",
-"Jordan River featuring Galilee, Judea, Iturea, Traconitis, and Abilene",
-"Jordan River Valley",
-"Jordan Valley Region",
-"Joseph and Mary's Route from Nazareth to Bethlehem",
-"Joseph and Mary's Route from Nazareth to Jerusalem",
-"Journey from Paddan Aram to Ephrath",
-"Judea and Bethany",
-"Judea and Dead Sea",
-"Judea and Galilee",
-"Judea, Antioch and Jerusalem",
-"Judea, Galilee and Samaria",
-"Judea, Galilee and Samaria"
-]
-}
-},
-"json/011.content.json": {
-"mimeType": "text/json",
-"size": 8132,
-"scope": {
-"l": [
-"Lake with Bethsaida and Gennesaret",
-"Lake with Capernaum and Bethsaida",
-"Lake with Capernaum and Bethsaida in the book of John",
-"Land of Nod",
-"Locations in the Book of Acts",
-"Locations in the Book of John",
-"Locations in the Book of Luke",
-"Locations in the Book of Mark",
-"Locations in the Book of Matthew"
-]
-}
-},
-"json/012.content.json": {
-"mimeType": "text/json",
-"size": 8458,
-"scope": {
-"m": [
-"Magdala and Jerusalem",
-"Malta to Rome",
-"Mary and Joseph's Journey to Egypt",
-"Mary's Route from Nazareth to Judea",
-"Mediterranean and Surrounding Areas",
-"Mount Ararat",
-"Mount Gerizim",
-"Mount Hermon",
-"Mount of Olives",
-"Mount Tabor"
-]
-}
-},
-"json/013.content.json": {
-"mimeType": "text/json",
-"size": 3560,
-"scope": {
-"n": [
-"Nazareth",
-"Nazareth and Judea",
-"Nazareth to Capernaum",
-"Negeb Area"
-]
-}
-},
-"json/014.content.json": {
-"mimeType": "text/json",
-"size": 806,
-"scope": {
-"o": [
-"Oaks of Mamre"
-]
-}
-},
-"json/015.content.json": {
-"mimeType": "text/json",
-"size": 21945,
-"scope": {
-"p": [
-"Paddan-Aram and Surrounding Areas",
-"Palestine",
-"Paul and Apollos' Travels",
-"Paul and Barnabas at Iconium",
-"Paul and Barnabas' Journey to Antioch in Pisidia",
-"Paul and Barnabas'Journey",
-"Paul's Journey from Caesarea to Phrygia",
-"Paul's Journey from Corinth to Caesarea",
-"Paul's Journey from Syrian Antioch to Jerusalem",
-"Paul's Journey to Corinth",
-"Paul's Journey to Jerusalem",
-"Paul's Journey to Macedonia",
-"Paul's Second Missionary Journey",
-"Paul's Third Missionary Journey",
-"Paul's Voyage to Rome",
-"Paul's Voyage to Rome via Fair Havens",
-"People Groups Between Egypt and the Euphrates",
-"Peter's Journey to Caesarea",
-"Peter's Journeys",
-"Philip's Journey to the Capital of Samaria",
-"Philip's Journey to the Desert Road and to Gaza",
-"Pilate's House",
-"Pontus and Italy",
-"Prophets and Teachers in Antioch"
-]
-}
-},
-"json/016.content.json": {
-"mimeType": "text/json",
-"size": 7068,
-"scope": {
-"r": [
-"Rebel Kings in the South",
-"Region of Judea",
-"Region of Seir",
-"Region of the Gerasenes to Capernaum",
-"Road to Shur",
-"Roman Empire 45–47 AD",
-"Roman Empire up to Persia",
-"Route from Bethsaida to Caeserea Philippi"
-]
-}
-},
-"json/017.content.json": {
-"mimeType": "text/json",
-"size": 13760,
-"scope": {
-"s": [
-"Sailing Route from Corinth to Syria",
-"Saul and Barnabus in Cyprus",
-"Saul's Route to Damascus",
-"Sea of Galilee Western Side",
-"Sea of Galilee with Bethsaida",
-"Sea of Galilee with Capernaum and Decapolis",
-"Shechem to Bethel",
-"Shinar Region",
-"Sidon",
-"Sidon and Syria",
-"Small-Scale City Plan of Jerusalem",
-"Sodom",
-"Sodom, Gomorrah and Great Oaks of Mamre",
-"Springs of Aenon near Salim",
-"Sychar"
-]
-}
-},
-"json/018.content.json": {
-"mimeType": "text/json",
-"size": 7451,
-"scope": {
-"t": [
-"Territory of Herod Agrippa",
-"Territory of Herod Antipas",
-"Territory of Pilate",
-"Thessalonica to Berea",
-"Troas to Assos",
-"Troas to Miletus",
-"Tyre, Sidon and The Sea of Galilee",
-"Tyre, Sidon and The Sea of Galilee"
-]
-}
-},
-"json/019.content.json": {
-"mimeType": "text/json",
-"size": 1830,
-"scope": {
-"u": [
-"Ur of the Chaldeans",
-"Ur, Haran, and Canaan"
-]
-}
-},
-"json/020.content.json": {
-"mimeType": "text/json",
-"size": 817,
-"scope": {
-"v": [
-"Valley of Shaveh"
-]
-}
-},
-"json/021.content.json": {
-"mimeType": "text/json",
-"size": 917,
-"scope": {
-"w": [
-"Wide View of Locations in Book of Genesis"
-]
-}
-},
-"json/022.content.json": {
-"mimeType": "text/json",
-"size": 3620,
-"scope": {
-"z": [
-"Zoomed in View of Locations in the Book of Genesis",
-"Zoomed Out View of the Book of Luke",
-"Zoomed Out View of the Book of Matthew",
-"Zoomed-Out View of Locations in the Book of Acts"
-]
-}
-},
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 9005
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 11768
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 11268
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 7765
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 14135
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 2269
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 18631
-},
-"md/008.content.md": {
-"mimeType": "text/markdown",
-"size": 5155
-},
-"md/009.content.md": {
-"mimeType": "text/markdown",
-"size": 13835
-},
-"md/010.content.md": {
-"mimeType": "text/markdown",
-"size": 49408
-},
-"md/011.content.md": {
-"mimeType": "text/markdown",
-"size": 8638
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 9625
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 5342
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 1144
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 29148
-},
-"md/016.content.md": {
-"mimeType": "text/markdown",
-"size": 10481
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 17084
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 7561
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 3298
-},
-"md/020.content.md": {
-"mimeType": "text/markdown",
-"size": 1358
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 1420
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 4507
-},
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 5476235
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1281253
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 5279179
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1753113
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 6639137
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1989973
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 2108191
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 682142
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 5906634
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1830882
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1002542
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 659745
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 12390724
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4115066
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 3005484
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 917517
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 8371347
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2750973
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 29729003
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 8670371
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 6034962
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1855687
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 7344063
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2266128
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 2597661
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 779825
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 465165
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 307497
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 17111289
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4278046
-},
-"docx/016.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 5608797
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1634676
-},
-"docx/017.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 9352168
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2923850
-},
-"docx/018.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 4656525
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1765748
-},
-"docx/019.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1478039
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 445430
-},
-"docx/020.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 519425
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 327559
-},
-"docx/021.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1155054
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 373243
-},
-"docx/022.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 3536098
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1192625
-}
-},
-"copyright": {
-"licenses": [
-{
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-],
-"shortStatements": [
-{
-"statement": "<p>Familiarization, Internalization, Articulation (Fia) Maps © 2023 Biblica Inc..</p>",
-"mimetype": "text/html",
-"lang": "en"
-}
-]
-}
-},
-"article_metadata": {
-"279995": {
-"content_id": "279995",
-"reference_id": 186415,
-"index_reference": "region of the gerasenes to capernaum",
-"localizations": {}
-},
-"279996": {
-"content_id": "279996",
-"reference_id": 186416,
-"index_reference": "emmaus",
-"localizations": {}
-},
-"279997": {
-"content_id": "279997",
-"reference_id": 186417,
-"index_reference": "lake with capernaum and bethsaida",
-"localizations": {}
-},
-"279998": {
-"content_id": "279998",
-"reference_id": 186418,
-"index_reference": "jerusalem and mount of olives",
-"localizations": {}
-},
-"279999": {
-"content_id": "279999",
-"reference_id": 186419,
-"index_reference": "locations in the book of mark",
-"localizations": {}
-},
-"280000": {
-"content_id": "280000",
-"reference_id": 186420,
-"index_reference": "nazareth to capernaum",
-"localizations": {}
-},
-"280001": {
-"content_id": "280001",
-"reference_id": 186421,
-"index_reference": "sea of galilee with capernaum and decapolis",
-"localizations": {}
-},
-"280002": {
-"content_id": "280002",
-"reference_id": 186422,
-"index_reference": "capernaum with judea and jordan river",
-"localizations": {}
-},
-"280003": {
-"content_id": "280003",
-"reference_id": 186423,
-"index_reference": "judea and dead sea",
-"localizations": {}
-},
-"280004": {
-"content_id": "280004",
-"reference_id": 186424,
-"index_reference": "galilee to jerusalem",
-"localizations": {}
-},
-"280005": {
-"content_id": "280005",
-"reference_id": 186425,
-"index_reference": "pilate's house",
-"localizations": {}
-},
-"280006": {
-"content_id": "280006",
-"reference_id": 186426,
-"index_reference": "joseph and mary's route from nazareth to bethlehem",
-"localizations": {}
-},
-"280007": {
-"content_id": "280007",
-"reference_id": 186427,
-"index_reference": "jerusalem, bethany and the temple",
-"localizations": {}
-},
-"280008": {
-"content_id": "280008",
-"reference_id": 186428,
-"index_reference": "sea of galilee with bethsaida",
-"localizations": {}
-},
-"280009": {
-"content_id": "280009",
-"reference_id": 186429,
-"index_reference": "lake with bethsaida and gennesaret",
-"localizations": {}
-},
-"280010": {
-"content_id": "280010",
-"reference_id": 186430,
-"index_reference": "israel with negeb",
-"localizations": {}
-},
-"280011": {
-"content_id": "280011",
-"reference_id": 186431,
-"index_reference": "mary's route from nazareth to judea",
-"localizations": {}
-},
-"280012": {
-"content_id": "280012",
-"reference_id": 186432,
-"index_reference": "joseph and mary's route from nazareth to jerusalem",
-"localizations": {}
-},
-"280013": {
-"content_id": "280013",
-"reference_id": 186433,
-"index_reference": "jesus' route from capernaum to nain",
-"localizations": {}
-},
-"280014": {
-"content_id": "280014",
-"reference_id": 186434,
-"index_reference": "capernaum to decapolis",
-"localizations": {}
-},
-"280015": {
-"content_id": "280015",
-"reference_id": 186435,
-"index_reference": "nazareth and judea",
-"localizations": {}
-},
-"280016": {
-"content_id": "280016",
-"reference_id": 186436,
-"index_reference": "jerusalem and galilee",
-"localizations": {}
-},
-"280017": {
-"content_id": "280017",
-"reference_id": 186437,
-"index_reference": "jerusalem and galilee region",
-"localizations": {}
-},
-"280018": {
-"content_id": "280018",
-"reference_id": 186438,
-"index_reference": "jerusalem, bethphage, and bethany",
-"localizations": {}
-},
-"280019": {
-"content_id": "280019",
-"reference_id": 186439,
-"index_reference": "sidon and syria",
-"localizations": {}
-},
-"280020": {
-"content_id": "280020",
-"reference_id": 186440,
-"index_reference": "galilee area with capernaum and gerasa",
-"localizations": {}
-},
-"280021": {
-"content_id": "280021",
-"reference_id": 186441,
-"index_reference": "galilee, syrian phoenicia, gennesaret and tyre",
-"localizations": {}
-},
-"280022": {
-"content_id": "280022",
-"reference_id": 186442,
-"index_reference": "gennesaret and capernaum",
-"localizations": {}
-},
-"280023": {
-"content_id": "280023",
-"reference_id": 186443,
-"index_reference": "capernaum on route from egypt to damascus",
-"localizations": {}
-},
-"280024": {
-"content_id": "280024",
-"reference_id": 186444,
-"index_reference": "galilee area with capernaum",
-"localizations": {}
-},
-"280025": {
-"content_id": "280025",
-"reference_id": 186445,
-"index_reference": "four corners of the world",
-"localizations": {}
-},
-"280026": {
-"content_id": "280026",
-"reference_id": 186446,
-"index_reference": "jerusalem to jericho",
-"localizations": {}
-},
-"280027": {
-"content_id": "280027",
-"reference_id": 186447,
-"index_reference": "galilee, judea, samaria, and jerusalem",
-"localizations": {}
-},
-"280028": {
-"content_id": "280028",
-"reference_id": 186448,
-"index_reference": "galilee area with caesarea philippi and capernaum",
-"localizations": {}
-},
-"280029": {
-"content_id": "280029",
-"reference_id": 186449,
-"index_reference": "jordan river and wilderness of judah",
-"localizations": {}
-},
-"280030": {
-"content_id": "280030",
-"reference_id": 186450,
-"index_reference": "jordan river featuring galilee, judea, iturea, traconitis, and abilene",
-"localizations": {}
-},
-"280031": {
-"content_id": "280031",
-"reference_id": 186451,
-"index_reference": "israel with region of galilee, nazareth, jerusalem",
-"localizations": {}
-},
-"280032": {
-"content_id": "280032",
-"reference_id": 186452,
-"index_reference": "sea of galilee western side",
-"localizations": {}
-},
-"280033": {
-"content_id": "280033",
-"reference_id": 186453,
-"index_reference": "territory of herod antipas",
-"localizations": {}
-},
-"280034": {
-"content_id": "280034",
-"reference_id": 186454,
-"index_reference": "bethlehem to jerusalem",
-"localizations": {}
-},
-"280035": {
-"content_id": "280035",
-"reference_id": 186455,
-"index_reference": "tyre, sidon and the sea of galilee",
-"localizations": {}
-},
-"280036": {
-"content_id": "280036",
-"reference_id": 186456,
-"index_reference": "galilee,judea and samaria",
-"localizations": {}
-},
-"280037": {
-"content_id": "280037",
-"reference_id": 186457,
-"index_reference": "galilee with magdala",
-"localizations": {}
-},
-"280038": {
-"content_id": "280038",
-"reference_id": 186458,
-"index_reference": "mount hermon",
-"localizations": {}
-},
-"280039": {
-"content_id": "280039",
-"reference_id": 186459,
-"index_reference": "nazareth",
-"localizations": {}
-},
-"280040": {
-"content_id": "280040",
-"reference_id": 186460,
-"index_reference": "jesus' travels to jerusalem",
-"localizations": {}
-},
-"280041": {
-"content_id": "280041",
-"reference_id": 186461,
-"index_reference": "israel, ninevah and sheba",
-"localizations": {}
-},
-"280042": {
-"content_id": "280042",
-"reference_id": 186462,
-"index_reference": "mount of olives",
-"localizations": {}
-},
-"280043": {
-"content_id": "280043",
-"reference_id": 186463,
-"index_reference": "israel",
-"localizations": {}
-},
-"280044": {
-"content_id": "280044",
-"reference_id": 186464,
-"index_reference": "jericho",
-"localizations": {}
-},
-"280045": {
-"content_id": "280045",
-"reference_id": 186465,
-"index_reference": "route from bethsaida to caeserea philippi",
-"localizations": {}
-},
-"368161": {
-"content_id": "368161",
-"reference_id": 186984,
-"index_reference": "hebron, canaan, negev and beer lahai roi",
-"localizations": {}
-},
-"368162": {
-"content_id": "368162",
-"reference_id": 186985,
-"index_reference": "canaan to egypt",
-"localizations": {}
-},
-"368163": {
-"content_id": "368163",
-"reference_id": 186986,
-"index_reference": "rebel kings in the south",
-"localizations": {}
-},
-"368164": {
-"content_id": "368164",
-"reference_id": 186987,
-"index_reference": "haran and beersheba",
-"localizations": {}
-},
-"368165": {
-"content_id": "368165",
-"reference_id": 186988,
-"index_reference": "jacob's journey from haran to beersheba",
-"localizations": {}
-},
-"368166": {
-"content_id": "368166",
-"reference_id": 186989,
-"index_reference": "israel, jordan and egypt",
-"localizations": {}
-},
-"368167": {
-"content_id": "368167",
-"reference_id": 186990,
-"index_reference": "haran to canaan",
-"localizations": {}
-},
-"368168": {
-"content_id": "368168",
-"reference_id": 186991,
-"index_reference": "region of seir",
-"localizations": {}
-},
-"368169": {
-"content_id": "368169",
-"reference_id": 186992,
-"index_reference": "edom, seir, median, moab and bozrah",
-"localizations": {}
-},
-"368170": {
-"content_id": "368170",
-"reference_id": 186993,
-"index_reference": "beer lahai roi",
-"localizations": {}
-},
-"368171": {
-"content_id": "368171",
-"reference_id": 186994,
-"index_reference": "oaks of mamre",
-"localizations": {}
-},
-"368172": {
-"content_id": "368172",
-"reference_id": 186995,
-"index_reference": "abram's journey from ur to canaan",
-"localizations": {}
-},
-"368173": {
-"content_id": "368173",
-"reference_id": 186996,
-"index_reference": "paddan-aram and surrounding areas",
-"localizations": {}
-},
-"368174": {
-"content_id": "368174",
-"reference_id": 186997,
-"index_reference": "jacob's journey from beersheba to haran",
-"localizations": {}
-},
-"368175": {
-"content_id": "368175",
-"reference_id": 186998,
-"index_reference": "people groups between egypt and the euphrates",
-"localizations": {}
-},
-"368176": {
-"content_id": "368176",
-"reference_id": 186999,
-"index_reference": "sidon",
-"localizations": {}
-},
-"368177": {
-"content_id": "368177",
-"reference_id": 187000,
-"index_reference": "beersheba, paran and egypt",
-"localizations": {}
-},
-"368178": {
-"content_id": "368178",
-"reference_id": 187001,
-"index_reference": "havilah, shur, egypt and assyria",
-"localizations": {}
-},
-"368179": {
-"content_id": "368179",
-"reference_id": 187002,
-"index_reference": "road to shur",
-"localizations": {}
-},
-"368180": {
-"content_id": "368180",
-"reference_id": 187003,
-"index_reference": "egypt",
-"localizations": {}
-},
-"368181": {
-"content_id": "368181",
-"reference_id": 187004,
-"index_reference": "jordan valley region",
-"localizations": {}
-},
-"368182": {
-"content_id": "368182",
-"reference_id": 187005,
-"index_reference": "negeb area",
-"localizations": {}
-},
-"368183": {
-"content_id": "368183",
-"reference_id": 187006,
-"index_reference": "sodom, gomorrah and great oaks of mamre",
-"localizations": {}
-},
-"368184": {
-"content_id": "368184",
-"reference_id": 187007,
-"index_reference": "beersheba and moriah",
-"localizations": {}
-},
-"368185": {
-"content_id": "368185",
-"reference_id": 187008,
-"index_reference": "edom and seir",
-"localizations": {}
-},
-"869852": {
-"content_id": "869852",
-"reference_id": 222380,
-"index_reference": "aerial view of judea and jerusalem",
-"localizations": {}
-},
-"869853": {
-"content_id": "869853",
-"reference_id": 222381,
-"index_reference": "antioch of pisidia and iconium",
-"localizations": {}
-},
-"869854": {
-"content_id": "869854",
-"reference_id": 222382,
-"index_reference": "apollos' journey from ephesus to corinth",
-"localizations": {}
-},
-"869855": {
-"content_id": "869855",
-"reference_id": 222383,
-"index_reference": "areas surrounding jerusalem",
-"localizations": {}
-},
-"869856": {
-"content_id": "869856",
-"reference_id": 222384,
-"index_reference": "athens to corinth",
-"localizations": {}
-},
-"869857": {
-"content_id": "869857",
-"reference_id": 222385,
-"index_reference": "athens, thessalonica, and berea",
-"localizations": {}
-},
-"869858": {
-"content_id": "869858",
-"reference_id": 222386,
-"index_reference": "berea to athens",
-"localizations": {}
-},
-"869859": {
-"content_id": "869859",
-"reference_id": 222387,
-"index_reference": "bethel and ai",
-"localizations": {}
-},
-"869860": {
-"content_id": "869860",
-"reference_id": 222388,
-"index_reference": "bethel to ephrath",
-"localizations": {}
-},
-"869861": {
-"content_id": "869861",
-"reference_id": 222389,
-"index_reference": "bethlehem to hebron",
-"localizations": {}
-},
-"869862": {
-"content_id": "869862",
-"reference_id": 222390,
-"index_reference": "book of luke: jerusalem and environs",
-"localizations": {}
-},
-"869863": {
-"content_id": "869863",
-"reference_id": 222391,
-"index_reference": "book of matthew: jerusalem and environs",
-"localizations": {}
-},
-"869864": {
-"content_id": "869864",
-"reference_id": 222392,
-"index_reference": "caesarea, joppa and jerusalem",
-"localizations": {}
-},
-"869865": {
-"content_id": "869865",
-"reference_id": 222393,
-"index_reference": "canaan",
-"localizations": {}
-},
-"869866": {
-"content_id": "869866",
-"reference_id": 222394,
-"index_reference": "canaan and egypt",
-"localizations": {}
-},
-"869867": {
-"content_id": "869867",
-"reference_id": 222395,
-"index_reference": "capernaum to jerusalem",
-"localizations": {}
-},
-"869868": {
-"content_id": "869868",
-"reference_id": 222396,
-"index_reference": "conquering kings from the north",
-"localizations": {}
-},
-"869869": {
-"content_id": "869869",
-"reference_id": 222397,
-"index_reference": "cyrene, alexandria, cilicia, and asia",
-"localizations": {}
-},
-"869870": {
-"content_id": "869870",
-"reference_id": 222398,
-"index_reference": "descendants of ham",
-"localizations": {}
-},
-"869871": {
-"content_id": "869871",
-"reference_id": 222399,
-"index_reference": "descendants of shem",
-"localizations": {}
-},
-"869872": {
-"content_id": "869872",
-"reference_id": 222400,
-"index_reference": "detour to ephesus",
-"localizations": {}
-},
-"869873": {
-"content_id": "869873",
-"reference_id": 222401,
-"index_reference": "eastern mediterranean",
-"localizations": {}
-},
-"869874": {
-"content_id": "869874",
-"reference_id": 222402,
-"index_reference": "eastern mediterranean and asia minor",
-"localizations": {}
-},
-"869875": {
-"content_id": "869875",
-"reference_id": 222403,
-"index_reference": "egypt and midian",
-"localizations": {}
-},
-"869876": {
-"content_id": "869876",
-"reference_id": 222404,
-"index_reference": "ephesus to miletus",
-"localizations": {}
-},
-"869877": {
-"content_id": "869877",
-"reference_id": 222405,
-"index_reference": "ethiopia",
-"localizations": {}
-},
-"869878": {
-"content_id": "869878",
-"reference_id": 222406,
-"index_reference": "first century jerusalem",
-"localizations": {}
-},
-"869879": {
-"content_id": "869879",
-"reference_id": 222407,
-"index_reference": "galilee",
-"localizations": {}
-},
-"869880": {
-"content_id": "869880",
-"reference_id": 222408,
-"index_reference": "galilee region",
-"localizations": {}
-},
-"869881": {
-"content_id": "869881",
-"reference_id": 222409,
-"index_reference": "galilee and jerusalem",
-"localizations": {}
-},
-"869882": {
-"content_id": "869882",
-"reference_id": 222410,
-"index_reference": "galilee, judea, samaria, and jerusalem in the book of john",
-"localizations": {}
-},
-"869883": {
-"content_id": "869883",
-"reference_id": 222411,
-"index_reference": "galilee, nazareth and bethlehem",
-"localizations": {}
-},
-"869884": {
-"content_id": "869884",
-"reference_id": 222412,
-"index_reference": "galilee,judea and samaria in the book of john",
-"localizations": {}
-},
-"869885": {
-"content_id": "869885",
-"reference_id": 222413,
-"index_reference": "garden of eden",
-"localizations": {}
-},
-"869886": {
-"content_id": "869886",
-"reference_id": 222414,
-"index_reference": "gerar and beersheba",
-"localizations": {}
-},
-"869887": {
-"content_id": "869887",
-"reference_id": 222415,
-"index_reference": "hebron, adullam and timnah",
-"localizations": {}
-},
-"869888": {
-"content_id": "869888",
-"reference_id": 222416,
-"index_reference": "important locations in jerusalem",
-"localizations": {}
-},
-"869889": {
-"content_id": "869889",
-"reference_id": 222417,
-"index_reference": "israel",
-"localizations": {}
-},
-"869890": {
-"content_id": "869890",
-"reference_id": 222418,
-"index_reference": "israel and phoenicia",
-"localizations": {}
-},
-"869891": {
-"content_id": "869891",
-"reference_id": 222419,
-"index_reference": "israel and surrounding areas",
-"localizations": {}
-},
-"869892": {
-"content_id": "869892",
-"reference_id": 222420,
-"index_reference": "israel with galilee and caesarea philippi",
-"localizations": {}
-},
-"869893": {
-"content_id": "869893",
-"reference_id": 222421,
-"index_reference": "israel with ninevah and sheba",
-"localizations": {}
-},
-"869894": {
-"content_id": "869894",
-"reference_id": 222422,
-"index_reference": "israel with region of galilee, nazareth, jerusalem in the book of john",
-"localizations": {}
-},
-"869895": {
-"content_id": "869895",
-"reference_id": 222423,
-"index_reference": "jericho to jerusalem",
-"localizations": {}
-},
-"869896": {
-"content_id": "869896",
-"reference_id": 222424,
-"index_reference": "jerusalem area",
-"localizations": {}
-},
-"869897": {
-"content_id": "869897",
-"reference_id": 222425,
-"index_reference": "jerusalem and bethsaida",
-"localizations": {}
-},
-"869898": {
-"content_id": "869898",
-"reference_id": 222426,
-"index_reference": "jerusalem and cyrene",
-"localizations": {}
-},
-"869899": {
-"content_id": "869899",
-"reference_id": 222427,
-"index_reference": "jerusalem and galilee region in the book of john",
-"localizations": {}
-},
-"869900": {
-"content_id": "869900",
-"reference_id": 222428,
-"index_reference": "jerusalem and gennesaret",
-"localizations": {}
-},
-"869901": {
-"content_id": "869901",
-"reference_id": 222429,
-"index_reference": "jerusalem and hebron",
-"localizations": {}
-},
-"869902": {
-"content_id": "869902",
-"reference_id": 222430,
-"index_reference": "jerusalem and perea",
-"localizations": {}
-},
-"869903": {
-"content_id": "869903",
-"reference_id": 222431,
-"index_reference": "jerusalem and temple",
-"localizations": {}
-},
-"869904": {
-"content_id": "869904",
-"reference_id": 222432,
-"index_reference": "jerusalem to bethany",
-"localizations": {}
-},
-"869905": {
-"content_id": "869905",
-"reference_id": 222433,
-"index_reference": "jerusalem to galilee",
-"localizations": {}
-},
-"869906": {
-"content_id": "869906",
-"reference_id": 222434,
-"index_reference": "jerusalem, caesarea and rome",
-"localizations": {}
-},
-"869907": {
-"content_id": "869907",
-"reference_id": 222435,
-"index_reference": "jerusalem, caesarea and tarsus",
-"localizations": {}
-},
-"869908": {
-"content_id": "869908",
-"reference_id": 222436,
-"index_reference": "jerusalem, ephraim, bethany",
-"localizations": {}
-},
-"869909": {
-"content_id": "869909",
-"reference_id": 222437,
-"index_reference": "jerusalem, kidron valley, and mount of olives",
-"localizations": {}
-},
-"869910": {
-"content_id": "869910",
-"reference_id": 222438,
-"index_reference": "jerusalem, lydda and joppa",
-"localizations": {}
-},
-"869911": {
-"content_id": "869911",
-"reference_id": 222439,
-"index_reference": "jerusalem, lydda, joppa, and sharon plains",
-"localizations": {}
-},
-"869912": {
-"content_id": "869912",
-"reference_id": 222440,
-"index_reference": "jesus in israel",
-"localizations": {}
-},
-"869913": {
-"content_id": "869913",
-"reference_id": 222441,
-"index_reference": "jewish territory of judah",
-"localizations": {}
-},
-"869914": {
-"content_id": "869914",
-"reference_id": 222442,
-"index_reference": "john the baptist",
-"localizations": {}
-},
-"869915": {
-"content_id": "869915",
-"reference_id": 222443,
-"index_reference": "jordan river valley",
-"localizations": {}
-},
-"869916": {
-"content_id": "869916",
-"reference_id": 222444,
-"index_reference": "journey from paddan aram to ephrath",
-"localizations": {}
-},
-"869917": {
-"content_id": "869917",
-"reference_id": 222445,
-"index_reference": "judea and bethany",
-"localizations": {}
-},
-"869918": {
-"content_id": "869918",
-"reference_id": 222446,
-"index_reference": "judea and galilee",
-"localizations": {}
-},
-"869919": {
-"content_id": "869919",
-"reference_id": 222447,
-"index_reference": "judea, antioch and jerusalem",
-"localizations": {}
-},
-"869920": {
-"content_id": "869920",
-"reference_id": 222448,
-"index_reference": "judea, galilee and samaria",
-"localizations": {}
-},
-"869921": {
-"content_id": "869921",
-"reference_id": 222449,
-"index_reference": "judea, galilee and samaria",
-"localizations": {}
-},
-"869922": {
-"content_id": "869922",
-"reference_id": 222450,
-"index_reference": "lake with capernaum and bethsaida in the book of john",
-"localizations": {}
-},
-"869923": {
-"content_id": "869923",
-"reference_id": 222451,
-"index_reference": "land of nod",
-"localizations": {}
-},
-"869924": {
-"content_id": "869924",
-"reference_id": 222452,
-"index_reference": "locations in the book of acts",
-"localizations": {}
-},
-"869925": {
-"content_id": "869925",
-"reference_id": 222453,
-"index_reference": "locations in the book of john",
-"localizations": {}
-},
-"869926": {
-"content_id": "869926",
-"reference_id": 222454,
-"index_reference": "locations in the book of luke",
-"localizations": {}
-},
-"869927": {
-"content_id": "869927",
-"reference_id": 222455,
-"index_reference": "locations in the book of matthew",
-"localizations": {}
-},
-"869928": {
-"content_id": "869928",
-"reference_id": 222456,
-"index_reference": "magdala and jerusalem",
-"localizations": {}
-},
-"869929": {
-"content_id": "869929",
-"reference_id": 222457,
-"index_reference": "malta to rome",
-"localizations": {}
-},
-"869930": {
-"content_id": "869930",
-"reference_id": 222458,
-"index_reference": "mary and joseph's journey to egypt",
-"localizations": {}
-},
-"869931": {
-"content_id": "869931",
-"reference_id": 222459,
-"index_reference": "mediterranean and surrounding areas",
-"localizations": {}
-},
-"869932": {
-"content_id": "869932",
-"reference_id": 222460,
-"index_reference": "mount ararat",
-"localizations": {}
-},
-"869933": {
-"content_id": "869933",
-"reference_id": 222461,
-"index_reference": "mount gerizim",
-"localizations": {}
-},
-"869934": {
-"content_id": "869934",
-"reference_id": 222462,
-"index_reference": "mount tabor",
-"localizations": {}
-},
-"869935": {
-"content_id": "869935",
-"reference_id": 222463,
-"index_reference": "palestine",
-"localizations": {}
-},
-"869936": {
-"content_id": "869936",
-"reference_id": 222464,
-"index_reference": "paul and apollos' travels",
-"localizations": {}
-},
-"869937": {
-"content_id": "869937",
-"reference_id": 222465,
-"index_reference": "paul and barnabas at iconium",
-"localizations": {}
-},
-"869938": {
-"content_id": "869938",
-"reference_id": 222466,
-"index_reference": "paul and barnabas' journey to antioch in pisidia",
-"localizations": {}
-},
-"869939": {
-"content_id": "869939",
-"reference_id": 222467,
-"index_reference": "paul and barnabas'journey",
-"localizations": {}
-},
-"869940": {
-"content_id": "869940",
-"reference_id": 222468,
-"index_reference": "paul's journey from caesarea to phrygia",
-"localizations": {}
-},
-"869941": {
-"content_id": "869941",
-"reference_id": 222469,
-"index_reference": "paul's journey from corinth to caesarea",
-"localizations": {}
-},
-"869942": {
-"content_id": "869942",
-"reference_id": 222470,
-"index_reference": "paul's journey from syrian antioch to jerusalem",
-"localizations": {}
-},
-"869943": {
-"content_id": "869943",
-"reference_id": 222471,
-"index_reference": "paul's journey to corinth",
-"localizations": {}
-},
-"869944": {
-"content_id": "869944",
-"reference_id": 222472,
-"index_reference": "paul's journey to jerusalem",
-"localizations": {}
-},
-"869945": {
-"content_id": "869945",
-"reference_id": 222473,
-"index_reference": "paul's journey to macedonia",
-"localizations": {}
-},
-"869946": {
-"content_id": "869946",
-"reference_id": 222474,
-"index_reference": "paul's second missionary journey",
-"localizations": {}
-},
-"869947": {
-"content_id": "869947",
-"reference_id": 222475,
-"index_reference": "paul's third missionary journey",
-"localizations": {}
-},
-"869948": {
-"content_id": "869948",
-"reference_id": 222476,
-"index_reference": "paul's voyage to rome",
-"localizations": {}
-},
-"869949": {
-"content_id": "869949",
-"reference_id": 222477,
-"index_reference": "paul's voyage to rome via fair havens",
-"localizations": {}
-},
-"869950": {
-"content_id": "869950",
-"reference_id": 222478,
-"index_reference": "peter's journey to caesarea",
-"localizations": {}
-},
-"869951": {
-"content_id": "869951",
-"reference_id": 222479,
-"index_reference": "peter's journeys",
-"localizations": {}
-},
-"869952": {
-"content_id": "869952",
-"reference_id": 222480,
-"index_reference": "philip's journey to the capital of samaria",
-"localizations": {}
-},
-"869953": {
-"content_id": "869953",
-"reference_id": 222481,
-"index_reference": "philip's journey to the desert road and to gaza",
-"localizations": {}
-},
-"869954": {
-"content_id": "869954",
-"reference_id": 222482,
-"index_reference": "pontus and italy",
-"localizations": {}
-},
-"869955": {
-"content_id": "869955",
-"reference_id": 222483,
-"index_reference": "prophets and teachers in antioch",
-"localizations": {}
-},
-"869956": {
-"content_id": "869956",
-"reference_id": 222484,
-"index_reference": "region of judea",
-"localizations": {}
-},
-"869957": {
-"content_id": "869957",
-"reference_id": 222485,
-"index_reference": "roman empire 45-47 ad",
-"localizations": {}
-},
-"869958": {
-"content_id": "869958",
-"reference_id": 222486,
-"index_reference": "roman empire up to persia",
-"localizations": {}
-},
-"869959": {
-"content_id": "869959",
-"reference_id": 222487,
-"index_reference": "sailing route from corinth to syria",
-"localizations": {}
-},
-"869960": {
-"content_id": "869960",
-"reference_id": 222488,
-"index_reference": "saul and barnabus in cyprus",
-"localizations": {}
-},
-"869961": {
-"content_id": "869961",
-"reference_id": 222489,
-"index_reference": "saul's route to damascus",
-"localizations": {}
-},
-"869962": {
-"content_id": "869962",
-"reference_id": 222490,
-"index_reference": "shechem to bethel",
-"localizations": {}
-},
-"869963": {
-"content_id": "869963",
-"reference_id": 222491,
-"index_reference": "shinar region",
-"localizations": {}
-},
-"869964": {
-"content_id": "869964",
-"reference_id": 222492,
-"index_reference": "small-scale city plan of jerusalem",
-"localizations": {}
-},
-"869965": {
-"content_id": "869965",
-"reference_id": 222493,
-"index_reference": "sodom",
-"localizations": {}
-},
-"869966": {
-"content_id": "869966",
-"reference_id": 222494,
-"index_reference": "springs of aenon near salim",
-"localizations": {}
-},
-"869967": {
-"content_id": "869967",
-"reference_id": 222495,
-"index_reference": "sychar",
-"localizations": {}
-},
-"869968": {
-"content_id": "869968",
-"reference_id": 222496,
-"index_reference": "territory of herod agrippa",
-"localizations": {}
-},
-"869969": {
-"content_id": "869969",
-"reference_id": 222497,
-"index_reference": "territory of pilate",
-"localizations": {}
-},
-"869970": {
-"content_id": "869970",
-"reference_id": 222498,
-"index_reference": "thessalonica to berea",
-"localizations": {}
-},
-"869971": {
-"content_id": "869971",
-"reference_id": 222499,
-"index_reference": "troas to assos",
-"localizations": {}
-},
-"869972": {
-"content_id": "869972",
-"reference_id": 222500,
-"index_reference": "troas to miletus",
-"localizations": {}
-},
-"869973": {
-"content_id": "869973",
-"reference_id": 222501,
-"index_reference": "tyre, sidon and the sea of galilee",
-"localizations": {}
-},
-"869974": {
-"content_id": "869974",
-"reference_id": 222502,
-"index_reference": "ur of the chaldeans",
-"localizations": {}
-},
-"869975": {
-"content_id": "869975",
-"reference_id": 222503,
-"index_reference": "ur, haran, and canaan",
-"localizations": {}
-},
-"869976": {
-"content_id": "869976",
-"reference_id": 222504,
-"index_reference": "valley of shaveh",
-"localizations": {}
-},
-"869977": {
-"content_id": "869977",
-"reference_id": 222505,
-"index_reference": "wide view of locations in book of genesis",
-"localizations": {}
-},
-"869978": {
-"content_id": "869978",
-"reference_id": 222506,
-"index_reference": "zoomed out view of the book of luke",
-"localizations": {}
-},
-"869979": {
-"content_id": "869979",
-"reference_id": 222507,
-"index_reference": "zoomed out view of the book of matthew",
-"localizations": {}
-},
-"869980": {
-"content_id": "869980",
-"reference_id": 222508,
-"index_reference": "zoomed in view of locations in the book of genesis",
-"localizations": {}
-},
-"869981": {
-"content_id": "869981",
-"reference_id": 222509,
-"index_reference": "zoomed-out view of locations in the book of acts",
-"localizations": {}
-}
-}
+  "resource_metadata": {
+    "aquifer_type": "Images",
+    "resource_type": "Images, Maps, Videos",
+    "title": "Familiarization, Internalization, Articulation (FIA) Maps",
+    "aquifer_name": "Maps (SRV)",
+    "version": "1.1.2",
+    "collection_title": "Maps (SRV)",
+    "short_name": "FIA",
+    "license_info": {
+      "title": "Familiarization, Internalization, Articulation (Fia) Maps",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+    "resource_code": "FIAMaps",
+    "date_created": "2026-06-24",
+    "language": "eng",
+    "localizations": [],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2026-06-24T20:08:22.718451"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "FIAMaps": {
+            "timestamp": "2026-06-24T20:08:22.718451"
+          }
+        }
+      },
+      "name": {
+        "en": "Familiarization, Internalization, Articulation (Fia) Maps"
+      },
+      "abbreviation": {
+        "en": "FIA"
+      }
+    },
+    "languages": [
+      {
+        "tag": "en",
+        "name": {
+          "en": "English"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/001.content.json": {
+        "mimeType": "text/json",
+        "size": 4755,
+        "scope": {
+          "a": [
+            "Abram's Journey from Ur to Canaan",
+            "Aerial View of Judea and Jerusalem",
+            "Antioch of Pisidia and Iconium",
+            "Apollos' Journey from Ephesus to Corinth",
+            "Areas Surrounding Jerusalem",
+            "Athens, Thessalonica, and Berea",
+            "Athens to Corinth"
+          ]
+        }
+      },
+      "json/002.content.json": {
+        "mimeType": "text/json",
+        "size": 6691,
+        "scope": {
+          "b": [
+            "Beer Lahai Roi",
+            "Beersheba and Moriah",
+            "Beersheba, Paran and Egypt",
+            "Berea to Athens",
+            "Bethel and Ai",
+            "Bethel to Ephrath",
+            "Bethlehem to Hebron",
+            "Bethlehem to Jerusalem",
+            "Book of Luke: Jerusalem and Environs",
+            "Book of Matthew: Jerusalem and Environs"
+          ]
+        }
+      },
+      "json/003.content.json": {
+        "mimeType": "text/json",
+        "size": 6967,
+        "scope": {
+          "c": [
+            "Caesarea, Joppa and Jerusalem",
+            "Canaan",
+            "Canaan and Egypt",
+            "Canaan to Egypt",
+            "Capernaum on Route from Egypt to Damascus",
+            "Capernaum to Decapolis",
+            "Capernaum to Jerusalem",
+            "Capernaum with Judea and Jordan River",
+            "Conquering Kings from the North",
+            "Cyrene, Alexandria, Cilicia, and Asia"
+          ]
+        }
+      },
+      "json/004.content.json": {
+        "mimeType": "text/json",
+        "size": 1925,
+        "scope": {
+          "d": [
+            "Descendants of Ham",
+            "Descendants of Shem",
+            "Detour to Ephesus"
+          ]
+        }
+      },
+      "json/005.content.json": {
+        "mimeType": "text/json",
+        "size": 6190,
+        "scope": {
+          "e": [
+            "Eastern Mediterranean",
+            "Eastern Mediterranean and Asia Minor",
+            "Edom and Seir",
+            "Edom, Seir, Median, Moab and Bozrah",
+            "Egypt",
+            "Egypt and Midian",
+            "Emmaus",
+            "Ephesus to Miletus",
+            "Ethiopia"
+          ]
+        }
+      },
+      "json/006.content.json": {
+        "mimeType": "text/json",
+        "size": 1413,
+        "scope": {
+          "f": [
+            "First Century Jerusalem",
+            "Four Corners of the World"
+          ]
+        }
+      },
+      "json/007.content.json": {
+        "mimeType": "text/json",
+        "size": 13627,
+        "scope": {
+          "g": [
+            "Galilee",
+            "Galilee and Jerusalem",
+            "Galilee Area with Caesarea Philippi and Capernaum",
+            "Galilee Area with Capernaum",
+            "Galilee Area with Capernaum and Gerasa",
+            "Galilee, Judea, Samaria, and Jerusalem",
+            "Galilee, Judea, Samaria, and Jerusalem in the book of John",
+            "Galilee, Nazareth and Bethlehem",
+            "Galilee Region",
+            "Galilee, Syrian Phoenicia, Gennesaret and Tyre",
+            "Galilee to Jerusalem",
+            "Galilee with Magdala",
+            "Galilee,Judea and Samaria",
+            "Galilee,Judea and Samaria in the book of John",
+            "Garden of Eden",
+            "Gennesaret and Capernaum",
+            "Gerar and Beersheba"
+          ]
+        }
+      },
+      "json/008.content.json": {
+        "mimeType": "text/json",
+        "size": 3277,
+        "scope": {
+          "h": [
+            "Haran and Beersheba",
+            "Haran to Canaan",
+            "Havilah, Shur, Egypt and Assyria",
+            "Hebron, Adullam and Timnah",
+            "Hebron, Canaan, Negev and Beer Lahai Roi"
+          ]
+        }
+      },
+      "json/009.content.json": {
+        "mimeType": "text/json",
+        "size": 9377,
+        "scope": {
+          "i": [
+            "Important Locations in Jerusalem",
+            "Israel",
+            "Israel",
+            "Israel and Phoenicia",
+            "Israel and Surrounding Areas",
+            "Israel, Jordan and Egypt",
+            "Israel, Ninevah and Sheba",
+            "Israel with Galilee and Caesarea Philippi",
+            "Israel with Negeb",
+            "Israel with Ninevah and Sheba",
+            "Israel with region of Galilee, Nazareth, Jerusalem",
+            "Israel with region of Galilee, Nazareth, Jerusalem in the book of John"
+          ]
+        }
+      },
+      "json/010.content.json": {
+        "mimeType": "text/json",
+        "size": 32838,
+        "scope": {
+          "j": [
+            "Jacob's Journey from Beersheba to Haran",
+            "Jacob's Journey from Haran to Beersheba",
+            "Jericho",
+            "Jericho to Jerusalem",
+            "Jerusalem and Bethsaida",
+            "Jerusalem and Cyrene",
+            "Jerusalem and Galilee",
+            "Jerusalem and Galilee region",
+            "Jerusalem and Galilee region in the book of John",
+            "Jerusalem and Gennesaret",
+            "Jerusalem and Hebron",
+            "Jerusalem and Mount of Olives",
+            "Jerusalem and Perea",
+            "Jerusalem and surrounding areas in the Book of John",
+            "Jerusalem and Temple",
+            "Jerusalem Area",
+            "Jerusalem, Bethany and the Temple",
+            "Jerusalem, Bethphage, and Bethany",
+            "Jerusalem, Caesarea and Rome",
+            "Jerusalem, Caesarea and Tarsus",
+            "Jerusalem, Ephraim, Bethany",
+            "Jerusalem, Kidron Valley, and Mount of Olives",
+            "Jerusalem, Lydda and Joppa",
+            "Jerusalem, Lydda, Joppa, and Sharon Plains",
+            "Jerusalem to Bethany",
+            "Jerusalem to Galilee",
+            "Jerusalem to Jericho",
+            "Jesus in Israel",
+            "Jesus' Route from Capernaum to Nain",
+            "Jesus' Travels to Jerusalem",
+            "Jewish Territory of Judah",
+            "John the Baptist",
+            "Jordan River and Wilderness of Judah",
+            "Jordan River featuring Galilee, Judea, Iturea, Traconitis, and Abilene",
+            "Jordan River Valley",
+            "Jordan Valley Region",
+            "Joseph and Mary's Route from Nazareth to Bethlehem",
+            "Joseph and Mary's Route from Nazareth to Jerusalem",
+            "Journey from Paddan Aram to Ephrath",
+            "Judea and Bethany",
+            "Judea and Dead Sea",
+            "Judea and Galilee",
+            "Judea, Antioch and Jerusalem",
+            "Judea, Galilee and Samaria",
+            "Judea, Galilee and Samaria"
+          ]
+        }
+      },
+      "json/011.content.json": {
+        "mimeType": "text/json",
+        "size": 6202,
+        "scope": {
+          "l": [
+            "Lake with Bethsaida and Gennesaret",
+            "Lake with Capernaum and Bethsaida",
+            "Lake with Capernaum and Bethsaida in the book of John",
+            "Land of Nod",
+            "Locations in the Book of Acts",
+            "Locations in the Book of John",
+            "Locations in the Book of Luke",
+            "Locations in the Book of Mark",
+            "Locations in the Book of Matthew"
+          ]
+        }
+      },
+      "json/012.content.json": {
+        "mimeType": "text/json",
+        "size": 6533,
+        "scope": {
+          "m": [
+            "Magdala and Jerusalem",
+            "Malta to Rome",
+            "Mary and Joseph's Journey to Egypt",
+            "Mary's Route from Nazareth to Judea",
+            "Mediterranean and Surrounding Areas",
+            "Mount Ararat",
+            "Mount Gerizim",
+            "Mount Hermon",
+            "Mount of Olives",
+            "Mount Tabor"
+          ]
+        }
+      },
+      "json/013.content.json": {
+        "mimeType": "text/json",
+        "size": 3383,
+        "scope": {
+          "n": [
+            "Nazareth",
+            "Nazareth and Capernaum in Galilee",
+            "Nazareth and Judea",
+            "Nazareth to Capernaum",
+            "Negeb Area"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
+        "size": 632,
+        "scope": {
+          "o": [
+            "Oaks of Mamre"
+          ]
+        }
+      },
+      "json/015.content.json": {
+        "mimeType": "text/json",
+        "size": 17205,
+        "scope": {
+          "p": [
+            "Paddan-Aram and Surrounding Areas",
+            "Palestine",
+            "Paul and Apollos' Travels",
+            "Paul and Barnabas at Iconium",
+            "Paul and Barnabas' Journey to Antioch in Pisidia",
+            "Paul and Barnabas'Journey",
+            "Paul's Journey from Caesarea to Phrygia",
+            "Paul's Journey from Corinth to Caesarea",
+            "Paul's Journey from Syrian Antioch to Jerusalem",
+            "Paul's Journey to Corinth",
+            "Paul's Journey to Jerusalem",
+            "Paul's Journey to Macedonia",
+            "Paul's Journey to Rome",
+            "Paul's Second Missionary Journey",
+            "Paul's Third Missionary Journey",
+            "Paul's Voyage to Rome",
+            "Paul's Voyage to Rome via Fair Havens",
+            "People Groups Between Egypt and the Euphrates",
+            "Peter's Journey to Caesarea",
+            "Peter's Journeys",
+            "Philip's Journey to the Capital of Samaria",
+            "Philip's Journey to the Desert Road and to Gaza",
+            "Pilate's House",
+            "Pontus and Italy",
+            "Prophets and Teachers in Antioch"
+          ]
+        }
+      },
+      "json/016.content.json": {
+        "mimeType": "text/json",
+        "size": 5420,
+        "scope": {
+          "r": [
+            "Rebel Kings in the South",
+            "Region of Judea",
+            "Region of Seir",
+            "Region of the Gerasenes to Capernaum",
+            "Road to Shur",
+            "Roman Empire 45–47 AD",
+            "Roman Empire up to Persia",
+            "Route from Bethsaida to Caeserea Philippi"
+          ]
+        }
+      },
+      "json/017.content.json": {
+        "mimeType": "text/json",
+        "size": 10492,
+        "scope": {
+          "s": [
+            "Sailing Route from Corinth to Syria",
+            "Saul and Barnabus in Cyprus",
+            "Saul's Route to Damascus",
+            "Sea of Galilee Western Side",
+            "Sea of Galilee with Bethsaida",
+            "Sea of Galilee with Capernaum and Decapolis",
+            "Shechem to Bethel",
+            "Shinar Region",
+            "Sidon",
+            "Sidon and Syria",
+            "Small-Scale City Plan of Jerusalem",
+            "Sodom",
+            "Sodom, Gomorrah and Great Oaks of Mamre",
+            "Springs of Aenon near Salim",
+            "Sychar"
+          ]
+        }
+      },
+      "json/018.content.json": {
+        "mimeType": "text/json",
+        "size": 5538,
+        "scope": {
+          "t": [
+            "Territory of Herod Agrippa",
+            "Territory of Herod Antipas",
+            "Territory of Pilate",
+            "Thessalonica to Berea",
+            "Troas to Assos",
+            "Troas to Miletus",
+            "Tyre, Sidon and The Sea of Galilee",
+            "Tyre, Sidon and The Sea of Galilee"
+          ]
+        }
+      },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 1394,
+        "scope": {
+          "u": [
+            "Ur, Haran, and Canaan",
+            "Ur of the Chaldeans"
+          ]
+        }
+      },
+      "json/020.content.json": {
+        "mimeType": "text/json",
+        "size": 636,
+        "scope": {
+          "v": [
+            "Valley of Shaveh"
+          ]
+        }
+      },
+      "json/021.content.json": {
+        "mimeType": "text/json",
+        "size": 685,
+        "scope": {
+          "w": [
+            "Wide View of Locations in Book of Genesis"
+          ]
+        }
+      },
+      "json/022.content.json": {
+        "mimeType": "text/json",
+        "size": 2748,
+        "scope": {
+          "z": [
+            "Zoomed in View of Locations in the Book of Genesis",
+            "Zoomed Out View of the Book of Luke",
+            "Zoomed Out View of the Book of Matthew",
+            "Zoomed-Out View of Locations in the Book of Acts"
+          ]
+        }
+      },
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4891
+      },
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12228
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10985
+      },
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7655
+      },
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8148
+      },
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10127
+      },
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1317
+      },
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16451
+      },
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 47030
+      },
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13795
+      },
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11329
+      },
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1328
+      },
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9227
+      },
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 29564
+      },
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17403
+      },
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2165
+      },
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8625
+      },
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1110
+      },
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5983
+      },
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4217
+      },
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3213
+      },
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6999
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Familiarization, Internalization, Articulation (Fia) Maps © 2023 Biblica Inc..</p>",
+          "mimetype": "text/html",
+          "lang": "en"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "c37": {
+      "content_id": "c37",
+      "reference_id": 0,
+      "index_reference": "abrams journey from ur to canaan",
+      "localizations": {}
+    },
+    "c201": {
+      "content_id": "c201",
+      "reference_id": 0,
+      "index_reference": "aerial view of judea and jerusalem",
+      "localizations": {}
+    },
+    "c89": {
+      "content_id": "c89",
+      "reference_id": 0,
+      "index_reference": "antioch of pisidia and iconium",
+      "localizations": {}
+    },
+    "c232": {
+      "content_id": "c232",
+      "reference_id": 0,
+      "index_reference": "apollos journey from ephesus to corinth",
+      "localizations": {}
+    },
+    "c170": {
+      "content_id": "c170",
+      "reference_id": 0,
+      "index_reference": "areas surrounding jerusalem",
+      "localizations": {}
+    },
+    "c126": {
+      "content_id": "c126",
+      "reference_id": 0,
+      "index_reference": "athens to corinth",
+      "localizations": {}
+    },
+    "c124": {
+      "content_id": "c124",
+      "reference_id": 0,
+      "index_reference": "athens thessalonica and berea",
+      "localizations": {}
+    },
+    "c66": {
+      "content_id": "c66",
+      "reference_id": 0,
+      "index_reference": "beer lahai roi",
+      "localizations": {}
+    },
+    "c157": {
+      "content_id": "c157",
+      "reference_id": 0,
+      "index_reference": "beersheba and moriah",
+      "localizations": {}
+    },
+    "c155": {
+      "content_id": "c155",
+      "reference_id": 0,
+      "index_reference": "beersheba paran and egypt",
+      "localizations": {}
+    },
+    "c117": {
+      "content_id": "c117",
+      "reference_id": 0,
+      "index_reference": "berea to athens",
+      "localizations": {}
+    },
+    "c38": {
+      "content_id": "c38",
+      "reference_id": 0,
+      "index_reference": "bethel and ai",
+      "localizations": {}
+    },
+    "c106": {
+      "content_id": "c106",
+      "reference_id": 0,
+      "index_reference": "bethel to ephrath",
+      "localizations": {}
+    },
+    "c111": {
+      "content_id": "c111",
+      "reference_id": 0,
+      "index_reference": "bethlehem to hebron",
+      "localizations": {}
+    },
+    "c94": {
+      "content_id": "c94",
+      "reference_id": 0,
+      "index_reference": "bethlehem to jerusalem",
+      "localizations": {}
+    },
+    "c211": {
+      "content_id": "c211",
+      "reference_id": 0,
+      "index_reference": "book of luke jerusalem and environs",
+      "localizations": {}
+    },
+    "c213": {
+      "content_id": "c213",
+      "reference_id": 0,
+      "index_reference": "book of matthew jerusalem and environs",
+      "localizations": {}
+    },
+    "c55": {
+      "content_id": "c55",
+      "reference_id": 0,
+      "index_reference": "caesarea joppa and jerusalem",
+      "localizations": {}
+    },
+    "c75": {
+      "content_id": "c75",
+      "reference_id": 0,
+      "index_reference": "canaan",
+      "localizations": {}
+    },
+    "c164": {
+      "content_id": "c164",
+      "reference_id": 0,
+      "index_reference": "canaan and egypt",
+      "localizations": {}
+    },
+    "c40": {
+      "content_id": "c40",
+      "reference_id": 0,
+      "index_reference": "canaan to egypt",
+      "localizations": {}
+    },
+    "c1": {
+      "content_id": "c1",
+      "reference_id": 0,
+      "index_reference": "capernaum on route from egypt to damascus",
+      "localizations": {}
+    },
+    "c54": {
+      "content_id": "c54",
+      "reference_id": 0,
+      "index_reference": "capernaum to decapolis",
+      "localizations": {}
+    },
+    "c82": {
+      "content_id": "c82",
+      "reference_id": 0,
+      "index_reference": "capernaum to jerusalem",
+      "localizations": {}
+    },
+    "c5": {
+      "content_id": "c5",
+      "reference_id": 0,
+      "index_reference": "capernaum with judea and jordan river",
+      "localizations": {}
+    },
+    "c56": {
+      "content_id": "c56",
+      "reference_id": 0,
+      "index_reference": "conquering kings from the north",
+      "localizations": {}
+    },
+    "c178": {
+      "content_id": "c178",
+      "reference_id": 0,
+      "index_reference": "cyrene alexandria cilicia and asia",
+      "localizations": {}
+    },
+    "c62": {
+      "content_id": "c62",
+      "reference_id": 0,
+      "index_reference": "descendants of ham",
+      "localizations": {}
+    },
+    "c63": {
+      "content_id": "c63",
+      "reference_id": 0,
+      "index_reference": "descendants of shem",
+      "localizations": {}
+    },
+    "c166": {
+      "content_id": "c166",
+      "reference_id": 0,
+      "index_reference": "detour to ephesus",
+      "localizations": {}
+    },
+    "c30": {
+      "content_id": "c30",
+      "reference_id": 0,
+      "index_reference": "eastern mediterranean",
+      "localizations": {}
+    },
+    "c61": {
+      "content_id": "c61",
+      "reference_id": 0,
+      "index_reference": "eastern mediterranean and asia minor",
+      "localizations": {}
+    },
+    "c88": {
+      "content_id": "c88",
+      "reference_id": 0,
+      "index_reference": "edom and seir",
+      "localizations": {}
+    },
+    "c114": {
+      "content_id": "c114",
+      "reference_id": 0,
+      "index_reference": "edom seir median moab and bozrah",
+      "localizations": {}
+    },
+    "c147": {
+      "content_id": "c147",
+      "reference_id": 0,
+      "index_reference": "egypt",
+      "localizations": {}
+    },
+    "c165": {
+      "content_id": "c165",
+      "reference_id": 0,
+      "index_reference": "egypt and midian",
+      "localizations": {}
+    },
+    "c139": {
+      "content_id": "c139",
+      "reference_id": 0,
+      "index_reference": "emmaus",
+      "localizations": {}
+    },
+    "c161": {
+      "content_id": "c161",
+      "reference_id": 0,
+      "index_reference": "ephesus to miletus",
+      "localizations": {}
+    },
+    "c153": {
+      "content_id": "c153",
+      "reference_id": 0,
+      "index_reference": "ethiopia",
+      "localizations": {}
+    },
+    "c132": {
+      "content_id": "c132",
+      "reference_id": 0,
+      "index_reference": "first century jerusalem",
+      "localizations": {}
+    },
+    "c175": {
+      "content_id": "c175",
+      "reference_id": 0,
+      "index_reference": "four corners of the world",
+      "localizations": {}
+    },
+    "c142": {
+      "content_id": "c142",
+      "reference_id": 0,
+      "index_reference": "galilee",
+      "localizations": {}
+    },
+    "c4": {
+      "content_id": "c4",
+      "reference_id": 0,
+      "index_reference": "galilee area with caesarea philippi and capernaum",
+      "localizations": {}
+    },
+    "c2": {
+      "content_id": "c2",
+      "reference_id": 0,
+      "index_reference": "galilee area with capernaum",
+      "localizations": {}
+    },
+    "c3": {
+      "content_id": "c3",
+      "reference_id": 0,
+      "index_reference": "galilee area with capernaum and gerasa",
+      "localizations": {}
+    },
+    "c115": {
+      "content_id": "c115",
+      "reference_id": 0,
+      "index_reference": "galilee region",
+      "localizations": {}
+    },
+    "c221": {
+      "content_id": "c221",
+      "reference_id": 0,
+      "index_reference": "galilee and jerusalem",
+      "localizations": {}
+    },
+    "c107": {
+      "content_id": "c107",
+      "reference_id": 0,
+      "index_reference": "galilee to jerusalem",
+      "localizations": {}
+    },
+    "c21": {
+      "content_id": "c21",
+      "reference_id": 0,
+      "index_reference": "galilee with magdala",
+      "localizations": {}
+    },
+    "c76": {
+      "content_id": "c76",
+      "reference_id": 0,
+      "index_reference": "galilee judea samaria and jerusalem",
+      "localizations": {}
+    },
+    "c252": {
+      "content_id": "c252",
+      "reference_id": 0,
+      "index_reference": "galilee judea samaria and jerusalem in the book of john",
+      "localizations": {}
+    },
+    "c171": {
+      "content_id": "c171",
+      "reference_id": 0,
+      "index_reference": "galilee nazareth and bethlehem",
+      "localizations": {}
+    },
+    "c6": {
+      "content_id": "c6",
+      "reference_id": 0,
+      "index_reference": "galilee syrian phoenicia gennesaret and tyre",
+      "localizations": {}
+    },
+    "c113": {
+      "content_id": "c113",
+      "reference_id": 0,
+      "index_reference": "galileejudea and samaria",
+      "localizations": {}
+    },
+    "c253": {
+      "content_id": "c253",
+      "reference_id": 0,
+      "index_reference": "galileejudea and samaria in the book of john",
+      "localizations": {}
+    },
+    "c47": {
+      "content_id": "c47",
+      "reference_id": 0,
+      "index_reference": "garden of eden",
+      "localizations": {}
+    },
+    "c28": {
+      "content_id": "c28",
+      "reference_id": 0,
+      "index_reference": "gennesaret and capernaum",
+      "localizations": {}
+    },
+    "c92": {
+      "content_id": "c92",
+      "reference_id": 0,
+      "index_reference": "gerar and beersheba",
+      "localizations": {}
+    },
+    "c158": {
+      "content_id": "c158",
+      "reference_id": 0,
+      "index_reference": "haran and beersheba",
+      "localizations": {}
+    },
+    "c39": {
+      "content_id": "c39",
+      "reference_id": 0,
+      "index_reference": "haran to canaan",
+      "localizations": {}
+    },
+    "c67": {
+      "content_id": "c67",
+      "reference_id": 0,
+      "index_reference": "havilah shur egypt and assyria",
+      "localizations": {}
+    },
+    "c120": {
+      "content_id": "c120",
+      "reference_id": 0,
+      "index_reference": "hebron adullam and timnah",
+      "localizations": {}
+    },
+    "c108": {
+      "content_id": "c108",
+      "reference_id": 0,
+      "index_reference": "hebron canaan negev and beer lahai roi",
+      "localizations": {}
+    },
+    "c202": {
+      "content_id": "c202",
+      "reference_id": 0,
+      "index_reference": "important locations in jerusalem",
+      "localizations": {}
+    },
+    "c7": {
+      "content_id": "c7",
+      "reference_id": 0,
+      "index_reference": "israel",
+      "localizations": {}
+    },
+    "c176": {
+      "content_id": "c176",
+      "reference_id": 0,
+      "index_reference": "israel",
+      "localizations": {}
+    },
+    "c123": {
+      "content_id": "c123",
+      "reference_id": 0,
+      "index_reference": "israel and phoenicia",
+      "localizations": {}
+    },
+    "c140": {
+      "content_id": "c140",
+      "reference_id": 0,
+      "index_reference": "israel and surrounding areas",
+      "localizations": {}
+    },
+    "c125": {
+      "content_id": "c125",
+      "reference_id": 0,
+      "index_reference": "israel with galilee and caesarea philippi",
+      "localizations": {}
+    },
+    "c97": {
+      "content_id": "c97",
+      "reference_id": 0,
+      "index_reference": "israel with negeb",
+      "localizations": {}
+    },
+    "c118": {
+      "content_id": "c118",
+      "reference_id": 0,
+      "index_reference": "israel with ninevah and sheba",
+      "localizations": {}
+    },
+    "c20": {
+      "content_id": "c20",
+      "reference_id": 0,
+      "index_reference": "israel with region of galilee nazareth jerusalem",
+      "localizations": {}
+    },
+    "c251": {
+      "content_id": "c251",
+      "reference_id": 0,
+      "index_reference": "israel with region of galilee nazareth jerusalem in the book of john",
+      "localizations": {}
+    },
+    "c119": {
+      "content_id": "c119",
+      "reference_id": 0,
+      "index_reference": "israel jordan and egypt",
+      "localizations": {}
+    },
+    "c78": {
+      "content_id": "c78",
+      "reference_id": 0,
+      "index_reference": "israel ninevah and sheba",
+      "localizations": {}
+    },
+    "c72": {
+      "content_id": "c72",
+      "reference_id": 0,
+      "index_reference": "jacobs journey from beersheba to haran",
+      "localizations": {}
+    },
+    "c81": {
+      "content_id": "c81",
+      "reference_id": 0,
+      "index_reference": "jacobs journey from haran to beersheba",
+      "localizations": {}
+    },
+    "c110": {
+      "content_id": "c110",
+      "reference_id": 0,
+      "index_reference": "jericho",
+      "localizations": {}
+    },
+    "c200": {
+      "content_id": "c200",
+      "reference_id": 0,
+      "index_reference": "jericho to jerusalem",
+      "localizations": {}
+    },
+    "c144": {
+      "content_id": "c144",
+      "reference_id": 0,
+      "index_reference": "jerusalem area",
+      "localizations": {}
+    },
+    "c181": {
+      "content_id": "c181",
+      "reference_id": 0,
+      "index_reference": "jerusalem and bethsaida",
+      "localizations": {}
+    },
+    "c127": {
+      "content_id": "c127",
+      "reference_id": 0,
+      "index_reference": "jerusalem and cyrene",
+      "localizations": {}
+    },
+    "c25": {
+      "content_id": "c25",
+      "reference_id": 0,
+      "index_reference": "jerusalem and galilee",
+      "localizations": {}
+    },
+    "c19": {
+      "content_id": "c19",
+      "reference_id": 0,
+      "index_reference": "jerusalem and galilee region",
+      "localizations": {}
+    },
+    "c250": {
+      "content_id": "c250",
+      "reference_id": 0,
+      "index_reference": "jerusalem and galilee region in the book of john",
+      "localizations": {}
+    },
+    "c122": {
+      "content_id": "c122",
+      "reference_id": 0,
+      "index_reference": "jerusalem and gennesaret",
+      "localizations": {}
+    },
+    "c52": {
+      "content_id": "c52",
+      "reference_id": 0,
+      "index_reference": "jerusalem and hebron",
+      "localizations": {}
+    },
+    "c138": {
+      "content_id": "c138",
+      "reference_id": 0,
+      "index_reference": "jerusalem and mount of olives",
+      "localizations": {}
+    },
+    "c177": {
+      "content_id": "c177",
+      "reference_id": 0,
+      "index_reference": "jerusalem and perea",
+      "localizations": {}
+    },
+    "c188": {
+      "content_id": "c188",
+      "reference_id": 0,
+      "index_reference": "jerusalem and temple",
+      "localizations": {}
+    },
+    "c214": {
+      "content_id": "c214",
+      "reference_id": 0,
+      "index_reference": "jerusalem and surrounding areas in the book of john",
+      "localizations": {}
+    },
+    "c218": {
+      "content_id": "c218",
+      "reference_id": 0,
+      "index_reference": "jerusalem to bethany",
+      "localizations": {}
+    },
+    "c148": {
+      "content_id": "c148",
+      "reference_id": 0,
+      "index_reference": "jerusalem to galilee",
+      "localizations": {}
+    },
+    "c77": {
+      "content_id": "c77",
+      "reference_id": 0,
+      "index_reference": "jerusalem to jericho",
+      "localizations": {}
+    },
+    "c8": {
+      "content_id": "c8",
+      "reference_id": 0,
+      "index_reference": "jerusalem bethany and the temple",
+      "localizations": {}
+    },
+    "c9": {
+      "content_id": "c9",
+      "reference_id": 0,
+      "index_reference": "jerusalem bethphage and bethany",
+      "localizations": {}
+    },
+    "c95": {
+      "content_id": "c95",
+      "reference_id": 0,
+      "index_reference": "jerusalem caesarea and rome",
+      "localizations": {}
+    },
+    "c49": {
+      "content_id": "c49",
+      "reference_id": 0,
+      "index_reference": "jerusalem caesarea and tarsus",
+      "localizations": {}
+    },
+    "c179": {
+      "content_id": "c179",
+      "reference_id": 0,
+      "index_reference": "jerusalem ephraim bethany",
+      "localizations": {}
+    },
+    "c227": {
+      "content_id": "c227",
+      "reference_id": 0,
+      "index_reference": "jerusalem kidron valley and mount of olives",
+      "localizations": {}
+    },
+    "c51": {
+      "content_id": "c51",
+      "reference_id": 0,
+      "index_reference": "jerusalem lydda and joppa",
+      "localizations": {}
+    },
+    "c53": {
+      "content_id": "c53",
+      "reference_id": 0,
+      "index_reference": "jerusalem lydda joppa and sharon plains",
+      "localizations": {}
+    },
+    "c90": {
+      "content_id": "c90",
+      "reference_id": 0,
+      "index_reference": "jesus in israel",
+      "localizations": {}
+    },
+    "c33": {
+      "content_id": "c33",
+      "reference_id": 0,
+      "index_reference": "jesus route from capernaum to nain",
+      "localizations": {}
+    },
+    "c196": {
+      "content_id": "c196",
+      "reference_id": 0,
+      "index_reference": "jesus travels to jerusalem",
+      "localizations": {}
+    },
+    "c45": {
+      "content_id": "c45",
+      "reference_id": 0,
+      "index_reference": "jewish territory of judah",
+      "localizations": {}
+    },
+    "c169": {
+      "content_id": "c169",
+      "reference_id": 0,
+      "index_reference": "john the baptist",
+      "localizations": {}
+    },
+    "c255": {
+      "content_id": "c255",
+      "reference_id": 0,
+      "index_reference": "jordan river valley",
+      "localizations": {}
+    },
+    "c24": {
+      "content_id": "c24",
+      "reference_id": 0,
+      "index_reference": "jordan river and wilderness of judah",
+      "localizations": {}
+    },
+    "c23": {
+      "content_id": "c23",
+      "reference_id": 0,
+      "index_reference": "jordan river featuring galilee judea iturea traconitis and abilene",
+      "localizations": {}
+    },
+    "c64": {
+      "content_id": "c64",
+      "reference_id": 0,
+      "index_reference": "jordan valley region",
+      "localizations": {}
+    },
+    "c13": {
+      "content_id": "c13",
+      "reference_id": 0,
+      "index_reference": "joseph and marys route from nazareth to bethlehem",
+      "localizations": {}
+    },
+    "c22": {
+      "content_id": "c22",
+      "reference_id": 0,
+      "index_reference": "joseph and marys route from nazareth to jerusalem",
+      "localizations": {}
+    },
+    "c215": {
+      "content_id": "c215",
+      "reference_id": 0,
+      "index_reference": "journey from paddan aram to ephrath",
+      "localizations": {}
+    },
+    "c180": {
+      "content_id": "c180",
+      "reference_id": 0,
+      "index_reference": "judea and bethany",
+      "localizations": {}
+    },
+    "c128": {
+      "content_id": "c128",
+      "reference_id": 0,
+      "index_reference": "judea and dead sea",
+      "localizations": {}
+    },
+    "c189": {
+      "content_id": "c189",
+      "reference_id": 0,
+      "index_reference": "judea and galilee",
+      "localizations": {}
+    },
+    "c31": {
+      "content_id": "c31",
+      "reference_id": 0,
+      "index_reference": "judea antioch and jerusalem",
+      "localizations": {}
+    },
+    "c50": {
+      "content_id": "c50",
+      "reference_id": 0,
+      "index_reference": "judea galilee and samaria",
+      "localizations": {}
+    },
+    "c185": {
+      "content_id": "c185",
+      "reference_id": 0,
+      "index_reference": "judea galilee and samaria",
+      "localizations": {}
+    },
+    "c11": {
+      "content_id": "c11",
+      "reference_id": 0,
+      "index_reference": "lake with bethsaida and gennesaret",
+      "localizations": {}
+    },
+    "c12": {
+      "content_id": "c12",
+      "reference_id": 0,
+      "index_reference": "lake with capernaum and bethsaida",
+      "localizations": {}
+    },
+    "c249": {
+      "content_id": "c249",
+      "reference_id": 0,
+      "index_reference": "lake with capernaum and bethsaida in the book of john",
+      "localizations": {}
+    },
+    "c162": {
+      "content_id": "c162",
+      "reference_id": 0,
+      "index_reference": "land of nod",
+      "localizations": {}
+    },
+    "c207": {
+      "content_id": "c207",
+      "reference_id": 0,
+      "index_reference": "locations in the book of acts",
+      "localizations": {}
+    },
+    "c206": {
+      "content_id": "c206",
+      "reference_id": 0,
+      "index_reference": "locations in the book of john",
+      "localizations": {}
+    },
+    "c203": {
+      "content_id": "c203",
+      "reference_id": 0,
+      "index_reference": "locations in the book of luke",
+      "localizations": {}
+    },
+    "c197": {
+      "content_id": "c197",
+      "reference_id": 0,
+      "index_reference": "locations in the book of mark",
+      "localizations": {}
+    },
+    "c205": {
+      "content_id": "c205",
+      "reference_id": 0,
+      "index_reference": "locations in the book of matthew",
+      "localizations": {}
+    },
+    "c130": {
+      "content_id": "c130",
+      "reference_id": 0,
+      "index_reference": "magdala and jerusalem",
+      "localizations": {}
+    },
+    "c131": {
+      "content_id": "c131",
+      "reference_id": 0,
+      "index_reference": "malta to rome",
+      "localizations": {}
+    },
+    "c79": {
+      "content_id": "c79",
+      "reference_id": 0,
+      "index_reference": "mary and josephs journey to egypt",
+      "localizations": {}
+    },
+    "c17": {
+      "content_id": "c17",
+      "reference_id": 0,
+      "index_reference": "marys route from nazareth to judea",
+      "localizations": {}
+    },
+    "c184": {
+      "content_id": "c184",
+      "reference_id": 0,
+      "index_reference": "mediterranean and surrounding areas",
+      "localizations": {}
+    },
+    "c43": {
+      "content_id": "c43",
+      "reference_id": 0,
+      "index_reference": "mount ararat",
+      "localizations": {}
+    },
+    "c149": {
+      "content_id": "c149",
+      "reference_id": 0,
+      "index_reference": "mount gerizim",
+      "localizations": {}
+    },
+    "c69": {
+      "content_id": "c69",
+      "reference_id": 0,
+      "index_reference": "mount hermon",
+      "localizations": {}
+    },
+    "c104": {
+      "content_id": "c104",
+      "reference_id": 0,
+      "index_reference": "mount tabor",
+      "localizations": {}
+    },
+    "c145": {
+      "content_id": "c145",
+      "reference_id": 0,
+      "index_reference": "mount of olives",
+      "localizations": {}
+    },
+    "c10": {
+      "content_id": "c10",
+      "reference_id": 0,
+      "index_reference": "nazareth",
+      "localizations": {}
+    },
+    "c83": {
+      "content_id": "c83",
+      "reference_id": 0,
+      "index_reference": "nazareth and capernaum in galilee",
+      "localizations": {}
+    },
+    "c168": {
+      "content_id": "c168",
+      "reference_id": 0,
+      "index_reference": "nazareth and judea",
+      "localizations": {}
+    },
+    "c27": {
+      "content_id": "c27",
+      "reference_id": 0,
+      "index_reference": "nazareth to capernaum",
+      "localizations": {}
+    },
+    "c154": {
+      "content_id": "c154",
+      "reference_id": 0,
+      "index_reference": "negeb area",
+      "localizations": {}
+    },
+    "c187": {
+      "content_id": "c187",
+      "reference_id": 0,
+      "index_reference": "oaks of mamre",
+      "localizations": {}
+    },
+    "c68": {
+      "content_id": "c68",
+      "reference_id": 0,
+      "index_reference": "paddanaram and surrounding areas",
+      "localizations": {}
+    },
+    "c29": {
+      "content_id": "c29",
+      "reference_id": 0,
+      "index_reference": "palestine",
+      "localizations": {}
+    },
+    "c105": {
+      "content_id": "c105",
+      "reference_id": 0,
+      "index_reference": "paul and apollos travels",
+      "localizations": {}
+    },
+    "c91": {
+      "content_id": "c91",
+      "reference_id": 0,
+      "index_reference": "paul and barnabas at iconium",
+      "localizations": {}
+    },
+    "c85": {
+      "content_id": "c85",
+      "reference_id": 0,
+      "index_reference": "paul and barnabas journey to antioch in pisidia",
+      "localizations": {}
+    },
+    "c167": {
+      "content_id": "c167",
+      "reference_id": 0,
+      "index_reference": "paul and barnabasjourney",
+      "localizations": {}
+    },
+    "c231": {
+      "content_id": "c231",
+      "reference_id": 0,
+      "index_reference": "pauls journey from caesarea to phrygia",
+      "localizations": {}
+    },
+    "c230": {
+      "content_id": "c230",
+      "reference_id": 0,
+      "index_reference": "pauls journey from corinth to caesarea",
+      "localizations": {}
+    },
+    "c223": {
+      "content_id": "c223",
+      "reference_id": 0,
+      "index_reference": "pauls journey from syrian antioch to jerusalem",
+      "localizations": {}
+    },
+    "c134": {
+      "content_id": "c134",
+      "reference_id": 0,
+      "index_reference": "pauls journey to corinth",
+      "localizations": {}
+    },
+    "c133": {
+      "content_id": "c133",
+      "reference_id": 0,
+      "index_reference": "pauls journey to jerusalem",
+      "localizations": {}
+    },
+    "c135": {
+      "content_id": "c135",
+      "reference_id": 0,
+      "index_reference": "pauls journey to macedonia",
+      "localizations": {}
+    },
+    "c109": {
+      "content_id": "c109",
+      "reference_id": 0,
+      "index_reference": "pauls journey to rome",
+      "localizations": {}
+    },
+    "c236": {
+      "content_id": "c236",
+      "reference_id": 0,
+      "index_reference": "pauls second missionary journey",
+      "localizations": {}
+    },
+    "c42": {
+      "content_id": "c42",
+      "reference_id": 0,
+      "index_reference": "pauls third missionary journey",
+      "localizations": {}
+    },
+    "c93": {
+      "content_id": "c93",
+      "reference_id": 0,
+      "index_reference": "pauls voyage to rome",
+      "localizations": {}
+    },
+    "c156": {
+      "content_id": "c156",
+      "reference_id": 0,
+      "index_reference": "pauls voyage to rome via fair havens",
+      "localizations": {}
+    },
+    "c59": {
+      "content_id": "c59",
+      "reference_id": 0,
+      "index_reference": "people groups between egypt and the euphrates",
+      "localizations": {}
+    },
+    "c216": {
+      "content_id": "c216",
+      "reference_id": 0,
+      "index_reference": "peters journey to caesarea",
+      "localizations": {}
+    },
+    "c99": {
+      "content_id": "c99",
+      "reference_id": 0,
+      "index_reference": "peters journeys",
+      "localizations": {}
+    },
+    "c151": {
+      "content_id": "c151",
+      "reference_id": 0,
+      "index_reference": "philips journey to the capital of samaria",
+      "localizations": {}
+    },
+    "c152": {
+      "content_id": "c152",
+      "reference_id": 0,
+      "index_reference": "philips journey to the desert road and to gaza",
+      "localizations": {}
+    },
+    "c141": {
+      "content_id": "c141",
+      "reference_id": 0,
+      "index_reference": "pilates house",
+      "localizations": {}
+    },
+    "c190": {
+      "content_id": "c190",
+      "reference_id": 0,
+      "index_reference": "pontus and italy",
+      "localizations": {}
+    },
+    "c70": {
+      "content_id": "c70",
+      "reference_id": 0,
+      "index_reference": "prophets and teachers in antioch",
+      "localizations": {}
+    },
+    "c57": {
+      "content_id": "c57",
+      "reference_id": 0,
+      "index_reference": "rebel kings in the south",
+      "localizations": {}
+    },
+    "c146": {
+      "content_id": "c146",
+      "reference_id": 0,
+      "index_reference": "region of judea",
+      "localizations": {}
+    },
+    "c112": {
+      "content_id": "c112",
+      "reference_id": 0,
+      "index_reference": "region of seir",
+      "localizations": {}
+    },
+    "c65": {
+      "content_id": "c65",
+      "reference_id": 0,
+      "index_reference": "region of the gerasenes to capernaum",
+      "localizations": {}
+    },
+    "c60": {
+      "content_id": "c60",
+      "reference_id": 0,
+      "index_reference": "road to shur",
+      "localizations": {}
+    },
+    "c32": {
+      "content_id": "c32",
+      "reference_id": 0,
+      "index_reference": "roman empire 4547 ad",
+      "localizations": {}
+    },
+    "c74": {
+      "content_id": "c74",
+      "reference_id": 0,
+      "index_reference": "roman empire up to persia",
+      "localizations": {}
+    },
+    "c14": {
+      "content_id": "c14",
+      "reference_id": 0,
+      "index_reference": "route from bethsaida to caeserea philippi",
+      "localizations": {}
+    },
+    "c191": {
+      "content_id": "c191",
+      "reference_id": 0,
+      "index_reference": "sailing route from corinth to syria",
+      "localizations": {}
+    },
+    "c71": {
+      "content_id": "c71",
+      "reference_id": 0,
+      "index_reference": "saul and barnabus in cyprus",
+      "localizations": {}
+    },
+    "c48": {
+      "content_id": "c48",
+      "reference_id": 0,
+      "index_reference": "sauls route to damascus",
+      "localizations": {}
+    },
+    "c86": {
+      "content_id": "c86",
+      "reference_id": 0,
+      "index_reference": "sea of galilee western side",
+      "localizations": {}
+    },
+    "c16": {
+      "content_id": "c16",
+      "reference_id": 0,
+      "index_reference": "sea of galilee with bethsaida",
+      "localizations": {}
+    },
+    "c195": {
+      "content_id": "c195",
+      "reference_id": 0,
+      "index_reference": "sea of galilee with capernaum and decapolis",
+      "localizations": {}
+    },
+    "c98": {
+      "content_id": "c98",
+      "reference_id": 0,
+      "index_reference": "shechem to bethel",
+      "localizations": {}
+    },
+    "c41": {
+      "content_id": "c41",
+      "reference_id": 0,
+      "index_reference": "shinar region",
+      "localizations": {}
+    },
+    "c137": {
+      "content_id": "c137",
+      "reference_id": 0,
+      "index_reference": "sidon",
+      "localizations": {}
+    },
+    "c26": {
+      "content_id": "c26",
+      "reference_id": 0,
+      "index_reference": "sidon and syria",
+      "localizations": {}
+    },
+    "c256": {
+      "content_id": "c256",
+      "reference_id": 0,
+      "index_reference": "smallscale city plan of jerusalem",
+      "localizations": {}
+    },
+    "c103": {
+      "content_id": "c103",
+      "reference_id": 0,
+      "index_reference": "sodom",
+      "localizations": {}
+    },
+    "c150": {
+      "content_id": "c150",
+      "reference_id": 0,
+      "index_reference": "sodom gomorrah and great oaks of mamre",
+      "localizations": {}
+    },
+    "c226": {
+      "content_id": "c226",
+      "reference_id": 0,
+      "index_reference": "springs of aenon near salim",
+      "localizations": {}
+    },
+    "c143": {
+      "content_id": "c143",
+      "reference_id": 0,
+      "index_reference": "sychar",
+      "localizations": {}
+    },
+    "c35": {
+      "content_id": "c35",
+      "reference_id": 0,
+      "index_reference": "territory of herod agrippa",
+      "localizations": {}
+    },
+    "c87": {
+      "content_id": "c87",
+      "reference_id": 0,
+      "index_reference": "territory of herod antipas",
+      "localizations": {}
+    },
+    "c121": {
+      "content_id": "c121",
+      "reference_id": 0,
+      "index_reference": "territory of pilate",
+      "localizations": {}
+    },
+    "c116": {
+      "content_id": "c116",
+      "reference_id": 0,
+      "index_reference": "thessalonica to berea",
+      "localizations": {}
+    },
+    "c159": {
+      "content_id": "c159",
+      "reference_id": 0,
+      "index_reference": "troas to assos",
+      "localizations": {}
+    },
+    "c160": {
+      "content_id": "c160",
+      "reference_id": 0,
+      "index_reference": "troas to miletus",
+      "localizations": {}
+    },
+    "c18": {
+      "content_id": "c18",
+      "reference_id": 0,
+      "index_reference": "tyre sidon and the sea of galilee",
+      "localizations": {}
+    },
+    "c34": {
+      "content_id": "c34",
+      "reference_id": 0,
+      "index_reference": "tyre sidon and the sea of galilee",
+      "localizations": {}
+    },
+    "c36": {
+      "content_id": "c36",
+      "reference_id": 0,
+      "index_reference": "ur of the chaldeans",
+      "localizations": {}
+    },
+    "c163": {
+      "content_id": "c163",
+      "reference_id": 0,
+      "index_reference": "ur haran and canaan",
+      "localizations": {}
+    },
+    "c58": {
+      "content_id": "c58",
+      "reference_id": 0,
+      "index_reference": "valley of shaveh",
+      "localizations": {}
+    },
+    "c209": {
+      "content_id": "c209",
+      "reference_id": 0,
+      "index_reference": "wide view of locations in book of genesis",
+      "localizations": {}
+    },
+    "c210": {
+      "content_id": "c210",
+      "reference_id": 0,
+      "index_reference": "zoomed out view of the book of luke",
+      "localizations": {}
+    },
+    "c212": {
+      "content_id": "c212",
+      "reference_id": 0,
+      "index_reference": "zoomed out view of the book of matthew",
+      "localizations": {}
+    },
+    "c204": {
+      "content_id": "c204",
+      "reference_id": 0,
+      "index_reference": "zoomed in view of locations in the book of genesis",
+      "localizations": {}
+    },
+    "c257": {
+      "content_id": "c257",
+      "reference_id": 0,
+      "index_reference": "zoomedout view of locations in the book of acts",
+      "localizations": {}
+    }
+  }
 }
