@@ -1,27 +1,27 @@
 [
 {
-"content_id": "869878",
-"reference_id": 222406,
-"version": "1.0.1",
+"content_id": "c132",
+"reference_id": 0,
+"version": "1.0.4",
 "title": "First Century Jerusalem",
 "media_type": "Image",
 "index_reference": "first century jerusalem",
 "language": "eng",
-"review_level": "Professional",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c132-first-century-jerusalem.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c132-first-century-jerusalem.png'>link</a></p></block>",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c132/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c132/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
-},
 {
 "start_ref": "44001001",
 "start_ref_usfm": "ACT 1:1",
 "end_ref": "44001005",
 "end_ref_usfm": "ACT 1:5"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
 }
 ],
 "resource": [],
@@ -29,177 +29,177 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "Holy Spirit",
 "confidence": 0.4636,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
-"confidence": 0.3727,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.3727,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Sky",
 "confidence": 0.3,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2818,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Sky"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Ability",
 "confidence": 0.2818,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Kingdom",
 "confidence": 0.2818,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Promise",
-"type": "keyterm",
-"preferred_label": "Promise",
-"confidence": 0.2091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Kingdom"
 },
 {
 "id": "group:Galilee",
 "type": "group",
-"preferred_label": "Galileans",
 "confidence": 0.2091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Galileans"
 },
 {
 "id": "keyterm:Witness",
 "type": "keyterm",
-"preferred_label": "Witness",
 "confidence": 0.2091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Witness"
 },
 {
 "id": "place:Judea",
 "type": "place",
-"preferred_label": "Judea",
 "confidence": 0.2091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Theophilus",
 "confidence": 0.2091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Theophilus"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.1909,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.1909,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1909,
-"match_method": "canonical"
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Promise"
 },
 {
 "id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Ask for",
 "confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "person:John",
 "type": "person",
-"preferred_label": "John",
 "confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "John"
 },
 {
-"id": "keyterm:Command",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "To Command",
 "confidence": 0.1909,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "Chosen",
-"confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Authority",
 "confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Authority"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Baptism",
+"type": "keyterm",
 "confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Chosen"
 },
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilee",
 "confidence": 0.1909,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Israel"
 },
 {
 "id": "realia:Clothing",
 "type": "realia",
-"preferred_label": "Clothing",
 "confidence": 0.1309,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Clothing"
 }
 ]
 }
 },
 {
-"content_id": "280025",
-"reference_id": 186445,
-"version": "1.0.1",
+"content_id": "c175",
+"reference_id": 0,
+"version": "1.0.4",
 "title": "Four Corners of the World",
 "media_type": "Image",
 "index_reference": "four corners of the world",
 "language": "eng",
-"review_level": "Professional",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c175-four-corners-of-the-world.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c175-four-corners-of-the-world.png'>link</a></p></block>",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c175/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c175/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
@@ -214,65 +214,65 @@
 {
 "id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Sky",
 "confidence": 0.4187,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2063,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.2063,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.2063,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.2063,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "Chosen",
-"confidence": 0.2063,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Sky"
 },
 {
 "id": "deity:Angel",
 "type": "deity",
-"preferred_label": "An Angel",
 "confidence": 0.2063,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "An Angel"
 },
 {
-"id": "realia:Door",
-"type": "realia",
-"preferred_label": "Door",
-"confidence": 0.1463,
-"match_method": "canonical"
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Surely!"
 },
 {
 "id": "flora:Fig",
 "type": "flora",
-"preferred_label": "Fig",
 "confidence": 0.1463,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Door"
 }
 ]
 }

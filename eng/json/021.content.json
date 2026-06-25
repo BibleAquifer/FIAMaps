@@ -1,14 +1,14 @@
 [
 {
-"content_id": "869977",
-"reference_id": 222505,
-"version": "1.0.1",
+"content_id": "c209",
+"reference_id": 0,
+"version": "1.0.4",
 "title": "Wide View of Locations in Book of Genesis",
 "media_type": "Image",
 "index_reference": "wide view of locations in book of genesis",
 "language": "eng",
-"review_level": "Professional",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c209-wider-view-of-locations-in-book-of-genesis.png' alt='Image' width='480' /></p><p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAMaps/c209-wider-view-of-locations-in-book-of-genesis.png'>link</a></p></block>",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
@@ -23,107 +23,107 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.7206,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Kind.2",
 "type": "keyterm",
-"preferred_label": "Kind",
 "confidence": 0.4338,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Kind"
 },
 {
 "id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Bless",
 "confidence": 0.2956,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Bless"
 },
 {
 "id": "flora:Grass",
 "type": "flora",
-"preferred_label": "Grass",
 "confidence": 0.2929,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Grass"
 },
 {
 "id": "keyterm:Semblance",
 "type": "keyterm",
-"preferred_label": "Likeness",
 "confidence": 0.2382,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Likeness"
 },
 {
 "id": "fauna:Bull",
 "type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.2356,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Chameleon",
-"type": "fauna",
-"preferred_label": "Chameleon",
-"confidence": 0.2297,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Iguana",
-"type": "fauna",
-"preferred_label": "Monitor",
-"confidence": 0.2297,
-"match_method": "canonical"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
-"confidence": 0.2297,
-"match_method": "canonical"
-},
-{
-"id": "flora:Coriander",
-"type": "flora",
-"preferred_label": "Coriander",
-"confidence": 0.2297,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Cattle"
 },
 {
 "id": "fauna:Lizard",
 "type": "fauna",
-"preferred_label": "Lizard",
 "confidence": 0.2297,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Lizard"
 },
 {
-"id": "flora:GreenVegetation",
+"id": "flora:Barley",
 "type": "flora",
-"preferred_label": "Green Vegetation",
-"confidence": 0.1724,
-"match_method": "canonical"
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Barley"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Coriander"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Chameleon"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Monitor"
 },
 {
 "id": "fauna:Fish",
 "type": "fauna",
-"preferred_label": "Fish",
 "confidence": 0.1724,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Green Vegetation"
 },
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Holy",
 "confidence": 0.1632,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "fauna:Dragon",
 "type": "fauna",
-"preferred_label": "Dragon",
 "confidence": 0.1091,
-"match_method": "canonical"
+"match_method": "canonical",
+"preferred_label": "Dragon"
 }
 ]
 }
