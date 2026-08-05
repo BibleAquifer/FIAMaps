@@ -10,10 +10,10 @@
     "license_info": {
       "title": "Familiarization, Internalization, Articulation (Fia) Maps",
       "copyright": {
-        "dates": "2023",
+        "dates": "2025",
         "holder": {
-          "name": "Biblica Inc.",
-          "url": "https://www.biblica.com/"
+          "name": "Biblica",
+          "url": "https://www.biblica.com"
         }
       },
       "licenses": [
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": false,
       "showAdaptationNoticeForNonEnglish": false
     },
-    "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+    "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "FIAMaps",
-    "date_created": "2026-06-24",
+    "date_created": "2026-08-04",
     "language": "eng",
     "localizations": [],
     "order": "alphabetical",
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-06-24T20:08:22.718451"
+      "dateCreated": "2026-08-04T20:53:53.123344"
     },
     "idAuthorities": {
       "aquifer": {
@@ -55,7 +55,7 @@
       "primary": {
         "aquifer": {
           "FIAMaps": {
-            "timestamp": "2026-06-24T20:08:22.718451"
+            "timestamp": "2026-08-04T20:53:53.123344"
           }
         }
       },
@@ -102,7 +102,7 @@
       },
       "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 6691,
+        "size": 7359,
         "scope": {
           "b": [
             "Beer Lahai Roi",
@@ -113,6 +113,7 @@
             "Bethel to Ephrath",
             "Bethlehem to Hebron",
             "Bethlehem to Jerusalem",
+            "Bodies of Water in Eastern Egypt",
             "Book of Luke: Jerusalem and Environs",
             "Book of Matthew: Jerusalem and Environs"
           ]
@@ -138,18 +139,19 @@
       },
       "json/004.content.json": {
         "mimeType": "text/json",
-        "size": 1925,
+        "size": 3221,
         "scope": {
           "d": [
             "Descendants of Ham",
             "Descendants of Shem",
+            "Desert of Shur",
             "Detour to Ephesus"
           ]
         }
       },
       "json/005.content.json": {
         "mimeType": "text/json",
-        "size": 6190,
+        "size": 8581,
         "scope": {
           "e": [
             "Eastern Mediterranean",
@@ -158,6 +160,9 @@
             "Edom, Seir, Median, Moab and Bozrah",
             "Egypt",
             "Egypt and Midian",
+            "Egypt, Mount Sinai and Canaan",
+            "Egypt with Goshen and Rameses",
+            "Egypt with the Nile River and its tributaries",
             "Emmaus",
             "Ephesus to Miletus",
             "Ethiopia"
@@ -234,7 +239,7 @@
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 32838,
+        "size": 34976,
         "scope": {
           "j": [
             "Jacob's Journey from Beersheba to Haran",
@@ -275,7 +280,10 @@
             "Jordan Valley Region",
             "Joseph and Mary's Route from Nazareth to Bethlehem",
             "Joseph and Mary's Route from Nazareth to Jerusalem",
+            "Journey from Egypt to Elim via Marah",
             "Journey from Paddan Aram to Ephrath",
+            "Journey from Rameses to Succoth",
+            "Journey of the Israelites through the Wilderness of Sin",
             "Judea and Bethany",
             "Judea and Dead Sea",
             "Judea and Galilee",
@@ -344,7 +352,7 @@
       },
       "json/015.content.json": {
         "mimeType": "text/json",
-        "size": 17205,
+        "size": 17945,
         "scope": {
           "p": [
             "Paddan-Aram and Surrounding Areas",
@@ -371,16 +379,18 @@
             "Philip's Journey to the Desert Road and to Gaza",
             "Pilate's House",
             "Pontus and Italy",
+            "Promised Land",
             "Prophets and Teachers in Antioch"
           ]
         }
       },
       "json/016.content.json": {
         "mimeType": "text/json",
-        "size": 5420,
+        "size": 6273,
         "scope": {
           "r": [
             "Rebel Kings in the South",
+            "Red Sea Border",
             "Region of Judea",
             "Region of Seir",
             "Region of the Gerasenes to Capernaum",
@@ -393,7 +403,7 @@
       },
       "json/017.content.json": {
         "mimeType": "text/json",
-        "size": 10492,
+        "size": 13334,
         "scope": {
           "s": [
             "Sailing Route from Corinth to Syria",
@@ -406,6 +416,10 @@
             "Shinar Region",
             "Sidon",
             "Sidon and Syria",
+            "Sinai, Arabia, and India",
+            "Sinai Area",
+            "Sinai Peninsula, Arabian Peninsula and Eastern Africa",
+            "Sinai Peninsula, Median and Egypt",
             "Small-Scale City Plan of Jerusalem",
             "Sodom",
             "Sodom, Gomorrah and Great Oaks of Mamre",
@@ -416,13 +430,14 @@
       },
       "json/018.content.json": {
         "mimeType": "text/json",
-        "size": 5538,
+        "size": 6033,
         "scope": {
           "t": [
             "Territory of Herod Agrippa",
             "Territory of Herod Antipas",
             "Territory of Pilate",
             "Thessalonica to Berea",
+            "Tribes in Canaan",
             "Troas to Assos",
             "Troas to Miletus",
             "Tyre, Sidon and The Sea of Galilee",
@@ -451,10 +466,11 @@
       },
       "json/021.content.json": {
         "mimeType": "text/json",
-        "size": 685,
+        "size": 1497,
         "scope": {
           "w": [
-            "Wide View of Locations in Book of Genesis"
+            "Wide View of Locations in Book of Genesis",
+            "Working Locations of the Israelite Slaves in Egypt"
           ]
         }
       },
@@ -472,91 +488,91 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 4891
+        "size": 4897
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
-        "size": 12228
+        "size": 12234
       },
       "md/003.content.md": {
         "mimeType": "text/markdown",
-        "size": 10985
+        "size": 10991
       },
       "md/004.content.md": {
         "mimeType": "text/markdown",
-        "size": 7655
+        "size": 9047
       },
       "md/011.content.md": {
         "mimeType": "text/markdown",
-        "size": 8148
+        "size": 8154
       },
       "md/016.content.md": {
         "mimeType": "text/markdown",
-        "size": 10127
+        "size": 11653
       },
       "md/020.content.md": {
         "mimeType": "text/markdown",
-        "size": 1317
+        "size": 1323
       },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 16451
+        "size": 20956
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 47030
+        "size": 50216
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 13795
+        "size": 17261
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 11329
+        "size": 12179
       },
       "md/021.content.md": {
         "mimeType": "text/markdown",
-        "size": 1328
+        "size": 2113
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 9227
+        "size": 9233
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 29564
+        "size": 31280
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 17403
+        "size": 17399
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 2165
+        "size": 2171
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 8625
+        "size": 8631
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 1110
+        "size": 1116
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 5983
+        "size": 5989
       },
       "md/022.content.md": {
         "mimeType": "text/markdown",
-        "size": 4217
+        "size": 4223
       },
       "md/019.content.md": {
         "mimeType": "text/markdown",
-        "size": 3213
+        "size": 3219
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
-        "size": 6999
+        "size": 8031
       }
     },
     "copyright": {
@@ -567,7 +583,7 @@
       ],
       "shortStatements": [
         {
-          "statement": "<p>Familiarization, Internalization, Articulation (Fia) Maps © 2023 Biblica Inc..</p>",
+          "statement": "<p>Familiarization, Internalization, Articulation (Fia) Maps © 2025 Biblica.</p>",
           "mimetype": "text/html",
           "lang": "en"
         }
@@ -665,6 +681,12 @@
       "index_reference": "bethlehem to jerusalem",
       "localizations": {}
     },
+    "c217": {
+      "content_id": "c217",
+      "reference_id": 0,
+      "index_reference": "bodies of water in eastern egypt",
+      "localizations": {}
+    },
     "c211": {
       "content_id": "c211",
       "reference_id": 0,
@@ -749,6 +771,12 @@
       "index_reference": "descendants of shem",
       "localizations": {}
     },
+    "c193": {
+      "content_id": "c193",
+      "reference_id": 0,
+      "index_reference": "desert of shur",
+      "localizations": {}
+    },
     "c166": {
       "content_id": "c166",
       "reference_id": 0,
@@ -789,6 +817,24 @@
       "content_id": "c165",
       "reference_id": 0,
       "index_reference": "egypt and midian",
+      "localizations": {}
+    },
+    "c199": {
+      "content_id": "c199",
+      "reference_id": 0,
+      "index_reference": "egypt with goshen and rameses",
+      "localizations": {}
+    },
+    "c183": {
+      "content_id": "c183",
+      "reference_id": 0,
+      "index_reference": "egypt with the nile river and its tributaries",
+      "localizations": {}
+    },
+    "c219": {
+      "content_id": "c219",
+      "reference_id": 0,
+      "index_reference": "egypt mount sinai and canaan",
       "localizations": {}
     },
     "c139": {
@@ -1253,10 +1299,28 @@
       "index_reference": "joseph and marys route from nazareth to jerusalem",
       "localizations": {}
     },
+    "c194": {
+      "content_id": "c194",
+      "reference_id": 0,
+      "index_reference": "journey from egypt to elim via marah",
+      "localizations": {}
+    },
     "c215": {
       "content_id": "c215",
       "reference_id": 0,
       "index_reference": "journey from paddan aram to ephrath",
+      "localizations": {}
+    },
+    "c224": {
+      "content_id": "c224",
+      "reference_id": 0,
+      "index_reference": "journey from rameses to succoth",
+      "localizations": {}
+    },
+    "c225": {
+      "content_id": "c225",
+      "reference_id": 0,
+      "index_reference": "journey of the israelites through the wilderness of sin",
       "localizations": {}
     },
     "c180": {
@@ -1589,6 +1653,12 @@
       "index_reference": "pontus and italy",
       "localizations": {}
     },
+    "c220": {
+      "content_id": "c220",
+      "reference_id": 0,
+      "index_reference": "promised land",
+      "localizations": {}
+    },
     "c70": {
       "content_id": "c70",
       "reference_id": 0,
@@ -1599,6 +1669,12 @@
       "content_id": "c57",
       "reference_id": 0,
       "index_reference": "rebel kings in the south",
+      "localizations": {}
+    },
+    "c222": {
+      "content_id": "c222",
+      "reference_id": 0,
+      "index_reference": "red sea border",
       "localizations": {}
     },
     "c146": {
@@ -1703,6 +1779,30 @@
       "index_reference": "sidon and syria",
       "localizations": {}
     },
+    "c182": {
+      "content_id": "c182",
+      "reference_id": 0,
+      "index_reference": "sinai area",
+      "localizations": {}
+    },
+    "c239": {
+      "content_id": "c239",
+      "reference_id": 0,
+      "index_reference": "sinai peninsula arabian peninsula and eastern africa",
+      "localizations": {}
+    },
+    "c240": {
+      "content_id": "c240",
+      "reference_id": 0,
+      "index_reference": "sinai peninsula median and egypt",
+      "localizations": {}
+    },
+    "c229": {
+      "content_id": "c229",
+      "reference_id": 0,
+      "index_reference": "sinai arabia and india",
+      "localizations": {}
+    },
     "c256": {
       "content_id": "c256",
       "reference_id": 0,
@@ -1757,6 +1857,12 @@
       "index_reference": "thessalonica to berea",
       "localizations": {}
     },
+    "c238": {
+      "content_id": "c238",
+      "reference_id": 0,
+      "index_reference": "tribes in canaan",
+      "localizations": {}
+    },
     "c159": {
       "content_id": "c159",
       "reference_id": 0,
@@ -1803,6 +1909,12 @@
       "content_id": "c209",
       "reference_id": 0,
       "index_reference": "wide view of locations in book of genesis",
+      "localizations": {}
+    },
+    "c234": {
+      "content_id": "c234",
+      "reference_id": 0,
+      "index_reference": "working locations of the israelite slaves in egypt",
       "localizations": {}
     },
     "c210": {

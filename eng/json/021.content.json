@@ -77,6 +77,13 @@
 "preferred_label": "Barley"
 },
 {
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Monitor"
+},
+{
 "id": "flora:Coriander",
 "type": "flora",
 "confidence": 0.2297,
@@ -89,13 +96,6 @@
 "confidence": 0.2297,
 "match_method": "canonical",
 "preferred_label": "Chameleon"
-},
-{
-"id": "fauna:Iguana",
-"type": "fauna",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Monitor"
 },
 {
 "id": "fauna:Fish",
@@ -124,6 +124,134 @@
 "confidence": 0.1091,
 "match_method": "canonical",
 "preferred_label": "Dragon"
+}
+]
+}
+},
+{
+"content_id": "c234",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Working Locations of the Israelite Slaves in Egypt",
+"media_type": "Image",
+"index_reference": "working locations of the israelite slaves in egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c234/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c234/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001008",
+"start_ref_usfm": "EXO 1:8",
+"end_ref": "02001014",
+"end_ref_usfm": "EXO 1:14"
+},
+{
+"start_ref": "02002011",
+"start_ref_usfm": "EXO 2:11",
+"end_ref": "02002015",
+"end_ref_usfm": "EXO 2:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5375,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.45,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.2917,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "place:Pithom",
+"type": "place",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Pithom"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Raamses",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Raamses"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.1275,
+"match_method": "canonical",
+"preferred_label": "Brick"
 }
 ]
 }

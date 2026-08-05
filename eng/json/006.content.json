@@ -34,18 +34,18 @@
 "preferred_label": "Holy Spirit"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3727,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Heaven",
@@ -55,13 +55,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2818,
@@ -69,11 +62,25 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "confidence": 0.2818,
 "match_method": "canonical",
 "preferred_label": "Kingdom"
+},
+{
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Theophilus"
 },
 {
 "id": "group:Galilee",
@@ -90,20 +97,6 @@
 "preferred_label": "Witness"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "person:Theophilus",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Theophilus"
-},
-{
 "id": "keyterm:Promise",
 "type": "keyterm",
 "confidence": 0.2091,
@@ -111,11 +104,25 @@
 "preferred_label": "Promise"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Samaria",
+"type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "person:John",
@@ -123,13 +130,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "John"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
 },
 {
 "id": "keyterm:Authority.2",
@@ -153,25 +153,25 @@
 "preferred_label": "To Command"
 },
 {
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
 "id": "keyterm:Chosen",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Chosen"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Samaria"
 },
 {
 "id": "person:Israel",
@@ -219,13 +219,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -233,18 +226,11 @@
 "preferred_label": "Glory"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
+"id": "deity:Angel",
+"type": "deity",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Chosen"
+"preferred_label": "An Angel"
 },
 {
 "id": "keyterm:Parable",
@@ -259,6 +245,20 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chosen"
 },
 {
 "id": "flora:Fig",
