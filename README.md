@@ -4,9 +4,13 @@ This repository (`FIAMaps`) contains Aquifer resource data with resource-level m
 
 ## License
 
-_Familiarization, Internalization, Articulation (Fia) Maps_ © 2023 [Biblica Inc.](https://www.biblica.com/)
+_Familiarization, Internalization, Articulation (Fia) Maps_ © 2025 [Biblica](https://www.biblica.com)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+
+**Familiarization, Internalization, Articulation (FIA) Maps** © 2025 Word Collective Released under CC BY\-SA 4\.0 license. *Familiarization, Internalization, Articulation (FIA) Maps* has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from *Familiarization, Internalization, Articulation (FIA)* © 2025 Word Collective. Released under CC BY\-SA 4\.0 license by Mission Mutual
+
+
 
 ## Structure
 
