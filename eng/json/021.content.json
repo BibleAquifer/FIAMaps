@@ -10,122 +10,9 @@
 "review_level": "None",
 "content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png'>link</a></p></block>",
 "associations": {
-"passage": [
-{
-"start_ref": "01001001",
-"start_ref_usfm": "GEN 1:1",
-"end_ref": "01002003",
-"end_ref_usfm": "GEN 2:3"
-}
-],
+"passage": [],
 "resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.7206,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Kind.2",
-"type": "keyterm",
-"confidence": 0.4338,
-"match_method": "canonical",
-"preferred_label": "Kind"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.2956,
-"match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.2929,
-"match_method": "canonical",
-"preferred_label": "Grass"
-},
-{
-"id": "keyterm:Semblance",
-"type": "keyterm",
-"confidence": 0.2382,
-"match_method": "canonical",
-"preferred_label": "Likeness"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.2356,
-"match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "fauna:Lizard",
-"type": "fauna",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Lizard"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Barley"
-},
-{
-"id": "fauna:Iguana",
-"type": "fauna",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Monitor"
-},
-{
-"id": "flora:Coriander",
-"type": "flora",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Coriander"
-},
-{
-"id": "fauna:Chameleon",
-"type": "fauna",
-"confidence": 0.2297,
-"match_method": "canonical",
-"preferred_label": "Chameleon"
-},
-{
-"id": "fauna:Fish",
-"type": "fauna",
-"confidence": 0.1724,
-"match_method": "canonical",
-"preferred_label": "Fish"
-},
-{
-"id": "flora:GreenVegetation",
-"type": "flora",
-"confidence": 0.1724,
-"match_method": "canonical",
-"preferred_label": "Green Vegetation"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.1632,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "fauna:Dragon",
-"type": "fauna",
-"confidence": 0.1091,
-"match_method": "canonical",
-"preferred_label": "Dragon"
-}
-]
+"acai": []
 }
 },
 {
@@ -205,13 +92,6 @@
 "preferred_label": "Hebrews"
 },
 {
-"id": "keyterm:Work",
-"type": "keyterm",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Work"
-},
-{
 "id": "place:Pithom",
 "type": "place",
 "confidence": 0.2042,
@@ -219,18 +99,11 @@
 "preferred_label": "Pithom"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Work",
 "type": "keyterm",
-"confidence": 0.1875,
+"confidence": 0.2042,
 "match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "place:Raamses",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Raamses"
+"preferred_label": "Work"
 },
 {
 "id": "person:Joseph.10",
@@ -240,11 +113,25 @@
 "preferred_label": "Joseph"
 },
 {
+"id": "place:Raamses",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Raamses"
+},
+{
 "id": "place:Midian",
 "type": "place",
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Midian"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "realia:Brick",

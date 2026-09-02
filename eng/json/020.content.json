@@ -49,11 +49,11 @@
 "preferred_label": "Bless"
 },
 {
-"id": "person:Aner",
+"id": "person:Eshcol",
 "type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Aner"
+"preferred_label": "Eshcol"
 },
 {
 "id": "place:KingsValley",
@@ -70,18 +70,18 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Eshcol",
-"type": "person",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Eshcol"
-},
-{
 "id": "person:Melchizedek",
 "type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
 "preferred_label": "Melchizedek"
+},
+{
+"id": "person:Aner",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Aner"
 },
 {
 "id": "place:Shaveh",
@@ -91,13 +91,6 @@
 "preferred_label": "Valley of Shaveh"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Mamre"
-},
-{
 "id": "person:Chedorlaomer",
 "type": "person",
 "confidence": 0.2063,
@@ -105,11 +98,11 @@
 "preferred_label": "Chedorlaomer"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"confidence": 0.1713,
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Wine"
+"preferred_label": "Mamre"
 },
 {
 "id": "realia:Thread",
@@ -117,6 +110,13 @@
 "confidence": 0.1713,
 "match_method": "canonical",
 "preferred_label": "Thread"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1713,
+"match_method": "canonical",
+"preferred_label": "Wine"
 },
 {
 "id": "flora:Vine",
