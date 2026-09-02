@@ -3,9 +3,9 @@
     "aquifer_type": "Images",
     "resource_type": "Images, Maps, Videos",
     "title": "Familiarization, Internalization, Articulation (FIA) Maps",
-    "aquifer_name": "Maps (SRV)",
+    "aquifer_name": "Familiarization, Internalization, Articulation (FIA) Maps",
     "version": "1.1.2",
-    "collection_title": "Maps (SRV)",
+    "collection_title": "Familiarization, Internalization, Articulation (FIA) Maps",
     "short_name": "FIA",
     "license_info": {
       "title": "Familiarization, Internalization, Articulation (Fia) Maps",
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "FIAMaps",
-    "date_created": "2026-08-04",
+    "date_created": "2026-09-02",
     "language": "eng",
     "localizations": [],
     "order": "alphabetical",
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-08-04T20:53:53.123344"
+      "dateCreated": "2026-09-02T15:58:29.324225"
     },
     "idAuthorities": {
       "aquifer": {
@@ -55,7 +55,7 @@
       "primary": {
         "aquifer": {
           "FIAMaps": {
-            "timestamp": "2026-08-04T20:53:53.123344"
+            "timestamp": "2026-09-02T15:58:29.324225"
           }
         }
       },
@@ -151,7 +151,7 @@
       },
       "json/005.content.json": {
         "mimeType": "text/json",
-        "size": 8581,
+        "size": 8865,
         "scope": {
           "e": [
             "Eastern Mediterranean",
@@ -181,7 +181,7 @@
       },
       "json/007.content.json": {
         "mimeType": "text/json",
-        "size": 13627,
+        "size": 13409,
         "scope": {
           "g": [
             "Galilee",
@@ -219,7 +219,7 @@
       },
       "json/009.content.json": {
         "mimeType": "text/json",
-        "size": 9377,
+        "size": 9265,
         "scope": {
           "i": [
             "Important Locations in Jerusalem",
@@ -239,7 +239,7 @@
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 34976,
+        "size": 34570,
         "scope": {
           "j": [
             "Jacob's Journey from Beersheba to Haran",
@@ -295,7 +295,7 @@
       },
       "json/011.content.json": {
         "mimeType": "text/json",
-        "size": 6202,
+        "size": 7301,
         "scope": {
           "l": [
             "Lake with Bethsaida and Gennesaret",
@@ -303,6 +303,8 @@
             "Lake with Capernaum and Bethsaida in the book of John",
             "Land of Nod",
             "Locations in the Book of Acts",
+            "Locations in the Book of Exodus - Egypt and Sinai",
+            "Locations in the Book of Exodus - India, Arabia and East Africa",
             "Locations in the Book of John",
             "Locations in the Book of Luke",
             "Locations in the Book of Mark",
@@ -330,7 +332,7 @@
       },
       "json/013.content.json": {
         "mimeType": "text/json",
-        "size": 3383,
+        "size": 3273,
         "scope": {
           "n": [
             "Nazareth",
@@ -352,7 +354,7 @@
       },
       "json/015.content.json": {
         "mimeType": "text/json",
-        "size": 17945,
+        "size": 17833,
         "scope": {
           "p": [
             "Paddan-Aram and Surrounding Areas",
@@ -403,7 +405,7 @@
       },
       "json/017.content.json": {
         "mimeType": "text/json",
-        "size": 13334,
+        "size": 13258,
         "scope": {
           "s": [
             "Sailing Route from Corinth to Syria",
@@ -430,7 +432,7 @@
       },
       "json/018.content.json": {
         "mimeType": "text/json",
-        "size": 6033,
+        "size": 6175,
         "scope": {
           "t": [
             "Territory of Herod Agrippa",
@@ -466,7 +468,7 @@
       },
       "json/021.content.json": {
         "mimeType": "text/json",
-        "size": 1497,
+        "size": 1389,
         "scope": {
           "w": [
             "Wide View of Locations in Book of Genesis",
@@ -476,7 +478,7 @@
       },
       "json/022.content.json": {
         "mimeType": "text/json",
-        "size": 2748,
+        "size": 2532,
         "scope": {
           "z": [
             "Zoomed in View of Locations in the Book of Genesis",
@@ -488,91 +490,91 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 4897
+        "size": 4944
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
-        "size": 12234
+        "size": 11557
       },
       "md/003.content.md": {
         "mimeType": "text/markdown",
-        "size": 10991
+        "size": 11038
       },
       "md/004.content.md": {
         "mimeType": "text/markdown",
-        "size": 9047
+        "size": 9089
       },
       "md/011.content.md": {
         "mimeType": "text/markdown",
-        "size": 8154
+        "size": 8647
       },
       "md/016.content.md": {
         "mimeType": "text/markdown",
-        "size": 11653
+        "size": 11700
       },
       "md/020.content.md": {
         "mimeType": "text/markdown",
-        "size": 1323
+        "size": 1370
       },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 20956
+        "size": 19540
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 50216
+        "size": 48820
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 17261
+        "size": 17584
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 12179
+        "size": 12226
       },
       "md/021.content.md": {
         "mimeType": "text/markdown",
-        "size": 2113
+        "size": 1626
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 9233
+        "size": 9280
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 31280
+        "size": 30931
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 17399
+        "size": 18437
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 2171
+        "size": 2218
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 8631
+        "size": 8678
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 1116
+        "size": 1163
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 5989
+        "size": 5471
       },
       "md/022.content.md": {
         "mimeType": "text/markdown",
-        "size": 4223
+        "size": 3282
       },
       "md/019.content.md": {
         "mimeType": "text/markdown",
-        "size": 3219
+        "size": 3266
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
-        "size": 8031
+        "size": 8212
       }
     },
     "copyright": {
@@ -1387,6 +1389,18 @@
       "content_id": "c207",
       "reference_id": 0,
       "index_reference": "locations in the book of acts",
+      "localizations": {}
+    },
+    "c208": {
+      "content_id": "c208",
+      "reference_id": 0,
+      "index_reference": "locations in the book of exodus  egypt and sinai",
+      "localizations": {}
+    },
+    "c631": {
+      "content_id": "c631",
+      "reference_id": 0,
+      "index_reference": "locations in the book of exodus  india arabia and east africa",
       "localizations": {}
     },
     "c206": {

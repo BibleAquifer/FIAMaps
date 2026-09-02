@@ -34,18 +34,18 @@
 "preferred_label": "Holy Spirit"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.3727,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "keyterm:Heaven",
@@ -55,11 +55,11 @@
 "preferred_label": "Sky"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
+"id": "keyterm:Kingdom",
+"type": "keyterm",
 "confidence": 0.2818,
 "match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Kingdom"
 },
 {
 "id": "keyterm:Ability",
@@ -69,32 +69,11 @@
 "preferred_label": "Ability"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
+"id": "place:Jerusalem",
+"type": "place",
 "confidence": 0.2818,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "person:Theophilus",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Theophilus"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Galileans"
-},
-{
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Witness"
+"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Promise",
@@ -104,6 +83,13 @@
 "preferred_label": "Promise"
 },
 {
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Theophilus"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "confidence": 0.2091,
@@ -111,60 +97,18 @@
 "preferred_label": "Judea"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Samaria"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "person:John",
-"type": "person",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Authority.2",
+"id": "keyterm:Witness",
 "type": "keyterm",
-"confidence": 0.1909,
+"confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Authority"
+"preferred_label": "Witness"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"confidence": 0.1909,
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Baptism"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
+"preferred_label": "Galileans"
 },
 {
 "id": "keyterm:Chosen",
@@ -174,11 +118,67 @@
 "preferred_label": "Chosen"
 },
 {
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Israel"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Baptism"
 },
 {
 "id": "realia:Clothing",
@@ -219,27 +219,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Parable"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -254,6 +233,13 @@
 "preferred_label": "Ability"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
 "id": "keyterm:Chosen",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -261,11 +247,18 @@
 "preferred_label": "Chosen"
 },
 {
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.1463,
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Fig"
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Glory"
 },
 {
 "id": "realia:Door",
@@ -273,6 +266,13 @@
 "confidence": 0.1463,
 "match_method": "canonical",
 "preferred_label": "Door"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Fig"
 }
 ]
 }
