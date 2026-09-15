@@ -57,18 +57,18 @@
 "preferred_label": "Egyptians"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.3625,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.3625,
 "match_method": "canonical",
 "preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Moses"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -92,6 +92,13 @@
 "preferred_label": "Hebrews"
 },
 {
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
 "id": "place:Pithom",
 "type": "place",
 "confidence": 0.2042,
@@ -99,11 +106,11 @@
 "preferred_label": "Pithom"
 },
 {
-"id": "keyterm:Work",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"confidence": 0.2042,
+"confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Work"
+"preferred_label": "Fear"
 },
 {
 "id": "person:Joseph.10",
@@ -113,13 +120,6 @@
 "preferred_label": "Joseph"
 },
 {
-"id": "place:Raamses",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Raamses"
-},
-{
 "id": "place:Midian",
 "type": "place",
 "confidence": 0.1875,
@@ -127,11 +127,11 @@
 "preferred_label": "Midian"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
+"id": "place:Raamses",
+"type": "place",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Raamses"
 },
 {
 "id": "realia:Brick",
