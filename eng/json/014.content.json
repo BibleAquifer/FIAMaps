@@ -56,13 +56,6 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
 "id": "place:Mamre",
 "type": "place",
 "confidence": 0.18,
@@ -75,6 +68,13 @@
 "confidence": 0.18,
 "match_method": "canonical",
 "preferred_label": "Fear"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Favor"
 },
 {
 "id": "realia:Seah",
