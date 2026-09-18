@@ -76,6 +76,27 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
 "id": "keyterm:Witness",
 "type": "keyterm",
 "confidence": 0.2091,
@@ -90,53 +111,18 @@
 "preferred_label": "Theophilus"
 },
 {
-"id": "keyterm:Promise",
-"type": "keyterm",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Promise"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Galileans"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "person:John",
+"id": "person:Israel",
 "type": "person",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "John"
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Authority"
 },
 {
 "id": "place:Samaria",
@@ -146,11 +132,11 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "person:Israel",
-"type": "person",
+"id": "keyterm:AskFor",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Ask for"
 },
 {
 "id": "keyterm:Command",
@@ -167,18 +153,32 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "realia:Clothing",
@@ -219,18 +219,18 @@
 "preferred_label": "Sky"
 },
 {
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Ability"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Chosen"
 },
 {
 "id": "keyterm:Surely",
@@ -240,11 +240,18 @@
 "preferred_label": "Surely!"
 },
 {
-"id": "keyterm:Parable",
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Chosen",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Parable"
+"preferred_label": "Chosen"
 },
 {
 "id": "keyterm:Glory",
@@ -252,13 +259,6 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Glory"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "An Angel"
 },
 {
 "id": "flora:Fig",

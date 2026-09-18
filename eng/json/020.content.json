@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.525,
-"match_method": "canonical",
-"preferred_label": "Abraham"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.525,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.525,
+"match_method": "canonical",
+"preferred_label": "Abraham"
 },
 {
 "id": "place:Sodom",
@@ -49,11 +49,25 @@
 "preferred_label": "Bless"
 },
 {
-"id": "person:Melchizedek",
+"id": "person:Eshcol",
 "type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Melchizedek"
+"preferred_label": "Eshcol"
+},
+{
+"id": "person:Aner",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Aner"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "place:KingsValley",
@@ -70,25 +84,11 @@
 "preferred_label": "Valley of Shaveh"
 },
 {
-"id": "person:Aner",
+"id": "person:Melchizedek",
 "type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Aner"
-},
-{
-"id": "person:Eshcol",
-"type": "person",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Eshcol"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Melchizedek"
 },
 {
 "id": "place:Mamre",
@@ -105,18 +105,18 @@
 "preferred_label": "Chedorlaomer"
 },
 {
-"id": "realia:Thread",
-"type": "realia",
-"confidence": 0.1713,
-"match_method": "canonical",
-"preferred_label": "Thread"
-},
-{
 "id": "realia:Wine",
 "type": "realia",
 "confidence": 0.1713,
 "match_method": "canonical",
 "preferred_label": "Wine"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"confidence": 0.1713,
+"match_method": "canonical",
+"preferred_label": "Thread"
 },
 {
 "id": "flora:Vine",
