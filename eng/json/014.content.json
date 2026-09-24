@@ -56,11 +56,11 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "place:Mamre",
-"type": "place",
+"id": "keyterm:Favor",
+"type": "keyterm",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Mamre"
+"preferred_label": "Favor"
 },
 {
 "id": "keyterm:Fear",
@@ -70,11 +70,11 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
+"id": "place:Mamre",
+"type": "place",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Mamre"
 },
 {
 "id": "realia:Seah",

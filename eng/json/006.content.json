@@ -34,18 +34,18 @@
 "preferred_label": "Holy Spirit"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3727,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Heaven",
@@ -62,13 +62,6 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2818,
@@ -76,18 +69,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2091,
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2818,
 "match_method": "canonical",
-"preferred_label": "Galileans"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Ability"
 },
 {
 "id": "keyterm:Promise",
@@ -104,6 +90,20 @@
 "preferred_label": "Witness"
 },
 {
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
 "id": "person:Theophilus",
 "type": "person",
 "confidence": 0.2091,
@@ -118,11 +118,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Authority"
+"preferred_label": "Baptism"
 },
 {
 "id": "place:Samaria",
@@ -132,13 +132,6 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
 "id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.1909,
@@ -146,11 +139,11 @@
 "preferred_label": "To Command"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Baptism"
+"preferred_label": "Ask for"
 },
 {
 "id": "place:Galilee",
@@ -158,6 +151,20 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "keyterm:Chosen",
@@ -172,13 +179,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "John"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
 },
 {
 "id": "realia:Clothing",
@@ -219,20 +219,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Parable",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Parable"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -245,6 +231,13 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "keyterm:Chosen",
@@ -261,11 +254,11 @@
 "preferred_label": "Glory"
 },
 {
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.1463,
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Fig"
+"preferred_label": "Parable"
 },
 {
 "id": "realia:Door",
@@ -273,6 +266,13 @@
 "confidence": 0.1463,
 "match_method": "canonical",
 "preferred_label": "Door"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Fig"
 }
 ]
 }
