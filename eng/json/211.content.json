@@ -1,0 +1,269 @@
+[
+{
+"content_id": "c87",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Territory of Herod Antipas",
+"media_type": "Image",
+"index_reference": "territory of herod antipas",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c87/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c87/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014012",
+"end_ref_usfm": "MAT 14:12"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.4959,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.4824,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
+"id": "person:Herodias",
+"type": "person",
+"confidence": 0.4486,
+"match_method": "canonical",
+"preferred_label": "Herodias"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3486,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3486,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:Plate.2",
+"type": "realia",
+"confidence": 0.2941,
+"match_method": "canonical",
+"preferred_label": "Plate"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.2941,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Baptist"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Oath"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "person:DaughterOfHerodias",
+"type": "person",
+"confidence": 0.2351,
+"match_method": "canonical",
+"preferred_label": "Daughter of Herodias"
+},
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 0.2351,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Haste",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Haste"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1076,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Grave"
+}
+]
+}
+}
+]

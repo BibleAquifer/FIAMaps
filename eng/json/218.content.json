@@ -1,0 +1,75 @@
+[
+{
+"content_id": "c34",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tyre, Sidon and The Sea of Galilee",
+"media_type": "Image",
+"index_reference": "tyre sidon and the sea of galilee",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c34/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c34/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42006017",
+"start_ref_usfm": "LUK 6:17",
+"end_ref": "42006019",
+"end_ref_usfm": "LUK 6:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+}
+]
+}
+}
+]

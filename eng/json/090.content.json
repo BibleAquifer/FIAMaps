@@ -1,0 +1,172 @@
+[
+{
+"content_id": "c250",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem and Galilee region in the book of John",
+"media_type": "Image",
+"index_reference": "jerusalem and galilee region in the book of john",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c250/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c250/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43004016",
+"start_ref_usfm": "JHN 4:16",
+"end_ref": "43004026",
+"end_ref_usfm": "JHN 4:26"
+},
+{
+"start_ref": "43007045",
+"start_ref_usfm": "JHN 7:45",
+"end_ref": "43007053",
+"end_ref_usfm": "JHN 7:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3175,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3175,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.255,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Nicodemus"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "keyterm:Worshiper",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Worshiper"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

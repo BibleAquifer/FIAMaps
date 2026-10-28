@@ -1,0 +1,123 @@
+[
+{
+"content_id": "c20",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Israel with region of Galilee, Nazareth, Jerusalem",
+"media_type": "Image",
+"index_reference": "israel with region of galilee nazareth jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c20/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c20/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5107,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Rooster"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "realia:Entrance",
+"type": "realia",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Entrance"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Courtyard"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Oath"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+}
+]
+}
+}
+]

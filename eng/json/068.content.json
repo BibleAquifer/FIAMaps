@@ -1,0 +1,89 @@
+[
+{
+"content_id": "c108",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hebron, Canaan, Negev and Beer Lahai Roi",
+"media_type": "Image",
+"index_reference": "hebron canaan negev and beer lahai roi",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c108/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c108/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024062",
+"start_ref_usfm": "GEN 24:62",
+"end_ref": "01024067",
+"end_ref_usfm": "GEN 24:67"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.725,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Rebekah"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "place:Beer-lahai-roi",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Beer-lahai-roi"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Tent"
+}
+]
+}
+}
+]

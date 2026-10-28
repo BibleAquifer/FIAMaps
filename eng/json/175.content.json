@@ -1,0 +1,250 @@
+[
+{
+"content_id": "c99",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Peter's Journeys",
+"media_type": "Image",
+"index_reference": "peters journeys",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c99/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c99/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44011001",
+"start_ref_usfm": "ACT 11:1",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.475,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.265,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Joppa"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "realia:LinenCloth",
+"type": "realia",
+"confidence": 0.1261,
+"match_method": "canonical",
+"preferred_label": "Linen Cloth"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Monitor"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Chameleon"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Lizard"
+},
+{
+"id": "fauna:CreepingAnimal",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Creeping Animal"
+}
+]
+}
+}
+]

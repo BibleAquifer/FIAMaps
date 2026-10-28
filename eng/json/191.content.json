@@ -1,0 +1,194 @@
+[
+{
+"content_id": "c191",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sailing Route from Corinth to Syria",
+"media_type": "Image",
+"index_reference": "sailing route from corinth to syria",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c191/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c191/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44020001",
+"start_ref_usfm": "ACT 20:1",
+"end_ref": "44020006",
+"end_ref_usfm": "ACT 20:6"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Troas"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "group:Berea",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Bereans"
+},
+{
+"id": "person:Sopater",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Sopater"
+},
+{
+"id": "group:Asia",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Asians"
+},
+{
+"id": "person:Pyrrhus",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Pyrrhus"
+},
+{
+"id": "person:Secundus",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Secundus"
+},
+{
+"id": "person:Gaius.2",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Gaius"
+},
+{
+"id": "person:Trophimus",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Trophimus"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Greece"
+},
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Philippi"
+},
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Tychicus"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Derbe"
+},
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Berea"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Thessalonians"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Aristarchus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Thessalonica"
+}
+]
+}
+}
+]

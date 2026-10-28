@@ -29,10 +29,10 @@
     },
     "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Maps</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Maps</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "FIAMaps",
-    "date_created": "2026-09-23",
+    "date_created": "2026-10-28",
     "language": "eng",
     "localizations": [],
-    "order": "alphabetical",
+    "order": "monograph",
     "content_type": "Html"
   },
   "scripture_burrito": {
@@ -41,7 +41,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-09-23T19:38:19.231126"
+      "dateCreated": "2026-10-28T14:46:49.347891"
     },
     "idAuthorities": {
       "aquifer": {
@@ -55,7 +55,7 @@
       "primary": {
         "aquifer": {
           "FIAMaps": {
-            "timestamp": "2026-09-23T19:38:19.231126"
+            "timestamp": "2026-10-28T14:46:49.347891"
           }
         }
       },
@@ -78,7 +78,7 @@
       "flavorType": {
         "name": "peripheral",
         "flavor": {
-          "name": "textAquiferAlphabetical",
+          "name": "textAquiferMonograph",
           "audience": "common"
         },
         "currentScope": {}
@@ -87,494 +87,1819 @@
     "ingredients": {
       "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 4755,
-        "scope": {
-          "a": [
-            "Abram's Journey from Ur to Canaan",
-            "Aerial View of Judea and Jerusalem",
-            "Antioch of Pisidia and Iconium",
-            "Apollos' Journey from Ephesus to Corinth",
-            "Areas Surrounding Jerusalem",
-            "Athens, Thessalonica, and Berea",
-            "Athens to Corinth"
-          ]
-        }
+        "size": 780
       },
       "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 7359,
-        "scope": {
-          "b": [
-            "Beer Lahai Roi",
-            "Beersheba and Moriah",
-            "Beersheba, Paran and Egypt",
-            "Berea to Athens",
-            "Bethel and Ai",
-            "Bethel to Ephrath",
-            "Bethlehem to Hebron",
-            "Bethlehem to Jerusalem",
-            "Bodies of Water in Eastern Egypt",
-            "Book of Luke: Jerusalem and Environs",
-            "Book of Matthew: Jerusalem and Environs"
-          ]
-        }
+        "size": 672
       },
       "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 6967,
-        "scope": {
-          "c": [
-            "Caesarea, Joppa and Jerusalem",
-            "Canaan",
-            "Canaan and Egypt",
-            "Canaan to Egypt",
-            "Capernaum on Route from Egypt to Damascus",
-            "Capernaum to Decapolis",
-            "Capernaum to Jerusalem",
-            "Capernaum with Judea and Jordan River",
-            "Conquering Kings from the North",
-            "Cyrene, Alexandria, Cilicia, and Asia"
-          ]
-        }
+        "size": 664
       },
       "json/004.content.json": {
         "mimeType": "text/json",
-        "size": 3221,
-        "scope": {
-          "d": [
-            "Descendants of Ham",
-            "Descendants of Shem",
-            "Desert of Shur",
-            "Detour to Ephesus"
-          ]
-        }
+        "size": 686
       },
       "json/005.content.json": {
         "mimeType": "text/json",
-        "size": 8865,
-        "scope": {
-          "e": [
-            "Eastern Mediterranean",
-            "Eastern Mediterranean and Asia Minor",
-            "Edom and Seir",
-            "Edom, Seir, Median, Moab and Bozrah",
-            "Egypt",
-            "Egypt and Midian",
-            "Egypt, Mount Sinai and Canaan",
-            "Egypt with Goshen and Rameses",
-            "Egypt with the Nile River and its tributaries",
-            "Emmaus",
-            "Ephesus to Miletus",
-            "Ethiopia"
-          ]
-        }
+        "size": 658
       },
       "json/006.content.json": {
         "mimeType": "text/json",
-        "size": 1413,
-        "scope": {
-          "f": [
-            "First Century Jerusalem",
-            "Four Corners of the World"
-          ]
-        }
+        "size": 640
       },
       "json/007.content.json": {
         "mimeType": "text/json",
-        "size": 13409,
-        "scope": {
-          "g": [
-            "Galilee",
-            "Galilee and Jerusalem",
-            "Galilee Area with Caesarea Philippi and Capernaum",
-            "Galilee Area with Capernaum",
-            "Galilee Area with Capernaum and Gerasa",
-            "Galilee, Judea, Samaria, and Jerusalem",
-            "Galilee, Judea, Samaria, and Jerusalem in the book of John",
-            "Galilee, Nazareth and Bethlehem",
-            "Galilee Region",
-            "Galilee, Syrian Phoenicia, Gennesaret and Tyre",
-            "Galilee to Jerusalem",
-            "Galilee with Magdala",
-            "Galilee,Judea and Samaria",
-            "Galilee,Judea and Samaria in the book of John",
-            "Garden of Eden",
-            "Gennesaret and Capernaum",
-            "Gerar and Beersheba"
-          ]
-        }
+        "size": 667
       },
       "json/008.content.json": {
         "mimeType": "text/json",
-        "size": 3277,
-        "scope": {
-          "h": [
-            "Haran and Beersheba",
-            "Haran to Canaan",
-            "Havilah, Shur, Egypt and Assyria",
-            "Hebron, Adullam and Timnah",
-            "Hebron, Canaan, Negev and Beer Lahai Roi"
-          ]
-        }
+        "size": 631
       },
       "json/009.content.json": {
         "mimeType": "text/json",
-        "size": 9265,
-        "scope": {
-          "i": [
-            "Important Locations in Jerusalem",
-            "Israel",
-            "Israel",
-            "Israel and Phoenicia",
-            "Israel and Surrounding Areas",
-            "Israel, Jordan and Egypt",
-            "Israel, Ninevah and Sheba",
-            "Israel with Galilee and Caesarea Philippi",
-            "Israel with Negeb",
-            "Israel with Ninevah and Sheba",
-            "Israel with region of Galilee, Nazareth, Jerusalem",
-            "Israel with region of Galilee, Nazareth, Jerusalem in the book of John"
-          ]
-        }
+        "size": 758
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 34570,
-        "scope": {
-          "j": [
-            "Jacob's Journey from Beersheba to Haran",
-            "Jacob's Journey from Haran to Beersheba",
-            "Jericho",
-            "Jericho to Jerusalem",
-            "Jerusalem and Bethsaida",
-            "Jerusalem and Cyrene",
-            "Jerusalem and Galilee",
-            "Jerusalem and Galilee region",
-            "Jerusalem and Galilee region in the book of John",
-            "Jerusalem and Gennesaret",
-            "Jerusalem and Hebron",
-            "Jerusalem and Mount of Olives",
-            "Jerusalem and Perea",
-            "Jerusalem and surrounding areas in the Book of John",
-            "Jerusalem and Temple",
-            "Jerusalem Area",
-            "Jerusalem, Bethany and the Temple",
-            "Jerusalem, Bethphage, and Bethany",
-            "Jerusalem, Caesarea and Rome",
-            "Jerusalem, Caesarea and Tarsus",
-            "Jerusalem, Ephraim, Bethany",
-            "Jerusalem, Kidron Valley, and Mount of Olives",
-            "Jerusalem, Lydda and Joppa",
-            "Jerusalem, Lydda, Joppa, and Sharon Plains",
-            "Jerusalem to Bethany",
-            "Jerusalem to Galilee",
-            "Jerusalem to Jericho",
-            "Jesus in Israel",
-            "Jesus' Route from Capernaum to Nain",
-            "Jesus' Travels to Jerusalem",
-            "Jewish Territory of Judah",
-            "John the Baptist",
-            "Jordan River and Wilderness of Judah",
-            "Jordan River featuring Galilee, Judea, Iturea, Traconitis, and Abilene",
-            "Jordan River Valley",
-            "Jordan Valley Region",
-            "Joseph and Mary's Route from Nazareth to Bethlehem",
-            "Joseph and Mary's Route from Nazareth to Jerusalem",
-            "Journey from Egypt to Elim via Marah",
-            "Journey from Paddan Aram to Ephrath",
-            "Journey from Rameses to Succoth",
-            "Journey of the Israelites through the Wilderness of Sin",
-            "Judea and Bethany",
-            "Judea and Dead Sea",
-            "Judea and Galilee",
-            "Judea, Antioch and Jerusalem",
-            "Judea, Galilee and Samaria",
-            "Judea, Galilee and Samaria"
-          ]
-        }
+        "size": 657
       },
       "json/011.content.json": {
         "mimeType": "text/json",
-        "size": 7301,
-        "scope": {
-          "l": [
-            "Lake with Bethsaida and Gennesaret",
-            "Lake with Capernaum and Bethsaida",
-            "Lake with Capernaum and Bethsaida in the book of John",
-            "Land of Nod",
-            "Locations in the Book of Acts",
-            "Locations in the Book of Exodus - Egypt and Sinai",
-            "Locations in the Book of Exodus - India, Arabia and East Africa",
-            "Locations in the Book of John",
-            "Locations in the Book of Luke",
-            "Locations in the Book of Mark",
-            "Locations in the Book of Matthew"
-          ]
-        }
+        "size": 637
       },
       "json/012.content.json": {
         "mimeType": "text/json",
-        "size": 6533,
-        "scope": {
-          "m": [
-            "Magdala and Jerusalem",
-            "Malta to Rome",
-            "Mary and Joseph's Journey to Egypt",
-            "Mary's Route from Nazareth to Judea",
-            "Mediterranean and Surrounding Areas",
-            "Mount Ararat",
-            "Mount Gerizim",
-            "Mount Hermon",
-            "Mount of Olives",
-            "Mount Tabor"
-          ]
-        }
+        "size": 739
       },
       "json/013.content.json": {
         "mimeType": "text/json",
-        "size": 3273,
-        "scope": {
-          "n": [
-            "Nazareth",
-            "Nazareth and Capernaum in Galilee",
-            "Nazareth and Judea",
-            "Nazareth to Capernaum",
-            "Negeb Area"
-          ]
-        }
+        "size": 641
       },
       "json/014.content.json": {
         "mimeType": "text/json",
-        "size": 632,
-        "scope": {
-          "o": [
-            "Oaks of Mamre"
-          ]
-        }
+        "size": 645
       },
       "json/015.content.json": {
         "mimeType": "text/json",
-        "size": 17833,
-        "scope": {
-          "p": [
-            "Paddan-Aram and Surrounding Areas",
-            "Palestine",
-            "Paul and Apollos' Travels",
-            "Paul and Barnabas at Iconium",
-            "Paul and Barnabas' Journey to Antioch in Pisidia",
-            "Paul and Barnabas'Journey",
-            "Paul's Journey from Caesarea to Phrygia",
-            "Paul's Journey from Corinth to Caesarea",
-            "Paul's Journey from Syrian Antioch to Jerusalem",
-            "Paul's Journey to Corinth",
-            "Paul's Journey to Jerusalem",
-            "Paul's Journey to Macedonia",
-            "Paul's Journey to Rome",
-            "Paul's Second Missionary Journey",
-            "Paul's Third Missionary Journey",
-            "Paul's Voyage to Rome",
-            "Paul's Voyage to Rome via Fair Havens",
-            "People Groups Between Egypt and the Euphrates",
-            "Peter's Journey to Caesarea",
-            "Peter's Journeys",
-            "Philip's Journey to the Capital of Samaria",
-            "Philip's Journey to the Desert Road and to Gaza",
-            "Pilate's House",
-            "Pontus and Italy",
-            "Promised Land",
-            "Prophets and Teachers in Antioch"
-          ]
-        }
+        "size": 646
       },
       "json/016.content.json": {
         "mimeType": "text/json",
-        "size": 6273,
-        "scope": {
-          "r": [
-            "Rebel Kings in the South",
-            "Red Sea Border",
-            "Region of Judea",
-            "Region of Seir",
-            "Region of the Gerasenes to Capernaum",
-            "Road to Shur",
-            "Roman Empire 45–47 AD",
-            "Roman Empire up to Persia",
-            "Route from Bethsaida to Caeserea Philippi"
-          ]
-        }
+        "size": 670
       },
       "json/017.content.json": {
         "mimeType": "text/json",
-        "size": 13258,
-        "scope": {
-          "s": [
-            "Sailing Route from Corinth to Syria",
-            "Saul and Barnabus in Cyprus",
-            "Saul's Route to Damascus",
-            "Sea of Galilee Western Side",
-            "Sea of Galilee with Bethsaida",
-            "Sea of Galilee with Capernaum and Decapolis",
-            "Shechem to Bethel",
-            "Shinar Region",
-            "Sidon",
-            "Sidon and Syria",
-            "Sinai, Arabia, and India",
-            "Sinai Area",
-            "Sinai Peninsula, Arabian Peninsula and Eastern Africa",
-            "Sinai Peninsula, Median and Egypt",
-            "Small-Scale City Plan of Jerusalem",
-            "Sodom",
-            "Sodom, Gomorrah and Great Oaks of Mamre",
-            "Springs of Aenon near Salim",
-            "Sychar"
-          ]
-        }
+        "size": 674
       },
       "json/018.content.json": {
         "mimeType": "text/json",
-        "size": 6175,
-        "scope": {
-          "t": [
-            "Territory of Herod Agrippa",
-            "Territory of Herod Antipas",
-            "Territory of Pilate",
-            "Thessalonica to Berea",
-            "Tribes in Canaan",
-            "Troas to Assos",
-            "Troas to Miletus",
-            "Tyre, Sidon and The Sea of Galilee",
-            "Tyre, Sidon and The Sea of Galilee"
-          ]
-        }
+        "size": 681
       },
       "json/019.content.json": {
         "mimeType": "text/json",
-        "size": 1394,
-        "scope": {
-          "u": [
-            "Ur, Haran, and Canaan",
-            "Ur of the Chaldeans"
-          ]
-        }
+        "size": 770
       },
       "json/020.content.json": {
         "mimeType": "text/json",
-        "size": 636,
-        "scope": {
-          "v": [
-            "Valley of Shaveh"
-          ]
-        }
+        "size": 839
       },
       "json/021.content.json": {
         "mimeType": "text/json",
-        "size": 1389,
-        "scope": {
-          "w": [
-            "Wide View of Locations in Book of Genesis",
-            "Working Locations of the Israelite Slaves in Egypt"
-          ]
-        }
+        "size": 636
       },
       "json/022.content.json": {
         "mimeType": "text/json",
-        "size": 2532,
-        "scope": {
-          "z": [
-            "Zoomed in View of Locations in the Book of Genesis",
-            "Zoomed Out View of the Book of Luke",
-            "Zoomed Out View of the Book of Matthew",
-            "Zoomed-Out View of Locations in the Book of Acts"
-          ]
-        }
+        "size": 634
       },
-      "md/008.content.md": {
+      "json/023.content.json": {
+        "mimeType": "text/json",
+        "size": 685
+      },
+      "json/024.content.json": {
+        "mimeType": "text/json",
+        "size": 760
+      },
+      "json/025.content.json": {
+        "mimeType": "text/json",
+        "size": 647
+      },
+      "json/026.content.json": {
+        "mimeType": "text/json",
+        "size": 674
+      },
+      "json/027.content.json": {
+        "mimeType": "text/json",
+        "size": 665
+      },
+      "json/028.content.json": {
+        "mimeType": "text/json",
+        "size": 675
+      },
+      "json/029.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/030.content.json": {
+        "mimeType": "text/json",
+        "size": 645
+      },
+      "json/031.content.json": {
+        "mimeType": "text/json",
+        "size": 1298
+      },
+      "json/032.content.json": {
+        "mimeType": "text/json",
+        "size": 641
+      },
+      "json/033.content.json": {
+        "mimeType": "text/json",
+        "size": 646
+      },
+      "json/034.content.json": {
+        "mimeType": "text/json",
+        "size": 679
+      },
+      "json/035.content.json": {
+        "mimeType": "text/json",
+        "size": 629
+      },
+      "json/036.content.json": {
+        "mimeType": "text/json",
+        "size": 674
+      },
+      "json/037.content.json": {
+        "mimeType": "text/json",
+        "size": 839
+      },
+      "json/038.content.json": {
+        "mimeType": "text/json",
+        "size": 856
+      },
+      "json/039.content.json": {
+        "mimeType": "text/json",
+        "size": 883
+      },
+      "json/040.content.json": {
+        "mimeType": "text/json",
+        "size": 914
+      },
+      "json/041.content.json": {
+        "mimeType": "text/json",
+        "size": 884
+      },
+      "json/042.content.json": {
+        "mimeType": "text/json",
+        "size": 619
+      },
+      "json/043.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/044.content.json": {
+        "mimeType": "text/json",
+        "size": 621
+      },
+      "json/045.content.json": {
+        "mimeType": "text/json",
+        "size": 758
+      },
+      "json/046.content.json": {
+        "mimeType": "text/json",
+        "size": 657
+      },
+      "json/047.content.json": {
+        "mimeType": "text/json",
+        "size": 618
+      },
+      "json/048.content.json": {
+        "mimeType": "text/json",
+        "size": 1137
+      },
+      "json/049.content.json": {
+        "mimeType": "text/json",
+        "size": 1315
+      },
+      "json/050.content.json": {
+        "mimeType": "text/json",
+        "size": 1224
+      },
+      "json/051.content.json": {
+        "mimeType": "text/json",
+        "size": 635
+      },
+      "json/052.content.json": {
+        "mimeType": "text/json",
+        "size": 871
+      },
+      "json/053.content.json": {
+        "mimeType": "text/json",
+        "size": 647
+      },
+      "json/054.content.json": {
+        "mimeType": "text/json",
+        "size": 644
+      },
+      "json/055.content.json": {
+        "mimeType": "text/json",
+        "size": 675
+      },
+      "json/056.content.json": {
+        "mimeType": "text/json",
+        "size": 717
+      },
+      "json/057.content.json": {
+        "mimeType": "text/json",
+        "size": 778
+      },
+      "json/058.content.json": {
+        "mimeType": "text/json",
+        "size": 693
+      },
+      "json/059.content.json": {
+        "mimeType": "text/json",
+        "size": 765
+      },
+      "json/060.content.json": {
+        "mimeType": "text/json",
+        "size": 693
+      },
+      "json/061.content.json": {
+        "mimeType": "text/json",
+        "size": 629
+      },
+      "json/062.content.json": {
+        "mimeType": "text/json",
+        "size": 759
+      },
+      "json/063.content.json": {
+        "mimeType": "text/json",
+        "size": 641
+      },
+      "json/064.content.json": {
+        "mimeType": "text/json",
+        "size": 645
+      },
+      "json/065.content.json": {
+        "mimeType": "text/json",
+        "size": 632
+      },
+      "json/066.content.json": {
+        "mimeType": "text/json",
+        "size": 666
+      },
+      "json/067.content.json": {
+        "mimeType": "text/json",
+        "size": 657
+      },
+      "json/068.content.json": {
+        "mimeType": "text/json",
+        "size": 685
+      },
+      "json/069.content.json": {
+        "mimeType": "text/json",
+        "size": 668
+      },
+      "json/070.content.json": {
+        "mimeType": "text/json",
+        "size": 610
+      },
+      "json/071.content.json": {
+        "mimeType": "text/json",
+        "size": 617
+      },
+      "json/072.content.json": {
+        "mimeType": "text/json",
+        "size": 759
+      },
+      "json/073.content.json": {
+        "mimeType": "text/json",
+        "size": 660
+      },
+      "json/074.content.json": {
+        "mimeType": "text/json",
+        "size": 689
+      },
+      "json/075.content.json": {
+        "mimeType": "text/json",
+        "size": 638
+      },
+      "json/076.content.json": {
+        "mimeType": "text/json",
+        "size": 665
+      },
+      "json/077.content.json": {
+        "mimeType": "text/json",
+        "size": 814
+      },
+      "json/078.content.json": {
+        "mimeType": "text/json",
+        "size": 633
+      },
+      "json/079.content.json": {
+        "mimeType": "text/json",
+        "size": 1881
+      },
+      "json/080.content.json": {
+        "mimeType": "text/json",
+        "size": 653
+      },
+      "json/081.content.json": {
+        "mimeType": "text/json",
+        "size": 1014
+      },
+      "json/082.content.json": {
+        "mimeType": "text/json",
+        "size": 1462
+      },
+      "json/083.content.json": {
+        "mimeType": "text/json",
+        "size": 733
+      },
+      "json/084.content.json": {
+        "mimeType": "text/json",
+        "size": 647
+      },
+      "json/085.content.json": {
+        "mimeType": "text/json",
+        "size": 523
+      },
+      "json/086.content.json": {
+        "mimeType": "text/json",
+        "size": 653
+      },
+      "json/087.content.json": {
+        "mimeType": "text/json",
+        "size": 647
+      },
+      "json/088.content.json": {
+        "mimeType": "text/json",
+        "size": 648
+      },
+      "json/089.content.json": {
+        "mimeType": "text/json",
+        "size": 1105
+      },
+      "json/090.content.json": {
+        "mimeType": "text/json",
+        "size": 811
+      },
+      "json/091.content.json": {
+        "mimeType": "text/json",
+        "size": 654
+      },
+      "json/092.content.json": {
+        "mimeType": "text/json",
+        "size": 754
+      },
+      "json/093.content.json": {
+        "mimeType": "text/json",
+        "size": 777
+      },
+      "json/094.content.json": {
+        "mimeType": "text/json",
+        "size": 645
+      },
+      "json/095.content.json": {
+        "mimeType": "text/json",
+        "size": 645
+      },
+      "json/096.content.json": {
+        "mimeType": "text/json",
+        "size": 455
+      },
+      "json/097.content.json": {
+        "mimeType": "text/json",
+        "size": 757
+      },
+      "json/098.content.json": {
+        "mimeType": "text/json",
+        "size": 647
+      },
+      "json/099.content.json": {
+        "mimeType": "text/json",
+        "size": 648
+      },
+      "json/100.content.json": {
+        "mimeType": "text/json",
+        "size": 1225
+      },
+      "json/101.content.json": {
+        "mimeType": "text/json",
+        "size": 780
+      },
+      "json/102.content.json": {
+        "mimeType": "text/json",
+        "size": 659
+      },
+      "json/103.content.json": {
+        "mimeType": "text/json",
+        "size": 661
+      },
+      "json/104.content.json": {
+        "mimeType": "text/json",
+        "size": 770
+      },
+      "json/105.content.json": {
+        "mimeType": "text/json",
+        "size": 694
+      },
+      "json/106.content.json": {
+        "mimeType": "text/json",
+        "size": 653
+      },
+      "json/107.content.json": {
+        "mimeType": "text/json",
+        "size": 683
+      },
+      "json/108.content.json": {
+        "mimeType": "text/json",
+        "size": 632
+      },
+      "json/109.content.json": {
+        "mimeType": "text/json",
+        "size": 671
+      },
+      "json/110.content.json": {
+        "mimeType": "text/json",
+        "size": 660
+      },
+      "json/111.content.json": {
+        "mimeType": "text/json",
+        "size": 653
+      },
+      "json/112.content.json": {
+        "mimeType": "text/json",
+        "size": 637
+      },
+      "json/113.content.json": {
+        "mimeType": "text/json",
+        "size": 533
+      },
+      "json/114.content.json": {
+        "mimeType": "text/json",
+        "size": 673
+      },
+      "json/115.content.json": {
+        "mimeType": "text/json",
+        "size": 737
+      },
+      "json/116.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/117.content.json": {
+        "mimeType": "text/json",
+        "size": 700
+      },
+      "json/118.content.json": {
+        "mimeType": "text/json",
+        "size": 591
+      },
+      "json/119.content.json": {
+        "mimeType": "text/json",
+        "size": 679
+      },
+      "json/120.content.json": {
+        "mimeType": "text/json",
+        "size": 676
+      },
+      "json/121.content.json": {
+        "mimeType": "text/json",
+        "size": 669
+      },
+      "json/122.content.json": {
+        "mimeType": "text/json",
+        "size": 826
+      },
+      "json/123.content.json": {
+        "mimeType": "text/json",
+        "size": 640
+      },
+      "json/124.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/125.content.json": {
+        "mimeType": "text/json",
+        "size": 639
+      },
+      "json/126.content.json": {
+        "mimeType": "text/json",
+        "size": 883
+      },
+      "json/127.content.json": {
+        "mimeType": "text/json",
+        "size": 764
+      },
+      "json/128.content.json": {
+        "mimeType": "text/json",
+        "size": 765
+      },
+      "json/129.content.json": {
+        "mimeType": "text/json",
+        "size": 896
+      },
+      "json/130.content.json": {
+        "mimeType": "text/json",
+        "size": 672
+      },
+      "json/131.content.json": {
+        "mimeType": "text/json",
+        "size": 711
+      },
+      "json/132.content.json": {
+        "mimeType": "text/json",
+        "size": 626
+      },
+      "json/133.content.json": {
+        "mimeType": "text/json",
+        "size": 553
+      },
+      "json/134.content.json": {
+        "mimeType": "text/json",
+        "size": 700
+      },
+      "json/135.content.json": {
+        "mimeType": "text/json",
+        "size": 619
+      },
+      "json/136.content.json": {
+        "mimeType": "text/json",
+        "size": 553
+      },
+      "json/137.content.json": {
+        "mimeType": "text/json",
+        "size": 661
+      },
+      "json/138.content.json": {
+        "mimeType": "text/json",
+        "size": 662
+      },
+      "json/139.content.json": {
+        "mimeType": "text/json",
+        "size": 668
+      },
+      "json/140.content.json": {
+        "mimeType": "text/json",
+        "size": 649
+      },
+      "json/141.content.json": {
+        "mimeType": "text/json",
+        "size": 633
+      },
+      "json/142.content.json": {
+        "mimeType": "text/json",
+        "size": 669
+      },
+      "json/143.content.json": {
+        "mimeType": "text/json",
+        "size": 671
+      },
+      "json/144.content.json": {
+        "mimeType": "text/json",
+        "size": 673
+      },
+      "json/145.content.json": {
+        "mimeType": "text/json",
+        "size": 734
+      },
+      "json/146.content.json": {
+        "mimeType": "text/json",
+        "size": 631
+      },
+      "json/147.content.json": {
+        "mimeType": "text/json",
+        "size": 626
+      },
+      "json/148.content.json": {
+        "mimeType": "text/json",
+        "size": 628
+      },
+      "json/149.content.json": {
+        "mimeType": "text/json",
+        "size": 637
+      },
+      "json/150.content.json": {
+        "mimeType": "text/json",
+        "size": 839
+      },
+      "json/151.content.json": {
+        "mimeType": "text/json",
+        "size": 642
+      },
+      "json/152.content.json": {
+        "mimeType": "text/json",
+        "size": 640
+      },
+      "json/153.content.json": {
+        "mimeType": "text/json",
+        "size": 644
+      },
+      "json/154.content.json": {
+        "mimeType": "text/json",
+        "size": 626
+      },
+      "json/155.content.json": {
+        "mimeType": "text/json",
+        "size": 632
+      },
+      "json/156.content.json": {
+        "mimeType": "text/json",
+        "size": 669
+      },
+      "json/157.content.json": {
+        "mimeType": "text/json",
+        "size": 626
+      },
+      "json/158.content.json": {
+        "mimeType": "text/json",
+        "size": 765
+      },
+      "json/159.content.json": {
+        "mimeType": "text/json",
+        "size": 658
+      },
+      "json/160.content.json": {
+        "mimeType": "text/json",
+        "size": 811
+      },
+      "json/161.content.json": {
+        "mimeType": "text/json",
+        "size": 656
+      },
+      "json/162.content.json": {
+        "mimeType": "text/json",
+        "size": 684
+      },
+      "json/163.content.json": {
+        "mimeType": "text/json",
+        "size": 684
+      },
+      "json/164.content.json": {
+        "mimeType": "text/json",
+        "size": 699
+      },
+      "json/165.content.json": {
+        "mimeType": "text/json",
+        "size": 654
+      },
+      "json/166.content.json": {
+        "mimeType": "text/json",
+        "size": 660
+      },
+      "json/167.content.json": {
+        "mimeType": "text/json",
+        "size": 658
+      },
+      "json/168.content.json": {
+        "mimeType": "text/json",
+        "size": 507
+      },
+      "json/169.content.json": {
+        "mimeType": "text/json",
+        "size": 779
+      },
+      "json/170.content.json": {
+        "mimeType": "text/json",
+        "size": 775
+      },
+      "json/171.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/172.content.json": {
+        "mimeType": "text/json",
+        "size": 679
+      },
+      "json/173.content.json": {
+        "mimeType": "text/json",
+        "size": 804
+      },
+      "json/174.content.json": {
+        "mimeType": "text/json",
+        "size": 660
+      },
+      "json/175.content.json": {
+        "mimeType": "text/json",
+        "size": 634
+      },
+      "json/176.content.json": {
+        "mimeType": "text/json",
+        "size": 687
+      },
+      "json/177.content.json": {
+        "mimeType": "text/json",
+        "size": 698
+      },
+      "json/178.content.json": {
+        "mimeType": "text/json",
+        "size": 634
+      },
+      "json/179.content.json": {
+        "mimeType": "text/json",
+        "size": 638
+      },
+      "json/180.content.json": {
+        "mimeType": "text/json",
+        "size": 742
+      },
+      "json/181.content.json": {
+        "mimeType": "text/json",
+        "size": 779
+      },
+      "json/182.content.json": {
+        "mimeType": "text/json",
+        "size": 651
+      },
+      "json/183.content.json": {
+        "mimeType": "text/json",
+        "size": 745
+      },
+      "json/184.content.json": {
+        "mimeType": "text/json",
+        "size": 637
+      },
+      "json/185.content.json": {
+        "mimeType": "text/json",
+        "size": 746
+      },
+      "json/186.content.json": {
+        "mimeType": "text/json",
+        "size": 678
+      },
+      "json/187.content.json": {
+        "mimeType": "text/json",
+        "size": 627
+      },
+      "json/188.content.json": {
+        "mimeType": "text/json",
+        "size": 757
+      },
+      "json/189.content.json": {
+        "mimeType": "text/json",
+        "size": 651
+      },
+      "json/190.content.json": {
+        "mimeType": "text/json",
+        "size": 797
+      },
+      "json/191.content.json": {
+        "mimeType": "text/json",
+        "size": 675
+      },
+      "json/192.content.json": {
+        "mimeType": "text/json",
+        "size": 657
+      },
+      "json/193.content.json": {
+        "mimeType": "text/json",
+        "size": 648
+      },
+      "json/194.content.json": {
+        "mimeType": "text/json",
+        "size": 765
+      },
+      "json/195.content.json": {
+        "mimeType": "text/json",
+        "size": 773
+      },
+      "json/196.content.json": {
+        "mimeType": "text/json",
+        "size": 800
+      },
+      "json/197.content.json": {
+        "mimeType": "text/json",
+        "size": 637
+      },
+      "json/198.content.json": {
+        "mimeType": "text/json",
+        "size": 628
+      },
+      "json/199.content.json": {
+        "mimeType": "text/json",
+        "size": 616
+      },
+      "json/200.content.json": {
+        "mimeType": "text/json",
+        "size": 522
+      },
+      "json/201.content.json": {
+        "mimeType": "text/json",
+        "size": 735
+      },
+      "json/202.content.json": {
+        "mimeType": "text/json",
+        "size": 712
+      },
+      "json/203.content.json": {
+        "mimeType": "text/json",
+        "size": 783
+      },
+      "json/204.content.json": {
+        "mimeType": "text/json",
+        "size": 762
+      },
+      "json/205.content.json": {
+        "mimeType": "text/json",
+        "size": 562
+      },
+      "json/206.content.json": {
+        "mimeType": "text/json",
+        "size": 617
+      },
+      "json/207.content.json": {
+        "mimeType": "text/json",
+        "size": 907
+      },
+      "json/208.content.json": {
+        "mimeType": "text/json",
+        "size": 659
+      },
+      "json/209.content.json": {
+        "mimeType": "text/json",
+        "size": 836
+      },
+      "json/210.content.json": {
+        "mimeType": "text/json",
+        "size": 766
+      },
+      "json/211.content.json": {
+        "mimeType": "text/json",
+        "size": 877
+      },
+      "json/212.content.json": {
+        "mimeType": "text/json",
+        "size": 644
+      },
+      "json/213.content.json": {
+        "mimeType": "text/json",
+        "size": 649
+      },
+      "json/214.content.json": {
+        "mimeType": "text/json",
+        "size": 639
+      },
+      "json/215.content.json": {
+        "mimeType": "text/json",
+        "size": 635
+      },
+      "json/216.content.json": {
+        "mimeType": "text/json",
+        "size": 639
+      },
+      "json/217.content.json": {
+        "mimeType": "text/json",
+        "size": 673
+      },
+      "json/218.content.json": {
+        "mimeType": "text/json",
+        "size": 669
+      },
+      "json/219.content.json": {
+        "mimeType": "text/json",
+        "size": 753
+      },
+      "json/220.content.json": {
+        "mimeType": "text/json",
+        "size": 643
+      },
+      "json/221.content.json": {
+        "mimeType": "text/json",
+        "size": 636
+      },
+      "json/222.content.json": {
+        "mimeType": "text/json",
+        "size": 577
+      },
+      "json/223.content.json": {
+        "mimeType": "text/json",
+        "size": 814
+      },
+      "json/224.content.json": {
+        "mimeType": "text/json",
+        "size": 673
+      },
+      "json/225.content.json": {
+        "mimeType": "text/json",
+        "size": 680
+      },
+      "json/226.content.json": {
+        "mimeType": "text/json",
+        "size": 595
+      },
+      "json/227.content.json": {
+        "mimeType": "text/json",
+        "size": 590
+      },
+      "md/081.content.md": {
         "mimeType": "text/markdown",
-        "size": 4944
+        "size": 1889
       },
-      "md/009.content.md": {
+      "md/109.content.md": {
         "mimeType": "text/markdown",
-        "size": 11557
+        "size": 1251
       },
-      "md/003.content.md": {
+      "md/086.content.md": {
         "mimeType": "text/markdown",
-        "size": 11038
+        "size": 1806
       },
-      "md/004.content.md": {
+      "md/079.content.md": {
         "mimeType": "text/markdown",
-        "size": 9097
+        "size": 1992
       },
-      "md/011.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8647
-      },
-      "md/016.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11700
-      },
-      "md/020.content.md": {
+      "md/221.content.md": {
         "mimeType": "text/markdown",
         "size": 1370
       },
+      "md/226.content.md": {
+        "mimeType": "text/markdown",
+        "size": 856
+      },
+      "md/093.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1954
+      },
+      "md/039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1756
+      },
+      "md/149.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1306
+      },
+      "md/094.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1616
+      },
+      "md/210.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1654
+      },
+      "md/217.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1135
+      },
+      "md/180.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2307
+      },
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1803
+      },
+      "md/187.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1329
+      },
+      "md/178.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1597
+      },
+      "md/202.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1261
+      },
+      "md/205.content.md": {
+        "mimeType": "text/markdown",
+        "size": 840
+      },
+      "md/192.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1497
+      },
+      "md/138.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1891
+      },
+      "md/048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1966
+      },
+      "md/195.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1770
+      },
+      "md/227.content.md": {
+        "mimeType": "text/markdown",
+        "size": 854
+      },
+      "md/220.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1419
+      },
+      "md/095.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1164
+      },
+      "md/148.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1361
+      },
+      "md/038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2304
+      },
+      "md/092.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1952
+      },
+      "md/078.content.md": {
+        "mimeType": "text/markdown",
+        "size": 876
+      },
+      "md/087.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1476
+      },
+      "md/108.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1953
+      },
+      "md/080.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1717
+      },
+      "md/204.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2349
+      },
+      "md/203.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1699
+      },
+      "md/194.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1501
+      },
+      "md/049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1988
+      },
+      "md/139.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2372
+      },
+      "md/193.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1709
+      },
+      "md/216.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1246
+      },
+      "md/211.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2011
+      },
+      "md/179.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2235
+      },
+      "md/186.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1589
+      },
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1963
+      },
+      "md/181.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1586
+      },
+      "md/174.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1372
+      },
+      "md/121.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1494
+      },
+      "md/056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1342
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1688
+      },
+      "md/173.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2675
+      },
+      "md/126.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1943
+      },
+      "md/051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1289
+      },
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1556
+      },
+      "md/209.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2035
+      },
+      "md/044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1563
+      },
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1360
+      },
+      "md/199.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2199
+      },
+      "md/166.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1926
+      },
+      "md/133.content.md": {
+        "mimeType": "text/markdown",
+        "size": 835
+      },
+      "md/043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1937
+      },
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1441
+      },
+      "md/161.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1535
+      },
+      "md/134.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1346
+      },
+      "md/075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1199
+      },
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2369
+      },
+      "md/157.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1672
+      },
+      "md/102.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1507
+      },
+      "md/072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1801
+      },
+      "md/027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2387
+      },
+      "md/150.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2258
+      },
+      "md/105.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1547
+      },
+      "md/145.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1571
+      },
+      "md/110.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1347
+      },
+      "md/098.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1326
+      },
+      "md/067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1671
+      },
+      "md/032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1247
+      },
+      "md/142.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1506
+      },
+      "md/117.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2100
+      },
+      "md/060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1365
+      },
+      "md/035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1608
+      },
+      "md/208.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1617
+      },
+      "md/135.content.md": {
+        "mimeType": "text/markdown",
+        "size": 869
+      },
+      "md/160.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1977
+      },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 19540
+        "size": 986
+      },
+      "md/042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1617
+      },
+      "md/132.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1439
+      },
+      "md/167.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1675
+      },
+      "md/198.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1030
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 48845
+        "size": 1403
+      },
+      "md/045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1647
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 17584
+        "size": 1842
+      },
+      "md/050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1947
+      },
+      "md/127.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2264
+      },
+      "md/172.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1500
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 12226
+        "size": 1896
+      },
+      "md/057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1945
+      },
+      "md/120.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1671
+      },
+      "md/175.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1910
+      },
+      "md/034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3845
+      },
+      "md/061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1286
+      },
+      "md/116.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1724
+      },
+      "md/143.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1709
+      },
+      "md/033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1680
+      },
+      "md/066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1533
+      },
+      "md/099.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1621
+      },
+      "md/111.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1675
+      },
+      "md/144.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1686
+      },
+      "md/104.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1941
+      },
+      "md/151.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1350
+      },
+      "md/026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1351
+      },
+      "md/073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1416
+      },
+      "md/103.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1767
+      },
+      "md/156.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1433
       },
       "md/021.content.md": {
         "mimeType": "text/markdown",
-        "size": 1626
+        "size": 1309
+      },
+      "md/074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1638
+      },
+      "md/047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1395
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 9280
+        "size": 1914
+      },
+      "md/165.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1673
+      },
+      "md/130.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1348
+      },
+      "md/040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1722
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 30931
+        "size": 2166
+      },
+      "md/162.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1415
+      },
+      "md/137.content.md": {
+        "mimeType": "text/markdown",
+        "size": 979
+      },
+      "md/177.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1602
+      },
+      "md/122.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1675
+      },
+      "md/188.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1560
+      },
+      "md/055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1583
+      },
+      "md/170.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2007
+      },
+      "md/125.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1520
+      },
+      "md/052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2936
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 18442
+        "size": 1453
+      },
+      "md/218.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1124
+      },
+      "md/146.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1273
+      },
+      "md/113.content.md": {
+        "mimeType": "text/markdown",
+        "size": 825
+      },
+      "md/064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1428
+      },
+      "md/031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1969
+      },
+      "md/141.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1298
+      },
+      "md/114.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1544
+      },
+      "md/063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1940
+      },
+      "md/036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2152
+      },
+      "md/076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1439
+      },
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1274
+      },
+      "md/089.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1908
+      },
+      "md/154.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1367
+      },
+      "md/101.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1890
+      },
+      "md/071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1539
+      },
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1340
+      },
+      "md/153.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1569
+      },
+      "md/106.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1472
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 2218
+        "size": 2236
+      },
+      "md/053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1252
+      },
+      "md/124.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1250
+      },
+      "md/171.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1682
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 8678
+        "size": 1589
+      },
+      "md/054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1517
+      },
+      "md/189.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1651
+      },
+      "md/123.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1568
+      },
+      "md/176.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1928
+      },
+      "md/219.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2444
+      },
+      "md/136.content.md": {
+        "mimeType": "text/markdown",
+        "size": 835
+      },
+      "md/163.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1415
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 1163
+        "size": 1657
+      },
+      "md/041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2065
+      },
+      "md/131.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1116
+      },
+      "md/164.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2451
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 5471
+        "size": 1124
+      },
+      "md/046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1168
+      },
+      "md/107.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1142
+      },
+      "md/152.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1880
+      },
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1500
+      },
+      "md/070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1246
+      },
+      "md/100.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1948
+      },
+      "md/155.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1163
+      },
+      "md/088.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1971
       },
       "md/022.content.md": {
         "mimeType": "text/markdown",
-        "size": 3282
+        "size": 1205
+      },
+      "md/077.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1367
+      },
+      "md/037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1916
+      },
+      "md/062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1557
+      },
+      "md/115.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2001
+      },
+      "md/140.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1633
+      },
+      "md/030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3828
+      },
+      "md/065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1498
+      },
+      "md/112.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1423
+      },
+      "md/147.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1310
+      },
+      "md/118.content.md": {
+        "mimeType": "text/markdown",
+        "size": 853
+      },
+      "md/090.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1593
+      },
+      "md/068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1202
+      },
+      "md/097.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2021
+      },
+      "md/222.content.md": {
+        "mimeType": "text/markdown",
+        "size": 847
+      },
+      "md/225.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2378
+      },
+      "md/028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1674
+      },
+      "md/082.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2001
+      },
+      "md/085.content.md": {
+        "mimeType": "text/markdown",
+        "size": 820
+      },
+      "md/158.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1677
       },
       "md/019.content.md": {
         "mimeType": "text/markdown",
-        "size": 3266
+        "size": 2002
+      },
+      "md/191.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1683
+      },
+      "md/169.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2033
+      },
+      "md/196.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1720
+      },
+      "md/201.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1712
+      },
+      "md/206.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1379
+      },
+      "md/129.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1587
+      },
+      "md/183.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1839
+      },
+      "md/184.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1598
+      },
+      "md/059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1454
+      },
+      "md/213.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1366
+      },
+      "md/214.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1757
+      },
+      "md/159.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1400
+      },
+      "md/084.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1428
+      },
+      "md/083.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1470
+      },
+      "md/029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3827
+      },
+      "md/096.content.md": {
+        "mimeType": "text/markdown",
+        "size": 723
+      },
+      "md/069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1894
+      },
+      "md/091.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1579
+      },
+      "md/119.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1408
+      },
+      "md/224.content.md": {
+        "mimeType": "text/markdown",
+        "size": 985
+      },
+      "md/223.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1376
+      },
+      "md/058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1275
+      },
+      "md/185.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2857
+      },
+      "md/182.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2380
+      },
+      "md/128.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1893
+      },
+      "md/215.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1244
+      },
+      "md/212.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1451
+      },
+      "md/197.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1711
+      },
+      "md/168.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1173
+      },
+      "md/190.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1673
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
-        "size": 8212
+        "size": 2379
+      },
+      "md/207.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1756
+      },
+      "md/200.content.md": {
+        "mimeType": "text/markdown",
+        "size": 818
       }
     },
     "copyright": {

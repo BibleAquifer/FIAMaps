@@ -1,0 +1,272 @@
+[
+{
+"content_id": "c2",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee Area with Capernaum",
+"media_type": "Image",
+"index_reference": "galilee area with capernaum",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c2/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c2/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "41001035",
+"start_ref_usfm": "MRK 1:35",
+"end_ref": "41001039",
+"end_ref_usfm": "MRK 1:39"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41002013",
+"start_ref_usfm": "MRK 2:13",
+"end_ref": "41002017",
+"end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004034",
+"end_ref_usfm": "MRK 4:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.4115,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Thistle"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "person:Alphaeus.2",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Alphaeus"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Matthew"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:TaxOffice",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Tax Office"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Demons"
+}
+]
+}
+}
+]

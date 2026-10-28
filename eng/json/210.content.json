@@ -1,0 +1,200 @@
+[
+{
+"content_id": "c35",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Territory of Herod Agrippa",
+"media_type": "Image",
+"index_reference": "territory of herod agrippa",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c35/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c35/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012005",
+"end_ref_usfm": "ACT 12:5"
+},
+{
+"start_ref": "44012020",
+"start_ref_usfm": "ACT 12:20",
+"end_ref": "44012024",
+"end_ref_usfm": "ACT 12:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 0.33,
+"match_method": "canonical",
+"preferred_label": "Herod"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.235,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "person:Blastus",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Blastus"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Tyrians"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Sidonians"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "realia:Bedroom",
+"type": "realia",
+"confidence": 0.155,
+"match_method": "canonical",
+"preferred_label": "Bedroom"
+},
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Worm"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Judgment Seat"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+}
+]
+}
+}
+]

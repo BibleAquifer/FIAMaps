@@ -1,0 +1,362 @@
+[
+{
+"content_id": "c212",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Zoomed Out View of the Book of Matthew",
+"media_type": "Image",
+"index_reference": "zoomed out view of the book of matthew",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c212/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c212/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40001001",
+"start_ref_usfm": "MAT 1:1",
+"end_ref": "40001017",
+"end_ref_usfm": "MAT 1:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3412,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3412,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3294,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.3294,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "person:Eliud",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Eliud"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Zerubbabel"
+},
+{
+"id": "person:Jacob.2",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Jacob"
+},
+{
+"id": "person:Azor",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Azor"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Salmon",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Salmon"
+},
+{
+"id": "person:Ram",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Ram"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Jehoiachin"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Josiah"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "Jesse"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Nahshon",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Nahshon"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Jotham.2",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Jotham"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Jehoram"
+},
+{
+"id": "person:Matthan",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Matthan"
+},
+{
+"id": "person:Abiud",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Abiud"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Ahaz"
+},
+{
+"id": "person:Obed",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Obed"
+},
+{
+"id": "person:Zadok",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Achim",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Achim"
+},
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Rahab"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Amminadab",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Amminadab"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Hezron.2",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Hezron"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Jehoshaphat"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Perez"
+},
+{
+"id": "person:Eliakim",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Rehoboam"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Boaz"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Ruth"
+},
+{
+"id": "person:Shealtiel.2",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Shealtiel"
+},
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Mary"
+}
+]
+}
+}
+]

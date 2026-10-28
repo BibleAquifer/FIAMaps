@@ -1,94 +1,199 @@
 [
 {
-"content_id": "c187",
+"content_id": "c111",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Oaks of Mamre",
+"title": "Bethlehem to Hebron",
 "media_type": "Image",
-"index_reference": "oaks of mamre",
+"index_reference": "bethlehem to hebron",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c187/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c187/v1/original.png'>link</a></p></block>",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c111/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c111/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
-"start_ref": "01018001",
-"start_ref_usfm": "GEN 18:1",
-"end_ref": "01018015",
-"end_ref_usfm": "GEN 18:15"
+"start_ref": "01035021",
+"start_ref_usfm": "GEN 35:21",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
 }
 ],
 "resource": [],
 "acai": [
 {
-"id": "person:Sarah",
+"id": "person:Israel",
 "type": "person",
-"confidence": 0.59,
+"confidence": 0.65,
 "match_method": "canonical",
-"preferred_label": "Sarah"
+"preferred_label": "Israel"
 },
 {
-"id": "realia:Tent",
-"type": "realia",
-"confidence": 0.4533,
-"match_method": "canonical",
-"preferred_label": "Tent"
-},
-{
-"id": "person:Abraham",
+"id": "person:Isaac",
 "type": "person",
-"confidence": 0.42,
+"confidence": 0.4,
 "match_method": "canonical",
-"preferred_label": "Abraham"
+"preferred_label": "Isaac"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.34,
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.3222,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Reuben"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.2,
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Bilhah"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.18,
+"id": "person:Leah",
+"type": "person",
+"confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Leah"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.18,
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Rachel"
+},
+{
+"id": "place:TowerOfEder",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Tower of Eder"
 },
 {
 "id": "place:Mamre",
 "type": "place",
-"confidence": 0.18,
+"confidence": 0.2222,
 "match_method": "canonical",
 "preferred_label": "Mamre"
 },
 {
-"id": "realia:Seah",
-"type": "realia",
-"confidence": 0.1333,
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2222,
 "match_method": "canonical",
-"preferred_label": "Seah"
+"preferred_label": "Judah"
 },
 {
-"id": "flora:Oak",
-"type": "flora",
-"confidence": 0.12,
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Oak"
+"preferred_label": "Zilpah"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Paddan-aram"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Asher"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Tent"
 }
 ]
 }

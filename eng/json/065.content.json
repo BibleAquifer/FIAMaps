@@ -1,0 +1,166 @@
+[
+{
+"content_id": "c39",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Haran to Canaan",
+"media_type": "Image",
+"index_reference": "haran to canaan",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c39/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c39/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012009",
+"end_ref_usfm": "GEN 12:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.6722,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Oak of Moreh"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Ai"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Oak"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Tent"
+}
+]
+}
+}
+]

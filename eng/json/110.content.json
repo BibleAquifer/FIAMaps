@@ -1,0 +1,117 @@
+[
+{
+"content_id": "c196",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jesus' Travels to Jerusalem",
+"media_type": "Image",
+"index_reference": "jesus travels to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c196/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c196/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41010046",
+"start_ref_usfm": "MRK 10:46",
+"end_ref": "41010052",
+"end_ref_usfm": "MRK 10:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.6714,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "person:Timaeus",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Timaeus"
+},
+{
+"id": "person:Bartimaeus",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Bartimaeus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Cheer Up"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+}
+]
+}
+}
+]

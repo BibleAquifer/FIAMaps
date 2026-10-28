@@ -1,0 +1,82 @@
+[
+{
+"content_id": "c53",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem, Lydda, Joppa, and Sharon Plains",
+"media_type": "Image",
+"index_reference": "jerusalem lydda joppa and sharon plains",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c53/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c53/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009035",
+"end_ref_usfm": "ACT 9:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Aeneas",
+"type": "person",
+"confidence": 0.525,
+"match_method": "canonical",
+"preferred_label": "Aeneas"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Lod",
+"type": "place",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Lod"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Sharon Plain"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.2025,
+"match_method": "canonical",
+"preferred_label": "Bed"
+}
+]
+}
+}
+]

@@ -1,0 +1,193 @@
+[
+{
+"content_id": "c43",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mount Ararat",
+"media_type": "Image",
+"index_reference": "mount ararat",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c43/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c43/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01008001",
+"start_ref_usfm": "GEN 8:1",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 0.4864,
+"match_method": "canonical",
+"preferred_label": "Noah"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.4733,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4455,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.3779,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.2309,
+"match_method": "canonical",
+"preferred_label": "Monitor"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.2309,
+"match_method": "canonical",
+"preferred_label": "Chameleon"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 0.2309,
+"match_method": "canonical",
+"preferred_label": "Lizard"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"confidence": 0.1733,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Ararat",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Ararat"
+},
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Japheth"
+},
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Ham"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Kind.2",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Kind"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Shem"
+},
+{
+"id": "fauna:Crow",
+"type": "fauna",
+"confidence": 0.1097,
+"match_method": "canonical",
+"preferred_label": "Crow"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1097,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"confidence": 0.1097,
+"match_method": "canonical",
+"preferred_label": "Window"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Covering",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Covering"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Bear"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Cypress"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Lion"
+}
+]
+}
+}
+]

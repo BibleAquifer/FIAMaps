@@ -1,0 +1,158 @@
+[
+{
+"content_id": "c83",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Nazareth and Capernaum in Galilee",
+"media_type": "Image",
+"index_reference": "nazareth and capernaum in galilee",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='None' alt='Image' width='480' /></p><p><a href='None'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013054",
+"start_ref_usfm": "MAT 13:54",
+"end_ref": "40013058",
+"end_ref_usfm": "MAT 13:58"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3464,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Disbelieve"
+},
+{
+"id": "person:Simon.3",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Jude"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1364,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

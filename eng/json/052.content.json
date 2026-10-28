@@ -1,0 +1,465 @@
+[
+{
+"content_id": "c221",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee and Jerusalem",
+"media_type": "Image",
+"index_reference": "galilee and jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c221/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c221/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43018001",
+"start_ref_usfm": "JHN 18:1",
+"end_ref": "43018014",
+"end_ref_usfm": "JHN 18:14"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+},
+{
+"start_ref": "44010034",
+"start_ref_usfm": "ACT 10:34",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5384,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4547,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4442,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4233,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.3679,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3419,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.226,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 0.2256,
+"match_method": "canonical",
+"preferred_label": "Caiaphas"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:Fishnet",
+"type": "realia",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Fishnet"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Annas"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "person:Nathanael",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Nathanael"
+},
+{
+"id": "person:Malchus",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Malchus"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "group:MilitaryMembers",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Military Members"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Thomas"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "realia:Torch",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Torch"
+},
+{
+"id": "realia:Sheath",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Sheath"
+},
+{
+"id": "realia:Lantern",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Lantern"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "realia:Cubit.2",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+}
+]
+}
+}
+]

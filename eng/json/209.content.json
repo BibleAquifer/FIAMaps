@@ -1,0 +1,276 @@
+[
+{
+"content_id": "c143",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sychar",
+"media_type": "Image",
+"index_reference": "sychar",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c143/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c143/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43004001",
+"start_ref_usfm": "JHN 4:1",
+"end_ref": "43004015",
+"end_ref_usfm": "JHN 4:15"
+},
+{
+"start_ref": "43004016",
+"start_ref_usfm": "JHN 4:16",
+"end_ref": "43004026",
+"end_ref_usfm": "JHN 4:26"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4786,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.4143,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4143,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.2869,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2262,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "place:Sychar",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Sychar"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Worshiper",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Worshiper"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "A Person"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "realia:Container",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Container"
+}
+]
+}
+}
+]

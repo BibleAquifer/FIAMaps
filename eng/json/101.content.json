@@ -1,0 +1,235 @@
+[
+{
+"content_id": "c9",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem, Bethphage, and Bethany",
+"media_type": "Image",
+"index_reference": "jerusalem bethphage and bethany",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c9/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c9/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.4025,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3196,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Bethany"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Bethphage",
+"type": "place",
+"confidence": 0.2464,
+"match_method": "canonical",
+"preferred_label": "Bethphage"
+},
+{
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
+},
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Height"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.2382,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.1804,
+"match_method": "canonical",
+"preferred_label": "Mount of Olives"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "realia:Siege-works",
+"type": "realia",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Siege-Works"
+},
+{
+"id": "flora:Rush",
+"type": "flora",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Rush"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

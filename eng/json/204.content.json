@@ -1,0 +1,340 @@
+[
+{
+"content_id": "c229",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sinai, Arabia, and India",
+"media_type": "Image",
+"index_reference": "sinai arabia and india",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c229/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c229/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030022",
+"start_ref_usfm": "EXO 30:22",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5136,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.4727,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4727,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.4705,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.2605,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.2514,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1809,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1809,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
+"id": "place:East",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "East"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Amalekites"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "flora:Cassia",
+"type": "flora",
+"confidence": 0.1195,
+"match_method": "canonical",
+"preferred_label": "Cassia"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 0.1195,
+"match_method": "canonical",
+"preferred_label": "Myrrh"
+},
+{
+"id": "flora:Cinnamon",
+"type": "flora",
+"confidence": 0.1195,
+"match_method": "canonical",
+"preferred_label": "Cinnamon"
+},
+{
+"id": "realia:Hin",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Hin"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Shekel"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Balsam Tree"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Locust"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "flora:Calamus",
+"type": "flora",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Calamus"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Tent of Meeting"
+}
+]
+}
+}
+]

@@ -1,0 +1,227 @@
+[
+{
+"content_id": "c199",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Egypt with Goshen and Rameses",
+"media_type": "Image",
+"index_reference": "egypt with goshen and rameses",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c199/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c199/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001015",
+"start_ref_usfm": "EXO 1:15",
+"end_ref": "02001022",
+"end_ref_usfm": "EXO 1:22"
+},
+{
+"start_ref": "02008020",
+"start_ref_usfm": "EXO 8:20",
+"end_ref": "02008032",
+"end_ref_usfm": "EXO 8:32"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.62,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5043,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.5043,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4914,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "fauna:Fly",
+"type": "fauna",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Fly"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.2314,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Goshen"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "person:Shiphrah",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Shiphrah"
+},
+{
+"id": "person:Puah.3",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Puah"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1657,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1657,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1657,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Barley"
+},
+{
+"id": "realia:Birthstool",
+"type": "realia",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Birthstool"
+},
+{
+"id": "flora:Flax",
+"type": "flora",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Flax"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Image"
+}
+]
+}
+}
+]

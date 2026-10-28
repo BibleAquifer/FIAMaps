@@ -1,0 +1,243 @@
+[
+{
+"content_id": "c133",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul's Journey to Jerusalem",
+"media_type": "Image",
+"index_reference": "pauls journey to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c133/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c133/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019021",
+"start_ref_usfm": "ACT 19:21",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Artemis",
+"type": "deity",
+"confidence": 0.4667,
+"match_method": "canonical",
+"preferred_label": "Artemis"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3857,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.3857,
+"match_method": "canonical",
+"preferred_label": "Ephesus"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.3238,
+"match_method": "canonical",
+"preferred_label": "Ephesians"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.3238,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3238,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "person:Demetrius",
+"type": "person",
+"confidence": 0.2619,
+"match_method": "canonical",
+"preferred_label": "Demetrius"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "realia:Theater",
+"type": "realia",
+"confidence": 0.2019,
+"match_method": "canonical",
+"preferred_label": "Theater"
+},
+{
+"id": "person:Gaius",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Gaius"
+},
+{
+"id": "person:Alexander.3",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Alexander"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Aristarchus"
+},
+{
+"id": "person:Erastus",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Erastus"
+},
+{
+"id": "place:Achaia",
+"type": "place",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Achaia"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Public Official"
+},
+{
+"id": "realia:ReplicaTemple",
+"type": "realia",
+"confidence": 0.121,
+"match_method": "canonical",
+"preferred_label": "Replica Temple"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

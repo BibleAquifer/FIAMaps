@@ -1,0 +1,206 @@
+[
+{
+"content_id": "c183",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Egypt with the Nile River and its tributaries",
+"media_type": "Image",
+"index_reference": "egypt with the nile river and its tributaries",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c183/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c183/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02007014",
+"start_ref_usfm": "EXO 7:14",
+"end_ref": "02007025",
+"end_ref_usfm": "EXO 7:25"
+},
+{
+"start_ref": "02008020",
+"start_ref_usfm": "EXO 8:20",
+"end_ref": "02008032",
+"end_ref_usfm": "EXO 8:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6393,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.4893,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.4512,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4357,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "fauna:Fly",
+"type": "fauna",
+"confidence": 0.3483,
+"match_method": "canonical",
+"preferred_label": "Fly"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2221,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Goshen"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Infectious Skin Disease"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Image"
+}
+]
+}
+}
+]
