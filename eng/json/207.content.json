@@ -1,0 +1,227 @@
+[
+{
+"content_id": "c150",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sodom, Gomorrah and Great Oaks of Mamre",
+"media_type": "Image",
+"index_reference": "sodom gomorrah and great oaks of mamre",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c150/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c150/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01018016",
+"start_ref_usfm": "GEN 18:16",
+"end_ref": "01018033",
+"end_ref_usfm": "GEN 18:33"
+},
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019029",
+"end_ref_usfm": "GEN 19:29"
+},
+{
+"start_ref": "01019030",
+"start_ref_usfm": "GEN 19:30",
+"end_ref": "01019038",
+"end_ref_usfm": "GEN 19:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.4902,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4866,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.4179,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3302,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.2812,
+"match_method": "canonical",
+"preferred_label": "Gomorrah"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"confidence": 0.2777,
+"match_method": "canonical",
+"preferred_label": "Zoar"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "person:Ben-ammi",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Ben-ammi"
+},
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Angels"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.1016,
+"match_method": "canonical",
+"preferred_label": "Kiln"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.098,
+"match_method": "canonical",
+"preferred_label": "Housetop"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.098,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+}
+]
+}
+}
+]

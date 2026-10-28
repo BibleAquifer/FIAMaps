@@ -1,0 +1,138 @@
+[
+{
+"content_id": "c91",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and Barnabas at Iconium",
+"media_type": "Image",
+"index_reference": "paul and barnabas at iconium",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c91/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c91/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014007",
+"end_ref_usfm": "ACT 14:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.5571,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Derbe"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Lystra"
+},
+{
+"id": "place:Lycaonia",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Lycaonia"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Iconium"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

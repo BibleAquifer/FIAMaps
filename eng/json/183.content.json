@@ -1,0 +1,228 @@
+[
+{
+"content_id": "c222",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Red Sea Border",
+"media_type": "Image",
+"index_reference": "red sea border",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c222/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c222/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02014015",
+"start_ref_usfm": "EXO 14:15",
+"end_ref": "02014031",
+"end_ref_usfm": "EXO 14:31"
+},
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5404,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5231,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5231,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4538,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.3938,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Purple Cloth"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Balsam Tree"
+},
+{
+"id": "realia:DyedCloth",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Dyed Cloth"
+},
+{
+"id": "fauna:Dugong",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Dugong"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Linen"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Ephod"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Breast-Piece"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+}
+]
+}
+}
+]

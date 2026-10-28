@@ -1,0 +1,110 @@
+[
+{
+"content_id": "c149",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mount Gerizim",
+"media_type": "Image",
+"index_reference": "mount gerizim",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c149/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c149/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43004016",
+"start_ref_usfm": "JHN 4:16",
+"end_ref": "43004026",
+"end_ref_usfm": "JHN 4:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.5545,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4636,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Worshiper",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Worshiper"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Believe"
+}
+]
+}
+}
+]

@@ -1,0 +1,272 @@
+[
+{
+"content_id": "c193",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Desert of Shur",
+"media_type": "Image",
+"index_reference": "desert of shur",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c193/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c193/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015019",
+"start_ref_usfm": "EXO 15:19",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "02016001",
+"start_ref_usfm": "EXO 16:1",
+"end_ref": "02016012",
+"end_ref_usfm": "EXO 16:12"
+},
+{
+"start_ref": "02016022",
+"start_ref_usfm": "EXO 16:22",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+},
+{
+"start_ref": "02033001",
+"start_ref_usfm": "EXO 33:1",
+"end_ref": "02033011",
+"end_ref_usfm": "EXO 33:11"
+},
+{
+"start_ref": "04004001",
+"start_ref_usfm": "NUM 4:1",
+"end_ref": "04004020",
+"end_ref_usfm": "NUM 4:20"
+},
+{
+"start_ref": "04004021",
+"start_ref_usfm": "NUM 4:21",
+"end_ref": "04004028",
+"end_ref_usfm": "NUM 4:28"
+},
+{
+"start_ref": "04004029",
+"start_ref_usfm": "NUM 4:29",
+"end_ref": "04004033",
+"end_ref_usfm": "NUM 4:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5019,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.485,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4287,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3838,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3781,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.3488,
+"match_method": "canonical",
+"preferred_label": "Tent of Meeting"
+},
+{
+"id": "fauna:Dugong",
+"type": "fauna",
+"confidence": 0.3319,
+"match_method": "canonical",
+"preferred_label": "Dugong"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"confidence": 0.3294,
+"match_method": "canonical",
+"preferred_label": "Purple Cloth"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.3263,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "realia:Covering",
+"type": "realia",
+"confidence": 0.3231,
+"match_method": "canonical",
+"preferred_label": "Covering"
+},
+{
+"id": "person:Gershon",
+"type": "person",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Gershon"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Kohath",
+"type": "person",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Kohath"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.3206,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "realia:Omer",
+"type": "realia",
+"confidence": 0.2675,
+"match_method": "canonical",
+"preferred_label": "Omer"
+},
+{
+"id": "group:Gershon",
+"type": "group",
+"confidence": 0.2669,
+"match_method": "canonical",
+"preferred_label": "Gershonites"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.265,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "place:Elim",
+"type": "place",
+"confidence": 0.2162,
+"match_method": "canonical",
+"preferred_label": "Elim"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Miriam"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+}
+]
+}
+}
+]

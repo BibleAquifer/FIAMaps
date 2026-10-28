@@ -1,0 +1,159 @@
+[
+{
+"content_id": "c79",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mary and Joseph's Journey to Egypt",
+"media_type": "Image",
+"index_reference": "mary and josephs journey to egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c79/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c79/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40002013",
+"start_ref_usfm": "MAT 2:13",
+"end_ref": "40002023",
+"end_ref_usfm": "MAT 2:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 0.5545,
+"match_method": "canonical",
+"preferred_label": "Herod"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4818,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Archelaus",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Archelaus"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ramah"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Rachel"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+}
+]
+}
+}
+]

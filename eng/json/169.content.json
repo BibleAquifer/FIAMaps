@@ -1,0 +1,284 @@
+[
+{
+"content_id": "c236",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul's Second Missionary Journey",
+"media_type": "Image",
+"index_reference": "pauls second missionary journey",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c236/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c236/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002011",
+"start_ref_usfm": "EXO 2:11",
+"end_ref": "02002015",
+"end_ref_usfm": "EXO 2:15"
+},
+{
+"start_ref": "44016006",
+"start_ref_usfm": "ACT 16:6",
+"end_ref": "44016015",
+"end_ref_usfm": "ACT 16:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3667,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Mysia",
+"type": "place",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Mysia"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Troas"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Phrygia"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Galatia"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Samothrace"
+},
+{
+"id": "place:Thyatira",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Thyatira"
+},
+{
+"id": "place:Neapolis",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Neapolis"
+},
+{
+"id": "place:Bithynia",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Bithynia"
+},
+{
+"id": "person:Lydia",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Lydia"
+},
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Philippi"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "House"
+}
+]
+}
+}
+]

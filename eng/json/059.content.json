@@ -1,0 +1,151 @@
+[
+{
+"content_id": "c113",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee,Judea and Samaria",
+"media_type": "Image",
+"index_reference": "galileejudea and samaria",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c113/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c113/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42018031",
+"start_ref_usfm": "LUK 18:31",
+"end_ref": "42018034",
+"end_ref_usfm": "LUK 18:34"
+},
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5188,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3344,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2744,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.2688,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2562,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.2213,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.2088,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:Measure",
+"type": "realia",
+"confidence": 0.1306,
+"match_method": "canonical",
+"preferred_label": "Measure"
+}
+]
+}
+}
+]

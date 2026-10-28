@@ -1,0 +1,18 @@
+[
+{
+"content_id": "c204",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Zoomed in View of Locations in the Book of Genesis",
+"media_type": "Image",
+"index_reference": "zoomed in view of locations in the book of genesis",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c204/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c204/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+}
+]

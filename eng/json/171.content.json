@@ -1,0 +1,201 @@
+[
+{
+"content_id": "c93",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul's Voyage to Rome",
+"media_type": "Image",
+"index_reference": "pauls voyage to rome",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c93/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c93/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44027001",
+"start_ref_usfm": "ACT 27:1",
+"end_ref": "44027008",
+"end_ref_usfm": "ACT 27:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Julius",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Julius"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Italy"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2525,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Salmone",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Salmone"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Augustus"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
+"id": "place:Lycia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Lycia"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Aristarchus"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Crete"
+},
+{
+"id": "place:Myra",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Myra"
+},
+{
+"id": "place:FairHavens",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Fair Havens"
+},
+{
+"id": "place:Cnidus",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Cnidus"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
+},
+{
+"id": "place:Lasea",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Lasea"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
+},
+{
+"id": "place:Adramyttium",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Adramyttium"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Thessalonians"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Thessalonica"
+}
+]
+}
+}
+]

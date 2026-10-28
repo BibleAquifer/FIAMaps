@@ -1,0 +1,89 @@
+[
+{
+"content_id": "c188",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem and Temple",
+"media_type": "Image",
+"index_reference": "jerusalem and temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c188/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c188/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44005012",
+"start_ref_usfm": "ACT 5:12",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:Porch",
+"type": "realia",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Porch"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Bed"
+}
+]
+}
+}
+]

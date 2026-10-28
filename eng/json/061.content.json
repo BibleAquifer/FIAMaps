@@ -1,0 +1,117 @@
+[
+{
+"content_id": "c47",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Garden of Eden",
+"media_type": "Image",
+"index_reference": "garden of eden",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c47/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c47/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002004",
+"start_ref_usfm": "GEN 2:4",
+"end_ref": "01002025",
+"end_ref_usfm": "GEN 2:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 0.3909,
+"match_method": "canonical",
+"preferred_label": "Adam"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.3205,
+"match_method": "canonical",
+"preferred_label": "Garden of Eden"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Intention"
+},
+{
+"id": "place:Havilah",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Havilah"
+},
+{
+"id": "place:Gihon",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Gihon"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "place:Tigris",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Tigris River"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+}
+]
+}
+}
+]

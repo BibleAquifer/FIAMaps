@@ -1,0 +1,193 @@
+[
+{
+"content_id": "c132",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "First Century Jerusalem",
+"media_type": "Image",
+"index_reference": "first century jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c132/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c132/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44001001",
+"start_ref_usfm": "ACT 1:1",
+"end_ref": "44001005",
+"end_ref_usfm": "ACT 1:5"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.4636,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Theophilus"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+}
+]
+}
+}
+]

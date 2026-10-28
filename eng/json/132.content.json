@@ -1,0 +1,152 @@
+[
+{
+"content_id": "c162",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Land of Nod",
+"media_type": "Image",
+"index_reference": "land of nod",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c162/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c162/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01004001",
+"start_ref_usfm": "GEN 4:1",
+"end_ref": "01004016",
+"end_ref_usfm": "GEN 4:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 0.6562,
+"match_method": "canonical",
+"preferred_label": "Cain"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 0.4375,
+"match_method": "canonical",
+"preferred_label": "Abel"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3469,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2088,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1963,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Eve"
+},
+{
+"id": "place:Nod",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Nod"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Adam"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Bear the Consequences Of"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Garden of Eden"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "flora:Sorghum",
+"type": "flora",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Sorghum"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+}
+]
+}
+}
+]

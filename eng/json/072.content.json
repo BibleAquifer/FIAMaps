@@ -1,0 +1,221 @@
+[
+{
+"content_id": "c123",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Israel and Phoenicia",
+"media_type": "Image",
+"index_reference": "israel and phoenicia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c123/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c123/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40015021",
+"start_ref_usfm": "MAT 15:21",
+"end_ref": "40015028",
+"end_ref_usfm": "MAT 15:28"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4684,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3947,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.1979,
+"match_method": "canonical",
+"preferred_label": "Dog"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1874,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "person:SyrophonecianWoman",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Syrophonecian Woman"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Magadan",
+"type": "place",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Magadan"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Honest"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+}
+]
+}
+}
+]

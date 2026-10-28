@@ -1,1513 +1,268 @@
 [
 {
-"content_id": "c130",
+"content_id": "c38",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Magdala and Jerusalem",
+"title": "Bethel and Ai",
 "media_type": "Image",
-"index_reference": "magdala and jerusalem",
+"index_reference": "bethel and ai",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c130/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c130/v1/original.png'>link</a></p></block>",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c38/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c38/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
-"start_ref": "40027045",
-"start_ref_usfm": "MAT 27:45",
-"end_ref": "40027056",
-"end_ref_usfm": "MAT 27:56"
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012009",
+"end_ref_usfm": "GEN 12:9"
+},
+{
+"start_ref": "01013001",
+"start_ref_usfm": "GEN 13:1",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
 }
 ],
 "resource": [],
 "acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.45,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "A Group of People"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
-"id": "realia:Grave",
-"type": "realia",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Grave"
-},
-{
-"id": "person:Joseph.5",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
-"id": "person:James.4",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Zebedee"
-},
-{
-"id": "person:Mary.2",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
-"id": "person:Marymagdalene",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Mary Magdalene"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Body"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "flora:Reed",
-"type": "flora",
-"confidence": 0.1442,
-"match_method": "canonical",
-"preferred_label": "Reed"
-},
-{
-"id": "realia:SourWine",
-"type": "realia",
-"confidence": 0.1442,
-"match_method": "canonical",
-"preferred_label": "Sour Wine"
-},
-{
-"id": "realia:Curtain",
-"type": "realia",
-"confidence": 0.1442,
-"match_method": "canonical",
-"preferred_label": "Curtain"
-},
-{
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.1275,
-"match_method": "canonical",
-"preferred_label": "Temple"
-}
-]
-}
-},
-{
-"content_id": "c131",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Malta to Rome",
-"media_type": "Image",
-"index_reference": "malta to rome",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c131/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c131/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "44028011",
-"start_ref_usfm": "ACT 28:11",
-"end_ref": "44028016",
-"end_ref_usfm": "ACT 28:16"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "place:Rome",
-"type": "place",
-"confidence": 0.3833,
-"match_method": "canonical",
-"preferred_label": "Rome"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.35,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
-"id": "place:Puteoli",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Puteoli"
-},
-{
-"id": "place:ForumOfAppius",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Forum of Appius"
-},
-{
-"id": "place:Alexandria",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Alexandria"
-},
-{
-"id": "place:Rhegium",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Rhegium"
-},
-{
-"id": "place:ThreeTaverns",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Three Taverns"
-},
-{
-"id": "place:Syracuse",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Syracuse"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "realia:Emblem",
-"type": "realia",
-"confidence": 0.1983,
-"match_method": "canonical",
-"preferred_label": "Emblem"
-},
-{
-"id": "realia:Inn",
-"type": "realia",
-"confidence": 0.165,
-"match_method": "canonical",
-"preferred_label": "Inn"
-},
-{
-"id": "realia:Ship",
-"type": "realia",
-"confidence": 0.165,
-"match_method": "canonical",
-"preferred_label": "Ship"
-}
-]
-}
-},
-{
-"content_id": "c79",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mary and Joseph's Journey to Egypt",
-"media_type": "Image",
-"index_reference": "mary and josephs journey to egypt",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c79/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c79/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "40002013",
-"start_ref_usfm": "MAT 2:13",
-"end_ref": "40002023",
-"end_ref_usfm": "MAT 2:23"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"confidence": 0.5545,
-"match_method": "canonical",
-"preferred_label": "Herod"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.4818,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "person:Joseph.4",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Jeremiah"
-},
-{
-"id": "person:Archelaus",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Archelaus"
-},
-{
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Nazareth"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "place:Ramah.2",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ramah"
-},
-{
-"id": "person:Rachel",
-"type": "person",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Rachel"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Encourage"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Bethlehem"
-}
-]
-}
-},
-{
-"content_id": "c17",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mary's Route from Nazareth to Judea",
-"media_type": "Image",
-"index_reference": "marys route from nazareth to judea",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c17/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c17/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "42001039",
-"start_ref_usfm": "LUK 1:39",
-"end_ref": "42001056",
-"end_ref_usfm": "LUK 1:56"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Mary",
-"type": "person",
-"confidence": 0.4,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.325,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "person:Elizabeth",
-"type": "person",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "Elizabeth"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "Mercy"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.19,
-"match_method": "canonical",
-"preferred_label": "House"
-},
-{
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.19,
-"match_method": "canonical",
-"preferred_label": "Temple"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1861,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
 {
 "id": "person:Abraham",
 "type": "person",
-"confidence": 0.175,
+"confidence": 0.6074,
 "match_method": "canonical",
 "preferred_label": "Abraham"
 },
 {
-"id": "keyterm:Savior",
-"type": "keyterm",
-"confidence": 0.175,
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.5241,
 "match_method": "canonical",
-"preferred_label": "Savior"
+"preferred_label": "Lot"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "deity:HolySpirit",
+"id": "deity:Lord",
 "type": "deity",
-"confidence": 0.175,
+"confidence": 0.5,
 "match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "LORD"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3741,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.3074,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Ai"
 },
 {
 "id": "keyterm:Bless",
 "type": "keyterm",
-"confidence": 0.175,
+"confidence": 0.2407,
 "match_method": "canonical",
 "preferred_label": "Bless"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.175,
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Holy"
+"preferred_label": "Flock"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.175,
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Goat"
 },
 {
-"id": "person:Zechariah",
-"type": "person",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Always"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Judah"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Happy"
-},
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Mind"
-},
-{
-"id": "keyterm:Haste",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Haste"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
-"id": "keyterm:RegardAsHappy",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Regard as Happy"
-},
-{
-"id": "keyterm:Empty",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Empty"
-}
-]
-}
-},
-{
-"content_id": "c184",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mediterranean and Surrounding Areas",
-"media_type": "Image",
-"index_reference": "mediterranean and surrounding areas",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c184/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c184/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "44006001",
-"start_ref_usfm": "ACT 6:1",
-"end_ref": "44006007",
-"end_ref_usfm": "ACT 6:7"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.4714,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.4429,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "person:Philip.4",
-"type": "person",
-"confidence": 0.3571,
-"match_method": "canonical",
-"preferred_label": "Philip"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "person:Nicanor",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Nicanor"
-},
-{
-"id": "group:Hellenist",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Hellenists"
-},
-{
-"id": "person:Nicolaus",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Nicolaus"
-},
-{
-"id": "group:Antioch",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Antiochians"
-},
-{
-"id": "person:Parmenas",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Parmenas"
-},
-{
-"id": "person:Stephen",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Stephen"
-},
-{
-"id": "person:Timon",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Timon"
-},
-{
-"id": "person:Prochorus",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Prochorus"
-},
-{
-"id": "place:Greece",
-"type": "place",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Greece"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "group:Hebrews",
-"type": "group",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Hebrews"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Antioch"
-}
-]
-}
-},
-{
-"content_id": "c43",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mount Ararat",
-"media_type": "Image",
-"index_reference": "mount ararat",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c43/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c43/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "01006009",
-"start_ref_usfm": "GEN 6:9",
-"end_ref": "01006022",
-"end_ref_usfm": "GEN 6:22"
-},
-{
-"start_ref": "01008001",
-"start_ref_usfm": "GEN 8:1",
-"end_ref": "01008019",
-"end_ref_usfm": "GEN 8:19"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Noah",
-"type": "person",
-"confidence": 0.4864,
-"match_method": "canonical",
-"preferred_label": "Noah"
-},
-{
-"id": "realia:Ship",
+"id": "realia:Tent",
 "type": "realia",
-"confidence": 0.4733,
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Ship"
+"preferred_label": "Tent"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.4455,
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2333,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Egypt"
 },
 {
-"id": "fauna:Dove",
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1807,
+"match_method": "canonical",
+"preferred_label": "Oak"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Oak of Moreh"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "fauna:Lamb",
 "type": "fauna",
-"confidence": 0.3779,
-"match_method": "canonical",
-"preferred_label": "Dove"
-},
-{
-"id": "fauna:Chameleon",
-"type": "fauna",
-"confidence": 0.2309,
-"match_method": "canonical",
-"preferred_label": "Chameleon"
-},
-{
-"id": "fauna:Lizard",
-"type": "fauna",
-"confidence": 0.2309,
-"match_method": "canonical",
-"preferred_label": "Lizard"
-},
-{
-"id": "fauna:Iguana",
-"type": "fauna",
-"confidence": 0.2309,
-"match_method": "canonical",
-"preferred_label": "Monitor"
-},
-{
-"id": "realia:Cubit",
-"type": "realia",
 "confidence": 0.1733,
 "match_method": "canonical",
-"preferred_label": "Cubit"
+"preferred_label": "Sheep"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.1697,
-"match_method": "canonical",
-"preferred_label": "Complete"
-},
-{
-"id": "place:Ararat",
+"id": "place:Mamre",
 "type": "place",
-"confidence": 0.1697,
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Ararat"
+"preferred_label": "Mamre"
 },
 {
-"id": "person:Ham",
+"id": "place:Zoar",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Zoar"
+},
+{
+"id": "person:Sarah",
 "type": "person",
-"confidence": 0.1636,
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Ham"
+"preferred_label": "Sarah"
 },
 {
-"id": "keyterm:Covenant",
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "keyterm:Curse",
 "type": "keyterm",
-"confidence": 0.1636,
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Covenant"
+"preferred_label": "To Curse"
 },
 {
-"id": "person:Japheth",
-"type": "person",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Japheth"
-},
-{
-"id": "person:Shem",
-"type": "person",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Shem"
-},
-{
-"id": "keyterm:Kind.2",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"confidence": 0.1636,
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Kind"
+"preferred_label": "To Sin"
 },
 {
-"id": "fauna:Crow",
-"type": "fauna",
-"confidence": 0.1097,
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Crow"
-},
-{
-"id": "realia:Window",
-"type": "realia",
-"confidence": 0.1097,
-"match_method": "canonical",
-"preferred_label": "Window"
-},
-{
-"id": "flora:OliveTree",
-"type": "flora",
-"confidence": 0.1097,
-"match_method": "canonical",
-"preferred_label": "Olive Tree"
-},
-{
-"id": "realia:Covering",
-"type": "realia",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Covering"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Cypress"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Lion"
+"preferred_label": "Gomorrah"
 },
 {
 "id": "fauna:Bull",
 "type": "fauna",
-"confidence": 0.1036,
+"confidence": 0.1067,
 "match_method": "canonical",
 "preferred_label": "Cattle"
 },
 {
-"id": "fauna:Bear",
-"type": "fauna",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Bear"
-}
-]
-}
-},
-{
-"content_id": "c149",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mount Gerizim",
-"media_type": "Image",
-"index_reference": "mount gerizim",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c149/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c149/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "43004016",
-"start_ref_usfm": "JHN 4:16",
-"end_ref": "43004026",
-"end_ref_usfm": "JHN 4:26"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.5545,
-"match_method": "canonical",
-"preferred_label": "Bow Down"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.4636,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "person:GenericFemale",
-"type": "person",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "A Woman"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Truth"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Worshiper",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Worshiper"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Believe"
-}
-]
-}
-},
-{
-"content_id": "c69",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mount Hermon",
-"media_type": "Image",
-"index_reference": "mount hermon",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c69/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c69/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "42009028",
-"start_ref_usfm": "LUK 9:28",
-"end_ref": "42009036",
-"end_ref_usfm": "LUK 9:36"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.4,
-"match_method": "canonical",
-"preferred_label": "Peter"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "person:James",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "realia:Tent",
+"id": "realia:Money",
 "type": "realia",
-"confidence": 0.14,
+"confidence": 0.1067,
 "match_method": "canonical",
-"preferred_label": "Tent"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"confidence": 0.14,
-"match_method": "canonical",
-"preferred_label": "Clothing"
-}
-]
-}
-},
-{
-"content_id": "c145",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mount of Olives",
-"media_type": "Image",
-"index_reference": "mount of olives",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c145/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c145/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "42021029",
-"start_ref_usfm": "LUK 21:29",
-"end_ref": "42021038",
-"end_ref_usfm": "LUK 21:38"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.23,
-"match_method": "canonical",
-"preferred_label": "Temple"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Mount of Olives"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Parable"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "keyterm:OfThisLife",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Everyday Matters"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Surely!"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.135,
-"match_method": "canonical",
-"preferred_label": "Fig"
-},
-{
-"id": "flora:OliveTree",
-"type": "flora",
-"confidence": 0.135,
-"match_method": "canonical",
-"preferred_label": "Olive Tree"
-},
-{
-"id": "realia:Net",
-"type": "realia",
-"confidence": 0.135,
-"match_method": "canonical",
-"preferred_label": "Net"
-}
-]
-}
-},
-{
-"content_id": "c104",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Mount Tabor",
-"media_type": "Image",
-"index_reference": "mount tabor",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c104/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c104/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [
-{
-"start_ref": "40017001",
-"start_ref_usfm": "MAT 17:1",
-"end_ref": "40017013",
-"end_ref_usfm": "MAT 17:13"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.5385,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.5231,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.3538,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Peter"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Beloved"
-},
-{
-"id": "person:John",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "person:James",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Baptist"
-},
-{
-"id": "realia:Tent",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Tent"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Clothing"
+"preferred_label": "Money"
 }
 ]
 }

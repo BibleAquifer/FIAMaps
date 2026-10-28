@@ -1,0 +1,61 @@
+[
+{
+"content_id": "c41",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Shinar Region",
+"media_type": "Image",
+"index_reference": "shinar region",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c41/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c41/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01011009",
+"end_ref_usfm": "GEN 11:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Tower"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Shinar"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Brick"
+}
+]
+}
+}
+]

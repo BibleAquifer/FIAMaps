@@ -1,0 +1,159 @@
+[
+{
+"content_id": "c156",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul's Voyage to Rome via Fair Havens",
+"media_type": "Image",
+"index_reference": "pauls voyage to rome via fair havens",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c156/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c156/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44027009",
+"start_ref_usfm": "ACT 27:9",
+"end_ref": "44027026",
+"end_ref_usfm": "ACT 27:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 0.3361,
+"match_method": "canonical",
+"preferred_label": "Crete"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Cauda",
+"type": "place",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Cauda"
+},
+{
+"id": "place:Phoenix",
+"type": "place",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Phoenix"
+},
+{
+"id": "place:Syrtis",
+"type": "place",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "the Syrtis"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Claudius"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Serve"
+}
+]
+}
+}
+]

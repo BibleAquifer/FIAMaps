@@ -1,0 +1,158 @@
+[
+{
+"content_id": "c86",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sea of Galilee Western Side",
+"media_type": "Image",
+"index_reference": "sea of galilee western side",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c86/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c86/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3857,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.2543,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1829,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
+"id": "place:Magadan",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Magadan"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Fish"
+}
+]
+}
+}
+]

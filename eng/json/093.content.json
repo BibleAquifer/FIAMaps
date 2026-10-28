@@ -1,0 +1,256 @@
+[
+{
+"content_id": "c138",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem and Mount of Olives",
+"media_type": "Image",
+"index_reference": "jerusalem and mount of olives",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c138/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c138/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42022039",
+"start_ref_usfm": "LUK 22:39",
+"end_ref": "42022046",
+"end_ref_usfm": "LUK 22:46"
+},
+{
+"start_ref": "42024036",
+"start_ref_usfm": "LUK 24:36",
+"end_ref": "42024053",
+"end_ref_usfm": "LUK 24:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.4365,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3019,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3019,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Put to the Test"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Bethany"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Height"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Disbelieve"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Fish"
+}
+]
+}
+}
+]

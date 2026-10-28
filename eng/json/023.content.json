@@ -1,0 +1,103 @@
+[
+{
+"content_id": "c1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Capernaum on Route from Egypt to Damascus",
+"media_type": "Image",
+"index_reference": "capernaum on route from egypt to damascus",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c1/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c1/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2775,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "LORD"
+}
+]
+}
+}
+]

@@ -1,0 +1,201 @@
+[
+{
+"content_id": "c78",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Israel, Ninevah and Sheba",
+"media_type": "Image",
+"index_reference": "israel ninevah and sheba",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c78/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c78/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42011014",
+"start_ref_usfm": "LUK 11:14",
+"end_ref": "42011032",
+"end_ref_usfm": "LUK 11:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.4684,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Jonah"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.2684,
+"match_method": "canonical",
+"preferred_label": "Ninevites"
+},
+{
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Court Case"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Judgment"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Nineveh"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1874,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1874,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:QueenOfSheba",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Queen of Sheba"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Courtyard"
+}
+]
+}
+}
+]

@@ -1,0 +1,159 @@
+[
+{
+"content_id": "c95",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem, Caesarea and Rome",
+"media_type": "Image",
+"index_reference": "jerusalem caesarea and rome",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c95/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c95/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44025022",
+"end_ref_usfm": "ACT 25:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Festus",
+"type": "person",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "Festus"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 0.31,
+"match_method": "canonical",
+"preferred_label": "Agrippa"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Bernice",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Bernice"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Augustus"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:Decision",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Decision"
+},
+{
+"id": "person:Felix",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Felix"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Claudius"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Judgment Seat"
+}
+]
+}
+}
+]

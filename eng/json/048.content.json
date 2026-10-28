@@ -1,0 +1,260 @@
+[
+{
+"content_id": "c4",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee Area with Caesarea Philippi and Capernaum",
+"media_type": "Image",
+"index_reference": "galilee area with caesarea philippi and capernaum",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c4/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c4/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40009027",
+"start_ref_usfm": "MAT 9:27",
+"end_ref": "40009038",
+"end_ref_usfm": "MAT 9:38"
+},
+{
+"start_ref": "40011001",
+"start_ref_usfm": "MAT 11:1",
+"end_ref": "40011006",
+"end_ref_usfm": "MAT 11:6"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4583,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.337,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:CauseToStumble",
+"type": "keyterm",
+"confidence": 0.337,
+"match_method": "canonical",
+"preferred_label": "Cause to Stumble"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Gehenna"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.2204,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.2204,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2187,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:HiredWorker",
+"type": "keyterm",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Hired Worker"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+}
+]
+}
+}
+]

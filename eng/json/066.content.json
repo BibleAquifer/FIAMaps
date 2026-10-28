@@ -1,0 +1,173 @@
+[
+{
+"content_id": "c67",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Havilah, Shur, Egypt and Assyria",
+"media_type": "Image",
+"index_reference": "havilah shur egypt and assyria",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c67/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c67/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025012",
+"start_ref_usfm": "GEN 25:12",
+"end_ref": "01025018",
+"end_ref_usfm": "GEN 25:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.5571,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3571,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Tema",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Tema"
+},
+{
+"id": "person:Naphish",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Naphish"
+},
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Kedar"
+},
+{
+"id": "person:Jetur",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Jetur"
+},
+{
+"id": "person:Kedemah",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Kedemah"
+},
+{
+"id": "person:Adbeel",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Adbeel"
+},
+{
+"id": "person:Massa",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Massa"
+},
+{
+"id": "person:Dumah",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Dumah"
+},
+{
+"id": "place:Havilah.2",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Havilah"
+},
+{
+"id": "person:Hadad.4",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Hadad"
+},
+{
+"id": "person:Mishma",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Mishma"
+},
+{
+"id": "person:Nebaioth",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Nebaioth"
+},
+{
+"id": "person:Mibsam",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Mibsam"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Hagar"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Shur"
+}
+]
+}
+}
+]

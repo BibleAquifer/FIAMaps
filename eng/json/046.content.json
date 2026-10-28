@@ -1,0 +1,89 @@
+[
+{
+"content_id": "c175",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Four Corners of the World",
+"media_type": "Image",
+"index_reference": "four corners of the world",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c175/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c175/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41013024",
+"start_ref_usfm": "MRK 13:24",
+"end_ref": "41013031",
+"end_ref_usfm": "MRK 13:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.4187,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Door"
+}
+]
+}
+}
+]

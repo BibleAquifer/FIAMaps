@@ -1,0 +1,131 @@
+[
+{
+"content_id": "c58",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Valley of Shaveh",
+"media_type": "Image",
+"index_reference": "valley of shaveh",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c58/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c58/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014017",
+"start_ref_usfm": "GEN 14:17",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.525,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.525,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.4187,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Melchizedek"
+},
+{
+"id": "place:KingsValley",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "King’s Valley"
+},
+{
+"id": "place:Shaveh",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Valley of Shaveh"
+},
+{
+"id": "person:Aner",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Aner"
+},
+{
+"id": "person:Eshcol",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Eshcol"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Mamre"
+},
+{
+"id": "person:Chedorlaomer",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chedorlaomer"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"confidence": 0.1713,
+"match_method": "canonical",
+"preferred_label": "Thread"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1713,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

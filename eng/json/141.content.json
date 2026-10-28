@@ -1,0 +1,117 @@
+[
+{
+"content_id": "c131",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Malta to Rome",
+"media_type": "Image",
+"index_reference": "malta to rome",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c131/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c131/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44028011",
+"start_ref_usfm": "ACT 28:11",
+"end_ref": "44028016",
+"end_ref_usfm": "ACT 28:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Syracuse",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Syracuse"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
+},
+{
+"id": "place:ThreeTaverns",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Three Taverns"
+},
+{
+"id": "place:Puteoli",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Puteoli"
+},
+{
+"id": "place:ForumOfAppius",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Forum of Appius"
+},
+{
+"id": "place:Rhegium",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Rhegium"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Emblem",
+"type": "realia",
+"confidence": 0.1983,
+"match_method": "canonical",
+"preferred_label": "Emblem"
+},
+{
+"id": "realia:Inn",
+"type": "realia",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Inn"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Ship"
+}
+]
+}
+}
+]

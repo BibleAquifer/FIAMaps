@@ -1,0 +1,270 @@
+[
+{
+"content_id": "c85",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and Barnabas' Journey to Antioch in Pisidia",
+"media_type": "Image",
+"index_reference": "paul and barnabas journey to antioch in pisidia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c85/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c85/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013022",
+"end_ref_usfm": "ACT 13:22"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4906,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4906,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.3469,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.3344,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.2688,
+"match_method": "canonical",
+"preferred_label": "Perga"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.2688,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2562,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2088,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Kish"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Jesse"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Pisidia"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Samuel"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Law"
+}
+]
+}
+}
+]

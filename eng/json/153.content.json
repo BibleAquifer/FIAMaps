@@ -1,0 +1,173 @@
+[
+{
+"content_id": "c27",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Nazareth to Capernaum",
+"media_type": "Image",
+"index_reference": "nazareth to capernaum",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c27/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c27/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.3607,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3464,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3464,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2864,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "House"
+}
+]
+}
+}
+]

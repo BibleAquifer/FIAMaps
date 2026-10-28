@@ -1,0 +1,193 @@
+[
+{
+"content_id": "c14",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Route from Bethsaida to Caeserea Philippi",
+"media_type": "Image",
+"index_reference": "route from bethsaida to caeserea philippi",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c14/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c14/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+},
+{
+"start_ref": "41008031",
+"start_ref_usfm": "MRK 8:31",
+"end_ref": "41009001",
+"end_ref_usfm": "MRK 9:1"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Baptist"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Caesarea Philippi"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Think"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Reject"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Cross"
+}
+]
+}
+}
+]

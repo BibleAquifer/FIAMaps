@@ -1,0 +1,123 @@
+[
+{
+"content_id": "c54",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Capernaum to Decapolis",
+"media_type": "Image",
+"index_reference": "capernaum to decapolis",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c54/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c54/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.3127,
+"match_method": "canonical",
+"preferred_label": "Pig"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.3127,
+"match_method": "canonical",
+"preferred_label": "Jackal"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Gerasa"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Ship"
+}
+]
+}
+}
+]

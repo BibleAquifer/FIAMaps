@@ -1,0 +1,110 @@
+[
+{
+"content_id": "c6",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee, Syrian Phoenicia, Gennesaret and Tyre",
+"media_type": "Image",
+"index_reference": "galilee syrian phoenicia gennesaret and tyre",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c6/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c6/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41007024",
+"start_ref_usfm": "MRK 7:24",
+"end_ref": "41007030",
+"end_ref_usfm": "MRK 7:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.4429,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.2686,
+"match_method": "canonical",
+"preferred_label": "Dog"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2686,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Syrophoenicians"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Honest"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Bed"
+}
+]
+}
+}
+]

@@ -1,0 +1,159 @@
+[
+{
+"content_id": "c224",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Journey from Rameses to Succoth",
+"media_type": "Image",
+"index_reference": "journey from rameses to succoth",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c224/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c224/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012029",
+"start_ref_usfm": "EXO 12:29",
+"end_ref": "02012042",
+"end_ref_usfm": "EXO 12:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.6536,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5107,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5107,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.2864,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Succoth.2",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Succoth"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Rameses",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Rameses"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+}
+]
+}
+}
+]

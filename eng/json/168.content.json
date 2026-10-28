@@ -1,0 +1,117 @@
+[
+{
+"content_id": "c109",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul's Journey to Rome",
+"media_type": "Image",
+"index_reference": "pauls journey to rome",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='None' alt='Image' width='480' /></p><p><a href='None'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44028001",
+"start_ref_usfm": "ACT 28:1",
+"end_ref": "44028010",
+"end_ref_usfm": "ACT 28:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Publius",
+"type": "person",
+"confidence": 0.33,
+"match_method": "canonical",
+"preferred_label": "Publius"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Malta",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Malta"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Hospitably",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Hospitably"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Cobra"
+}
+]
+}
+}
+]

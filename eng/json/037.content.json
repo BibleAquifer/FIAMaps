@@ -1,0 +1,248 @@
+[
+{
+"content_id": "c147",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Egypt",
+"media_type": "Image",
+"index_reference": "egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c147/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c147/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041001",
+"start_ref_usfm": "GEN 41:1",
+"end_ref": "01041036",
+"end_ref_usfm": "GEN 41:36"
+},
+{
+"start_ref": "02010001",
+"start_ref_usfm": "EXO 10:1",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4836,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4555,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.4133,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3992,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.3852,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.3852,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.3533,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.3283,
+"match_method": "canonical",
+"preferred_label": "Locust"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3281,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.2712,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2711,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2711,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "keyterm:BreadOfDisplay",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:Handbreadth",
+"type": "realia",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Handbreadth"
+},
+{
+"id": "realia:Jug",
+"type": "realia",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Jug"
+}
+]
+}
+}
+]

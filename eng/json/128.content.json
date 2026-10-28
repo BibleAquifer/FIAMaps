@@ -1,0 +1,249 @@
+[
+{
+"content_id": "c185",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Judea, Galilee and Samaria",
+"media_type": "Image",
+"index_reference": "judea galilee and samaria",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c185/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c185/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43004043",
+"start_ref_usfm": "JHN 4:43",
+"end_ref": "43004054",
+"end_ref_usfm": "JHN 4:54"
+},
+{
+"start_ref": "44007054",
+"start_ref_usfm": "ACT 7:54",
+"end_ref": "44008003",
+"end_ref_usfm": "ACT 8:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5341,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.4614,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.3205,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.2591,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Public Official"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Wine"
+}
+]
+}
+}
+]

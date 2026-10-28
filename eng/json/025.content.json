@@ -1,0 +1,152 @@
+[
+{
+"content_id": "c82",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Capernaum to Jerusalem",
+"media_type": "Image",
+"index_reference": "capernaum to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c82/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c82/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40021011",
+"end_ref_usfm": "MAT 21:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3909,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.3127,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.2218,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
+},
+{
+"id": "place:Bethphage",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Bethphage"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Height"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+}
+]
+}
+}
+]

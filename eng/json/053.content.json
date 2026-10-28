@@ -1,0 +1,103 @@
+[
+{
+"content_id": "c107",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee to Jerusalem",
+"media_type": "Image",
+"index_reference": "galilee to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c107/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c107/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42017011",
+"start_ref_usfm": "LUK 17:11",
+"end_ref": "42017019",
+"end_ref_usfm": "LUK 17:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Believe"
+}
+]
+}
+}
+]

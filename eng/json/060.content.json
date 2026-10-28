@@ -1,0 +1,124 @@
+[
+{
+"content_id": "c253",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee,Judea and Samaria in the book of John",
+"media_type": "Image",
+"index_reference": "galileejudea and samaria in the book of john",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c253/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c253/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.3025,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.2917,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.2483,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.2317,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:Measure",
+"type": "realia",
+"confidence": 0.1442,
+"match_method": "canonical",
+"preferred_label": "Measure"
+}
+]
+}
+}
+]

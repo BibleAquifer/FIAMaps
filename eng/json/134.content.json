@@ -1,0 +1,124 @@
+[
+{
+"content_id": "c208",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Locations in the Book of Exodus - Egypt and Sinai",
+"media_type": "Image",
+"index_reference": "locations in the book of exodus  egypt and sinai",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c208/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c208/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001001",
+"start_ref_usfm": "EXO 1:1",
+"end_ref": "02001007",
+"end_ref_usfm": "EXO 1:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4429,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3571,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Asher"
+}
+]
+}
+}
+]

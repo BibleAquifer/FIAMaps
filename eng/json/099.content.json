@@ -1,0 +1,187 @@
+[
+{
+"content_id": "c77",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jerusalem to Jericho",
+"media_type": "Image",
+"index_reference": "jerusalem to jericho",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c77/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c77/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42010025",
+"start_ref_usfm": "LUK 10:25",
+"end_ref": "42010037",
+"end_ref_usfm": "LUK 10:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:GenericPriest",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "A Priest"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Scribe",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "A Scribe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "realia:Inn",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Inn"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mind"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Denarius"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Wine"
+}
+]
+}
+}
+]

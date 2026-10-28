@@ -1,129 +1,351 @@
 [
 {
-"content_id": "c58",
+"content_id": "c75",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Valley of Shaveh",
+"title": "Canaan",
 "media_type": "Image",
-"index_reference": "valley of shaveh",
+"index_reference": "canaan",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c58/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c58/v1/original.png'>link</a></p></block>",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c75/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c75/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
-"start_ref": "01014017",
-"start_ref_usfm": "GEN 14:17",
-"end_ref": "01014024",
-"end_ref_usfm": "GEN 14:24"
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017027",
+"end_ref_usfm": "GEN 17:27"
+},
+{
+"start_ref": "05030011",
+"start_ref_usfm": "DEU 30:11",
+"end_ref": "05030020",
+"end_ref_usfm": "DEU 30:20"
+},
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013022",
+"end_ref_usfm": "ACT 13:22"
 }
 ],
 "resource": [],
 "acai": [
 {
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.525,
-"match_method": "canonical",
-"preferred_label": "Abraham"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.525,
+"confidence": 0.5032,
 "match_method": "canonical",
 "preferred_label": "LORD"
 },
 {
-"id": "place:Sodom",
-"type": "place",
-"confidence": 0.4187,
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.4862,
 "match_method": "canonical",
-"preferred_label": "Sodom"
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.45,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.4404,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"confidence": 0.4021,
+"match_method": "canonical",
+"preferred_label": "Foreskin"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.4021,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.3426,
+"match_method": "canonical",
+"preferred_label": "Sarah"
 },
 {
 "id": "keyterm:Bless",
 "type": "keyterm",
-"confidence": 0.3125,
+"confidence": 0.3383,
 "match_method": "canonical",
 "preferred_label": "Bless"
 },
 {
-"id": "place:KingsValley",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "King’s Valley"
-},
-{
-"id": "place:Shaveh",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Valley of Shaveh"
-},
-{
-"id": "person:Eshcol",
+"id": "person:Isaac",
 "type": "person",
-"confidence": 0.2313,
+"confidence": 0.283,
 "match_method": "canonical",
-"preferred_label": "Eshcol"
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2783,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2277,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Perga"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Kish"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Uncircumcised Person"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Jesse"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1634,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Pisidia"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Samuel"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "The Way"
 },
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.2313,
+"confidence": 0.1596,
 "match_method": "canonical",
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Melchizedek",
+"id": "person:David",
 "type": "person",
-"confidence": 0.2313,
+"confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Melchizedek"
+"preferred_label": "David"
 },
 {
-"id": "person:Aner",
-"type": "person",
-"confidence": 0.2313,
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Aner"
+"preferred_label": "Swear"
 },
 {
-"id": "person:Chedorlaomer",
-"type": "person",
-"confidence": 0.2063,
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Chedorlaomer"
+"preferred_label": "Force to Serve"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"confidence": 0.2063,
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Mamre"
-},
-{
-"id": "realia:Thread",
-"type": "realia",
-"confidence": 0.1713,
-"match_method": "canonical",
-"preferred_label": "Thread"
-},
-{
-"id": "realia:Wine",
-"type": "realia",
-"confidence": 0.1713,
-"match_method": "canonical",
-"preferred_label": "Wine"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.1463,
-"match_method": "canonical",
-"preferred_label": "Vine"
+"preferred_label": "Law"
 }
 ]
 }

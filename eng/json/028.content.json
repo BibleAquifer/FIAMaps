@@ -1,0 +1,194 @@
+[
+{
+"content_id": "c178",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cyrene, Alexandria, Cilicia, and Asia",
+"media_type": "Image",
+"index_reference": "cyrene alexandria cilicia and asia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c178/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c178/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44006008",
+"start_ref_usfm": "ACT 6:8",
+"end_ref": "44006015",
+"end_ref_usfm": "ACT 6:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "group:Freedmen",
+"type": "group",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Freedmen"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Alexandrians"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Blasphemous",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Blasphemous"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Cyrene"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
+}
+]
+}
+}
+]

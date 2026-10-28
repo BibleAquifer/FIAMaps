@@ -1,0 +1,179 @@
+[
+{
+"content_id": "c28",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Gennesaret and Capernaum",
+"media_type": "Image",
+"index_reference": "gennesaret and capernaum",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c28/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c28/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "43006022",
+"start_ref_usfm": "JHN 6:22",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5088,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4824,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.4753,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.3459,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "realia:Fishnet",
+"type": "realia",
+"confidence": 0.3459,
+"match_method": "canonical",
+"preferred_label": "Fishnet"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1929,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "place:Tiberias",
+"type": "place",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Tiberias"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Gennesaret"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+}
+]
+}
+}
+]

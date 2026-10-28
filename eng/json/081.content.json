@@ -1,0 +1,254 @@
+[
+{
+"content_id": "c72",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jacob's Journey from Beersheba to Haran",
+"media_type": "Image",
+"index_reference": "jacobs journey from beersheba to haran",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c72/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c72/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01027041",
+"start_ref_usfm": "GEN 27:41",
+"end_ref": "01028009",
+"end_ref_usfm": "GEN 28:9"
+},
+{
+"start_ref": "01028010",
+"start_ref_usfm": "GEN 28:10",
+"end_ref": "01028022",
+"end_ref_usfm": "GEN 28:22"
+},
+{
+"start_ref": "01029001",
+"start_ref_usfm": "GEN 29:1",
+"end_ref": "01029014",
+"end_ref_usfm": "GEN 29:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4866,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4545,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.4143,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.4143,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.4098,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.4018,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.3938,
+"match_method": "canonical",
+"preferred_label": "Rachel"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3498,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3463,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.3357,
+"match_method": "canonical",
+"preferred_label": "Paddan-aram"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Rebekah"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2757,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2741,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2741,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Bethuel"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.2177,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Oath"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "person:Mahalath",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Mahalath"
+},
+{
+"id": "person:Nebaioth",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Nebaioth"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Be Blameless"
+}
+]
+}
+}
+]

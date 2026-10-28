@@ -1,43 +1,21 @@
 [
 {
-"content_id": "c209",
+"content_id": "c164",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Wide View of Locations in Book of Genesis",
+"title": "Canaan and Egypt",
 "media_type": "Image",
-"index_reference": "wide view of locations in book of genesis",
+"index_reference": "canaan and egypt",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c209/v1/original.png'>link</a></p></block>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
-"content_id": "c234",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Working Locations of the Israelite Slaves in Egypt",
-"media_type": "Image",
-"index_reference": "working locations of the israelite slaves in egypt",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c234/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c234/v1/original.png'>link</a></p></block>",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c164/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c164/v1/original.png'>link</a></p></block>",
 "associations": {
 "passage": [
 {
-"start_ref": "02001008",
-"start_ref_usfm": "EXO 1:8",
-"end_ref": "02001014",
-"end_ref_usfm": "EXO 1:14"
-},
-{
-"start_ref": "02002011",
-"start_ref_usfm": "EXO 2:11",
-"end_ref": "02002015",
-"end_ref_usfm": "EXO 2:15"
+"start_ref": "44007009",
+"start_ref_usfm": "ACT 7:9",
+"end_ref": "44007019",
+"end_ref_usfm": "ACT 7:19"
 }
 ],
 "resource": [],
@@ -45,100 +23,100 @@
 {
 "id": "place:Egypt",
 "type": "place",
-"confidence": 0.5375,
+"confidence": 0.6364,
 "match_method": "canonical",
 "preferred_label": "Egypt"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.45,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.3625,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.3625,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.3083,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
-},
-{
-"id": "person:Pharaoh.5",
-"type": "person",
-"confidence": 0.2917,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
-},
-{
-"id": "group:Hebrews",
-"type": "group",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Hebrews"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Work"
-},
-{
-"id": "place:Pithom",
-"type": "place",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Pithom"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Midian"
-},
-{
-"id": "place:Raamses",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Raamses"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "person:Joseph.10",
 "type": "person",
-"confidence": 0.1875,
+"confidence": 0.4818,
 "match_method": "canonical",
 "preferred_label": "Joseph"
 },
 {
-"id": "realia:Brick",
-"type": "realia",
-"confidence": 0.1275,
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3727,
 "match_method": "canonical",
-"preferred_label": "Brick"
+"preferred_label": "Israel"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Hamor"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Rescue"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Wheat"
 }
 ]
 }

@@ -1,0 +1,200 @@
+[
+{
+"content_id": "c240",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sinai Peninsula, Median and Egypt",
+"media_type": "Image",
+"index_reference": "sinai peninsula median and egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c240/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c240/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02018001",
+"start_ref_usfm": "EXO 18:1",
+"end_ref": "02018012",
+"end_ref_usfm": "EXO 18:12"
+},
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.53,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.5175,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5075,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3175,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Gershom"
+},
+{
+"id": "keyterm:BreadOfDisplay",
+"type": "keyterm",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "person:Eliezer.3",
+"type": "person",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Eliezer"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Zipporah"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:Handbreadth",
+"type": "realia",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Handbreadth"
+},
+{
+"id": "realia:Jug",
+"type": "realia",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Jug"
+},
+{
+"id": "realia:Dish",
+"type": "realia",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Dish"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+}
+]
+}
+}
+]

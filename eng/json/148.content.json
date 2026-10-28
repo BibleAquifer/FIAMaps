@@ -1,0 +1,131 @@
+[
+{
+"content_id": "c104",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mount Tabor",
+"media_type": "Image",
+"index_reference": "mount tabor",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c104/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c104/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.5385,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5231,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Baptist"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Tent"
+}
+]
+}
+}
+]

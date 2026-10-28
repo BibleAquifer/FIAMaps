@@ -1,0 +1,208 @@
+[
+{
+"content_id": "c17",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mary's Route from Nazareth to Judea",
+"media_type": "Image",
+"index_reference": "marys route from nazareth to judea",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c17/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c17/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001039",
+"start_ref_usfm": "LUK 1:39",
+"end_ref": "42001056",
+"end_ref_usfm": "LUK 1:56"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Elizabeth"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Haste",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Haste"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Empty",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Empty"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Zechariah"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:RegardAsHappy",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Regard as Happy"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Mind"
+}
+]
+}
+}
+]

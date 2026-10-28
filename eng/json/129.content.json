@@ -1,0 +1,178 @@
+[
+{
+"content_id": "c11",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Lake with Bethsaida and Gennesaret",
+"media_type": "Image",
+"index_reference": "lake with bethsaida and gennesaret",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c11/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c11/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014022",
+"start_ref_usfm": "MAT 14:22",
+"end_ref": "40014036",
+"end_ref_usfm": "MAT 14:36"
+},
+{
+"start_ref": "41006045",
+"start_ref_usfm": "MRK 6:45",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "43006016",
+"start_ref_usfm": "JHN 6:16",
+"end_ref": "43006021",
+"end_ref_usfm": "JHN 6:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.4536,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.4318,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3545,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2909,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"confidence": 0.2394,
+"match_method": "canonical",
+"preferred_label": "Gennesaret"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Cheer Up"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "realia:Stade",
+"type": "realia",
+"confidence": 0.1733,
+"match_method": "canonical",
+"preferred_label": "Stade"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Having Little Faith"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Bethsaida"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:Tassel",
+"type": "realia",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Tassel"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Bed"
+}
+]
+}
+}
+]

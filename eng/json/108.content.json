@@ -1,0 +1,250 @@
+[
+{
+"content_id": "c90",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jesus in Israel",
+"media_type": "Image",
+"index_reference": "jesus in israel",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c90/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c90/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.4571,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.2864,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2786,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "realia:Fishnet",
+"type": "realia",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Fishnet"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1364,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

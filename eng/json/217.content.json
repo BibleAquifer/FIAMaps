@@ -1,0 +1,75 @@
+[
+{
+"content_id": "c18",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tyre, Sidon and The Sea of Galilee",
+"media_type": "Image",
+"index_reference": "tyre sidon and the sea of galilee",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c18/v1.1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c18/v1.1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41007031",
+"start_ref_usfm": "MRK 7:31",
+"end_ref": "41007037",
+"end_ref_usfm": "MRK 7:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Sky"
+}
+]
+}
+}
+]

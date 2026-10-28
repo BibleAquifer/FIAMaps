@@ -1,0 +1,200 @@
+[
+{
+"content_id": "c105",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and Apollos' Travels",
+"media_type": "Image",
+"index_reference": "paul and apollos travels",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c105/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c105/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44019007",
+"end_ref_usfm": "ACT 19:7"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019010",
+"end_ref_usfm": "ACT 19:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "person:Tyrannus",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Tyrannus"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Ephesus"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Apollos"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Corinth"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "realia:LectureHall",
+"type": "realia",
+"confidence": 0.155,
+"match_method": "canonical",
+"preferred_label": "Lecture Hall"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

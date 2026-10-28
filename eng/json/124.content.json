@@ -1,0 +1,103 @@
+[
+{
+"content_id": "c128",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Judea and Dead Sea",
+"media_type": "Image",
+"index_reference": "judea and dead sea",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c128/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c128/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42021020",
+"start_ref_usfm": "LUK 21:20",
+"end_ref": "42021028",
+"end_ref_usfm": "LUK 21:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Liberation"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Avenge"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Glory"
+}
+]
+}
+}
+]

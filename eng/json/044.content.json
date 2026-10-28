@@ -1,0 +1,173 @@
+[
+{
+"content_id": "c153",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Ethiopia",
+"media_type": "Image",
+"index_reference": "ethiopia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c153/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c153/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44008026",
+"start_ref_usfm": "ACT 8:26",
+"end_ref": "44008040",
+"end_ref_usfm": "ACT 8:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6333,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Public Official"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2933,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Ashdod"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Ethiopians"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+}
+]
+}
+}
+]

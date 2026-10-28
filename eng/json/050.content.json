@@ -1,0 +1,266 @@
+[
+{
+"content_id": "c3",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Galilee Area with Capernaum and Gerasa",
+"media_type": "Image",
+"index_reference": "galilee area with capernaum and gerasa",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c3/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c3/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008023",
+"start_ref_usfm": "MAT 8:23",
+"end_ref": "40008027",
+"end_ref_usfm": "MAT 8:27"
+},
+{
+"start_ref": "41004035",
+"start_ref_usfm": "MRK 4:35",
+"end_ref": "41004041",
+"end_ref_usfm": "MRK 4:41"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "41005035",
+"start_ref_usfm": "MRK 5:35",
+"end_ref": "41005043",
+"end_ref_usfm": "MRK 5:43"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4283,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.4022,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3891,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3891,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3826,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.3422,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.3319,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.3291,
+"match_method": "canonical",
+"preferred_label": "Pig"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.3291,
+"match_method": "canonical",
+"preferred_label": "Jackal"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3261,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Gerasa"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2661,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.2661,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2661,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "deity:Legion",
+"type": "deity",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Legion"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.2125,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.2125,
+"match_method": "canonical",
+"preferred_label": "Chain"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2096,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Abyss"
+},
+{
+"id": "person:Jairus",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Jairus"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Having Little Faith"
+},
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
+"id": "realia:Fetter",
+"type": "realia",
+"confidence": 0.1588,
+"match_method": "canonical",
+"preferred_label": "Fetter"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:BecomeStill",
+"type": "keyterm",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Become Still"
+}
+]
+}
+}
+]

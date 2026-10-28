@@ -1,0 +1,250 @@
+[
+{
+"content_id": "c168",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Nazareth and Judea",
+"media_type": "Image",
+"index_reference": "nazareth and judea",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c168/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c168/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.4385,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Put to the Test"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "realia:Strap",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Strap"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Bag"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Locust"
+},
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Bee"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Sandal"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Belt"
+}
+]
+}
+}
+]

@@ -1,0 +1,341 @@
+[
+{
+"content_id": "c137",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sidon",
+"media_type": "Image",
+"index_reference": "sidon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c137/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c137/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01049001",
+"start_ref_usfm": "GEN 49:1",
+"end_ref": "01049028",
+"end_ref_usfm": "GEN 49:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4464,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3054,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 0.2607,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Asher"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "To Dishonor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Delight"
+},
+{
+"id": "fauna:Viper",
+"type": "fauna",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Viper"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Deer"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Wolf"
+},
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sheepfold"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+}
+]
+}
+}
+]

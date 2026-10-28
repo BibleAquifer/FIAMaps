@@ -1,0 +1,145 @@
+[
+{
+"content_id": "c194",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Journey from Egypt to Elim via Marah",
+"media_type": "Image",
+"index_reference": "journey from egypt to elim via marah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c194/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c194/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015019",
+"start_ref_usfm": "EXO 15:19",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Miriam"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "place:Marah",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Marah"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Shur"
+},
+{
+"id": "place:Elim",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Elim"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "realia:Drum",
+"type": "realia",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Drum"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Date Palm"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+}
+]
+}
+}
+]

@@ -1,0 +1,96 @@
+[
+{
+"content_id": "c239",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sinai Peninsula, Arabian Peninsula and Eastern Africa",
+"media_type": "Image",
+"index_reference": "sinai peninsula arabian peninsula and eastern africa",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c239/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c239/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030038",
+"end_ref_usfm": "EXO 30:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.52,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "fauna:Onycha",
+"type": "fauna",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Onycha"
+},
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Liquidambar"
+},
+{
+"id": "flora:Fennel",
+"type": "flora",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Fennel"
+},
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Frankincense"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Tent of Meeting"
+}
+]
+}
+}
+]

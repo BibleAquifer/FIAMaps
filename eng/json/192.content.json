@@ -1,0 +1,152 @@
+[
+{
+"content_id": "c71",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Saul and Barnabus in Cyprus",
+"media_type": "Image",
+"index_reference": "saul and barnabus in cyprus",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c71/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c71/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013004",
+"start_ref_usfm": "ACT 13:4",
+"end_ref": "44013012",
+"end_ref_usfm": "ACT 13:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Bar-jesus",
+"type": "person",
+"confidence": 0.3444,
+"match_method": "canonical",
+"preferred_label": "Bar-jesus"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
+"id": "place:Seleucia",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Seleucia"
+},
+{
+"id": "place:Salamis",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Salamis"
+},
+{
+"id": "person:SergiusPaulus",
+"type": "person",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Sergius Paulus"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

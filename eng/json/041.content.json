@@ -1,0 +1,276 @@
+[
+{
+"content_id": "c219",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Egypt, Mount Sinai and Canaan",
+"media_type": "Image",
+"index_reference": "egypt mount sinai and canaan",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c219/v1/original.png' alt='Image' width='480' /></p><p><a href='https://s3.amazonaws.com/cbbt-er.public/media/maps/eng/c219/v1/original.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003022",
+"end_ref_usfm": "EXO 3:22"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023009",
+"end_ref_usfm": "EXO 23:9"
+},
+{
+"start_ref": "02023010",
+"start_ref_usfm": "EXO 23:10",
+"end_ref": "02023019",
+"end_ref_usfm": "EXO 23:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5097,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5016,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4371,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3645,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.2335,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Exempt"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hivites"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Land Flowing of Milk and Honey"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Kid"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+}
+]
+}
+}
+]
