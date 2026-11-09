@@ -34,13 +34,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.375,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "confidence": 0.375,
@@ -48,32 +41,18 @@
 "preferred_label": "Moses"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.375,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
 "id": "person:Heth",
 "type": "person",
 "confidence": 0.3146,
 "match_method": "canonical",
 "preferred_label": "Heth"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.3063,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.3063,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"confidence": 0.3063,
-"match_method": "canonical",
-"preferred_label": "Hivites"
 },
 {
 "id": "place:Canaan",
@@ -97,11 +76,32 @@
 "preferred_label": "Hittites"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 0.3063,
+"match_method": "canonical",
+"preferred_label": "Hivites"
+},
+{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "confidence": 0.3063,
 "match_method": "canonical",
 "preferred_label": "Force to Serve"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3063,
+"match_method": "canonical",
+"preferred_label": "Israel"
 },
 {
 "id": "flora:Bush",
@@ -132,18 +132,11 @@
 "preferred_label": "Amorites"
 },
 {
-"id": "keyterm:LandFlowingOfMilkAndHoney",
-"type": "keyterm",
+"id": "place:GreatSea",
+"type": "place",
 "confidence": 0.1771,
 "match_method": "canonical",
-"preferred_label": "Land Flowing of Milk and Honey"
-},
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.1771,
-"match_method": "canonical",
-"preferred_label": "Terror"
+"preferred_label": "Mediterranean Sea"
 },
 {
 "id": "place:SinaiMount",
@@ -153,11 +146,18 @@
 "preferred_label": "Mount Sinai"
 },
 {
-"id": "person:Jethro",
-"type": "person",
+"id": "keyterm:Terror",
+"type": "keyterm",
 "confidence": 0.1771,
 "match_method": "canonical",
-"preferred_label": "Jethro"
+"preferred_label": "Terror"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Land Flowing of Milk and Honey"
 },
 {
 "id": "place:Midian",
@@ -167,11 +167,11 @@
 "preferred_label": "Midian"
 },
 {
-"id": "place:GreatSea",
-"type": "place",
+"id": "person:Jethro",
+"type": "person",
 "confidence": 0.1771,
 "match_method": "canonical",
-"preferred_label": "Mediterranean Sea"
+"preferred_label": "Jethro"
 },
 {
 "id": "keyterm:Forgive",
@@ -181,11 +181,67 @@
 "preferred_label": "Forgive"
 },
 {
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
 "id": "place:Philistine",
 "type": "place",
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Bless"
 },
 {
 "id": "place:RedSea",
@@ -202,46 +258,11 @@
 "preferred_label": "Holy"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Euphrates River"
-},
-{
 "id": "person:Isaac",
 "type": "person",
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Isaac"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Covenant"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Abraham"
 },
 {
 "id": "keyterm:Sin",
@@ -251,32 +272,11 @@
 "preferred_label": "To Sin"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Rebel"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Philistines"
-},
-{
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
+"preferred_label": "Fear"
 },
 {
 "id": "fauna:Hornet",
@@ -293,25 +293,11 @@
 "preferred_label": "Sacred Pillar"
 },
 {
-"id": "flora:Cattails",
-"type": "flora",
+"id": "realia:Trap",
+"type": "realia",
 "confidence": 0.1088,
 "match_method": "canonical",
-"preferred_label": "Cattails"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.1088,
-"match_method": "canonical",
-"preferred_label": "Flock"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.1088,
-"match_method": "canonical",
-"preferred_label": "Goat"
+"preferred_label": "Trap"
 },
 {
 "id": "fauna:Lamb",
@@ -321,11 +307,25 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "realia:Trap",
-"type": "realia",
+"id": "flora:Cattails",
+"type": "flora",
 "confidence": 0.1088,
 "match_method": "canonical",
-"preferred_label": "Trap"
+"preferred_label": "Cattails"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1088,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1088,
+"match_method": "canonical",
+"preferred_label": "Flock"
 }
 ]
 }

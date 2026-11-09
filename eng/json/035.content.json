@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.5429,
-"match_method": "canonical",
-"preferred_label": "Esau"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.5429,
@@ -35,11 +28,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.3971,
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.5429,
 "match_method": "canonical",
-"preferred_label": "Flock"
+"preferred_label": "Esau"
 },
 {
 "id": "fauna:Goat",
@@ -47,6 +40,13 @@
 "confidence": 0.3971,
 "match_method": "canonical",
 "preferred_label": "Goat"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3971,
+"match_method": "canonical",
+"preferred_label": "Flock"
 },
 {
 "id": "keyterm:Offering",
@@ -105,67 +105,11 @@
 "preferred_label": "Edom"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Kindness"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
 "id": "keyterm:Truth",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Truth"
-},
-{
-"id": "person:Laban",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Laban"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Isaac"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jordan River"
-},
-{
-"id": "keyterm:Appease",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Appease"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Abraham"
 },
 {
 "id": "place:Seir",
@@ -175,11 +119,67 @@
 "preferred_label": "Seir"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Appease"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
 "confidence": 0.1114,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Rod"
 },
 {
 "id": "realia:Staff",
@@ -189,11 +189,11 @@
 "preferred_label": "Staff"
 },
 {
-"id": "realia:Rod",
-"type": "realia",
+"id": "fauna:Lamb",
+"type": "fauna",
 "confidence": 0.1114,
 "match_method": "canonical",
-"preferred_label": "Rod"
+"preferred_label": "Sheep"
 }
 ]
 }

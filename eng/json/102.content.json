@@ -63,6 +63,13 @@
 "preferred_label": "Augustus"
 },
 {
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.195,
@@ -70,18 +77,11 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "keyterm:Condemn",
+"id": "keyterm:Decided",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Condemn"
+"preferred_label": "Decided"
 },
 {
 "id": "keyterm:CallUpon",
@@ -98,13 +98,6 @@
 "preferred_label": "Decision"
 },
 {
-"id": "person:Felix",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Felix"
-},
-{
 "id": "person:Claudius",
 "type": "person",
 "confidence": 0.195,
@@ -112,18 +105,11 @@
 "preferred_label": "Claudius"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Caesarea"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Life"
+"preferred_label": "Jews"
 },
 {
 "id": "person:Jesus.2",
@@ -133,18 +119,32 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "place:Rome",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Rome"
-},
-{
-"id": "keyterm:Decided",
+"id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Decided"
+"preferred_label": "Life"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "person:Felix",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Felix"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Condemn"
 },
 {
 "id": "realia:JudgmentSeat",

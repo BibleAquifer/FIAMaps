@@ -42,25 +42,11 @@
 "preferred_label": "Caiaphas"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Nazareth"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Peter"
 },
 {
 "id": "keyterm:Disciple",
@@ -70,18 +56,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "person:Annas",
-"type": "person",
-"confidence": 0.1964,
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Annas"
+"preferred_label": "Jews"
 },
 {
-"id": "person:Malchus",
+"id": "person:Peter",
 "type": "person",
-"confidence": 0.1964,
+"confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Malchus"
+"preferred_label": "Peter"
 },
 {
 "id": "group:MilitaryMembers",
@@ -91,11 +77,46 @@
 "preferred_label": "Military Members"
 },
 {
+"id": "person:Malchus",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Malchus"
+},
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Annas"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+},
+{
 "id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Name"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
 },
 {
 "id": "group:Pharisee",
@@ -112,25 +133,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Kidron",
-"type": "place",
-"confidence": 0.1821,
+"id": "realia:Lantern",
+"type": "realia",
+"confidence": 0.1364,
 "match_method": "canonical",
-"preferred_label": "Kidron"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "group:GenericOfficials",
-"type": "group",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Public Officials"
+"preferred_label": "Lantern"
 },
 {
 "id": "realia:Torch",
@@ -145,13 +152,6 @@
 "confidence": 0.1364,
 "match_method": "canonical",
 "preferred_label": "Sheath"
-},
-{
-"id": "realia:Lantern",
-"type": "realia",
-"confidence": 0.1364,
-"match_method": "canonical",
-"preferred_label": "Lantern"
 }
 ]
 }

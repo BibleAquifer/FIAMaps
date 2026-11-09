@@ -28,18 +28,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.325,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.325,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "group:Jews",
@@ -56,6 +56,13 @@
 "preferred_label": "Cross"
 },
 {
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
 "id": "place:Cyrene",
 "type": "place",
 "confidence": 0.1861,
@@ -70,11 +77,11 @@
 "preferred_label": "Criminal on the Cross"
 },
 {
-"id": "person:Simon.5",
-"type": "person",
-"confidence": 0.1861,
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Simon"
+"preferred_label": "To Command"
 },
 {
 "id": "keyterm:Forgive",
@@ -84,18 +91,18 @@
 "preferred_label": "Forgive"
 },
 {
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Blaspheme"
-},
-{
-"id": "keyterm:Paradise",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Paradise"
 },
 {
 "id": "keyterm:Chosen",
@@ -105,6 +112,20 @@
 "preferred_label": "Chosen"
 },
 {
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:Paradise",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Paradise"
+},
+{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.175,
@@ -112,11 +133,11 @@
 "preferred_label": "Surely!"
 },
 {
-"id": "place:Golgotha",
+"id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Golgotha"
+"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Judgment",
@@ -126,32 +147,11 @@
 "preferred_label": "Judgment"
 },
 {
-"id": "keyterm:Happy",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Happy"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Fear"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
 },
 {
 "id": "realia:SourWine",

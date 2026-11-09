@@ -28,6 +28,13 @@
 "preferred_label": "Sky"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -42,11 +49,11 @@
 "preferred_label": "Chosen"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Parable",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Surely!"
+"preferred_label": "Parable"
 },
 {
 "id": "keyterm:Glory",
@@ -61,13 +68,6 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "An Angel"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Parable"
 },
 {
 "id": "flora:Fig",

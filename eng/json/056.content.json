@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.31,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.31,
@@ -35,11 +28,11 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.29,
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.31,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Judea"
 },
 {
 "id": "keyterm:Ability",
@@ -47,6 +40,13 @@
 "confidence": 0.29,
 "match_method": "canonical",
 "preferred_label": "Ability"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "person:Jesus.2",
@@ -63,13 +63,6 @@
 "preferred_label": "Relatives"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
 "id": "keyterm:Happen",
 "type": "keyterm",
 "confidence": 0.195,
@@ -77,18 +70,25 @@
 "preferred_label": "To Cause to Happen"
 },
 {
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Believe"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "realia:FestivalOfTheTabernacles",

@@ -134,13 +134,6 @@
 "preferred_label": "Covering"
 },
 {
-"id": "person:Gershon",
-"type": "person",
-"confidence": 0.3225,
-"match_method": "canonical",
-"preferred_label": "Gershon"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "confidence": 0.3225,
@@ -160,6 +153,13 @@
 "confidence": 0.3225,
 "match_method": "canonical",
 "preferred_label": "Kohath"
+},
+{
+"id": "person:Gershon",
+"type": "person",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Gershon"
 },
 {
 "id": "realia:Tent",
@@ -190,11 +190,11 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
 "confidence": 0.2625,
 "match_method": "canonical",
-"preferred_label": "Stone Altar"
+"preferred_label": "Altar"
 },
 {
 "id": "realia:TempleAltar",
@@ -204,11 +204,11 @@
 "preferred_label": "Temple Altar"
 },
 {
-"id": "realia:Altar",
+"id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.2625,
 "match_method": "canonical",
-"preferred_label": "Altar"
+"preferred_label": "Stone Altar"
 },
 {
 "id": "place:Elim",
@@ -232,18 +232,11 @@
 "preferred_label": "Decree"
 },
 {
-"id": "group:Levi",
-"type": "group",
+"id": "place:Canaan",
+"type": "place",
 "confidence": 0.2112,
 "match_method": "canonical",
-"preferred_label": "Tribe of Levi"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.2112,
-"match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Canaan"
 },
 {
 "id": "keyterm:Witness.2",
@@ -253,18 +246,25 @@
 "preferred_label": "Testimony"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Merari",
 "type": "person",
 "confidence": 0.2112,
 "match_method": "canonical",
-"preferred_label": "Levi"
+"preferred_label": "Merari"
 },
 {
-"id": "place:Canaan",
+"id": "person:Ithamar",
+"type": "person",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Ithamar"
+},
+{
+"id": "place:SinaiMount",
 "type": "place",
 "confidence": 0.2112,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Mount Sinai"
 }
 ]
 }

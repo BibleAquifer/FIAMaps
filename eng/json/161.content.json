@@ -49,27 +49,6 @@
 "preferred_label": "Church"
 },
 {
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Abstain from Food"
-},
-{
-"id": "place:Iconium",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Iconium"
-},
-{
-"id": "place:Perga",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Perga"
-},
-{
 "id": "place:Attalia",
 "type": "place",
 "confidence": 0.2313,
@@ -91,32 +70,25 @@
 "preferred_label": "Pamphylia"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.2063,
+"id": "place:Iconium",
+"type": "place",
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Iconium"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Fast",
 "type": "keyterm",
-"confidence": 0.2063,
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Abstain from Food"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.2063,
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Perga"
 },
 {
 "id": "place:Lystra",
@@ -133,11 +105,39 @@
 "preferred_label": "Antioch"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
 "id": "place:Antioch",
 "type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Antioch"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Good News"
 },
 {
 "id": "group:Gentile",
@@ -147,11 +147,11 @@
 "preferred_label": "Gentiles"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Pray"
+"preferred_label": "Ask for"
 },
 {
 "id": "realia:Door",

@@ -35,13 +35,6 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.3538,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.3538,
@@ -49,11 +42,25 @@
 "preferred_label": "Believe"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
 "id": "keyterm:Passover",
 "type": "keyterm",
 "confidence": 0.2692,
 "match_method": "canonical",
 "preferred_label": "Passover"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Symbol"
 },
 {
 "id": "place:Jerusalem",
@@ -70,18 +77,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Symbol"
-},
-{
-"id": "fauna:Bull",
+"id": "fauna:Dove",
 "type": "fauna",
 "confidence": 0.2092,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Dove"
 },
 {
 "id": "realia:House",
@@ -91,6 +91,13 @@
 "preferred_label": "House"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.2092,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "confidence": 0.2092,
@@ -98,32 +105,11 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "fauna:Dove",
-"type": "fauna",
-"confidence": 0.2092,
-"match_method": "canonical",
-"preferred_label": "Dove"
-},
-{
 "id": "keyterm:Extremely",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Extremely"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Body.3",
@@ -140,11 +126,18 @@
 "preferred_label": "Resurrection"
 },
 {
-"id": "keyterm:Scripture",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Written"
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "deity:Lord",
@@ -152,6 +145,13 @@
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Written"
 },
 {
 "id": "realia:Whip",

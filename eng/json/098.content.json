@@ -56,6 +56,20 @@
 "preferred_label": "Always"
 },
 {
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
 "id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.24,
@@ -63,11 +77,11 @@
 "preferred_label": "To Command"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Baptism"
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Heaven",
@@ -82,20 +96,6 @@
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Bow Down"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Name"
 },
 {
 "id": "place:Galilee",

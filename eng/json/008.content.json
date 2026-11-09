@@ -35,13 +35,6 @@
 "preferred_label": "Isaac"
 },
 {
-"id": "person:Midian",
-"type": "person",
-"confidence": 0.3182,
-"match_method": "canonical",
-"preferred_label": "Midian"
-},
-{
 "id": "person:Keturah",
 "type": "person",
 "confidence": 0.3182,
@@ -54,6 +47,13 @@
 "confidence": 0.3182,
 "match_method": "canonical",
 "preferred_label": "Jokshan"
+},
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 0.3182,
+"match_method": "canonical",
+"preferred_label": "Midian"
 },
 {
 "id": "person:Heth",
@@ -70,88 +70,11 @@
 "preferred_label": "Medan"
 },
 {
-"id": "person:Hanoch",
-"type": "person",
+"id": "place:Machpelah",
+"type": "place",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Hanoch"
-},
-{
-"id": "group:Leummim",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Leummites"
-},
-{
-"id": "person:Shuah",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Shuah"
-},
-{
-"id": "person:Epher",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Epher"
-},
-{
-"id": "person:Sheba.3",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Sheba"
-},
-{
-"id": "person:Dedan.2",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Dedan"
-},
-{
-"id": "person:Ephron.2",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Ephron"
-},
-{
-"id": "person:Abida",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Abida"
-},
-{
-"id": "person:Eldaah",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Eldaah"
-},
-{
-"id": "person:Ishmael",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Ishmael"
-},
-{
-"id": "person:Ephah",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Ephah"
-},
-{
-"id": "person:Ishbak",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Ishbak"
+"preferred_label": "Machpelah"
 },
 {
 "id": "group:Asshurim",
@@ -161,25 +84,32 @@
 "preferred_label": "Asshurim"
 },
 {
-"id": "place:Machpelah",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Machpelah"
-},
-{
-"id": "group:Letushim",
+"id": "group:Leummim",
 "type": "group",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Letushim"
+"preferred_label": "Leummites"
 },
 {
-"id": "person:Zohar",
+"id": "person:Sheba.3",
 "type": "person",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Zohar"
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Abida",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Abida"
+},
+{
+"id": "person:Ephah",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Ephah"
 },
 {
 "id": "person:Zimran",
@@ -196,6 +126,76 @@
 "preferred_label": "Beer-lahai-roi"
 },
 {
+"id": "group:Letushim",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Letushim"
+},
+{
+"id": "person:Epher",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Epher"
+},
+{
+"id": "person:Dedan.2",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Dedan"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Ephron"
+},
+{
+"id": "person:Zohar",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Zohar"
+},
+{
+"id": "person:Ishbak",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Ishbak"
+},
+{
+"id": "person:Hanoch",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Hanoch"
+},
+{
+"id": "person:Shuah",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Shuah"
+},
+{
+"id": "person:Eldaah",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Eldaah"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
 "id": "place:Mamre",
 "type": "place",
 "confidence": 0.1909,
@@ -210,6 +210,13 @@
 "preferred_label": "Sarah"
 },
 {
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.1909,
@@ -222,13 +229,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Bless"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Hittites"
 }
 ]
 }

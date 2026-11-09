@@ -28,13 +28,6 @@
 "preferred_label": "Athens"
 },
 {
-"id": "group:Athens",
-"type": "group",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Athenians"
-},
-{
 "id": "group:Epicurean",
 "type": "group",
 "confidence": 0.2583,
@@ -56,18 +49,11 @@
 "preferred_label": "Stoics"
 },
 {
-"id": "keyterm:BringToTheAttentionOf",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Bring to the Attention Of"
-},
-{
-"id": "group:Jews",
+"id": "group:Athens",
 "type": "group",
-"confidence": 0.225,
+"confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Athenians"
 },
 {
 "id": "keyterm:Spirit.2",
@@ -84,6 +70,20 @@
 "preferred_label": "Worship"
 },
 {
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.225,
@@ -91,11 +91,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
+"id": "person:Paul",
+"type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Paul"
 },
 {
 "id": "keyterm:Resurrection",
@@ -105,11 +105,11 @@
 "preferred_label": "Resurrection"
 },
 {
-"id": "person:Paul",
-"type": "person",
+"id": "keyterm:BringToTheAttentionOf",
+"type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Paul"
+"preferred_label": "Bring to the Attention Of"
 },
 {
 "id": "deity:Demons",

@@ -82,6 +82,13 @@
 "preferred_label": "Cheer Up"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.2273,
@@ -96,25 +103,11 @@
 "preferred_label": "Peter"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.2273,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
 "id": "realia:Stade",
 "type": "realia",
 "confidence": 0.1733,
 "match_method": "canonical",
 "preferred_label": "Stade"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"confidence": 0.1697,
-"match_method": "canonical",
-"preferred_label": "Capernaum"
 },
 {
 "id": "keyterm:HavingLittleFaith",
@@ -131,6 +124,13 @@
 "preferred_label": "Bethsaida"
 },
 {
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
 "id": "realia:Cloak",
 "type": "realia",
 "confidence": 0.1673,
@@ -145,11 +145,11 @@
 "preferred_label": "Tassel"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.1636,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "True"
 },
 {
 "id": "keyterm:BowDown",
@@ -159,11 +159,11 @@
 "preferred_label": "Bow Down"
 },
 {
-"id": "keyterm:True",
+"id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.1636,
 "match_method": "canonical",
-"preferred_label": "True"
+"preferred_label": "Heart"
 },
 {
 "id": "realia:Bed",

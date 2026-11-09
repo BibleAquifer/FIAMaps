@@ -97,25 +97,11 @@
 "preferred_label": "Bless"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"confidence": 0.2281,
-"match_method": "canonical",
-"preferred_label": "Philistia"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "confidence": 0.2281,
 "match_method": "canonical",
 "preferred_label": "An Angel"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"confidence": 0.2281,
-"match_method": "canonical",
-"preferred_label": "Covenant"
 },
 {
 "id": "group:Philistine",
@@ -125,18 +111,25 @@
 "preferred_label": "Philistines"
 },
 {
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2281,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2281,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
 "id": "realia:Knife",
 "type": "realia",
 "confidence": 0.1744,
 "match_method": "canonical",
 "preferred_label": "Knife"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.1681,
-"match_method": "canonical",
-"preferred_label": "Flock"
 },
 {
 "id": "fauna:Goat",
@@ -153,11 +146,11 @@
 "preferred_label": "Donkey"
 },
 {
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.1641,
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1681,
 "match_method": "canonical",
-"preferred_label": "Witness"
+"preferred_label": "Flock"
 },
 {
 "id": "keyterm:Love",
@@ -167,11 +160,11 @@
 "preferred_label": "Love"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Dispossess",
 "type": "keyterm",
 "confidence": 0.1641,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Dispossess"
 },
 {
 "id": "place:MoriahMount",
@@ -181,11 +174,18 @@
 "preferred_label": "Mount Moriah"
 },
 {
-"id": "keyterm:Dispossess",
+"id": "keyterm:Witness",
 "type": "keyterm",
 "confidence": 0.1641,
 "match_method": "canonical",
-"preferred_label": "Dispossess"
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Kindness"
 },
 {
 "id": "person:GenericPerson",
@@ -195,11 +195,11 @@
 "preferred_label": "A Person"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.1641,
 "match_method": "canonical",
-"preferred_label": "Kindness"
+"preferred_label": "Fear"
 },
 {
 "id": "flora:Tamarisk",
@@ -216,20 +216,6 @@
 "preferred_label": "Stone Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.1041,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1041,
-"match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "confidence": 0.1041,
@@ -244,11 +230,25 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
 "id": "realia:ToSaddle",
 "type": "realia",
 "confidence": 0.1041,
 "match_method": "canonical",
 "preferred_label": "To Saddle"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 }
 ]
 }

@@ -97,11 +97,11 @@
 "preferred_label": "Ur"
 },
 {
-"id": "person:Lot",
-"type": "person",
+"id": "group:Chaldea",
+"type": "group",
 "confidence": 0.2423,
 "match_method": "canonical",
-"preferred_label": "Lot"
+"preferred_label": "Chaldeans"
 },
 {
 "id": "place:Mamre",
@@ -118,18 +118,11 @@
 "preferred_label": "Chaldea"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
+"id": "person:Lot",
+"type": "person",
 "confidence": 0.2423,
 "match_method": "canonical",
-"preferred_label": "Chaldeans"
-},
-{
-"id": "place:Haran",
-"type": "place",
-"confidence": 0.2423,
-"match_method": "canonical",
-"preferred_label": "Haran"
+"preferred_label": "Lot"
 },
 {
 "id": "place:Hebron",
@@ -137,6 +130,13 @@
 "confidence": 0.2423,
 "match_method": "canonical",
 "preferred_label": "Hebron"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Haran"
 },
 {
 "id": "person:Nahor.2",
@@ -153,18 +153,18 @@
 "preferred_label": "Shekel"
 },
 {
-"id": "person:Iscah",
-"type": "person",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Iscah"
-},
-{
 "id": "person:Milcah",
 "type": "person",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Milcah"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Iscah"
 },
 {
 "id": "person:Zohar",
@@ -174,18 +174,18 @@
 "preferred_label": "Zohar"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1673,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "group:Hittite",
 "type": "group",
 "confidence": 0.1673,
 "match_method": "canonical",
 "preferred_label": "Hittites"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "LORD"
 }
 ]
 }

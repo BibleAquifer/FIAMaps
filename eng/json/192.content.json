@@ -42,6 +42,13 @@
 "preferred_label": "Paul"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.3,
@@ -63,11 +70,11 @@
 "preferred_label": "Name"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.3,
+"id": "person:SergiusPaulus",
+"type": "person",
+"confidence": 0.2222,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Sergius Paulus"
 },
 {
 "id": "place:Paphos",
@@ -77,13 +84,6 @@
 "preferred_label": "Paphos"
 },
 {
-"id": "place:Seleucia",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Seleucia"
-},
-{
 "id": "place:Salamis",
 "type": "place",
 "confidence": 0.2222,
@@ -91,18 +91,18 @@
 "preferred_label": "Salamis"
 },
 {
-"id": "person:SergiusPaulus",
-"type": "person",
+"id": "place:Seleucia",
+"type": "place",
 "confidence": 0.2222,
 "match_method": "canonical",
-"preferred_label": "Sergius Paulus"
+"preferred_label": "Seleucia"
 },
 {
-"id": "place:Cyprus",
-"type": "place",
+"id": "keyterm:TheWay",
+"type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Cyprus"
+"preferred_label": "The Way"
 },
 {
 "id": "keyterm:Straightness",
@@ -126,18 +126,18 @@
 "preferred_label": "Mark"
 },
 {
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
 "id": "person:Barnabas",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Barnabas"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "The Way"
 },
 {
 "id": "realia:Synagogue",

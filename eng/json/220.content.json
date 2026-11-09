@@ -42,39 +42,25 @@
 "preferred_label": "Mesopotamia"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Covenant"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Serve.2",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Be Enslaved"
-},
-{
-"id": "person:Abraham",
+"id": "person:Isaac",
 "type": "person",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Abraham"
+"preferred_label": "Isaac"
 },
 {
-"id": "place:Chaldea",
-"type": "place",
+"id": "group:Chaldea",
+"type": "group",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Chaldea"
+"preferred_label": "Chaldeans"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Promise"
 },
 {
 "id": "person:Israel",
@@ -84,11 +70,32 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
+"id": "keyterm:Serve",
+"type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Chaldeans"
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
 },
 {
 "id": "keyterm:Priesthood",
@@ -105,20 +112,6 @@
 "preferred_label": "Circumcision"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "keyterm:Promise",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Promise"
-},
-{
 "id": "keyterm:Decided",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -126,11 +119,18 @@
 "preferred_label": "Decided"
 },
 {
-"id": "person:Isaac",
+"id": "keyterm:Serve.2",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Be Enslaved"
+},
+{
+"id": "person:Abraham",
 "type": "person",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Isaac"
+"preferred_label": "Abraham"
 }
 ]
 }

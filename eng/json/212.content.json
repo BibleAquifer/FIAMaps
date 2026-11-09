@@ -49,25 +49,18 @@
 "preferred_label": "Pilate"
 },
 {
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
 "id": "keyterm:Happen",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "To Cause to Happen"
-},
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Condemn"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Repent"
 },
 {
 "id": "person:Israel",
@@ -77,25 +70,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Priests"
-},
-{
-"id": "person:Judas.2",
+"id": "person:Jeremiah.6",
 "type": "person",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Judas"
+"preferred_label": "Jeremiah"
 },
 {
 "id": "person:Jesus.2",
@@ -105,11 +84,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "person:Jeremiah.6",
-"type": "person",
+"id": "group:GenericPriests",
+"type": "group",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Jeremiah"
+"preferred_label": "Priests"
 },
 {
 "id": "keyterm:Lawful",
@@ -117,6 +96,27 @@
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Repent"
 },
 {
 "id": "deity:Lord",

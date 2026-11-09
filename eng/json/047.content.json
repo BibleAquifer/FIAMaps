@@ -49,6 +49,13 @@
 "preferred_label": "Galileans"
 },
 {
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "confidence": 0.2583,
@@ -56,11 +63,18 @@
 "preferred_label": "Judea"
 },
 {
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.2583,
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Witness"
+"preferred_label": "Samaria"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Israel"
 },
 {
 "id": "place:Jerusalem",
@@ -77,13 +91,6 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "confidence": 0.225,
@@ -98,11 +105,11 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "place:Samaria",
-"type": "place",
+"id": "keyterm:Authority.2",
+"type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Samaria"
+"preferred_label": "Authority"
 },
 {
 "id": "place:Galilee",
@@ -117,13 +124,6 @@
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Authority"
 },
 {
 "id": "realia:Clothing",

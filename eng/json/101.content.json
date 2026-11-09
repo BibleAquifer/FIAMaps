@@ -111,18 +111,18 @@
 "preferred_label": "Olive Tree"
 },
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
-"confidence": 0.2321,
-"match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.2321,
 "match_method": "canonical",
 "preferred_label": "Name"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
 },
 {
 "id": "place:OlivesMount",
@@ -146,32 +146,11 @@
 "preferred_label": "Clothing"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1661,
 "match_method": "canonical",
 "preferred_label": "Ability"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Pharisees"
 },
 {
 "id": "keyterm:Command",
@@ -181,25 +160,11 @@
 "preferred_label": "To Command"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
-},
-{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.1661,
 "match_method": "canonical",
 "preferred_label": "Sky"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Glory"
 },
 {
 "id": "person:David",
@@ -209,11 +174,39 @@
 "preferred_label": "David"
 },
 {
-"id": "realia:Siege-works",
-"type": "realia",
-"confidence": 0.1132,
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1661,
 "match_method": "canonical",
-"preferred_label": "Siege-Works"
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "flora:Rush",
@@ -221,6 +214,13 @@
 "confidence": 0.1132,
 "match_method": "canonical",
 "preferred_label": "Rush"
+},
+{
+"id": "realia:Siege-works",
+"type": "realia",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Siege-Works"
 },
 {
 "id": "realia:Temple",

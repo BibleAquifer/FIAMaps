@@ -56,6 +56,13 @@
 "preferred_label": "Ability"
 },
 {
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
 "id": "keyterm:Authority.2",
 "type": "keyterm",
 "confidence": 0.2643,
@@ -68,20 +75,6 @@
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Good News"
 },
 {
 "id": "place:Judea",
@@ -98,6 +91,13 @@
 "preferred_label": "Capernaum"
 },
 {
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.1821,
@@ -105,32 +105,11 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
+"id": "place:Galilee",
+"type": "place",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Defilement"
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Sabbath",
@@ -140,6 +119,20 @@
 "preferred_label": "Sabbath"
 },
 {
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.1821,
@@ -147,11 +140,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "place:Galilee",
-"type": "place",
+"id": "keyterm:Holy",
+"type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Galilee"
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
 },
 {
 "id": "person:Peter",

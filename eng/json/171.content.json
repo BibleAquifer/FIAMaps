@@ -49,6 +49,13 @@
 "preferred_label": "Ship"
 },
 {
+"id": "place:Lasea",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Lasea"
+},
+{
 "id": "place:Asia",
 "type": "place",
 "confidence": 0.2313,
@@ -56,18 +63,11 @@
 "preferred_label": "Asia"
 },
 {
-"id": "place:Salmone",
+"id": "place:Alexandria",
 "type": "place",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Salmone"
-},
-{
-"id": "person:Augustus",
-"type": "person",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Augustus"
+"preferred_label": "Alexandria"
 },
 {
 "id": "place:Cilicia",
@@ -77,11 +77,11 @@
 "preferred_label": "Cilicia"
 },
 {
-"id": "place:Lycia",
+"id": "place:FairHavens",
 "type": "place",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Lycia"
+"preferred_label": "Fair Havens"
 },
 {
 "id": "person:Aristarchus",
@@ -89,6 +89,27 @@
 "confidence": 0.2313,
 "match_method": "canonical",
 "preferred_label": "Aristarchus"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
+},
+{
+"id": "place:Myra",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Myra"
+},
+{
+"id": "place:Lycia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Lycia"
 },
 {
 "id": "place:Sidon",
@@ -105,46 +126,11 @@
 "preferred_label": "Crete"
 },
 {
-"id": "place:Myra",
-"type": "place",
+"id": "person:Augustus",
+"type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Myra"
-},
-{
-"id": "place:FairHavens",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Fair Havens"
-},
-{
-"id": "place:Cnidus",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Cnidus"
-},
-{
-"id": "place:Alexandria",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Alexandria"
-},
-{
-"id": "place:Lasea",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Lasea"
-},
-{
-"id": "place:Pamphylia",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Pamphylia"
+"preferred_label": "Augustus"
 },
 {
 "id": "place:Adramyttium",
@@ -154,11 +140,18 @@
 "preferred_label": "Adramyttium"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2063,
+"id": "place:Salmone",
+"type": "place",
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Salmone"
+},
+{
+"id": "place:Cnidus",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Cnidus"
 },
 {
 "id": "group:Thessalonica",
@@ -168,20 +161,6 @@
 "preferred_label": "Thessalonians"
 },
 {
-"id": "place:Macedonia",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Macedonia"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Cyprus"
-},
-{
 "id": "keyterm:Decided",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -189,11 +168,32 @@
 "preferred_label": "Decided"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
 "id": "place:Thessalonica",
 "type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Thessalonica"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
 }
 ]
 }

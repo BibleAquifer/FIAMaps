@@ -28,11 +28,11 @@
 "preferred_label": "Aeneas"
 },
 {
-"id": "person:Peter",
-"type": "person",
+"id": "place:Lod",
+"type": "place",
 "confidence": 0.425,
 "match_method": "canonical",
-"preferred_label": "Peter"
+"preferred_label": "Lod"
 },
 {
 "id": "person:Jesus.2",
@@ -42,11 +42,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "place:Lod",
-"type": "place",
+"id": "person:Peter",
+"type": "person",
 "confidence": 0.425,
 "match_method": "canonical",
-"preferred_label": "Lod"
+"preferred_label": "Peter"
 },
 {
 "id": "place:Sharon.2",
@@ -56,18 +56,18 @@
 "preferred_label": "Sharon Plain"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2625,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.2625,
 "match_method": "canonical",
 "preferred_label": "Name"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2625,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "realia:Bed",

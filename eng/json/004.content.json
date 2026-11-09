@@ -28,6 +28,13 @@
 "preferred_label": "Jews"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
 "id": "keyterm:TheWay",
 "type": "keyterm",
 "confidence": 0.38,
@@ -40,27 +47,6 @@
 "confidence": 0.38,
 "match_method": "canonical",
 "preferred_label": "Written"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.38,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "person:Apollos",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Apollos"
-},
-{
-"id": "person:Aquila",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Aquila"
 },
 {
 "id": "group:Alexandria",
@@ -77,46 +63,18 @@
 "preferred_label": "Alexandria"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Baptism"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "person:John",
+"id": "person:Apollos",
 "type": "person",
-"confidence": 0.24,
+"confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "John"
+"preferred_label": "Apollos"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Aquila"
 },
 {
 "id": "person:Priscilla",
@@ -126,11 +84,25 @@
 "preferred_label": "Priscilla"
 },
 {
-"id": "keyterm:Disciple",
+"id": "person:John",
+"type": "person",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Baptism"
 },
 {
 "id": "place:Achaia",
@@ -140,11 +112,11 @@
 "preferred_label": "Achaia"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
+"id": "keyterm:Name",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "Name"
 },
 {
 "id": "place:Ephesus",
@@ -152,6 +124,34 @@
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Ephesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Spirit"
 },
 {
 "id": "realia:Synagogue",

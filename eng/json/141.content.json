@@ -42,13 +42,6 @@
 "preferred_label": "Syracuse"
 },
 {
-"id": "place:Alexandria",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Alexandria"
-},
-{
 "id": "place:ThreeTaverns",
 "type": "place",
 "confidence": 0.2583,
@@ -61,6 +54,13 @@
 "confidence": 0.2583,
 "match_method": "canonical",
 "preferred_label": "Puteoli"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
 },
 {
 "id": "place:ForumOfAppius",

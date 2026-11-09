@@ -40,18 +40,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.5043,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
 "id": "person:Pharaoh.6",
 "type": "person",
 "confidence": 0.5043,
 "match_method": "canonical",
 "preferred_label": "Pharaoh"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5043,
+"match_method": "canonical",
+"preferred_label": "Moses"
 },
 {
 "id": "place:Egypt",
@@ -89,18 +89,18 @@
 "preferred_label": "Pharaoh"
 },
 {
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
 "id": "place:Goshen",
 "type": "place",
 "confidence": 0.2257,
 "match_method": "canonical",
 "preferred_label": "Goshen"
-},
-{
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.2257,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
 },
 {
 "id": "person:Israel",
@@ -110,25 +110,18 @@
 "preferred_label": "Israel"
 },
 {
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "confidence": 0.2257,
 "match_method": "canonical",
 "preferred_label": "To Sin"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.2257,
-"match_method": "canonical",
-"preferred_label": "Aaron"
-},
-{
-"id": "person:Shiphrah",
-"type": "person",
-"confidence": 0.1686,
-"match_method": "canonical",
-"preferred_label": "Shiphrah"
 },
 {
 "id": "person:Puah.3",
@@ -138,11 +131,11 @@
 "preferred_label": "Puah"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1657,
+"id": "person:Shiphrah",
+"type": "person",
+"confidence": 0.1686,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Shiphrah"
 },
 {
 "id": "realia:House",
@@ -152,18 +145,18 @@
 "preferred_label": "House"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1657,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
 "id": "flora:Grass",
 "type": "flora",
 "confidence": 0.1657,
 "match_method": "canonical",
 "preferred_label": "Grass"
-},
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Miraculous Sign"
 },
 {
 "id": "place:Nile",
@@ -180,18 +173,25 @@
 "preferred_label": "Force to Serve"
 },
 {
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
 "id": "flora:Barley",
 "type": "flora",
 "confidence": 0.1086,
 "match_method": "canonical",
 "preferred_label": "Barley"
-},
-{
-"id": "realia:Birthstool",
-"type": "realia",
-"confidence": 0.1086,
-"match_method": "canonical",
-"preferred_label": "Birthstool"
 },
 {
 "id": "flora:Flax",
@@ -201,11 +201,11 @@
 "preferred_label": "Flax"
 },
 {
-"id": "flora:Wheat",
-"type": "flora",
+"id": "realia:Birthstool",
+"type": "realia",
 "confidence": 0.1086,
 "match_method": "canonical",
-"preferred_label": "Wheat"
+"preferred_label": "Birthstool"
 },
 {
 "id": "realia:Rod",

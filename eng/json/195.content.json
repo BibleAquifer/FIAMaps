@@ -34,32 +34,11 @@
 "preferred_label": "Bethsaida"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
 "id": "person:John",
 "type": "person",
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "John"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
 },
 {
 "id": "keyterm:Serve",
@@ -69,11 +48,32 @@
 "preferred_label": "Serve"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
 "id": "person:Herod.2",
 "type": "person",
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Herod Antipas"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "realia:House",
@@ -90,67 +90,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Ability"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Demons"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Sky"
 },
 {
 "id": "keyterm:Resurrection",
@@ -160,11 +104,46 @@
 "preferred_label": "Resurrection"
 },
 {
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
 "id": "person:Elijah",
 "type": "person",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Elijah"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Bless",
@@ -174,18 +153,25 @@
 "preferred_label": "Bless"
 },
 {
-"id": "realia:Bag",
-"type": "realia",
-"confidence": 0.1105,
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Bag"
+"preferred_label": "Good News"
 },
 {
-"id": "realia:Tunic.2",
-"type": "realia",
-"confidence": 0.1105,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Tunic"
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
 },
 {
 "id": "realia:Basket",
@@ -195,11 +181,11 @@
 "preferred_label": "Basket"
 },
 {
-"id": "realia:Temple",
+"id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
-"preferred_label": "Temple"
+"preferred_label": "Tunic"
 },
 {
 "id": "realia:Staff",
@@ -207,6 +193,20 @@
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Staff"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Bag"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Temple"
 }
 ]
 }

@@ -77,13 +77,6 @@
 "preferred_label": "House"
 },
 {
-"id": "place:Straight",
-"type": "place",
-"confidence": 0.1842,
-"match_method": "canonical",
-"preferred_label": "Straight Street"
-},
-{
 "id": "group:Tarsus",
 "type": "group",
 "confidence": 0.1842,
@@ -105,18 +98,11 @@
 "preferred_label": "The Way"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.1737,
+"id": "place:Straight",
+"type": "place",
+"confidence": 0.1842,
 "match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
+"preferred_label": "Straight Street"
 },
 {
 "id": "keyterm:Ability",
@@ -126,13 +112,6 @@
 "preferred_label": "Ability"
 },
 {
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.1737,
@@ -140,18 +119,18 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "keyterm:Authority.2",
+"id": "keyterm:CallUpon",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Authority"
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Chosen"
 },
 {
 "id": "place:Tarsus",
@@ -168,18 +147,11 @@
 "preferred_label": "Sky"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Gentiles"
-},
-{
-"id": "keyterm:Straightness",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Straightness"
+"preferred_label": "Authority"
 },
 {
 "id": "deity:HolySpirit",
@@ -194,6 +166,34 @@
 "confidence": 0.1737,
 "match_method": "canonical",
 "preferred_label": "Pray"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Holy"
 }
 ]
 }

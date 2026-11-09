@@ -21,6 +21,13 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.3,
@@ -28,11 +35,11 @@
 "preferred_label": "Serve"
 },
 {
-"id": "place:Tyre",
+"id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Tyre"
+"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Disciple",
@@ -42,11 +49,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
+"id": "place:Sidon",
+"type": "place",
 "confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Sidon"
 },
 {
 "id": "place:Judea",
@@ -56,18 +63,11 @@
 "preferred_label": "Judea"
 },
 {
-"id": "place:Sidon",
+"id": "place:Tyre",
 "type": "place",
 "confidence": 0.3,
 "match_method": "canonical",
-"preferred_label": "Sidon"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Tyre"
 }
 ]
 }

@@ -66,18 +66,18 @@
 "preferred_label": "Resurrection"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.3991,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.3991,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3991,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "place:Galilee",
@@ -99,13 +99,6 @@
 "confidence": 0.3327,
 "match_method": "canonical",
 "preferred_label": "Peter"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.2745,
-"match_method": "canonical",
-"preferred_label": "Salvation"
 },
 {
 "id": "deity:Angel",
@@ -136,6 +129,13 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
 "id": "group:Angels",
 "type": "group",
 "confidence": 0.2236,
@@ -157,32 +157,11 @@
 "preferred_label": "Mary"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Promise",
-"type": "keyterm",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "Promise"
-},
-{
-"id": "person:Marymagdalene",
+"id": "person:John",
 "type": "person",
 "confidence": 0.2164,
 "match_method": "canonical",
-"preferred_label": "Mary Magdalene"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "John"
 },
 {
 "id": "keyterm:Believe",
@@ -190,13 +169,6 @@
 "confidence": 0.2164,
 "match_method": "canonical",
 "preferred_label": "Believe"
-},
-{
-"id": "person:John",
-"type": "person",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "John"
 },
 {
 "id": "keyterm:Command",
@@ -213,11 +185,39 @@
 "preferred_label": "David"
 },
 {
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.2164,
 "match_method": "canonical",
 "preferred_label": "Life"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "realia:Cross",
@@ -234,25 +234,25 @@
 "preferred_label": "Salome"
 },
 {
-"id": "keyterm:Savior",
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1582,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Happen",
 "type": "keyterm",
 "confidence": 0.1582,
 "match_method": "canonical",
-"preferred_label": "Savior"
+"preferred_label": "To Cause to Happen"
 },
 {
-"id": "keyterm:Anointed",
+"id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1582,
 "match_method": "canonical",
-"preferred_label": "Anointed"
-},
-{
-"id": "person:James.3",
-"type": "person",
-"confidence": 0.1582,
-"match_method": "canonical",
-"preferred_label": "James"
+"preferred_label": "Ability"
 }
 ]
 }

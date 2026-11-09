@@ -82,6 +82,13 @@
 "preferred_label": "Fly"
 },
 {
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
 "id": "group:Egypt",
 "type": "group",
 "confidence": 0.3429,
@@ -94,13 +101,6 @@
 "confidence": 0.3429,
 "match_method": "canonical",
 "preferred_label": "Believe In"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.3429,
-"match_method": "canonical",
-"preferred_label": "Aaron"
 },
 {
 "id": "realia:House",
@@ -131,25 +131,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "group:Levi",
+"id": "group:Hebrews",
 "type": "group",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Tribe of Levi"
-},
-{
-"id": "place:Goshen",
-"type": "place",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Goshen"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Hebrews"
 },
 {
 "id": "person:Levi.3",
@@ -159,11 +145,25 @@
 "preferred_label": "Levi"
 },
 {
-"id": "person:Isaac",
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Abraham",
 "type": "person",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Isaac"
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Goshen"
 },
 {
 "id": "keyterm:InfectiousSkinDisease",
@@ -173,11 +173,11 @@
 "preferred_label": "Infectious Skin Disease"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
+"id": "person:Israel",
+"type": "person",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Hebrews"
+"preferred_label": "Israel"
 },
 {
 "id": "keyterm:MiraculousSign",
@@ -187,11 +187,11 @@
 "preferred_label": "Miraculous Sign"
 },
 {
-"id": "person:Abraham",
+"id": "person:Isaac",
 "type": "person",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Abraham"
+"preferred_label": "Isaac"
 },
 {
 "id": "realia:Image",

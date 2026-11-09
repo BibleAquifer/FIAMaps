@@ -48,18 +48,18 @@
 "preferred_label": "Judea"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.3114,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.3114,
 "match_method": "canonical",
 "preferred_label": "Believe"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Paul"
 },
 {
 "id": "keyterm:Life",
@@ -83,11 +83,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Church",
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.2409,
 "match_method": "canonical",
-"preferred_label": "Church"
+"preferred_label": "Symbol"
 },
 {
 "id": "keyterm:Heaven",
@@ -97,6 +97,13 @@
 "preferred_label": "Sky"
 },
 {
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.2409,
@@ -104,11 +111,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:CallUpon",
 "type": "keyterm",
-"confidence": 0.2409,
+"confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Symbol"
+"preferred_label": "Call Upon"
 },
 {
 "id": "group:Galilee",
@@ -116,13 +123,6 @@
 "confidence": 0.1795,
 "match_method": "canonical",
 "preferred_label": "Galileans"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
 },
 {
 "id": "place:Cana",
@@ -139,39 +139,18 @@
 "preferred_label": "Portent"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Witness"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
 "id": "place:Samaria",
 "type": "place",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Samaria"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
 },
 {
 "id": "keyterm:Glory",
@@ -181,18 +160,11 @@
 "preferred_label": "Glory"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "Bear Witness"
 },
 {
 "id": "person:GenericOfficial",
@@ -209,18 +181,46 @@
 "preferred_label": "Capernaum"
 },
 {
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
 "id": "realia:Cloak",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Cloak"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1105,
-"match_method": "canonical",
-"preferred_label": "House"
 },
 {
 "id": "realia:Temple",
@@ -230,11 +230,11 @@
 "preferred_label": "Temple"
 },
 {
-"id": "realia:Prison",
+"id": "realia:House",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
-"preferred_label": "Prison"
+"preferred_label": "House"
 },
 {
 "id": "realia:Wine",

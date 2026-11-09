@@ -76,32 +76,11 @@
 "preferred_label": "Rod"
 },
 {
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Believe In"
-},
-{
-"id": "place:Rephidim",
-"type": "place",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Rephidim"
-},
-{
 "id": "place:Sin",
 "type": "place",
 "confidence": 0.181,
 "match_method": "canonical",
 "preferred_label": "Wilderness of Sin"
-},
-{
-"id": "person:Zipporah",
-"type": "person",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Zipporah"
 },
 {
 "id": "place:Massah",
@@ -111,60 +90,32 @@
 "preferred_label": "Massah"
 },
 {
+"id": "person:Zipporah",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Zipporah"
+},
+{
+"id": "place:Rephidim",
+"type": "place",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Rephidim"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
 "id": "keyterm:Foreskin",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Foreskin"
-},
-{
-"id": "place:SinaiMount",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Mount Sinai"
-},
-{
-"id": "place:Meribah",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Meribah"
-},
-{
-"id": "person:Jethro",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jethro"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Midian"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Appoint"
-},
-{
-"id": "place:Nile",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Nile River"
 },
 {
 "id": "keyterm:Example",
@@ -174,6 +125,20 @@
 "preferred_label": "Symbol"
 },
 {
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Mount Sinai"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "confidence": 0.1714,
@@ -181,11 +146,46 @@
 "preferred_label": "Peace"
 },
 {
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Force to Serve"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Meribah"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jethro"
 },
 {
 "id": "realia:Knife",

@@ -42,6 +42,13 @@
 "preferred_label": "Reuben"
 },
 {
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Rachel"
+},
+{
 "id": "person:Bilhah",
 "type": "person",
 "confidence": 0.3,
@@ -56,11 +63,11 @@
 "preferred_label": "Leah"
 },
 {
-"id": "person:Rachel",
-"type": "person",
-"confidence": 0.3,
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.2222,
 "match_method": "canonical",
-"preferred_label": "Rachel"
+"preferred_label": "Mamre"
 },
 {
 "id": "place:TowerOfEder",
@@ -70,18 +77,18 @@
 "preferred_label": "Tower of Eder"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Mamre"
-},
-{
 "id": "person:Judah.4",
 "type": "person",
 "confidence": 0.2222,
 "match_method": "canonical",
 "preferred_label": "Judah"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Gad"
 },
 {
 "id": "person:Zilpah",
@@ -91,11 +98,18 @@
 "preferred_label": "Zilpah"
 },
 {
-"id": "person:Esau",
+"id": "person:Simeon.5",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Esau"
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Levi"
 },
 {
 "id": "person:Benjamin",
@@ -105,11 +119,25 @@
 "preferred_label": "Benjamin"
 },
 {
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
 "id": "person:Zebulun",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Zebulun"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Abraham"
 },
 {
 "id": "place:Paddan-aram",
@@ -119,11 +147,32 @@
 "preferred_label": "Paddan-aram"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Asher",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Levi"
+"preferred_label": "Asher"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Hebron"
 },
 {
 "id": "person:Dan",
@@ -138,55 +187,6 @@
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Naphtali"
-},
-{
-"id": "person:Joseph.10",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
-"id": "person:Asher",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Asher"
-},
-{
-"id": "person:Simeon.5",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Simeon"
-},
-{
-"id": "person:Issachar",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Issachar"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Hebron"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Abraham"
-},
-{
-"id": "person:Gad",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Gad"
 },
 {
 "id": "realia:Tent",

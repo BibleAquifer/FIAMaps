@@ -110,25 +110,11 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "place:Ammon",
-"type": "place",
-"confidence": 0.1616,
-"match_method": "canonical",
-"preferred_label": "Ammon"
-},
-{
-"id": "group:Ammon",
+"id": "group:Angels",
 "type": "group",
 "confidence": 0.1616,
 "match_method": "canonical",
-"preferred_label": "Ammonites"
-},
-{
-"id": "person:Ben-ammi",
-"type": "person",
-"confidence": 0.1616,
-"match_method": "canonical",
-"preferred_label": "Ben-ammi"
+"preferred_label": "Angels"
 },
 {
 "id": "person:Moab",
@@ -138,18 +124,25 @@
 "preferred_label": "Moab"
 },
 {
-"id": "group:Angels",
+"id": "group:Ammon",
 "type": "group",
 "confidence": 0.1616,
 "match_method": "canonical",
-"preferred_label": "Angels"
+"preferred_label": "Ammonites"
 },
 {
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.158,
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1616,
 "match_method": "canonical",
-"preferred_label": "Passion"
+"preferred_label": "Ammon"
+},
+{
+"id": "person:Ben-ammi",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Ben-ammi"
 },
 {
 "id": "keyterm:Favor",
@@ -159,11 +152,11 @@
 "preferred_label": "Favor"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.158,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Bless"
 },
 {
 "id": "keyterm:TheWay",
@@ -171,6 +164,20 @@
 "confidence": 0.158,
 "match_method": "canonical",
 "preferred_label": "The Way"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Passion"
 },
 {
 "id": "place:Moab",
@@ -187,18 +194,11 @@
 "preferred_label": "To Sin"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.158,
 "match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Kindness"
+"preferred_label": "Fear"
 },
 {
 "id": "realia:Kiln",

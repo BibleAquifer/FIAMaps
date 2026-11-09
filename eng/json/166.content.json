@@ -28,13 +28,6 @@
 "preferred_label": "Artemis"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.3857,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "place:Ephesus",
 "type": "place",
 "confidence": 0.3857,
@@ -42,11 +35,11 @@
 "preferred_label": "Ephesus"
 },
 {
-"id": "group:Ephesus",
-"type": "group",
-"confidence": 0.3238,
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3857,
 "match_method": "canonical",
-"preferred_label": "Ephesians"
+"preferred_label": "Paul"
 },
 {
 "id": "place:Asia",
@@ -54,6 +47,13 @@
 "confidence": 0.3238,
 "match_method": "canonical",
 "preferred_label": "Asia"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.3238,
+"match_method": "canonical",
+"preferred_label": "Ephesians"
 },
 {
 "id": "place:Macedonia",
@@ -84,11 +84,11 @@
 "preferred_label": "Theater"
 },
 {
-"id": "person:Gaius",
-"type": "person",
+"id": "place:Achaia",
+"type": "place",
 "confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Gaius"
+"preferred_label": "Achaia"
 },
 {
 "id": "person:Alexander.3",
@@ -98,13 +98,6 @@
 "preferred_label": "Alexander"
 },
 {
-"id": "person:Aristarchus",
-"type": "person",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Aristarchus"
-},
-{
 "id": "person:Erastus",
 "type": "person",
 "confidence": 0.181,
@@ -112,18 +105,25 @@
 "preferred_label": "Erastus"
 },
 {
-"id": "place:Achaia",
-"type": "place",
+"id": "person:Aristarchus",
+"type": "person",
 "confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Achaia"
+"preferred_label": "Aristarchus"
 },
 {
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
+"id": "person:Gaius",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Gaius"
+},
+{
+"id": "place:Rome",
+"type": "place",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Blaspheme"
+"preferred_label": "Rome"
 },
 {
 "id": "person:Timothy",
@@ -133,13 +133,6 @@
 "preferred_label": "Timothy"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1714,
@@ -147,11 +140,32 @@
 "preferred_label": "Ability"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
 },
 {
 "id": "keyterm:Worship",
@@ -159,6 +173,27 @@
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Worship"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Public Official"
 },
 {
 "id": "keyterm:Spirit.2",
@@ -182,46 +217,11 @@
 "preferred_label": "The Way"
 },
 {
-"id": "keyterm:Lawful",
+"id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Be Lawful"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "place:Rome",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Rome"
-},
-{
-"id": "person:GenericOfficial",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Public Official"
+"preferred_label": "Ask for"
 },
 {
 "id": "realia:ReplicaTemple",

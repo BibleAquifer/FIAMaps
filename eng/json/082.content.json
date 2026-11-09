@@ -119,18 +119,18 @@
 "preferred_label": "Dinah"
 },
 {
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.3714,
-"match_method": "canonical",
-"preferred_label": "Esau"
-},
-{
 "id": "person:Isaac",
 "type": "person",
 "confidence": 0.3714,
 "match_method": "canonical",
 "preferred_label": "Isaac"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.3714,
+"match_method": "canonical",
+"preferred_label": "Esau"
 },
 {
 "id": "place:Paddan-aram",
@@ -154,13 +154,6 @@
 "preferred_label": "Goat"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.3143,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.3143,
@@ -173,6 +166,13 @@
 "confidence": 0.3143,
 "match_method": "canonical",
 "preferred_label": "Bless"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.3143,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
 },
 {
 "id": "realia:Tent",
@@ -203,6 +203,27 @@
 "preferred_label": "Jegar-sahadutha"
 },
 {
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2607,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.2607,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2607,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
 "id": "person:Joseph.10",
 "type": "person",
 "confidence": 0.2607,
@@ -217,32 +238,11 @@
 "preferred_label": "Levi"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.2607,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "person:Simeon.5",
-"type": "person",
-"confidence": 0.2607,
-"match_method": "canonical",
-"preferred_label": "Simeon"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.2607,
 "match_method": "canonical",
 "preferred_label": "Abraham"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"confidence": 0.2607,
-"match_method": "canonical",
-"preferred_label": "Defilement"
 },
 {
 "id": "place:Penuel",
@@ -252,18 +252,18 @@
 "preferred_label": "Penuel"
 },
 {
-"id": "person:Reuben",
-"type": "person",
-"confidence": 0.2087,
-"match_method": "canonical",
-"preferred_label": "Reuben"
-},
-{
 "id": "keyterm:KindlyDisposed",
 "type": "keyterm",
 "confidence": 0.2087,
 "match_method": "canonical",
 "preferred_label": "To Be Kindly Disposed"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2087,
+"match_method": "canonical",
+"preferred_label": "Reuben"
 },
 {
 "id": "keyterm:EnticedToServe",

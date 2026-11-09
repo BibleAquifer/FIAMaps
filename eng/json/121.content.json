@@ -49,13 +49,6 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
 "id": "person:Pharaoh.6",
 "type": "person",
 "confidence": 0.2643,
@@ -63,11 +56,11 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.2043,
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Flock"
+"preferred_label": "Moses"
 },
 {
 "id": "realia:Cloak",
@@ -91,6 +84,13 @@
 "preferred_label": "Goat"
 },
 {
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
 "id": "place:Succoth.2",
 "type": "place",
 "confidence": 0.1964,
@@ -98,18 +98,11 @@
 "preferred_label": "Succoth"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
+"id": "person:Aaron",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Bless"
+"preferred_label": "Aaron"
 },
 {
 "id": "place:Rameses",
@@ -126,18 +119,18 @@
 "preferred_label": "Force to Serve"
 },
 {
-"id": "person:Aaron",
-"type": "person",
+"id": "keyterm:Favor",
+"type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Aaron"
+"preferred_label": "Favor"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.1221,
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Money"
+"preferred_label": "Bless"
 },
 {
 "id": "realia:Prison",
@@ -145,6 +138,13 @@
 "confidence": 0.1221,
 "match_method": "canonical",
 "preferred_label": "Prison"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Money"
 },
 {
 "id": "realia:UnleavenedBread",

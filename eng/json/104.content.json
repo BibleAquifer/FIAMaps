@@ -62,18 +62,18 @@
 "preferred_label": "Pharisees"
 },
 {
-"id": "person:Mary.3",
-"type": "person",
-"confidence": 0.2458,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
 "id": "keyterm:Passover",
 "type": "keyterm",
 "confidence": 0.2458,
 "match_method": "canonical",
 "preferred_label": "Passover"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 0.2458,
+"match_method": "canonical",
+"preferred_label": "Mary"
 },
 {
 "id": "keyterm:Resurrection",
@@ -97,15 +97,15 @@
 "preferred_label": "Pure"
 },
 {
-"id": "flora:Myrrh",
-"type": "flora",
+"id": "realia:Myrrh",
+"type": "realia",
 "confidence": 0.1775,
 "match_method": "canonical",
 "preferred_label": "Myrrh"
 },
 {
-"id": "realia:Myrrh",
-"type": "realia",
+"id": "flora:Myrrh",
+"type": "flora",
 "confidence": 0.1775,
 "match_method": "canonical",
 "preferred_label": "Myrrh"
@@ -125,6 +125,20 @@
 "preferred_label": "Martha"
 },
 {
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
 "id": "keyterm:Anointed",
 "type": "keyterm",
 "confidence": 0.1688,
@@ -132,18 +146,11 @@
 "preferred_label": "Anointed"
 },
 {
-"id": "place:Bethany",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Bethany"
-},
-{
-"id": "keyterm:Commandment",
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Commandment"
+"preferred_label": "Symbol"
 },
 {
 "id": "keyterm:Speak",
@@ -153,11 +160,32 @@
 "preferred_label": "Speak as a Prophet"
 },
 {
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
 "id": "place:Ephraim",
 "type": "place",
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Ephraim"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Bethany"
 },
 {
 "id": "place:Jerusalem",
@@ -174,53 +202,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Symbol"
-},
-{
-"id": "place:Rome",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Rome"
-},
-{
-"id": "person:Judas.2",
-"type": "person",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Judas"
-},
-{
-"id": "flora:Nard",
-"type": "flora",
-"confidence": 0.1171,
-"match_method": "canonical",
-"preferred_label": "Nard"
-},
-{
 "id": "realia:Pound",
 "type": "realia",
 "confidence": 0.1171,
 "match_method": "canonical",
 "preferred_label": "Pound"
-},
-{
-"id": "realia:MoneyBox",
-"type": "realia",
-"confidence": 0.1171,
-"match_method": "canonical",
-"preferred_label": "Money Box"
 },
 {
 "id": "realia:OilOfNard",
@@ -230,11 +216,18 @@
 "preferred_label": "Oil of Nard"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1088,
+"id": "flora:Nard",
+"type": "flora",
+"confidence": 0.1171,
 "match_method": "canonical",
-"preferred_label": "House"
+"preferred_label": "Nard"
+},
+{
+"id": "realia:MoneyBox",
+"type": "realia",
+"confidence": 0.1171,
+"match_method": "canonical",
+"preferred_label": "Money Box"
 },
 {
 "id": "realia:Denarius",
@@ -242,6 +235,13 @@
 "confidence": 0.1088,
 "match_method": "canonical",
 "preferred_label": "Denarius"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1088,
+"match_method": "canonical",
+"preferred_label": "House"
 },
 {
 "id": "realia:Temple",

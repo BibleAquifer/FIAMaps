@@ -42,18 +42,18 @@
 "preferred_label": "Camel"
 },
 {
-"id": "place:Negeb",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Negev"
-},
-{
 "id": "place:Beer-lahai-roi",
 "type": "place",
 "confidence": 0.2583,
 "match_method": "canonical",
 "preferred_label": "Beer-lahai-roi"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Negev"
 },
 {
 "id": "person:GenericServant",
@@ -63,18 +63,18 @@
 "preferred_label": "A Servant"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
 "id": "person:Sarah",
 "type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Sarah"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Love"
 },
 {
 "id": "realia:Tent",

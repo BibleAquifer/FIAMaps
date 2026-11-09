@@ -27,18 +27,18 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.3667,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3667,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3667,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "keyterm:DemonPossessed",
@@ -55,18 +55,18 @@
 "preferred_label": "Ship"
 },
 {
-"id": "fauna:Pig",
-"type": "fauna",
-"confidence": 0.3067,
-"match_method": "canonical",
-"preferred_label": "Pig"
-},
-{
 "id": "fauna:Jackal",
 "type": "fauna",
 "confidence": 0.3067,
 "match_method": "canonical",
 "preferred_label": "Jackal"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Pig"
 },
 {
 "id": "realia:Grave",
@@ -76,13 +76,6 @@
 "preferred_label": "Grave"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2333,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.2333,
@@ -90,25 +83,18 @@
 "preferred_label": "LORD"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
 "id": "realia:Chain",
 "type": "realia",
 "confidence": 0.1807,
 "match_method": "canonical",
 "preferred_label": "Chain"
-},
-{
-"id": "deity:Legion",
-"type": "deity",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Legion"
-},
-{
-"id": "place:Decapolis",
-"type": "place",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Decapolis"
 },
 {
 "id": "keyterm:Command",
@@ -125,25 +111,18 @@
 "preferred_label": "Gerasa"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1667,
+"id": "deity:Legion",
+"type": "deity",
+"confidence": 0.1741,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Legion"
 },
 {
-"id": "keyterm:BecomeStill",
-"type": "keyterm",
-"confidence": 0.1667,
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.1741,
 "match_method": "canonical",
-"preferred_label": "Become Still"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Decapolis"
 },
 {
 "id": "keyterm:Believe",
@@ -151,6 +130,13 @@
 "confidence": 0.1667,
 "match_method": "canonical",
 "preferred_label": "Believe"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Authority.2",
@@ -174,11 +160,18 @@
 "preferred_label": "Bow Down"
 },
 {
-"id": "realia:Cushion",
-"type": "realia",
-"confidence": 0.1141,
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Cushion"
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:BecomeStill",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Become Still"
 },
 {
 "id": "realia:Fetter",
@@ -186,6 +179,13 @@
 "confidence": 0.1141,
 "match_method": "canonical",
 "preferred_label": "Fetter"
+},
+{
+"id": "realia:Cushion",
+"type": "realia",
+"confidence": 0.1141,
+"match_method": "canonical",
+"preferred_label": "Cushion"
 },
 {
 "id": "realia:House",

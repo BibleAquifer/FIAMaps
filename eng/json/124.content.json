@@ -35,27 +35,6 @@
 "preferred_label": "Ability"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Gentiles"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Symbol"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
 "id": "keyterm:Disaster",
 "type": "keyterm",
 "confidence": 0.2,
@@ -63,18 +42,25 @@
 "preferred_label": "Disaster"
 },
 {
-"id": "keyterm:Liberation",
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Liberation"
+"preferred_label": "Glory"
 },
 {
-"id": "place:Judea",
-"type": "place",
+"id": "keyterm:Heaven",
+"type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Sky"
 },
 {
 "id": "keyterm:GrantJustice",
@@ -91,11 +77,25 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Glory",
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Liberation"
 }
 ]
 }

@@ -77,13 +77,6 @@
 "preferred_label": "Force to Serve"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Swear"
-},
-{
 "id": "group:Aramean",
 "type": "group",
 "confidence": 0.1781,
@@ -91,11 +84,18 @@
 "preferred_label": "Arameans"
 },
 {
-"id": "person:Abraham",
+"id": "person:Laban",
 "type": "person",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Abraham"
+"preferred_label": "Laban"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Swear"
 },
 {
 "id": "keyterm:Love",
@@ -105,18 +105,18 @@
 "preferred_label": "Love"
 },
 {
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
 "id": "person:Bethuel",
 "type": "person",
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Bethuel"
-},
-{
-"id": "person:Laban",
-"type": "person",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Laban"
 },
 {
 "id": "flora:Lentil",

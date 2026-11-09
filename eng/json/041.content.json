@@ -75,13 +75,6 @@
 "preferred_label": "Donkey"
 },
 {
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.229,
-"match_method": "canonical",
-"preferred_label": "Isaac"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.229,
@@ -89,11 +82,11 @@
 "preferred_label": "Abraham"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.169,
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.229,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Isaac"
 },
 {
 "id": "realia:House",
@@ -103,67 +96,11 @@
 "preferred_label": "House"
 },
 {
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.1645,
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.169,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Exempt"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Heth"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Slaughtering"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Jebusites"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Amorites"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Hivites"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Perizzites"
+"preferred_label": "Cattle"
 },
 {
 "id": "place:Canaan",
@@ -173,6 +110,13 @@
 "preferred_label": "Canaan"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
 "id": "group:Hebrews",
 "type": "group",
 "confidence": 0.1645,
@@ -180,18 +124,25 @@
 "preferred_label": "Hebrews"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Appoint"
-},
-{
-"id": "group:Canaan",
+"id": "group:Amorites",
 "type": "group",
 "confidence": 0.1645,
 "match_method": "canonical",
-"preferred_label": "Canaanites"
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
 },
 {
 "id": "person:Pharaoh.6",
@@ -201,11 +152,11 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "group:Hittite",
+"id": "group:Hivites",
 "type": "group",
 "confidence": 0.1645,
 "match_method": "canonical",
-"preferred_label": "Hittites"
+"preferred_label": "Hivites"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -222,6 +173,55 @@
 "preferred_label": "Land Flowing of Milk and Honey"
 },
 {
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Exempt"
+},
+{
 "id": "fauna:Kid",
 "type": "fauna",
 "confidence": 0.111,
@@ -236,6 +236,27 @@
 "preferred_label": "Cloak"
 },
 {
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+},
+{
 "id": "fauna:Goat",
 "type": "fauna",
 "confidence": 0.1045,
@@ -248,27 +269,6 @@
 "confidence": 0.1045,
 "match_method": "canonical",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Money"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Vine"
-},
-{
-"id": "realia:UnleavenedBread",
-"type": "realia",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Unleavened Bread"
 }
 ]
 }

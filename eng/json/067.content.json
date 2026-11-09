@@ -49,13 +49,6 @@
 "preferred_label": "Goat"
 },
 {
-"id": "place:Timnah",
-"type": "place",
-"confidence": 0.315,
-"match_method": "canonical",
-"preferred_label": "Timnah"
-},
-{
 "id": "group:Adullam",
 "type": "group",
 "confidence": 0.315,
@@ -63,11 +56,11 @@
 "preferred_label": "Adullamites"
 },
 {
-"id": "person:Onan",
-"type": "person",
-"confidence": 0.3083,
+"id": "place:Timnah",
+"type": "place",
+"confidence": 0.315,
 "match_method": "canonical",
-"preferred_label": "Onan"
+"preferred_label": "Timnah"
 },
 {
 "id": "person:Er.2",
@@ -75,6 +68,13 @@
 "confidence": 0.3083,
 "match_method": "canonical",
 "preferred_label": "Er"
+},
+{
+"id": "person:Onan",
+"type": "person",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Onan"
 },
 {
 "id": "fauna:Flock",
@@ -91,11 +91,11 @@
 "preferred_label": "Adullam"
 },
 {
-"id": "person:Shua",
-"type": "person",
+"id": "place:Enaim",
+"type": "place",
 "confidence": 0.2433,
 "match_method": "canonical",
-"preferred_label": "Shua"
+"preferred_label": "Enaim"
 },
 {
 "id": "person:Hirah",
@@ -105,11 +105,11 @@
 "preferred_label": "Hirah"
 },
 {
-"id": "place:Enaim",
-"type": "place",
+"id": "person:Shua",
+"type": "person",
 "confidence": 0.2433,
 "match_method": "canonical",
-"preferred_label": "Enaim"
+"preferred_label": "Shua"
 },
 {
 "id": "fauna:Kid",
@@ -133,13 +133,6 @@
 "preferred_label": "Thread"
 },
 {
-"id": "person:Perez",
-"type": "person",
-"confidence": 0.1717,
-"match_method": "canonical",
-"preferred_label": "Perez"
-},
-{
 "id": "person:Zerah.3",
 "type": "person",
 "confidence": 0.1717,
@@ -147,11 +140,11 @@
 "preferred_label": "Zerah"
 },
 {
-"id": "realia:MeasuringReed",
-"type": "realia",
-"confidence": 0.17,
+"id": "person:Perez",
+"type": "person",
+"confidence": 0.1717,
 "match_method": "canonical",
-"preferred_label": "Measuring Reed"
+"preferred_label": "Perez"
 },
 {
 "id": "realia:Rod",
@@ -161,18 +154,11 @@
 "preferred_label": "Rod"
 },
 {
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.165,
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.17,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "place:Achzib",
-"type": "place",
-"confidence": 0.165,
-"match_method": "canonical",
-"preferred_label": "Achzib"
+"preferred_label": "Measuring Reed"
 },
 {
 "id": "place:Canaan",
@@ -182,18 +168,32 @@
 "preferred_label": "Canaan"
 },
 {
-"id": "keyterm:PlayTheProstitute",
-"type": "keyterm",
-"confidence": 0.165,
-"match_method": "canonical",
-"preferred_label": "Play the Prostitute"
-},
-{
 "id": "group:Canaan",
 "type": "group",
 "confidence": 0.165,
 "match_method": "canonical",
 "preferred_label": "Canaanites"
+},
+{
+"id": "place:Achzib",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Achzib"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Play the Prostitute"
 }
 ]
 }

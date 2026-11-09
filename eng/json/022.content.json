@@ -63,18 +63,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "fauna:Bull",
+"id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.1309,
 "match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"confidence": 0.1309,
-"match_method": "canonical",
-"preferred_label": "Donkey"
+"preferred_label": "Flock"
 },
 {
 "id": "fauna:Goat",
@@ -84,6 +77,13 @@
 "preferred_label": "Goat"
 },
 {
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
 "id": "fauna:Camel",
 "type": "fauna",
 "confidence": 0.1309,
@@ -91,11 +91,11 @@
 "preferred_label": "Camel"
 },
 {
-"id": "fauna:Flock",
+"id": "fauna:Bull",
 "type": "fauna",
 "confidence": 0.1309,
 "match_method": "canonical",
-"preferred_label": "Flock"
+"preferred_label": "Cattle"
 }
 ]
 }

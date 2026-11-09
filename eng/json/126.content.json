@@ -33,18 +33,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.4812,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "person:Barnabas",
 "type": "person",
 "confidence": 0.4812,
 "match_method": "canonical",
 "preferred_label": "Barnabas"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4812,
+"match_method": "canonical",
+"preferred_label": "Paul"
 },
 {
 "id": "place:Antioch",
@@ -75,13 +75,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "person:Mark",
-"type": "person",
-"confidence": 0.2458,
-"match_method": "canonical",
-"preferred_label": "Mark"
-},
-{
 "id": "place:Cilicia",
 "type": "place",
 "confidence": 0.2458,
@@ -89,11 +82,11 @@
 "preferred_label": "Cilicia"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2375,
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2458,
 "match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Mark"
 },
 {
 "id": "keyterm:Chosen",
@@ -103,11 +96,11 @@
 "preferred_label": "Chosen"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.2375,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Church",
@@ -124,6 +117,13 @@
 "preferred_label": "Holy Spirit"
 },
 {
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2375,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
 "id": "person:Claudius",
 "type": "person",
 "confidence": 0.1938,
@@ -136,6 +136,41 @@
 "confidence": 0.1771,
 "match_method": "canonical",
 "preferred_label": "Agabus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Serve"
 },
 {
 "id": "keyterm:Blood",
@@ -152,11 +187,11 @@
 "preferred_label": "Fornication"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
+"id": "place:Pamphylia",
+"type": "place",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Pamphylia"
 },
 {
 "id": "keyterm:Peace",
@@ -164,34 +199,6 @@
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Make Peace"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Cyprus"
 },
 {
 "id": "place:Jerusalem",
@@ -208,25 +215,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Serve",
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Gentiles"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Beloved"
+"preferred_label": "Favor"
 },
 {
 "id": "keyterm:Life",
@@ -236,25 +236,25 @@
 "preferred_label": "Life"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "place:Pamphylia",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Pamphylia"
-},
-{
-"id": "keyterm:Encourage",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Encourage"
+"preferred_label": "Good News"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
 }
 ]
 }

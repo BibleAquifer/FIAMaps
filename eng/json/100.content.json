@@ -107,11 +107,11 @@
 "preferred_label": "Temple"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.2725,
 "match_method": "canonical",
-"preferred_label": "Surely!"
+"preferred_label": "Sky"
 },
 {
 "id": "keyterm:Authority.2",
@@ -121,18 +121,18 @@
 "preferred_label": "Authority"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Pray",
 "type": "keyterm",
 "confidence": 0.2725,
 "match_method": "canonical",
-"preferred_label": "Sky"
+"preferred_label": "Pray"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.2725,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Surely!"
 },
 {
 "id": "deity:Lord",
@@ -142,11 +142,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.2725,
 "match_method": "canonical",
-"preferred_label": "Pray"
+"preferred_label": "Fear"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.2183,
+"match_method": "canonical",
+"preferred_label": "Judas"
 },
 {
 "id": "person:Mary.3",
@@ -163,11 +170,11 @@
 "preferred_label": "Bethany"
 },
 {
-"id": "person:Judas.2",
+"id": "person:John",
 "type": "person",
-"confidence": 0.2183,
+"confidence": 0.215,
 "match_method": "canonical",
-"preferred_label": "Judas"
+"preferred_label": "John"
 },
 {
 "id": "keyterm:Name",
@@ -184,25 +191,11 @@
 "preferred_label": "Religious Officials"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "flora:Fig",
 "type": "flora",
 "confidence": 0.2125,
 "match_method": "canonical",
 "preferred_label": "Fig"
-},
-{
-"id": "person:Simon.4",
-"type": "person",
-"confidence": 0.1608,
-"match_method": "canonical",
-"preferred_label": "Simon"
 },
 {
 "id": "keyterm:Hosanna",
@@ -212,39 +205,18 @@
 "preferred_label": "Hosanna"
 },
 {
+"id": "person:Simon.4",
+"type": "person",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
 "id": "fauna:Donkey",
 "type": "fauna",
 "confidence": 0.1583,
 "match_method": "canonical",
 "preferred_label": "Donkey"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Forgive"
-},
-{
-"id": "keyterm:Discern",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Discern"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Priests"
 },
 {
 "id": "keyterm:Disaster",
@@ -254,11 +226,39 @@
 "preferred_label": "Disaster"
 },
 {
-"id": "person:Caiaphas",
-"type": "person",
+"id": "keyterm:Baptism",
+"type": "keyterm",
 "confidence": 0.1575,
 "match_method": "canonical",
-"preferred_label": "Caiaphas"
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
 }
 ]
 }

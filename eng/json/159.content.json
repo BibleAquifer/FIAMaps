@@ -35,20 +35,6 @@
 "preferred_label": "Gentiles"
 },
 {
-"id": "place:Derbe",
-"type": "place",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Derbe"
-},
-{
-"id": "place:Lystra",
-"type": "place",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Lystra"
-},
-{
 "id": "place:Lycaonia",
 "type": "place",
 "confidence": 0.2429,
@@ -63,11 +49,39 @@
 "preferred_label": "Iconium"
 },
 {
+"id": "place:Lystra",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Lystra"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Derbe"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "group:Greek",
 "type": "group",
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Greeks"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Good News"
 },
 {
 "id": "person:Javan",
@@ -84,20 +98,6 @@
 "preferred_label": "Favor"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Symbol"
-},
-{
-"id": "keyterm:Portent",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Portent"
-},
-{
 "id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.2143,
@@ -105,11 +105,11 @@
 "preferred_label": "Bear Witness"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Symbol"
 },
 {
 "id": "deity:Lord",
@@ -119,11 +119,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Portent",
 "type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Portent"
 },
 {
 "id": "realia:Synagogue",

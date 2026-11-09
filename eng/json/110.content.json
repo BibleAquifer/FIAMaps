@@ -28,18 +28,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "person:David",
-"type": "person",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "David"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "confidence": 0.3286,
 "match_method": "canonical",
 "preferred_label": "Mercy"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "David"
 },
 {
 "id": "group:GenericGroup",
@@ -63,11 +63,11 @@
 "preferred_label": "Bartimaeus"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Salvation",
@@ -77,13 +77,6 @@
 "preferred_label": "Salvation"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Jericho"
-},
-{
 "id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.2143,
@@ -91,18 +84,25 @@
 "preferred_label": "To Command"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
 "id": "keyterm:CheerUp",
 "type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Cheer Up"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Believe"
 },
 {
 "id": "realia:Cloak",

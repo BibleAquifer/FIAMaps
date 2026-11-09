@@ -70,6 +70,13 @@
 "preferred_label": "Fear"
 },
 {
+"id": "place:Shur",
+"type": "place",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Shur"
+},
+{
 "id": "keyterm:Innocence",
 "type": "keyterm",
 "confidence": 0.1861,
@@ -82,13 +89,6 @@
 "confidence": 0.1861,
 "match_method": "canonical",
 "preferred_label": "Negev"
-},
-{
-"id": "place:Shur",
-"type": "place",
-"confidence": 0.1861,
-"match_method": "canonical",
-"preferred_label": "Shur"
 },
 {
 "id": "place:Kadesh-barnea",
@@ -105,20 +105,6 @@
 "preferred_label": "Kindness"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Goat"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.115,
@@ -131,6 +117,20 @@
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Money"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 }
 ]
 }

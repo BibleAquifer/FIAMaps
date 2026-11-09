@@ -68,6 +68,13 @@
 "preferred_label": "Jesus"
 },
 {
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.2941,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
 "id": "realia:Plate.2",
 "type": "realia",
 "confidence": 0.2941,
@@ -75,11 +82,11 @@
 "preferred_label": "Plate"
 },
 {
-"id": "realia:Prison",
-"type": "realia",
-"confidence": 0.2941,
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2865,
 "match_method": "canonical",
-"preferred_label": "Prison"
+"preferred_label": "Resurrection"
 },
 {
 "id": "keyterm:Baptist",
@@ -96,11 +103,11 @@
 "preferred_label": "Oath"
 },
 {
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.2865,
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 0.2351,
 "match_method": "canonical",
-"preferred_label": "Resurrection"
+"preferred_label": "Philip"
 },
 {
 "id": "person:DaughterOfHerodias",
@@ -108,13 +115,6 @@
 "confidence": 0.2351,
 "match_method": "canonical",
 "preferred_label": "Daughter of Herodias"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"confidence": 0.2351,
-"match_method": "canonical",
-"preferred_label": "Philip"
 },
 {
 "id": "keyterm:Ability",
@@ -131,18 +131,18 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2243,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "keyterm:Lawful",
 "type": "keyterm",
 "confidence": 0.2243,
 "match_method": "canonical",
 "preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "fauna:Fish",
@@ -152,32 +152,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
+"id": "place:Galilee",
+"type": "place",
 "confidence": 0.1622,
 "match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Haste",
@@ -187,32 +166,11 @@
 "preferred_label": "Haste"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
 "id": "group:GenericGroup",
 "type": "group",
 "confidence": 0.1622,
 "match_method": "canonical",
 "preferred_label": "A Group of People"
-},
-{
-"id": "keyterm:Affection",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Affection"
 },
 {
 "id": "keyterm:Serve",
@@ -222,6 +180,20 @@
 "preferred_label": "Serve"
 },
 {
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
 "id": "person:Elijah",
 "type": "person",
 "confidence": 0.1622,
@@ -229,11 +201,39 @@
 "preferred_label": "Elijah"
 },
 {
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.1622,
 "match_method": "canonical",
 "preferred_label": "Bless"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Affection"
 },
 {
 "id": "realia:Basket",
@@ -250,18 +250,18 @@
 "preferred_label": "Ship"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.1022,
-"match_method": "canonical",
-"preferred_label": "Grass"
-},
-{
 "id": "realia:Grave",
 "type": "realia",
 "confidence": 0.1022,
 "match_method": "canonical",
 "preferred_label": "Grave"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Grass"
 }
 ]
 }

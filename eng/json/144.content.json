@@ -49,13 +49,6 @@
 "preferred_label": "Believe"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3286,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "confidence": 0.3286,
@@ -70,53 +63,11 @@
 "preferred_label": "Pray"
 },
 {
-"id": "group:Antioch",
-"type": "group",
-"confidence": 0.2429,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3286,
 "match_method": "canonical",
-"preferred_label": "Antiochians"
-},
-{
-"id": "person:Timon",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Timon"
-},
-{
-"id": "group:Hellenist",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Hellenists"
-},
-{
-"id": "person:Stephen",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Stephen"
-},
-{
-"id": "person:Parmenas",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Parmenas"
-},
-{
-"id": "person:Nicanor",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Nicanor"
-},
-{
-"id": "person:Nicolaus",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Nicolaus"
+"preferred_label": "LORD"
 },
 {
 "id": "person:Prochorus",
@@ -126,32 +77,53 @@
 "preferred_label": "Prochorus"
 },
 {
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "group:GenericDisciples",
+"id": "group:Antioch",
 "type": "group",
-"confidence": 0.2143,
+"confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "A Group of Disciples"
+"preferred_label": "Antiochians"
+},
+{
+"id": "person:Nicanor",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Nicanor"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Hellenists"
+},
+{
+"id": "person:Nicolaus",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Nicolaus"
+},
+{
+"id": "person:Timon",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Timon"
+},
+{
+"id": "person:Parmenas",
+"type": "person",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Parmenas"
 },
 {
 "id": "group:Hebrews",
@@ -161,11 +133,39 @@
 "preferred_label": "Hebrews"
 },
 {
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Greece"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "place:Antioch",
@@ -175,11 +175,11 @@
 "preferred_label": "Antioch"
 },
 {
-"id": "place:Greece",
-"type": "place",
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Greece"
+"preferred_label": "Spirit"
 }
 ]
 }
