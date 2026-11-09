@@ -77,13 +77,6 @@
 "preferred_label": "Fear"
 },
 {
-"id": "group:Hellenist",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Hellenists"
-},
-{
 "id": "place:Tarsus",
 "type": "place",
 "confidence": 0.2,
@@ -91,53 +84,11 @@
 "preferred_label": "Tarsus"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1846,
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Church"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Galilee"
+"preferred_label": "Hellenists"
 },
 {
 "id": "keyterm:Believe",
@@ -147,18 +98,25 @@
 "preferred_label": "Believe"
 },
 {
-"id": "place:Samaria",
+"id": "place:Galilee",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Samaria"
+"preferred_label": "Galilee"
 },
 {
-"id": "place:Caesarea",
+"id": "place:Judea",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Caesarea"
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
 },
 {
 "id": "place:Greece",
@@ -166,6 +124,20 @@
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "Greece"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Church"
 },
 {
 "id": "deity:HolySpirit",
@@ -182,11 +154,46 @@
 "preferred_label": "Barnabas"
 },
 {
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
 "id": "realia:Basket",
 "type": "realia",
 "confidence": 0.14,
 "match_method": "canonical",
 "preferred_label": "Basket"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
 },
 {
 "id": "realia:CityWall",
@@ -201,13 +208,6 @@
 "confidence": 0.1246,
 "match_method": "canonical",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:Synagogue",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Synagogue"
 }
 ]
 }

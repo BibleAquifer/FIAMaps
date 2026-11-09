@@ -34,18 +34,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "person:David",
-"type": "person",
-"confidence": 0.372,
-"match_method": "canonical",
-"preferred_label": "David"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "confidence": 0.372,
 "match_method": "canonical",
 "preferred_label": "Mercy"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "David"
 },
 {
 "id": "person:Zacchaeus",
@@ -83,25 +83,11 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Abraham"
-},
-{
-"id": "keyterm:Affection",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Affection"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Glory",
@@ -111,18 +97,32 @@
 "preferred_label": "Glory"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.168,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Believe"
 },
 {
 "id": "flora:SycomoreFig",

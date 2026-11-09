@@ -100,18 +100,18 @@
 "preferred_label": "Be Demon Possessed"
 },
 {
-"id": "fauna:Pig",
-"type": "fauna",
-"confidence": 0.3291,
-"match_method": "canonical",
-"preferred_label": "Pig"
-},
-{
 "id": "fauna:Jackal",
 "type": "fauna",
 "confidence": 0.3291,
 "match_method": "canonical",
 "preferred_label": "Jackal"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.3291,
+"match_method": "canonical",
+"preferred_label": "Pig"
 },
 {
 "id": "deity:Lord",
@@ -128,13 +128,6 @@
 "preferred_label": "Gerasa"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2696,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.2696,
@@ -142,11 +135,11 @@
 "preferred_label": "Believe"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.2661,
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2696,
 "match_method": "canonical",
-"preferred_label": "House"
+"preferred_label": "Name"
 },
 {
 "id": "realia:Grave",
@@ -163,11 +156,11 @@
 "preferred_label": "Synagogue"
 },
 {
-"id": "deity:Legion",
-"type": "deity",
-"confidence": 0.2188,
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2661,
 "match_method": "canonical",
-"preferred_label": "Legion"
+"preferred_label": "House"
 },
 {
 "id": "keyterm:Command",
@@ -177,11 +170,11 @@
 "preferred_label": "To Command"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.213,
+"id": "deity:Legion",
+"type": "deity",
+"confidence": 0.2188,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Legion"
 },
 {
 "id": "keyterm:Disciple",
@@ -191,11 +184,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.2125,
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.213,
 "match_method": "canonical",
-"preferred_label": "Cloak"
+"preferred_label": "Proclaim"
 },
 {
 "id": "realia:Chain",
@@ -205,6 +198,13 @@
 "preferred_label": "Chain"
 },
 {
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.2125,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.2096,
@@ -212,11 +212,11 @@
 "preferred_label": "Temple"
 },
 {
-"id": "keyterm:Abyss",
+"id": "keyterm:HavingLittleFaith",
 "type": "keyterm",
 "confidence": 0.1594,
 "match_method": "canonical",
-"preferred_label": "Abyss"
+"preferred_label": "Having Little Faith"
 },
 {
 "id": "person:Jairus",
@@ -226,11 +226,11 @@
 "preferred_label": "Jairus"
 },
 {
-"id": "keyterm:HavingLittleFaith",
+"id": "keyterm:Abyss",
 "type": "keyterm",
 "confidence": 0.1594,
 "match_method": "canonical",
-"preferred_label": "Having Little Faith"
+"preferred_label": "Abyss"
 },
 {
 "id": "place:Decapolis",
@@ -247,18 +247,18 @@
 "preferred_label": "Fetter"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1565,
 "match_method": "canonical",
-"preferred_label": "Blood"
+"preferred_label": "Ability"
 },
 {
-"id": "keyterm:BecomeStill",
-"type": "keyterm",
+"id": "person:James",
+"type": "person",
 "confidence": 0.1565,
 "match_method": "canonical",
-"preferred_label": "Become Still"
+"preferred_label": "James"
 }
 ]
 }

@@ -42,46 +42,11 @@
 "preferred_label": "Joseph"
 },
 {
-"id": "person:Dan",
+"id": "person:Levi.3",
 "type": "person",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Dan"
-},
-{
-"id": "person:Simeon.5",
-"type": "person",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Simeon"
-},
-{
-"id": "person:Issachar",
-"type": "person",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Issachar"
-},
-{
-"id": "person:Naphtali",
-"type": "person",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Naphtali"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Reuben"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Benjamin"
+"preferred_label": "Levi"
 },
 {
 "id": "person:Judah.4",
@@ -91,11 +56,11 @@
 "preferred_label": "Judah"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Reuben",
 "type": "person",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Levi"
+"preferred_label": "Reuben"
 },
 {
 "id": "person:Gad",
@@ -103,6 +68,41 @@
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Gad"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Simeon"
 },
 {
 "id": "person:Zebulun",

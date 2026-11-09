@@ -41,18 +41,18 @@
 "preferred_label": "Egyptians"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.3625,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "confidence": 0.3625,
 "match_method": "canonical",
 "preferred_label": "Moses"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Israel"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -76,13 +76,6 @@
 "preferred_label": "Hebrews"
 },
 {
-"id": "keyterm:Work",
-"type": "keyterm",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "Work"
-},
-{
 "id": "place:Pithom",
 "type": "place",
 "confidence": 0.2042,
@@ -90,11 +83,18 @@
 "preferred_label": "Pithom"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "place:Midian",
+"type": "place",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Joseph"
+"preferred_label": "Midian"
 },
 {
 "id": "place:Raamses",
@@ -104,11 +104,11 @@
 "preferred_label": "Raamses"
 },
 {
-"id": "place:Midian",
-"type": "place",
+"id": "person:Joseph.10",
+"type": "person",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Midian"
+"preferred_label": "Joseph"
 },
 {
 "id": "keyterm:Fear",

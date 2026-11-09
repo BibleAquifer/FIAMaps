@@ -62,13 +62,6 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"confidence": 0.245,
-"match_method": "canonical",
-"preferred_label": "Truth"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.245,
@@ -76,25 +69,11 @@
 "preferred_label": "Believe"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Truth",
 "type": "keyterm",
 "confidence": 0.245,
 "match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "person:GenericFemale",
-"type": "person",
-"confidence": 0.245,
-"match_method": "canonical",
-"preferred_label": "A Woman"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.245,
-"match_method": "canonical",
-"preferred_label": "True"
+"preferred_label": "Truth"
 },
 {
 "id": "keyterm:Law",
@@ -104,6 +83,27 @@
 "preferred_label": "Law"
 },
 {
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
 "id": "person:Nicodemus",
 "type": "person",
 "confidence": 0.1825,
@@ -111,32 +111,11 @@
 "preferred_label": "Nicodemus"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Decided",
 "type": "keyterm",
 "confidence": 0.1725,
 "match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "group:ReligiousOfficials",
-"type": "group",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Religious Officials"
-},
-{
-"id": "keyterm:Worshiper",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Worshiper"
+"preferred_label": "Decided"
 },
 {
 "id": "place:Galilee",
@@ -146,11 +125,32 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Decided",
+"id": "keyterm:Worshiper",
 "type": "keyterm",
 "confidence": 0.1725,
 "match_method": "canonical",
-"preferred_label": "Decided"
+"preferred_label": "Worshiper"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
 },
 {
 "id": "realia:House",

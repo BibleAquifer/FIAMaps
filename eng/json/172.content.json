@@ -49,13 +49,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.25,
@@ -63,11 +56,11 @@
 "preferred_label": "Life"
 },
 {
-"id": "place:Cauda",
-"type": "place",
-"confidence": 0.1861,
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.25,
 "match_method": "canonical",
-"preferred_label": "Cauda"
+"preferred_label": "Fear"
 },
 {
 "id": "place:Phoenix",
@@ -84,6 +77,20 @@
 "preferred_label": "the Syrtis"
 },
 {
+"id": "place:Cauda",
+"type": "place",
+"confidence": 0.1861,
+"match_method": "canonical",
+"preferred_label": "Cauda"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.175,
@@ -91,32 +98,11 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Hope"
-},
-{
-"id": "keyterm:Priesthood",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Priesthood"
-},
-{
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Abstain from Food"
+"preferred_label": "Serve"
 },
 {
 "id": "deity:Angel",
@@ -133,11 +119,18 @@
 "preferred_label": "Claudius"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Priesthood",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Priesthood"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
 },
 {
 "id": "keyterm:Persuade",
@@ -147,11 +140,18 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Hope"
 }
 ]
 }

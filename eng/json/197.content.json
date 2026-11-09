@@ -42,20 +42,6 @@
 "preferred_label": "Bethel"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Stone Altar"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "confidence": 0.28,
@@ -70,11 +56,18 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "place:Allon-bacuth",
-"type": "place",
-"confidence": 0.1933,
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Allon-bachuth"
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
 },
 {
 "id": "person:Deborah",
@@ -84,39 +77,11 @@
 "preferred_label": "Deborah"
 },
 {
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Esau"
-},
-{
-"id": "person:Rebekah",
-"type": "person",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Rebekah"
-},
-{
-"id": "place:Shechem",
+"id": "place:Allon-bacuth",
 "type": "place",
-"confidence": 0.18,
+"confidence": 0.1933,
 "match_method": "canonical",
-"preferred_label": "Shechem"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Paddan-aram"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Isaac"
+"preferred_label": "Allon-bachuth"
 },
 {
 "id": "place:Canaan",
@@ -133,11 +98,11 @@
 "preferred_label": "Offering"
 },
 {
-"id": "keyterm:Pure",
-"type": "keyterm",
+"id": "person:Rebekah",
+"type": "person",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Pure"
+"preferred_label": "Rebekah"
 },
 {
 "id": "person:Abraham",
@@ -147,6 +112,27 @@
 "preferred_label": "Abraham"
 },
 {
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Paddan-aram"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.18,
@@ -154,11 +140,18 @@
 "preferred_label": "Bless"
 },
 {
-"id": "flora:Oak",
-"type": "flora",
-"confidence": 0.1333,
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Oak"
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Isaac"
 },
 {
 "id": "flora:Terebinth",
@@ -175,6 +168,13 @@
 "preferred_label": "Anointing Oil"
 },
 {
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1333,
+"match_method": "canonical",
+"preferred_label": "Oak"
+},
+{
 "id": "realia:OliveOil",
 "type": "realia",
 "confidence": 0.12,
@@ -182,18 +182,18 @@
 "preferred_label": "Olive Oil"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"confidence": 0.12,
-"match_method": "canonical",
-"preferred_label": "Wine"
-},
-{
 "id": "realia:Earring",
 "type": "realia",
 "confidence": 0.12,
 "match_method": "canonical",
 "preferred_label": "Earring"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "Wine"
 }
 ]
 }

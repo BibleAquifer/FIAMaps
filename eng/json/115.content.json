@@ -49,39 +49,11 @@
 "preferred_label": "Straightness"
 },
 {
-"id": "place:Abilene",
-"type": "place",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Abilene"
-},
-{
-"id": "person:Augustus",
+"id": "person:John",
 "type": "person",
 "confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Augustus"
-},
-{
-"id": "person:Annas",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Annas"
-},
-{
-"id": "place:Ituraea",
-"type": "place",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Ituraea"
-},
-{
-"id": "person:Tiberius",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Tiberius"
+"preferred_label": "John"
 },
 {
 "id": "place:Trachonitis",
@@ -91,6 +63,20 @@
 "preferred_label": "Trachonitis"
 },
 {
+"id": "place:Abilene",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Abilene"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Tiberius"
+},
+{
 "id": "place:Jordan",
 "type": "place",
 "confidence": 0.1964,
@@ -98,25 +84,11 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "person:John",
-"type": "person",
+"id": "place:Ituraea",
+"type": "place",
 "confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "person:Lysanias",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Lysanias"
-},
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Herod Antipas"
+"preferred_label": "Ituraea"
 },
 {
 "id": "person:Philip.3",
@@ -126,46 +98,32 @@
 "preferred_label": "Philip"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Forgive"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "person:Isaiah",
+"id": "person:Herod.2",
 "type": "person",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Isaiah"
+"preferred_label": "Herod Antipas"
 },
 {
-"id": "person:Caiaphas",
+"id": "person:Augustus",
 "type": "person",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Caiaphas"
+"preferred_label": "Augustus"
 },
 {
-"id": "person:Pilate",
+"id": "person:Lysanias",
 "type": "person",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Pilate"
+"preferred_label": "Lysanias"
+},
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Annas"
 },
 {
 "id": "person:Zechariah",
@@ -173,6 +131,27 @@
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Zechariah"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "place:Judea",
@@ -189,25 +168,11 @@
 "preferred_label": "Word"
 },
 {
-"id": "place:Galilee",
-"type": "place",
+"id": "person:Pilate",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:TaxCollector",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Tax Collector"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Body"
+"preferred_label": "Pilate"
 },
 {
 "id": "person:Abraham",
@@ -217,25 +182,46 @@
 "preferred_label": "Abraham"
 },
 {
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Caiaphas"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "To Sin"
-},
-{
-"id": "fauna:Snake",
-"type": "fauna",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "Snake"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "Scroll"
 },
 {
 "id": "realia:Tunic.2",
@@ -245,11 +231,25 @@
 "preferred_label": "Tunic"
 },
 {
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
 "id": "realia:Axe",
 "type": "realia",
 "confidence": 0.1221,
 "match_method": "canonical",
 "preferred_label": "Axe"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Scroll"
 }
 ]
 }

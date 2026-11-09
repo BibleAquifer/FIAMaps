@@ -75,6 +75,13 @@
 "preferred_label": "A Woman"
 },
 {
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.3429,
@@ -87,13 +94,6 @@
 "confidence": 0.3429,
 "match_method": "canonical",
 "preferred_label": "True"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.3429,
-"match_method": "canonical",
-"preferred_label": "Life"
 },
 {
 "id": "group:Samaritan",
@@ -117,32 +117,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2214,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"confidence": 0.2214,
-"match_method": "canonical",
-"preferred_label": "Always"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.2214,
 "match_method": "canonical",
 "preferred_label": "Baptism"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.2214,
-"match_method": "canonical",
-"preferred_label": "Ask for"
 },
 {
 "id": "keyterm:Truth",
@@ -152,11 +131,32 @@
 "preferred_label": "Truth"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
 "id": "keyterm:Spirit.2",
 "type": "keyterm",
 "confidence": 0.2214,
 "match_method": "canonical",
 "preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "place:Sychar",
@@ -166,18 +166,11 @@
 "preferred_label": "Sychar"
 },
 {
-"id": "keyterm:Savior",
-"type": "keyterm",
+"id": "person:John",
+"type": "person",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Savior"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "John"
 },
 {
 "id": "keyterm:Ability",
@@ -187,27 +180,6 @@
 "preferred_label": "Ability"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Worshiper",
-"type": "keyterm",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Worshiper"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.1607,
@@ -215,18 +187,11 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "Pharisees"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.1607,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
+"preferred_label": "Judea"
 },
 {
 "id": "person:Joseph.10",
@@ -236,11 +201,46 @@
 "preferred_label": "Joseph"
 },
 {
-"id": "person:John",
-"type": "person",
+"id": "keyterm:Worshiper",
+"type": "keyterm",
 "confidence": 0.1607,
 "match_method": "canonical",
-"preferred_label": "John"
+"preferred_label": "Worshiper"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "person:GenericPerson",
@@ -257,18 +257,18 @@
 "preferred_label": "Stone Jar"
 },
 {
-"id": "realia:ClayJar",
-"type": "realia",
-"confidence": 0.1007,
-"match_method": "canonical",
-"preferred_label": "Clay Jar"
-},
-{
 "id": "realia:Container",
 "type": "realia",
 "confidence": 0.1007,
 "match_method": "canonical",
 "preferred_label": "Container"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
 }
 ]
 }

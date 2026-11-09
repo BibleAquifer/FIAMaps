@@ -82,13 +82,6 @@
 "preferred_label": "Midian"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.2914,
-"match_method": "canonical",
-"preferred_label": "Flock"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "confidence": 0.2914,
@@ -96,11 +89,11 @@
 "preferred_label": "Goat"
 },
 {
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.2886,
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2914,
 "match_method": "canonical",
-"preferred_label": "Isaac"
+"preferred_label": "Flock"
 },
 {
 "id": "person:Abraham",
@@ -108,6 +101,13 @@
 "confidence": 0.2886,
 "match_method": "canonical",
 "preferred_label": "Abraham"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Isaac"
 },
 {
 "id": "flora:Bush",
@@ -138,13 +138,6 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2257,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "confidence": 0.2257,
@@ -152,11 +145,25 @@
 "preferred_label": "An Angel"
 },
 {
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
 "id": "person:Gershom",
 "type": "person",
 "confidence": 0.1743,
 "match_method": "canonical",
 "preferred_label": "Gershom"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Rescue"
 },
 {
 "id": "keyterm:LandFlowingOfMilkAndHoney",
@@ -173,11 +180,11 @@
 "preferred_label": "Heth"
 },
 {
-"id": "keyterm:Rescue",
-"type": "keyterm",
+"id": "person:Zipporah",
+"type": "person",
 "confidence": 0.1686,
 "match_method": "canonical",
-"preferred_label": "Rescue"
+"preferred_label": "Zipporah"
 },
 {
 "id": "group:Perizzites",
@@ -187,39 +194,18 @@
 "preferred_label": "Perizzites"
 },
 {
-"id": "person:Zipporah",
-"type": "person",
-"confidence": 0.1686,
-"match_method": "canonical",
-"preferred_label": "Zipporah"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
+"id": "place:Canaan",
+"type": "place",
 "confidence": 0.1629,
 "match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Canaan"
 },
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
+"id": "group:Canaan",
+"type": "group",
 "confidence": 0.1629,
 "match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Avenge"
-},
-{
-"id": "person:Pharaoh.5",
-"type": "person",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
+"preferred_label": "Canaanites"
 },
 {
 "id": "group:Jebusites",
@@ -236,6 +222,27 @@
 "preferred_label": "Amorites"
 },
 {
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Avenge"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
 "id": "keyterm:Work",
 "type": "keyterm",
 "confidence": 0.1629,
@@ -243,11 +250,11 @@
 "preferred_label": "Work"
 },
 {
-"id": "keyterm:Reconcile",
+"id": "keyterm:Judge",
 "type": "keyterm",
 "confidence": 0.1629,
 "match_method": "canonical",
-"preferred_label": "Reconcile"
+"preferred_label": "Judge"
 },
 {
 "id": "group:Hivites",
@@ -257,6 +264,20 @@
 "preferred_label": "Hivites"
 },
 {
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:Reconcile",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Reconcile"
+},
+{
 "id": "keyterm:Covenant",
 "type": "keyterm",
 "confidence": 0.1629,
@@ -264,11 +285,18 @@
 "preferred_label": "Covenant"
 },
 {
-"id": "place:Canaan",
-"type": "place",
+"id": "keyterm:Peace",
+"type": "keyterm",
 "confidence": 0.1629,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "keyterm:Heart",
@@ -283,34 +311,6 @@
 "confidence": 0.1629,
 "match_method": "canonical",
 "preferred_label": "Fear"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Canaanites"
-},
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Judge"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Hittites"
-},
-{
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
 },
 {
 "id": "realia:Sandal",

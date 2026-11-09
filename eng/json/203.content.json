@@ -48,18 +48,18 @@
 "preferred_label": "Moses"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.39,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.39,
 "match_method": "canonical",
 "preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "Egypt"
 },
 {
 "id": "person:Pharaoh.6",
@@ -83,13 +83,6 @@
 "preferred_label": "Acacia"
 },
 {
-"id": "person:Gershom",
-"type": "person",
-"confidence": 0.1825,
-"match_method": "canonical",
-"preferred_label": "Gershom"
-},
-{
 "id": "keyterm:BreadOfDisplay",
 "type": "keyterm",
 "confidence": 0.1825,
@@ -97,11 +90,11 @@
 "preferred_label": "Bread of Display"
 },
 {
-"id": "person:Eliezer.3",
+"id": "person:Gershom",
 "type": "person",
 "confidence": 0.1825,
 "match_method": "canonical",
-"preferred_label": "Eliezer"
+"preferred_label": "Gershom"
 },
 {
 "id": "person:Zipporah",
@@ -111,18 +104,18 @@
 "preferred_label": "Zipporah"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"confidence": 0.1725,
+"id": "person:Eliezer.3",
+"type": "person",
+"confidence": 0.1825,
 "match_method": "canonical",
-"preferred_label": "Slaughtering"
+"preferred_label": "Eliezer"
 },
 {
-"id": "place:Midian",
-"type": "place",
+"id": "person:Aaron",
+"type": "person",
 "confidence": 0.1725,
 "match_method": "canonical",
-"preferred_label": "Midian"
+"preferred_label": "Aaron"
 },
 {
 "id": "keyterm:Offering",
@@ -139,32 +132,25 @@
 "preferred_label": "Peace"
 },
 {
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.1725,
 "match_method": "canonical",
 "preferred_label": "Bless"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Aaron"
-},
-{
-"id": "realia:BreadOfDisplay",
-"type": "realia",
-"confidence": 0.1225,
-"match_method": "canonical",
-"preferred_label": "Bread of Display"
-},
-{
-"id": "realia:Handbreadth",
-"type": "realia",
-"confidence": 0.1225,
-"match_method": "canonical",
-"preferred_label": "Handbreadth"
 },
 {
 "id": "realia:Jug",
@@ -174,6 +160,13 @@
 "preferred_label": "Jug"
 },
 {
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
 "id": "realia:Dish",
 "type": "realia",
 "confidence": 0.1225,
@@ -181,11 +174,11 @@
 "preferred_label": "Dish"
 },
 {
-"id": "realia:Tent",
+"id": "realia:Handbreadth",
 "type": "realia",
-"confidence": 0.1125,
+"confidence": 0.1225,
 "match_method": "canonical",
-"preferred_label": "Tent"
+"preferred_label": "Handbreadth"
 },
 {
 "id": "realia:Cubit",
@@ -193,6 +186,13 @@
 "confidence": 0.1125,
 "match_method": "canonical",
 "preferred_label": "Cubit"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Tent"
 }
 ]
 }

@@ -27,18 +27,18 @@
 "resource": [],
 "acai": [
 {
-"id": "fauna:Pig",
-"type": "fauna",
-"confidence": 0.3127,
-"match_method": "canonical",
-"preferred_label": "Pig"
-},
-{
 "id": "fauna:Jackal",
 "type": "fauna",
 "confidence": 0.3127,
 "match_method": "canonical",
 "preferred_label": "Jackal"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 0.3127,
+"match_method": "canonical",
+"preferred_label": "Pig"
 },
 {
 "id": "keyterm:DemonPossessed",
@@ -55,18 +55,18 @@
 "preferred_label": "Ask for"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "To Command"
 },
 {
 "id": "place:Gerasa",
@@ -76,13 +76,6 @@
 "preferred_label": "Gerasa"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.1909,
@@ -90,11 +83,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "To Command"
 },
 {
 "id": "keyterm:Authority.2",
@@ -102,6 +95,13 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Authority"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "realia:Grave",

@@ -28,13 +28,6 @@
 "preferred_label": "Stephen"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.3125,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
 "id": "keyterm:Word",
 "type": "keyterm",
 "confidence": 0.3125,
@@ -42,11 +35,11 @@
 "preferred_label": "Word"
 },
 {
-"id": "group:Freedmen",
-"type": "group",
-"confidence": 0.2313,
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3125,
 "match_method": "canonical",
-"preferred_label": "Freedmen"
+"preferred_label": "Moses"
 },
 {
 "id": "group:Alexandria",
@@ -63,11 +56,11 @@
 "preferred_label": "Alexandria"
 },
 {
-"id": "place:Asia",
-"type": "place",
-"confidence": 0.2063,
+"id": "group:Freedmen",
+"type": "group",
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Asia"
+"preferred_label": "Freedmen"
 },
 {
 "id": "place:Nazareth",
@@ -77,27 +70,6 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "keyterm:Blasphemous",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Blasphemous"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -105,11 +77,25 @@
 "preferred_label": "Ability"
 },
 {
-"id": "keyterm:Favor",
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "keyterm:Law",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Symbol"
 },
 {
 "id": "keyterm:Portent",
@@ -126,39 +112,18 @@
 "preferred_label": "Cilicia"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
 "id": "place:Cyrene",
 "type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Cyrene"
-},
-{
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Witness"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Symbol"
 },
 {
 "id": "deity:HolySpirit",
@@ -175,11 +140,46 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Favor"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Blasphemous",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Blasphemous"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Witness"
 },
 {
 "id": "realia:Tabernacle",

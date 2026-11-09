@@ -49,6 +49,13 @@
 "preferred_label": "Good News"
 },
 {
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
 "id": "person:Isaiah",
 "type": "person",
 "confidence": 0.26,
@@ -56,11 +63,25 @@
 "preferred_label": "Isaiah"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
+"id": "deity:HolySpirit",
+"type": "deity",
 "confidence": 0.26,
 "match_method": "canonical",
-"preferred_label": "Baptism"
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:AskFor",
@@ -77,41 +98,6 @@
 "preferred_label": "Written"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.26,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.26,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.26,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "place:Gaza",
-"type": "place",
-"confidence": 0.1933,
-"match_method": "canonical",
-"preferred_label": "Gaza"
-},
-{
-"id": "place:Ashdod",
-"type": "place",
-"confidence": 0.1933,
-"match_method": "canonical",
-"preferred_label": "Ashdod"
-},
-{
 "id": "group:Ethiopia",
 "type": "group",
 "confidence": 0.1933,
@@ -126,6 +112,20 @@
 "preferred_label": "Ethiopia"
 },
 {
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Ashdod"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "confidence": 0.18,
@@ -133,18 +133,11 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
+"id": "person:Jesus.2",
+"type": "person",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Bow Down"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Caesarea"
+"preferred_label": "Jesus"
 },
 {
 "id": "keyterm:Life",
@@ -154,11 +147,18 @@
 "preferred_label": "Life"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
+"id": "place:Caesarea",
+"type": "place",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
 },
 {
 "id": "fauna:Lamb",

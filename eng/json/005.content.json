@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.2692,
@@ -35,32 +28,18 @@
 "preferred_label": "Sky"
 },
 {
-"id": "place:Elam",
-"type": "place",
-"confidence": 0.2,
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2692,
 "match_method": "canonical",
-"preferred_label": "Elam"
+"preferred_label": "Jews"
 },
 {
-"id": "group:Parthians",
+"id": "group:Cretan",
 "type": "group",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Parthians"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Galileans"
-},
-{
-"id": "place:Phrygia",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Phrygia"
+"preferred_label": "Cretans"
 },
 {
 "id": "group:Elam",
@@ -70,18 +49,18 @@
 "preferred_label": "Elamites"
 },
 {
-"id": "place:Pontus",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Pontus"
-},
-{
 "id": "place:Cyrene",
 "type": "place",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Cyrene"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Galileans"
 },
 {
 "id": "place:Jerusalem",
@@ -91,6 +70,13 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Phrygia"
+},
+{
 "id": "person:Medan",
 "type": "person",
 "confidence": 0.2,
@@ -98,11 +84,18 @@
 "preferred_label": "Medan"
 },
 {
-"id": "group:Cretan",
+"id": "group:Parthians",
 "type": "group",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Cretans"
+"preferred_label": "Parthians"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Pontus"
 },
 {
 "id": "place:Libya",
@@ -119,6 +112,20 @@
 "preferred_label": "Cappadocia"
 },
 {
+"id": "place:Elam",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
 "id": "place:Asia",
 "type": "place",
 "confidence": 0.1846,
@@ -126,25 +133,11 @@
 "preferred_label": "Asia"
 },
 {
-"id": "place:Mesopotamia",
+"id": "place:Galilee",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Mesopotamia"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
-"id": "group:Arabia",
-"type": "group",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Arabians"
+"preferred_label": "Galilee"
 },
 {
 "id": "place:Judea",
@@ -161,25 +154,32 @@
 "preferred_label": "Medes"
 },
 {
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Arabians"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Mesopotamia"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
 "id": "place:Pamphylia",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "Pamphylia"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:MightyAct",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Mighty Act"
 },
 {
 "id": "place:Crete",
@@ -196,18 +196,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "place:Rome",
+"id": "place:Egypt",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Rome"
+"preferred_label": "Egypt"
 },
 {
 "id": "place:Arabia",
@@ -215,6 +208,13 @@
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "Arabia"
+},
+{
+"id": "keyterm:MightyAct",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Mighty Act"
 },
 {
 "id": "realia:SweetWine",

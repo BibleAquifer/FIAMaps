@@ -35,6 +35,13 @@
 "preferred_label": "Bethuel"
 },
 {
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.38,
@@ -42,11 +49,53 @@
 "preferred_label": "Abraham"
 },
 {
-"id": "person:Nahor.2",
+"id": "person:Chesed",
 "type": "person",
-"confidence": 0.38,
+"confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Nahor"
+"preferred_label": "Chesed"
+},
+{
+"id": "person:Pildash",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Pildash"
+},
+{
+"id": "person:Tahash",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Tahash"
+},
+{
+"id": "person:Jidlaph",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Jidlaph"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Uz.2",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Uz"
+},
+{
+"id": "person:Reumah",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Reumah"
 },
 {
 "id": "person:Buz",
@@ -70,11 +119,11 @@
 "preferred_label": "Kemuel"
 },
 {
-"id": "person:Tahash",
+"id": "person:Hazo",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Tahash"
+"preferred_label": "Hazo"
 },
 {
 "id": "person:Gaham",
@@ -84,60 +133,11 @@
 "preferred_label": "Gaham"
 },
 {
-"id": "person:Uz.2",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Uz"
-},
-{
-"id": "person:Maacah",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Maacah"
-},
-{
-"id": "person:Hazo",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Hazo"
-},
-{
-"id": "person:Jidlaph",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Jidlaph"
-},
-{
 "id": "person:Tebah",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
 "preferred_label": "Tebah"
-},
-{
-"id": "person:Reumah",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Reumah"
-},
-{
-"id": "person:Pildash",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Pildash"
-},
-{
-"id": "person:Chesed",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Chesed"
 },
 {
 "id": "person:Rebekah",

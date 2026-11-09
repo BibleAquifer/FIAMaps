@@ -110,18 +110,18 @@
 "preferred_label": "Grass"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.2711,
-"match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
 "id": "person:Aaron",
 "type": "person",
 "confidence": 0.2711,
 "match_method": "canonical",
 "preferred_label": "Aaron"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2711,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "group:Hebrews",
@@ -159,39 +159,11 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "place:RedSea",
-"type": "place",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Red Sea"
-},
-{
-"id": "group:Egypt",
+"id": "group:GenericOfficials",
 "type": "group",
 "confidence": 0.157,
 "match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Perceive"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Appoint"
+"preferred_label": "Public Officials"
 },
 {
 "id": "keyterm:IntactState",
@@ -201,18 +173,39 @@
 "preferred_label": "Peace"
 },
 {
-"id": "group:GenericOfficials",
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "group:Egypt",
 "type": "group",
 "confidence": 0.157,
 "match_method": "canonical",
-"preferred_label": "Public Officials"
+"preferred_label": "Egyptians"
 },
 {
-"id": "flora:Acacia",
-"type": "flora",
-"confidence": 0.1541,
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.157,
 "match_method": "canonical",
-"preferred_label": "Acacia"
+"preferred_label": "Red Sea"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Perceive"
 },
 {
 "id": "realia:House",
@@ -222,18 +215,11 @@
 "preferred_label": "House"
 },
 {
-"id": "realia:BreadOfDisplay",
-"type": "realia",
-"confidence": 0.1002,
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1541,
 "match_method": "canonical",
-"preferred_label": "Bread of Display"
-},
-{
-"id": "realia:Handbreadth",
-"type": "realia",
-"confidence": 0.1002,
-"match_method": "canonical",
-"preferred_label": "Handbreadth"
+"preferred_label": "Acacia"
 },
 {
 "id": "realia:Jug",
@@ -241,6 +227,20 @@
 "confidence": 0.1002,
 "match_method": "canonical",
 "preferred_label": "Jug"
+},
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:Dish",
+"type": "realia",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Dish"
 }
 ]
 }

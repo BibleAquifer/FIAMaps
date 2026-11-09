@@ -42,18 +42,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.29,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.29,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Elijah"
 },
 {
 "id": "place:Bethany.2",
@@ -63,11 +63,25 @@
 "preferred_label": "Bethany"
 },
 {
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "place:Jordan",
@@ -77,11 +91,11 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "keyterm:BearWitness",
+"type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Bear Witness"
 },
 {
 "id": "group:Pharisee",
@@ -103,20 +117,6 @@
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Isaiah"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Levi"
 },
 {
 "id": "deity:Lord",

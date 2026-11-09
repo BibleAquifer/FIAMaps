@@ -63,13 +63,6 @@
 "preferred_label": "Ishmael"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.2562,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "confidence": 0.2562,
@@ -77,11 +70,11 @@
 "preferred_label": "Egypt"
 },
 {
-"id": "place:Bered",
-"type": "place",
-"confidence": 0.1906,
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2562,
 "match_method": "canonical",
-"preferred_label": "Bered"
+"preferred_label": "Egyptians"
 },
 {
 "id": "place:Beer-lahai-roi",
@@ -91,11 +84,11 @@
 "preferred_label": "Beer-lahai-roi"
 },
 {
-"id": "place:Canaan",
+"id": "place:Bered",
 "type": "place",
-"confidence": 0.1781,
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Bered"
 },
 {
 "id": "place:Kadesh-barnea",
@@ -103,6 +96,13 @@
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Kadesh-barnea"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Canaan"
 },
 {
 "id": "place:Shur",

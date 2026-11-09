@@ -56,20 +56,6 @@
 "preferred_label": "Simon"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.3114,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.3114,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.3114,
@@ -84,6 +70,13 @@
 "preferred_label": "Baptism"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3114,
@@ -91,11 +84,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.2409,
+"confidence": 0.3114,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Good News"
 },
 {
 "id": "keyterm:Believe",
@@ -103,6 +96,27 @@
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Believe"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "person:Peter",
@@ -117,20 +131,6 @@
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Heart"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Symbol"
 },
 {
 "id": "realia:Money",
@@ -154,55 +154,6 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Cause of Joy"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "person:Simon.9",
-"type": "person",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Simon"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Samaritans"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Unjust Deed"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "keyterm:Repent",
 "type": "keyterm",
 "confidence": 0.1705,
@@ -215,6 +166,27 @@
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Serve"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Unjust Deed"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Pray"
 },
 {
 "id": "keyterm:Straightness",
@@ -231,11 +203,39 @@
 "preferred_label": "Declare"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Pray"
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "John"
 }
 ]
 }

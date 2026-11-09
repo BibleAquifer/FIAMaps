@@ -28,32 +28,11 @@
 "preferred_label": "Ability"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.38,
-"match_method": "canonical",
-"preferred_label": "Tyre"
-},
-{
 "id": "keyterm:Repent",
 "type": "keyterm",
 "confidence": 0.38,
 "match_method": "canonical",
 "preferred_label": "Repent"
-},
-{
-"id": "keyterm:CourtCase",
-"type": "keyterm",
-"confidence": 0.38,
-"match_method": "canonical",
-"preferred_label": "Court Case"
-},
-{
-"id": "place:Sidon",
-"type": "place",
-"confidence": 0.38,
-"match_method": "canonical",
-"preferred_label": "Sidon"
 },
 {
 "id": "keyterm:Judgment",
@@ -63,6 +42,13 @@
 "preferred_label": "Judgment"
 },
 {
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
 "id": "place:Sodom",
 "type": "place",
 "confidence": 0.38,
@@ -70,18 +56,18 @@
 "preferred_label": "Sodom"
 },
 {
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.28,
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.38,
 "match_method": "canonical",
-"preferred_label": "World of the Dead"
+"preferred_label": "Sidon"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:CourtCase",
 "type": "keyterm",
-"confidence": 0.28,
+"confidence": 0.38,
 "match_method": "canonical",
-"preferred_label": "Disaster"
+"preferred_label": "Court Case"
 },
 {
 "id": "place:Chorazin",
@@ -91,11 +77,25 @@
 "preferred_label": "Chorazin"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Disaster",
 "type": "keyterm",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "World of the Dead"
+},
+{
+"id": "place:Hell",
+"type": "place",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Sky"
+"preferred_label": "Hell"
 },
 {
 "id": "place:Bethsaida",
@@ -105,11 +105,11 @@
 "preferred_label": "Bethsaida"
 },
 {
-"id": "place:Hell",
-"type": "place",
+"id": "keyterm:Heaven",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Hell"
+"preferred_label": "Sky"
 },
 {
 "id": "place:Capernaum",

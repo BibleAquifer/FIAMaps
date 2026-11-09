@@ -49,18 +49,25 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
 "id": "keyterm:Spirit.2",
 "type": "keyterm",
 "confidence": 0.2818,
 "match_method": "canonical",
 "preferred_label": "Spirit"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "True"
 },
 {
 "id": "keyterm:Truth",
@@ -70,11 +77,11 @@
 "preferred_label": "Truth"
 },
 {
-"id": "person:GenericFemale",
-"type": "person",
-"confidence": 0.2818,
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "A Woman"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Salvation",
@@ -96,13 +103,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Worshiper"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Believe"
 }
 ]
 }

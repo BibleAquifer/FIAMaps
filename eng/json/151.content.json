@@ -34,13 +34,6 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.2643,
@@ -48,11 +41,25 @@
 "preferred_label": "Ability"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
 "id": "fauna:Fish",
 "type": "fauna",
 "confidence": 0.2186,
 "match_method": "canonical",
 "preferred_label": "Fish"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Jude"
 },
 {
 "id": "person:James.3",
@@ -76,11 +83,11 @@
 "preferred_label": "Simon"
 },
 {
-"id": "person:Jude",
-"type": "person",
-"confidence": 0.1964,
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Jude"
+"preferred_label": "Bless"
 },
 {
 "id": "keyterm:Serve",
@@ -90,11 +97,11 @@
 "preferred_label": "Serve"
 },
 {
-"id": "person:Joseph.4",
+"id": "person:Mary",
 "type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Joseph"
+"preferred_label": "Mary"
 },
 {
 "id": "keyterm:Heaven",
@@ -104,11 +111,11 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
+"id": "person:Joseph.4",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Bless"
+"preferred_label": "Joseph"
 },
 {
 "id": "keyterm:Affection",
@@ -118,13 +125,6 @@
 "preferred_label": "Affection"
 },
 {
-"id": "person:Mary",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
 "id": "realia:Basket",
 "type": "realia",
 "confidence": 0.1364,
@@ -132,11 +132,11 @@
 "preferred_label": "Basket"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
+"id": "realia:Synagogue",
+"type": "realia",
 "confidence": 0.1221,
 "match_method": "canonical",
-"preferred_label": "Grass"
+"preferred_label": "Synagogue"
 },
 {
 "id": "realia:Ship",
@@ -146,11 +146,11 @@
 "preferred_label": "Ship"
 },
 {
-"id": "realia:Synagogue",
-"type": "realia",
+"id": "flora:Grass",
+"type": "flora",
 "confidence": 0.1221,
 "match_method": "canonical",
-"preferred_label": "Synagogue"
+"preferred_label": "Grass"
 }
 ]
 }

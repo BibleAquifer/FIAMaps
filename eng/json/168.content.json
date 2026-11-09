@@ -49,27 +49,6 @@
 "preferred_label": "Malta"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Hospitably",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Hospitably"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Kindness"
-},
-{
 "id": "keyterm:Pray",
 "type": "keyterm",
 "confidence": 0.195,
@@ -77,18 +56,11 @@
 "preferred_label": "Pray"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Life"
+"preferred_label": "Serve"
 },
 {
 "id": "keyterm:Name",
@@ -98,11 +70,32 @@
 "preferred_label": "Name"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"confidence": 0.135,
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Snake"
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Hospitably",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Hospitably"
 },
 {
 "id": "fauna:Cobra",
@@ -110,6 +103,13 @@
 "confidence": 0.135,
 "match_method": "canonical",
 "preferred_label": "Cobra"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Snake"
 }
 ]
 }

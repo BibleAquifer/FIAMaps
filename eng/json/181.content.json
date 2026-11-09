@@ -69,6 +69,13 @@
 "preferred_label": "Church"
 },
 {
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
 "id": "person:Manaen",
 "type": "person",
 "confidence": 0.215,
@@ -81,13 +88,6 @@
 "confidence": 0.215,
 "match_method": "canonical",
 "preferred_label": "Simeon"
-},
-{
-"id": "place:Cilicia",
-"type": "place",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Cilicia"
 },
 {
 "id": "place:Antioch",
@@ -111,18 +111,11 @@
 "preferred_label": "Silas"
 },
 {
-"id": "keyterm:Priesthood",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Priesthood"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Serve"
 },
 {
 "id": "place:Cyrene",
@@ -132,32 +125,18 @@
 "preferred_label": "Cyrene"
 },
 {
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Cyprus"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
 },
 {
 "id": "keyterm:Pray",
@@ -167,11 +146,32 @@
 "preferred_label": "Pray"
 },
 {
-"id": "place:Pamphylia",
+"id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Pamphylia"
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
 }
 ]
 }

@@ -28,20 +28,6 @@
 "preferred_label": "Peter"
 },
 {
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "confidence": 0.3,
@@ -63,6 +49,20 @@
 "preferred_label": "Glory"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
 "id": "keyterm:Happen",
 "type": "keyterm",
 "confidence": 0.2,
@@ -77,6 +77,20 @@
 "preferred_label": "Chosen"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
 "id": "person:John.2",
 "type": "person",
 "confidence": 0.2,
@@ -89,20 +103,6 @@
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Fear"
-},
-{
-"id": "person:James",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
 },
 {
 "id": "realia:Clothing",

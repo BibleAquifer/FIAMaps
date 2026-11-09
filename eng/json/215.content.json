@@ -28,18 +28,18 @@
 "preferred_label": "Miletus"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"confidence": 0.42,
-"match_method": "canonical",
-"preferred_label": "Ephesus"
-},
-{
 "id": "place:Assos",
 "type": "place",
 "confidence": 0.42,
 "match_method": "canonical",
 "preferred_label": "Assos"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.42,
+"match_method": "canonical",
+"preferred_label": "Ephesus"
 },
 {
 "id": "person:Paul",
@@ -49,11 +49,11 @@
 "preferred_label": "Paul"
 },
 {
-"id": "place:Chios",
+"id": "place:Samos",
 "type": "place",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Chios"
+"preferred_label": "Samos"
 },
 {
 "id": "place:Mitylene",
@@ -63,11 +63,18 @@
 "preferred_label": "Mitylene"
 },
 {
-"id": "place:Samos",
+"id": "place:Chios",
 "type": "place",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Samos"
+"preferred_label": "Chios"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "place:Asia",
@@ -77,13 +84,6 @@
 "preferred_label": "Asia"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Church"
-},
-{
 "id": "keyterm:Decided",
 "type": "keyterm",
 "confidence": 0.24,
@@ -91,11 +91,11 @@
 "preferred_label": "Decided"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
+"id": "keyterm:Church",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Church"
 },
 {
 "id": "realia:Ship",

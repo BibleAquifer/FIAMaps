@@ -164,18 +164,18 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"confidence": 0.3598,
-"match_method": "canonical",
-"preferred_label": "Swear"
-},
-{
 "id": "person:Judah.4",
 "type": "person",
 "confidence": 0.3598,
 "match_method": "canonical",
 "preferred_label": "Judah"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3598,
+"match_method": "canonical",
+"preferred_label": "Swear"
 },
 {
 "id": "realia:House",
@@ -206,6 +206,13 @@
 "preferred_label": "Goat"
 },
 {
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.3087,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.3087,
@@ -220,18 +227,32 @@
 "preferred_label": "Ishmaelites"
 },
 {
-"id": "person:Simeon.5",
-"type": "person",
-"confidence": 0.3087,
-"match_method": "canonical",
-"preferred_label": "Simeon"
-},
-{
 "id": "realia:Bag",
 "type": "realia",
 "confidence": 0.3085,
 "match_method": "canonical",
 "preferred_label": "Bag"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.3078,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3078,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.3078,
+"match_method": "canonical",
+"preferred_label": "Appoint"
 },
 {
 "id": "person:Heth",
@@ -253,27 +274,6 @@
 "confidence": 0.3078,
 "match_method": "canonical",
 "preferred_label": "Abraham"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 0.3078,
-"match_method": "canonical",
-"preferred_label": "Appoint"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.3078,
-"match_method": "canonical",
-"preferred_label": "Offering"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"confidence": 0.3078,
-"match_method": "canonical",
-"preferred_label": "Peace"
 },
 {
 "id": "fauna:Lamb",

@@ -83,13 +83,6 @@
 "preferred_label": "Cubit"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.1697,
-"match_method": "canonical",
-"preferred_label": "Complete"
-},
-{
 "id": "place:Ararat",
 "type": "place",
 "confidence": 0.1697,
@@ -97,25 +90,11 @@
 "preferred_label": "Ararat"
 },
 {
-"id": "person:Japheth",
-"type": "person",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Japheth"
-},
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Ham"
-},
-{
-"id": "keyterm:Covenant",
+"id": "keyterm:Complete",
 "type": "keyterm",
-"confidence": 0.1636,
+"confidence": 0.1697,
 "match_method": "canonical",
-"preferred_label": "Covenant"
+"preferred_label": "Complete"
 },
 {
 "id": "keyterm:Kind.2",
@@ -132,18 +111,32 @@
 "preferred_label": "Shem"
 },
 {
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Japheth"
+},
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Ham"
+},
+{
 "id": "fauna:Crow",
 "type": "fauna",
 "confidence": 0.1097,
 "match_method": "canonical",
 "preferred_label": "Crow"
-},
-{
-"id": "flora:OliveTree",
-"type": "flora",
-"confidence": 0.1097,
-"match_method": "canonical",
-"preferred_label": "Olive Tree"
 },
 {
 "id": "realia:Window",
@@ -153,18 +146,11 @@
 "preferred_label": "Window"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1036,
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1097,
 "match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "realia:Covering",
-"type": "realia",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Covering"
+"preferred_label": "Olive Tree"
 },
 {
 "id": "fauna:Bear",
@@ -172,6 +158,13 @@
 "confidence": 0.1036,
 "match_method": "canonical",
 "preferred_label": "Bear"
+},
+{
+"id": "realia:Covering",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Covering"
 },
 {
 "id": "flora:Cypress",
@@ -186,6 +179,13 @@
 "confidence": 0.1036,
 "match_method": "canonical",
 "preferred_label": "Lion"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 }
 ]
 }

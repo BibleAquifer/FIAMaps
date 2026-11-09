@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Fornication"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "confidence": 0.275,
 "match_method": "canonical",
 "preferred_label": "Moses"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Fornication"
 },
 {
 "id": "place:Judea",
@@ -49,11 +49,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "place:Jordan",
-"type": "place",
+"id": "keyterm:Command",
+"type": "keyterm",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Jordan River"
+"preferred_label": "To Command"
 },
 {
 "id": "keyterm:Commandment",
@@ -63,18 +63,18 @@
 "preferred_label": "Commandment"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
 },
 {
 "id": "keyterm:Body.3",
@@ -84,18 +84,18 @@
 "preferred_label": "Body"
 },
 {
-"id": "keyterm:Hardheartedness",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Hardheartedness"
-},
-{
 "id": "keyterm:Lawful",
 "type": "keyterm",
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Hardheartedness",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Hardheartedness"
 },
 {
 "id": "deity:Lord",

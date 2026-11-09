@@ -56,13 +56,6 @@
 "preferred_label": "Clothing"
 },
 {
-"id": "keyterm:Hosanna",
-"type": "keyterm",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Hosanna"
-},
-{
 "id": "place:Bethphage",
 "type": "place",
 "confidence": 0.2091,
@@ -70,11 +63,18 @@
 "preferred_label": "Bethphage"
 },
 {
-"id": "person:David",
-"type": "person",
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "David"
+"preferred_label": "Bless"
 },
 {
 "id": "place:Nazareth",
@@ -91,27 +91,6 @@
 "preferred_label": "To Cause to Happen"
 },
 {
-"id": "keyterm:Height",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Height"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
 "id": "group:GenericGroup",
 "type": "group",
 "confidence": 0.1909,
@@ -126,11 +105,32 @@
 "preferred_label": "Name"
 },
 {
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Galilee"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Height"
 },
 {
 "id": "deity:Lord",

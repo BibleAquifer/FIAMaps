@@ -70,13 +70,6 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Always"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "confidence": 0.181,
@@ -84,18 +77,11 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "keyterm:Consecration.2",
+"id": "keyterm:Always",
 "type": "keyterm",
-"confidence": 0.1714,
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Consecration"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Always"
 },
 {
 "id": "keyterm:Ability",
@@ -112,32 +98,11 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:Law",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Written"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "True"
+"preferred_label": "Law"
 },
 {
 "id": "keyterm:Example",
@@ -147,11 +112,25 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "person:Solomon",
-"type": "person",
+"id": "keyterm:Name",
+"type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Solomon"
+"preferred_label": "Name"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Life",
@@ -161,11 +140,32 @@
 "preferred_label": "Life"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Consecration.2",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Consecration"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Written"
 },
 {
 "id": "realia:Porch",

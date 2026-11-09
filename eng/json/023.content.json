@@ -56,13 +56,6 @@
 "preferred_label": "Capernaum"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.2063,
@@ -75,6 +68,13 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "To Command"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
 },
 {
 "id": "keyterm:Holy",

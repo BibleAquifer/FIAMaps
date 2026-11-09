@@ -28,11 +28,11 @@
 "preferred_label": "Portent"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
+"id": "keyterm:Believe",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Serve",
@@ -42,11 +42,11 @@
 "preferred_label": "Serve"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
+"id": "place:Jerusalem",
+"type": "place",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Symbol"
+"preferred_label": "Jerusalem"
 },
 {
 "id": "person:Peter",
@@ -56,18 +56,18 @@
 "preferred_label": "Peter"
 },
 {
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Believe"
 },
 {
 "id": "realia:Porch",

@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Decapolis",
-"type": "place",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Decapolis"
-},
-{
 "id": "place:Sidon",
 "type": "place",
 "confidence": 0.2429,
@@ -35,25 +28,18 @@
 "preferred_label": "Sidon"
 },
 {
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
 "id": "place:GalileeSea",
 "type": "place",
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Tyre"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
 },
 {
 "id": "keyterm:AskFor",
@@ -68,6 +54,20 @@
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Sky"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Tyre"
 }
 ]
 }

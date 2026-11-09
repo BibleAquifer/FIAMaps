@@ -34,18 +34,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.4351,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.4351,
 "match_method": "canonical",
 "preferred_label": "Abraham"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4351,
+"match_method": "canonical",
+"preferred_label": "Egypt"
 },
 {
 "id": "keyterm:Dispossess",
@@ -62,13 +62,6 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"confidence": 0.2865,
-"match_method": "canonical",
-"preferred_label": "Amorites"
-},
-{
 "id": "place:Canaan",
 "type": "place",
 "confidence": 0.2865,
@@ -83,11 +76,46 @@
 "preferred_label": "Canaanites"
 },
 {
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "confidence": 0.2865,
 "match_method": "canonical",
 "preferred_label": "Force to Serve"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Redeem"
 },
 {
 "id": "keyterm:WordOfTheLord",
@@ -104,53 +132,11 @@
 "preferred_label": "Heth"
 },
 {
-"id": "group:Jebusites",
-"type": "group",
-"confidence": 0.2243,
-"match_method": "canonical",
-"preferred_label": "Jebusites"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "confidence": 0.2243,
 "match_method": "canonical",
 "preferred_label": "Moses"
-},
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.2243,
-"match_method": "canonical",
-"preferred_label": "Redeem"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"confidence": 0.2243,
-"match_method": "canonical",
-"preferred_label": "Swear"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"confidence": 0.2243,
-"match_method": "canonical",
-"preferred_label": "Hittites"
-},
-{
-"id": "group:Kenizzites",
-"type": "group",
-"confidence": 0.1676,
-"match_method": "canonical",
-"preferred_label": "Kenizzites"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"confidence": 0.1676,
-"match_method": "canonical",
-"preferred_label": "Believe In"
 },
 {
 "id": "group:Chaldea",
@@ -160,18 +146,18 @@
 "preferred_label": "Chaldeans"
 },
 {
+"id": "group:Kadmonites",
+"type": "group",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Kadmonites"
+},
+{
 "id": "place:Euphrates",
 "type": "place",
 "confidence": 0.1676,
 "match_method": "canonical",
 "preferred_label": "Euphrates River"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1676,
-"match_method": "canonical",
-"preferred_label": "Fear"
 },
 {
 "id": "keyterm:Shield",
@@ -181,13 +167,6 @@
 "preferred_label": "Shield"
 },
 {
-"id": "group:Kadmonites",
-"type": "group",
-"confidence": 0.1676,
-"match_method": "canonical",
-"preferred_label": "Kadmonites"
-},
-{
 "id": "person:Eliezer.2",
 "type": "person",
 "confidence": 0.1676,
@@ -195,11 +174,25 @@
 "preferred_label": "Eliezer"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1643,
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.1676,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Believe In"
+},
+{
+"id": "group:Kenizzites",
+"type": "group",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Kenizzites"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "realia:UnleavenedBread",
@@ -209,18 +202,11 @@
 "preferred_label": "Unleavened Bread"
 },
 {
-"id": "group:Girgashites",
-"type": "group",
-"confidence": 0.1622,
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1643,
 "match_method": "canonical",
-"preferred_label": "Girgashites"
-},
-{
-"id": "place:Ur",
-"type": "place",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Ur"
+"preferred_label": "Sheep"
 },
 {
 "id": "place:Chaldea",
@@ -230,32 +216,11 @@
 "preferred_label": "Chaldea"
 },
 {
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Passion"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "person:Israel",
+"id": "person:Pharaoh.6",
 "type": "person",
 "confidence": 0.1622,
 "match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Terror"
+"preferred_label": "Pharaoh"
 },
 {
 "id": "keyterm:Work",
@@ -265,11 +230,18 @@
 "preferred_label": "Work"
 },
 {
-"id": "group:Rephaim",
-"type": "group",
+"id": "place:Ur",
+"type": "place",
 "confidence": 0.1622,
 "match_method": "canonical",
-"preferred_label": "Rephaim"
+"preferred_label": "Ur"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Peace"
 },
 {
 "id": "group:Hivites",
@@ -279,11 +251,53 @@
 "preferred_label": "Hivites"
 },
 {
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Terror"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Land Flowing of Milk and Honey"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Rephaim"
+},
+{
 "id": "keyterm:Covenant",
 "type": "keyterm",
 "confidence": 0.1622,
 "match_method": "canonical",
 "preferred_label": "Covenant"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Girgashites"
 },
 {
 "id": "group:Perizzites",
@@ -300,25 +314,18 @@
 "preferred_label": "Instruction"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Damascus"
-},
-{
-"id": "keyterm:IntactState",
+"id": "keyterm:Holy",
 "type": "keyterm",
 "confidence": 0.1622,
 "match_method": "canonical",
-"preferred_label": "Peace"
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Passion"
 },
 {
 "id": "group:Kenite",
@@ -328,39 +335,11 @@
 "preferred_label": "Kenites"
 },
 {
-"id": "keyterm:LandFlowingOfMilkAndHoney",
-"type": "keyterm",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Land Flowing of Milk and Honey"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "confidence": 0.1076,
 "match_method": "canonical",
 "preferred_label": "Goat"
-},
-{
-"id": "realia:MoltenImage",
-"type": "realia",
-"confidence": 0.1022,
-"match_method": "canonical",
-"preferred_label": "Molten Image"
-},
-{
-"id": "realia:SmallShield",
-"type": "realia",
-"confidence": 0.1022,
-"match_method": "canonical",
-"preferred_label": "Small Shield"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.1022,
-"match_method": "canonical",
-"preferred_label": "Flock"
 },
 {
 "id": "fauna:Bird",
@@ -377,6 +356,13 @@
 "preferred_label": "Dove"
 },
 {
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
 "id": "fauna:Vulture",
 "type": "fauna",
 "confidence": 0.1022,
@@ -389,6 +375,20 @@
 "confidence": 0.1022,
 "match_method": "canonical",
 "preferred_label": "Donkey"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
 }
 ]
 }

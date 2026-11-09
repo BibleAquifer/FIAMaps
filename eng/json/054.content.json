@@ -91,11 +91,11 @@
 "preferred_label": "Day Before the Sabbath"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Body.3",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Body"
 },
 {
 "id": "place:Galilee",
@@ -105,11 +105,11 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Body"
+"preferred_label": "Serve"
 },
 {
 "id": "place:Jerusalem",
@@ -119,20 +119,6 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.2063,
@@ -140,11 +126,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "realia:Linen",
-"type": "realia",
-"confidence": 0.1463,
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Linen"
+"preferred_label": "Kingdom"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "realia:Grave",
@@ -152,6 +145,13 @@
 "confidence": 0.1463,
 "match_method": "canonical",
 "preferred_label": "Grave"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Linen"
 }
 ]
 }

@@ -48,13 +48,6 @@
 "preferred_label": "Rooster"
 },
 {
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.2643,
@@ -69,11 +62,11 @@
 "preferred_label": "Galileans"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Word"
+"preferred_label": "True"
 },
 {
 "id": "place:Galilee",
@@ -81,6 +74,13 @@
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Word"
 },
 {
 "id": "realia:Entrance",
@@ -97,13 +97,6 @@
 "preferred_label": "Courtyard"
 },
 {
-"id": "person:GenericServant",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "A Servant"
-},
-{
 "id": "keyterm:Oath",
 "type": "keyterm",
 "confidence": 0.1821,
@@ -116,6 +109,13 @@
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "A Group of People"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "A Servant"
 }
 ]
 }

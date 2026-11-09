@@ -52,13 +52,6 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.337,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
 "id": "keyterm:CauseToStumble",
 "type": "keyterm",
 "confidence": 0.337,
@@ -66,11 +59,11 @@
 "preferred_label": "Cause to Stumble"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.3333,
+"confidence": 0.337,
 "match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Good News"
 },
 {
 "id": "keyterm:Believe",
@@ -80,11 +73,11 @@
 "preferred_label": "Believe"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
+"id": "keyterm:Name",
+"type": "keyterm",
 "confidence": 0.3333,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Disciple",
@@ -94,11 +87,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.2787,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3333,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "LORD"
 },
 {
 "id": "place:Galilee",
@@ -108,11 +101,18 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "person:John",
+"type": "person",
 "confidence": 0.275,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "John"
 },
 {
 "id": "keyterm:Ability",
@@ -129,18 +129,11 @@
 "preferred_label": "Demons"
 },
 {
-"id": "person:John",
-"type": "person",
+"id": "keyterm:Kingdom",
+"type": "keyterm",
 "confidence": 0.275,
 "match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Hell"
+"preferred_label": "Kingdom"
 },
 {
 "id": "keyterm:Gehenna",
@@ -148,6 +141,13 @@
 "confidence": 0.275,
 "match_method": "canonical",
 "preferred_label": "Gehenna"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Hell"
 },
 {
 "id": "person:Zebedee",
@@ -178,13 +178,6 @@
 "preferred_label": "Authority"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.2167,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.2167,
@@ -192,25 +185,11 @@
 "preferred_label": "Life"
 },
 {
-"id": "place:GalileeSea",
-"type": "place",
-"confidence": 0.162,
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.2167,
 "match_method": "canonical",
-"preferred_label": "Sea of Galilee"
-},
-{
-"id": "keyterm:HiredWorker",
-"type": "keyterm",
-"confidence": 0.162,
-"match_method": "canonical",
-"preferred_label": "Hired Worker"
-},
-{
-"id": "keyterm:Affection",
-"type": "keyterm",
-"confidence": 0.162,
-"match_method": "canonical",
-"preferred_label": "Affection"
+"preferred_label": "John"
 },
 {
 "id": "person:James",
@@ -220,6 +199,27 @@
 "preferred_label": "James"
 },
 {
+"id": "keyterm:HiredWorker",
+"type": "keyterm",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Hired Worker"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.1583,
@@ -227,32 +227,32 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "person:Andrew",
-"type": "person",
-"confidence": 0.1583,
-"match_method": "canonical",
-"preferred_label": "Andrew"
-},
-{
-"id": "keyterm:Holy",
+"id": "keyterm:DemonPossessed",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Holy"
+"preferred_label": "Be Demon Possessed"
 },
 {
-"id": "keyterm:Sabbath",
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Sabbath"
+"preferred_label": "To Command"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Resurrection",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Repent"
 }
 ]
 }

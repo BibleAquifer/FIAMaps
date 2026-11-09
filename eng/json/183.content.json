@@ -34,18 +34,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.5231,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.5231,
 "match_method": "canonical",
 "preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5231,
+"match_method": "canonical",
+"preferred_label": "Egypt"
 },
 {
 "id": "person:Moses",
@@ -62,13 +62,6 @@
 "preferred_label": "Chariot"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.3692,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
 "id": "person:Pharaoh.6",
 "type": "person",
 "confidence": 0.3692,
@@ -76,11 +69,11 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
-"type": "keyterm",
-"confidence": 0.2346,
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3692,
 "match_method": "canonical",
-"preferred_label": "Bring Honor and Glory on Oneself"
+"preferred_label": "Egyptians"
 },
 {
 "id": "keyterm:Offering",
@@ -88,6 +81,13 @@
 "confidence": 0.2346,
 "match_method": "canonical",
 "preferred_label": "Offering"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
 },
 {
 "id": "keyterm:BelieveIn",
@@ -111,18 +111,11 @@
 "preferred_label": "Fear"
 },
 {
-"id": "realia:Leather",
-"type": "realia",
+"id": "fauna:Dugong",
+"type": "fauna",
 "confidence": 0.115,
 "match_method": "canonical",
-"preferred_label": "Leather"
-},
-{
-"id": "realia:PurpleCloth",
-"type": "realia",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Purple Cloth"
+"preferred_label": "Dugong"
 },
 {
 "id": "flora:BalsamTree",
@@ -139,11 +132,18 @@
 "preferred_label": "Dyed Cloth"
 },
 {
-"id": "fauna:Dugong",
-"type": "fauna",
+"id": "realia:Leather",
+"type": "realia",
 "confidence": 0.115,
 "match_method": "canonical",
-"preferred_label": "Dugong"
+"preferred_label": "Leather"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Purple Cloth"
 },
 {
 "id": "realia:Linen",
@@ -153,46 +153,11 @@
 "preferred_label": "Linen"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:Breast-piece",
 "type": "realia",
 "confidence": 0.1073,
 "match_method": "canonical",
-"preferred_label": "Olive Oil"
-},
-{
-"id": "realia:Ephod",
-"type": "realia",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Ephod"
-},
-{
-"id": "flora:Acacia",
-"type": "flora",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Acacia"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Sheep"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Money"
-},
-{
-"id": "realia:Wagon",
-"type": "realia",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Wagon"
+"preferred_label": "Breast-Piece"
 },
 {
 "id": "realia:Rod",
@@ -209,11 +174,11 @@
 "preferred_label": "Horse"
 },
 {
-"id": "realia:Breast-piece",
+"id": "realia:Money",
 "type": "realia",
 "confidence": 0.1073,
 "match_method": "canonical",
-"preferred_label": "Breast-Piece"
+"preferred_label": "Money"
 },
 {
 "id": "realia:AnointingOil",
@@ -221,6 +186,41 @@
 "confidence": 0.1073,
 "match_method": "canonical",
 "preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Ephod"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Sheep"
 }
 ]
 }

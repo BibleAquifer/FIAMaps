@@ -42,6 +42,13 @@
 "preferred_label": "Be a Disciple"
 },
 {
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.2692,
@@ -54,34 +61,6 @@
 "confidence": 0.2692,
 "match_method": "canonical",
 "preferred_label": "Fear"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Beloved"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "To Command"
 },
 {
 "id": "person:John",
@@ -105,11 +84,32 @@
 "preferred_label": "Resurrection"
 },
 {
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
 "id": "person:James",
 "type": "person",
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "James"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "John"
 },
 {
 "id": "realia:Clothing",

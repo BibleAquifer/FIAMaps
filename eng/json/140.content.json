@@ -28,11 +28,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Resurrection",
 "type": "keyterm",
 "confidence": 0.275,
 "match_method": "canonical",
-"preferred_label": "Holy"
+"preferred_label": "Resurrection"
 },
 {
 "id": "group:GenericGroup",
@@ -42,18 +42,18 @@
 "preferred_label": "A Group of People"
 },
 {
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
 "id": "person:Elijah",
 "type": "person",
 "confidence": 0.275,
 "match_method": "canonical",
 "preferred_label": "Elijah"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "realia:Grave",
@@ -63,11 +63,11 @@
 "preferred_label": "Grave"
 },
 {
-"id": "person:Marymagdalene",
+"id": "person:James.4",
 "type": "person",
 "confidence": 0.2042,
 "match_method": "canonical",
-"preferred_label": "Mary Magdalene"
+"preferred_label": "James"
 },
 {
 "id": "person:Joseph.5",
@@ -84,46 +84,18 @@
 "preferred_label": "Zebedee"
 },
 {
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
 "id": "person:Mary.2",
 "type": "person",
 "confidence": 0.2042,
 "match_method": "canonical",
 "preferred_label": "Mary"
-},
-{
-"id": "person:James.4",
-"type": "person",
-"confidence": 0.2042,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Fear"
 },
 {
 "id": "keyterm:Body.3",
@@ -133,11 +105,11 @@
 "preferred_label": "Body"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
+"id": "place:Galilee",
+"type": "place",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Serve",
@@ -147,6 +119,20 @@
 "preferred_label": "Serve"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
 "id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.1875,
@@ -154,11 +140,18 @@
 "preferred_label": "True"
 },
 {
-"id": "realia:SourWine",
-"type": "realia",
-"confidence": 0.1442,
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Sour Wine"
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "realia:Curtain",
@@ -173,6 +166,13 @@
 "confidence": 0.1442,
 "match_method": "canonical",
 "preferred_label": "Reed"
+},
+{
+"id": "realia:SourWine",
+"type": "realia",
+"confidence": 0.1442,
+"match_method": "canonical",
+"preferred_label": "Sour Wine"
 },
 {
 "id": "realia:Temple",

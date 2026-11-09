@@ -35,18 +35,18 @@
 "preferred_label": "Egypt"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "keyterm:Happen",
 "type": "keyterm",
 "confidence": 0.3727,
 "match_method": "canonical",
 "preferred_label": "To Cause to Happen"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "person:Joseph.4",
@@ -77,13 +77,6 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Jeremiah"
-},
-{
 "id": "person:Archelaus",
 "type": "person",
 "confidence": 0.2091,
@@ -91,25 +84,11 @@
 "preferred_label": "Archelaus"
 },
 {
-"id": "place:Ramah.2",
-"type": "place",
-"confidence": 0.1909,
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Ramah"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Jeremiah"
 },
 {
 "id": "place:Galilee",
@@ -119,25 +98,32 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "place:Bethlehem",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Bethlehem"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "person:Rachel",
 "type": "person",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Rachel"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Ramah"
 },
 {
 "id": "keyterm:Life",
@@ -147,11 +133,25 @@
 "preferred_label": "Life"
 },
 {
-"id": "keyterm:Encourage",
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Encourage"
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Fear"
 }
 ]
 }

@@ -28,13 +28,6 @@
 "preferred_label": "Demons"
 },
 {
-"id": "fauna:Dog",
-"type": "fauna",
-"confidence": 0.2686,
-"match_method": "canonical",
-"preferred_label": "Dog"
-},
-{
 "id": "realia:House",
 "type": "realia",
 "confidence": 0.2686,
@@ -42,11 +35,11 @@
 "preferred_label": "House"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.2429,
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.2686,
 "match_method": "canonical",
-"preferred_label": "Tyre"
+"preferred_label": "Dog"
 },
 {
 "id": "group:Greek",
@@ -70,6 +63,13 @@
 "preferred_label": "Phoenicia"
 },
 {
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
 "id": "person:Javan",
 "type": "person",
 "confidence": 0.2143,
@@ -91,18 +91,18 @@
 "preferred_label": "Honest"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.1543,
-"match_method": "canonical",
-"preferred_label": "Temple"
-},
-{
 "id": "realia:Bed",
 "type": "realia",
 "confidence": 0.1543,
 "match_method": "canonical",
 "preferred_label": "Bed"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Temple"
 }
 ]
 }

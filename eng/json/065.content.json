@@ -42,13 +42,6 @@
 "preferred_label": "Canaan"
 },
 {
-"id": "place:Haran",
-"type": "place",
-"confidence": 0.3222,
-"match_method": "canonical",
-"preferred_label": "Haran"
-},
-{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.3222,
@@ -56,25 +49,18 @@
 "preferred_label": "Bless"
 },
 {
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
 "id": "person:Lot",
 "type": "person",
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "Lot"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Stone Altar"
 },
 {
 "id": "realia:TempleAltar",
@@ -91,25 +77,18 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.2222,
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Shechem"
+"preferred_label": "Altar"
 },
 {
-"id": "place:Moreh",
-"type": "place",
-"confidence": 0.2222,
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Oak of Moreh"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Bethel"
+"preferred_label": "Stone Altar"
 },
 {
 "id": "group:Canaan",
@@ -126,6 +105,27 @@
 "preferred_label": "Ai"
 },
 {
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Oak of Moreh"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
 "id": "person:Sarah",
 "type": "person",
 "confidence": 0.2,
@@ -133,18 +133,18 @@
 "preferred_label": "Sarah"
 },
 {
-"id": "place:Negeb",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Negev"
-},
-{
 "id": "keyterm:Curse",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "To Curse"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Negev"
 },
 {
 "id": "flora:Oak",

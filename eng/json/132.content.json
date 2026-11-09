@@ -63,11 +63,11 @@
 "preferred_label": "Goat"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
+"id": "place:Nod",
+"type": "place",
 "confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "To Sin"
+"preferred_label": "Nod"
 },
 {
 "id": "person:Eve",
@@ -77,11 +77,11 @@
 "preferred_label": "Eve"
 },
 {
-"id": "place:Nod",
-"type": "place",
+"id": "keyterm:Sin",
+"type": "keyterm",
 "confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Nod"
+"preferred_label": "To Sin"
 },
 {
 "id": "keyterm:Strength",
@@ -91,25 +91,11 @@
 "preferred_label": "Strength"
 },
 {
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Passion"
-},
-{
 "id": "person:Adam",
 "type": "person",
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Adam"
-},
-{
-"id": "keyterm:BearTheConsequencesOf",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Bear the Consequences Of"
 },
 {
 "id": "keyterm:Curse",
@@ -119,6 +105,20 @@
 "preferred_label": "To Curse"
 },
 {
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Bear the Consequences Of"
+},
+{
 "id": "place:Eden.2",
 "type": "place",
 "confidence": 0.1781,
@@ -126,11 +126,11 @@
 "preferred_label": "Garden of Eden"
 },
 {
-"id": "flora:Wheat",
-"type": "flora",
+"id": "fauna:Lamb",
+"type": "fauna",
 "confidence": 0.1181,
 "match_method": "canonical",
-"preferred_label": "Wheat"
+"preferred_label": "Sheep"
 },
 {
 "id": "flora:Sorghum",
@@ -140,11 +140,11 @@
 "preferred_label": "Sorghum"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
+"id": "flora:Wheat",
+"type": "flora",
 "confidence": 0.1181,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Wheat"
 }
 ]
 }

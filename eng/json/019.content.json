@@ -83,6 +83,13 @@
 "preferred_label": "Simon"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "confidence": 0.2391,
@@ -95,13 +102,6 @@
 "confidence": 0.2391,
 "match_method": "canonical",
 "preferred_label": "Fear"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.2391,
-"match_method": "canonical",
-"preferred_label": "Pray"
 },
 {
 "id": "realia:Temple",
@@ -118,32 +118,18 @@
 "preferred_label": "Italians"
 },
 {
-"id": "group:Jews",
+"id": "group:GenericMales",
 "type": "group",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Men"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:Word",
 "type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Discern"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
+"preferred_label": "Word"
 },
 {
 "id": "keyterm:Name",
@@ -153,11 +139,18 @@
 "preferred_label": "Name"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
+"id": "deity:HolySpirit",
+"type": "deity",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "place:Italy",
@@ -174,18 +167,11 @@
 "preferred_label": "Bear Witness"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Just",
 "type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Word"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "To Cleanse"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "place:Caesarea",
@@ -195,25 +181,32 @@
 "preferred_label": "Caesarea"
 },
 {
-"id": "group:GenericMales",
-"type": "group",
+"id": "keyterm:Discern",
+"type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Men"
+"preferred_label": "Discern"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "To Cleanse"
 },
 {
-"id": "realia:LinenCloth",
-"type": "realia",
-"confidence": 0.1183,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Linen Cloth"
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "realia:Housetop",
@@ -223,11 +216,11 @@
 "preferred_label": "Housetop"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"confidence": 0.1096,
+"id": "realia:LinenCloth",
+"type": "realia",
+"confidence": 0.1183,
 "match_method": "canonical",
-"preferred_label": "Snake"
+"preferred_label": "Linen Cloth"
 },
 {
 "id": "fauna:Iguana",
@@ -237,11 +230,11 @@
 "preferred_label": "Monitor"
 },
 {
-"id": "realia:Leather",
-"type": "realia",
+"id": "fauna:Snake",
+"type": "fauna",
 "confidence": 0.1096,
 "match_method": "canonical",
-"preferred_label": "Leather"
+"preferred_label": "Snake"
 },
 {
 "id": "fauna:Chameleon",
@@ -251,11 +244,11 @@
 "preferred_label": "Chameleon"
 },
 {
-"id": "fauna:Lizard",
-"type": "fauna",
+"id": "realia:Leather",
+"type": "realia",
 "confidence": 0.1096,
 "match_method": "canonical",
-"preferred_label": "Lizard"
+"preferred_label": "Leather"
 },
 {
 "id": "fauna:CreepingAnimal",
@@ -263,6 +256,13 @@
 "confidence": 0.1096,
 "match_method": "canonical",
 "preferred_label": "Creeping Animal"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Lizard"
 }
 ]
 }

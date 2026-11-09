@@ -42,18 +42,18 @@
 "preferred_label": "Name"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.2391,
-"match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
 "id": "keyterm:Scripture",
 "type": "keyterm",
 "confidence": 0.2391,
 "match_method": "canonical",
 "preferred_label": "Written"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Heart"
 },
 {
 "id": "realia:Grave",
@@ -63,13 +63,6 @@
 "preferred_label": "Grave"
 },
 {
-"id": "place:Emmaus",
-"type": "place",
-"confidence": 0.1783,
-"match_method": "canonical",
-"preferred_label": "Emmaus"
-},
-{
 "id": "person:Cleopas",
 "type": "person",
 "confidence": 0.1783,
@@ -77,39 +70,11 @@
 "preferred_label": "Cleopas"
 },
 {
-"id": "keyterm:Hope",
-"type": "keyterm",
-"confidence": 0.1696,
+"id": "place:Emmaus",
+"type": "place",
+"confidence": 0.1783,
 "match_method": "canonical",
-"preferred_label": "Hope"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Judgment"
+"preferred_label": "Emmaus"
 },
 {
 "id": "keyterm:Believe",
@@ -117,13 +82,6 @@
 "confidence": 0.1696,
 "match_method": "canonical",
 "preferred_label": "Believe"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Peter"
 },
 {
 "id": "keyterm:Body.3",
@@ -140,11 +98,32 @@
 "preferred_label": "Resurrection"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
 "preferred_label": "Glory"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "deity:Lord",
@@ -161,18 +140,39 @@
 "preferred_label": "Bless"
 },
 {
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Judgment"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
 "id": "keyterm:Liberation",
 "type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
 "preferred_label": "Liberation"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Life"
 },
 {
 "id": "realia:Stade",

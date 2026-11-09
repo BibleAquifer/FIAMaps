@@ -42,18 +42,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.5107,
-"match_method": "canonical",
-"preferred_label": "Egyptians"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.5107,
 "match_method": "canonical",
 "preferred_label": "Israel"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.5107,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
 },
 {
 "id": "person:Moses",
@@ -84,18 +84,18 @@
 "preferred_label": "Pi-hahiroth"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Fear"
 },
 {
 "id": "place:Migdol",
@@ -105,18 +105,18 @@
 "preferred_label": "Migdol"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Bring Honor and Glory on Oneself"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Salvation"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
 },
 {
 "id": "fauna:Horse",

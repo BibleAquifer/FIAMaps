@@ -69,6 +69,13 @@
 "preferred_label": "Prison"
 },
 {
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
 "id": "person:Blastus",
 "type": "person",
 "confidence": 0.215,
@@ -83,32 +90,18 @@
 "preferred_label": "Tyrians"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
 "id": "keyterm:Passover",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Passover"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
 },
 {
 "id": "deity:Angel",
@@ -125,34 +118,6 @@
 "preferred_label": "Sidonians"
 },
 {
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Persuade"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "A Group of People"
-},
-{
-"id": "place:Sidon",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Sidon"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
 "id": "place:Tyre",
 "type": "place",
 "confidence": 0.195,
@@ -167,6 +132,41 @@
 "preferred_label": "Pray"
 },
 {
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
 "id": "realia:Bedroom",
 "type": "realia",
 "confidence": 0.155,
@@ -174,11 +174,11 @@
 "preferred_label": "Bedroom"
 },
 {
-"id": "fauna:Maggot",
-"type": "fauna",
+"id": "realia:Clothing",
+"type": "realia",
 "confidence": 0.135,
 "match_method": "canonical",
-"preferred_label": "Worm"
+"preferred_label": "Clothing"
 },
 {
 "id": "realia:JudgmentSeat",
@@ -188,11 +188,11 @@
 "preferred_label": "Judgment Seat"
 },
 {
-"id": "realia:Clothing",
-"type": "realia",
+"id": "fauna:Maggot",
+"type": "fauna",
 "confidence": 0.135,
 "match_method": "canonical",
-"preferred_label": "Clothing"
+"preferred_label": "Worm"
 }
 ]
 }

@@ -63,27 +63,6 @@
 "preferred_label": "Simon"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -105,18 +84,11 @@
 "preferred_label": "Good"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Life"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Pray",
@@ -133,11 +105,32 @@
 "preferred_label": "Lod"
 },
 {
-"id": "realia:Leather",
-"type": "realia",
-"confidence": 0.1463,
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Leather"
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "realia:Tunic.2",
@@ -152,6 +145,13 @@
 "confidence": 0.1463,
 "match_method": "canonical",
 "preferred_label": "Cloak"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.1463,
+"match_method": "canonical",
+"preferred_label": "Leather"
 }
 ]
 }

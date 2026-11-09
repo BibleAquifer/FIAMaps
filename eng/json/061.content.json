@@ -49,18 +49,11 @@
 "preferred_label": "Intention"
 },
 {
-"id": "place:Havilah",
+"id": "place:Euphrates",
 "type": "place",
 "confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Havilah"
-},
-{
-"id": "place:Gihon",
-"type": "place",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Gihon"
+"preferred_label": "Euphrates River"
 },
 {
 "id": "place:Cush",
@@ -77,18 +70,18 @@
 "preferred_label": "Tigris River"
 },
 {
-"id": "place:Euphrates",
+"id": "place:Havilah",
 "type": "place",
 "confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Euphrates River"
+"preferred_label": "Havilah"
 },
 {
-"id": "place:Cush.2",
+"id": "place:Gihon",
 "type": "place",
-"confidence": 0.1705,
+"confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Cush"
+"preferred_label": "Gihon"
 },
 {
 "id": "place:Assyria",
@@ -96,6 +89,13 @@
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Assyria"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Cush"
 },
 {
 "id": "flora:Grass",

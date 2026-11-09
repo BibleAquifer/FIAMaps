@@ -28,13 +28,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 0.3222,
-"match_method": "canonical",
-"preferred_label": "Decree"
-},
-{
 "id": "person:Miriam",
 "type": "person",
 "confidence": 0.3222,
@@ -42,11 +35,11 @@
 "preferred_label": "Miriam"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.3,
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.3222,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Decree"
 },
 {
 "id": "person:Moses",
@@ -56,11 +49,25 @@
 "preferred_label": "Moses"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
 "id": "fauna:Horse",
 "type": "fauna",
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Horse"
+},
+{
+"id": "place:Elim",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Elim"
 },
 {
 "id": "place:Marah",
@@ -75,13 +82,6 @@
 "confidence": 0.2222,
 "match_method": "canonical",
 "preferred_label": "Shur"
-},
-{
-"id": "place:Elim",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Elim"
 },
 {
 "id": "place:Egypt",
@@ -112,13 +112,6 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "realia:Drum",
-"type": "realia",
-"confidence": 0.1622,
-"match_method": "canonical",
-"preferred_label": "Drum"
-},
-{
 "id": "flora:DatePalm",
 "type": "flora",
 "confidence": 0.1622,
@@ -126,11 +119,11 @@
 "preferred_label": "Date Palm"
 },
 {
-"id": "flora:Cattails",
-"type": "flora",
-"confidence": 0.14,
+"id": "realia:Drum",
+"type": "realia",
+"confidence": 0.1622,
 "match_method": "canonical",
-"preferred_label": "Cattails"
+"preferred_label": "Drum"
 },
 {
 "id": "realia:Chariot",
@@ -138,6 +131,13 @@
 "confidence": 0.14,
 "match_method": "canonical",
 "preferred_label": "Chariot"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Cattails"
 }
 ]
 }

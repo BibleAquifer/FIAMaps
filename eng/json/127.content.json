@@ -62,25 +62,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "keyterm:Body.3",
+"type": "keyterm",
 "confidence": 0.236,
 "match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.236,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.236,
-"match_method": "canonical",
-"preferred_label": "Moses"
+"preferred_label": "Body"
 },
 {
 "id": "place:Galilee",
@@ -90,11 +76,32 @@
 "preferred_label": "Galilee"
 },
 {
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
 "id": "person:Paul",
 "type": "person",
 "confidence": 0.236,
 "match_method": "canonical",
 "preferred_label": "Paul"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Moses"
 },
 {
 "id": "keyterm:Fear",
@@ -104,11 +111,11 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"confidence": 0.236,
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 0.176,
 "match_method": "canonical",
-"preferred_label": "Body"
+"preferred_label": "Tarsus"
 },
 {
 "id": "group:Hellenist",
@@ -118,95 +125,11 @@
 "preferred_label": "Hellenists"
 },
 {
-"id": "place:Tarsus",
-"type": "place",
-"confidence": 0.176,
-"match_method": "canonical",
-"preferred_label": "Tarsus"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Fornication"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Hardheartedness",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Hardheartedness"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Church"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
 "preferred_label": "Believe"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Jordan River"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Pharisees"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
 },
 {
 "id": "keyterm:Command",
@@ -216,11 +139,18 @@
 "preferred_label": "To Command"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:CallUpon",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Sky"
+"preferred_label": "Call Upon"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Greece"
 },
 {
 "id": "place:Samaria",
@@ -230,20 +160,6 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Be Lawful"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.168,
@@ -251,18 +167,39 @@
 "preferred_label": "Serve"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
+"id": "keyterm:Heaven",
+"type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Caesarea"
+"preferred_label": "Sky"
 },
 {
-"id": "place:Greece",
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "place:Jordan",
 "type": "place",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Greece"
+"preferred_label": "Jordan River"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Church"
 },
 {
 "id": "deity:HolySpirit",
@@ -279,11 +216,81 @@
 "preferred_label": "Barnabas"
 },
 {
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Hardheartedness",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Hardheartedness"
+},
+{
 "id": "realia:Basket",
 "type": "realia",
 "confidence": 0.116,
 "match_method": "canonical",
 "preferred_label": "Basket"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.108,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
 },
 {
 "id": "realia:Scroll",
@@ -305,13 +312,6 @@
 "confidence": 0.108,
 "match_method": "canonical",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:Synagogue",
-"type": "realia",
-"confidence": 0.108,
-"match_method": "canonical",
-"preferred_label": "Synagogue"
 }
 ]
 }

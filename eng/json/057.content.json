@@ -48,18 +48,18 @@
 "preferred_label": "Written"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.3114,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "person:Pilate",
 "type": "person",
 "confidence": 0.3114,
 "match_method": "canonical",
 "preferred_label": "Pilate"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "keyterm:Believe",
@@ -97,25 +97,11 @@
 "preferred_label": "Clothing"
 },
 {
-"id": "person:Mary.4",
-"type": "person",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.1795,
 "match_method": "canonical",
 "preferred_label": "Nazareth"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Bethlehem"
 },
 {
 "id": "person:Cleopas",
@@ -125,81 +111,18 @@
 "preferred_label": "Cleopas"
 },
 {
-"id": "group:GenericPriests",
-"type": "group",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Priests"
-},
-{
-"id": "person:Marymagdalene",
-"type": "person",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Mary Magdalene"
-},
-{
-"id": "place:Golgotha",
+"id": "place:Bethlehem",
 "type": "place",
-"confidence": 0.1705,
+"confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Golgotha"
+"preferred_label": "Bethlehem"
 },
 {
-"id": "keyterm:Belly",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Internal Organs"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
-"id": "keyterm:Affection",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Affection"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "person:David",
+"id": "person:Mary.4",
 "type": "person",
-"confidence": 0.1705,
+"confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "David"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "True"
+"preferred_label": "Mary"
 },
 {
 "id": "keyterm:Happen",
@@ -209,11 +132,67 @@
 "preferred_label": "To Cause to Happen"
 },
 {
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Priests"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
 "id": "deity:HolySpirit",
 "type": "deity",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Belly",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Internal Organs"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Glory"
 },
 {
 "id": "keyterm:Life",
@@ -223,6 +202,27 @@
 "preferred_label": "Life"
 },
 {
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
 "id": "flora:Hyssop",
 "type": "flora",
 "confidence": 0.1195,
@@ -230,18 +230,18 @@
 "preferred_label": "Hyssop"
 },
 {
-"id": "realia:Tunic.2",
-"type": "realia",
-"confidence": 0.1105,
-"match_method": "canonical",
-"preferred_label": "Tunic"
-},
-{
 "id": "realia:Lot",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Lot"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Tunic"
 }
 ]
 }

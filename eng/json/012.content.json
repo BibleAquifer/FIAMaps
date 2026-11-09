@@ -62,20 +62,6 @@
 "preferred_label": "Sodom"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.3067,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.3067,
-"match_method": "canonical",
-"preferred_label": "Stone Altar"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "confidence": 0.3067,
@@ -90,25 +76,25 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
 "id": "place:Negeb",
 "type": "place",
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "Negev"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 0.2407,
-"match_method": "canonical",
-"preferred_label": "Bethel"
-},
-{
-"id": "place:Haran",
-"type": "place",
-"confidence": 0.2407,
-"match_method": "canonical",
-"preferred_label": "Haran"
 },
 {
 "id": "group:Canaan",
@@ -132,11 +118,18 @@
 "preferred_label": "Bless"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"confidence": 0.24,
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2407,
 "match_method": "canonical",
-"preferred_label": "Flock"
+"preferred_label": "Haran"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Bethel"
 },
 {
 "id": "fauna:Goat",
@@ -146,18 +139,18 @@
 "preferred_label": "Goat"
 },
 {
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
 "id": "realia:Tent",
 "type": "realia",
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Tent"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.2333,
-"match_method": "canonical",
-"preferred_label": "Egypt"
 },
 {
 "id": "place:Jordan",
@@ -167,18 +160,18 @@
 "preferred_label": "Jordan River"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
 "id": "flora:Oak",
 "type": "flora",
 "confidence": 0.1807,
 "match_method": "canonical",
 "preferred_label": "Oak"
-},
-{
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Shechem"
 },
 {
 "id": "place:Moreh",
@@ -195,6 +188,13 @@
 "preferred_label": "Hebron"
 },
 {
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "confidence": 0.1733,
@@ -209,25 +209,11 @@
 "preferred_label": "Mamre"
 },
 {
-"id": "place:Zoar",
-"type": "place",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Zoar"
-},
-{
 "id": "person:Sarah",
 "type": "person",
 "confidence": 0.1667,
 "match_method": "canonical",
 "preferred_label": "Sarah"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Perizzites"
 },
 {
 "id": "keyterm:Curse",
@@ -237,13 +223,6 @@
 "preferred_label": "To Curse"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
 "id": "place:Gomorrah",
 "type": "place",
 "confidence": 0.1667,
@@ -251,11 +230,25 @@
 "preferred_label": "Gomorrah"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1067,
+"id": "place:Zoar",
+"type": "place",
+"confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Zoar"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "realia:Money",
@@ -263,6 +256,13 @@
 "confidence": 0.1067,
 "match_method": "canonical",
 "preferred_label": "Money"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 }
 ]
 }

@@ -28,6 +28,13 @@
 "preferred_label": "Ephesus"
 },
 {
+"id": "place:Cenchreae",
+"type": "place",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Cenchreae"
+},
+{
 "id": "place:Galatia",
 "type": "place",
 "confidence": 0.2583,
@@ -42,32 +49,11 @@
 "preferred_label": "Phrygia"
 },
 {
-"id": "place:Cenchreae",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Cenchreae"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
+"id": "person:Priscilla",
+"type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Caesarea"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Priscilla"
 },
 {
 "id": "person:Aquila",
@@ -77,11 +63,11 @@
 "preferred_label": "Aquila"
 },
 {
-"id": "keyterm:Vow",
+"id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Vow"
+"preferred_label": "Be a Disciple"
 },
 {
 "id": "keyterm:AskFor",
@@ -91,11 +77,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Church",
+"id": "keyterm:Vow",
 "type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Church"
+"preferred_label": "Vow"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "person:Paul",
@@ -105,11 +98,25 @@
 "preferred_label": "Paul"
 },
 {
-"id": "person:Priscilla",
-"type": "person",
+"id": "place:Antioch",
+"type": "place",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Priscilla"
+"preferred_label": "Antioch"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Church"
 },
 {
 "id": "deity:Lord",
@@ -117,13 +124,6 @@
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Antioch"
 },
 {
 "id": "realia:Synagogue",

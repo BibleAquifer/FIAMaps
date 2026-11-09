@@ -84,6 +84,13 @@
 "preferred_label": "Paran"
 },
 {
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
 "id": "group:Egypt",
 "type": "group",
 "confidence": 0.1714,
@@ -91,18 +98,18 @@
 "preferred_label": "Egyptians"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Dispossess"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Beersheba"
 },
 {
 "id": "keyterm:Circumcision",
@@ -119,18 +126,11 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
+"id": "place:Beersheba",
+"type": "place",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Appoint"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "An Angel"
+"preferred_label": "Beersheba"
 }
 ]
 }

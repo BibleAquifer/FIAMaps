@@ -41,18 +41,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.2474,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
 "id": "group:GenericDisciples",
 "type": "group",
 "confidence": 0.2474,
 "match_method": "canonical",
 "preferred_label": "A Group of Disciples"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Israel"
 },
 {
 "id": "fauna:Dog",
@@ -69,25 +69,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"confidence": 0.1842,
-"match_method": "canonical",
-"preferred_label": "Sidon"
-},
-{
 "id": "person:SyrophonecianWoman",
 "type": "person",
 "confidence": 0.1842,
 "match_method": "canonical",
 "preferred_label": "Syrophonecian Woman"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.1842,
-"match_method": "canonical",
-"preferred_label": "Tyre"
 },
 {
 "id": "place:Magadan",
@@ -97,25 +83,18 @@
 "preferred_label": "Magadan"
 },
 {
-"id": "place:GalileeSea",
+"id": "place:Tyre",
 "type": "place",
-"confidence": 0.1737,
+"confidence": 0.1842,
 "match_method": "canonical",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "Tyre"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1737,
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1842,
 "match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Honest"
+"preferred_label": "Sidon"
 },
 {
 "id": "keyterm:Believe",
@@ -125,20 +104,6 @@
 "preferred_label": "Believe"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Mercy"
-},
-{
 "id": "keyterm:DemonPossessed",
 "type": "keyterm",
 "confidence": 0.1737,
@@ -146,39 +111,25 @@
 "preferred_label": "Be Demon Possessed"
 },
 {
-"id": "keyterm:Affection",
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Honest",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Affection"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Bow Down"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "person:David",
-"type": "person",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "David"
+"preferred_label": "Honest"
 },
 {
 "id": "keyterm:Serve",
@@ -188,11 +139,60 @@
 "preferred_label": "Serve"
 },
 {
-"id": "group:Canaan",
-"type": "group",
+"id": "person:David",
+"type": "person",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Canaanites"
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Affection"
 },
 {
 "id": "realia:Basket",

@@ -56,6 +56,13 @@
 "preferred_label": "Gerar"
 },
 {
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
 "id": "place:Philistine",
 "type": "place",
 "confidence": 0.4182,
@@ -70,20 +77,6 @@
 "preferred_label": "Bless"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"confidence": 0.4182,
-"match_method": "canonical",
-"preferred_label": "Philistines"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"confidence": 0.2273,
-"match_method": "canonical",
-"preferred_label": "Beersheba"
-},
-{
 "id": "person:Rebekah",
 "type": "person",
 "confidence": 0.2273,
@@ -91,18 +84,11 @@
 "preferred_label": "Rebekah"
 },
 {
-"id": "keyterm:Oath",
-"type": "keyterm",
+"id": "place:Beersheba",
+"type": "place",
 "confidence": 0.2273,
 "match_method": "canonical",
-"preferred_label": "Oath"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2273,
-"match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Beersheba"
 },
 {
 "id": "keyterm:Swear",
@@ -119,25 +105,18 @@
 "preferred_label": "Peace"
 },
 {
-"id": "place:Esek",
-"type": "place",
-"confidence": 0.1697,
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.2273,
 "match_method": "canonical",
-"preferred_label": "Esek"
+"preferred_label": "Oath"
 },
 {
-"id": "place:Sitnah",
-"type": "place",
-"confidence": 0.1697,
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2273,
 "match_method": "canonical",
-"preferred_label": "Sitnah"
-},
-{
-"id": "person:Phicol",
-"type": "person",
-"confidence": 0.1697,
-"match_method": "canonical",
-"preferred_label": "Phicol"
+"preferred_label": "Fear"
 },
 {
 "id": "place:Rehoboth",
@@ -147,11 +126,32 @@
 "preferred_label": "Rehoboth"
 },
 {
+"id": "person:Phicol",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Phicol"
+},
+{
+"id": "place:Esek",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Esek"
+},
+{
 "id": "person:Ahuzzath",
 "type": "person",
 "confidence": 0.1697,
 "match_method": "canonical",
 "preferred_label": "Ahuzzath"
+},
+{
+"id": "place:Sitnah",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Sitnah"
 },
 {
 "id": "fauna:Flock",
@@ -168,11 +168,11 @@
 "preferred_label": "Goat"
 },
 {
-"id": "place:Egypt",
-"type": "place",
+"id": "keyterm:Zealous",
+"type": "keyterm",
 "confidence": 0.1636,
 "match_method": "canonical",
-"preferred_label": "Egypt"
+"preferred_label": "Be Zealous"
 },
 {
 "id": "keyterm:Covenant",
@@ -182,46 +182,18 @@
 "preferred_label": "Covenant"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "confidence": 0.1636,
 "match_method": "canonical",
 "preferred_label": "Instruction"
-},
-{
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Be Zealous"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Sheep"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.1036,
-"match_method": "canonical",
-"preferred_label": "Stone Altar"
 },
 {
 "id": "realia:TempleAltar",
@@ -238,11 +210,18 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Tent",
+"id": "realia:Altar",
 "type": "realia",
 "confidence": 0.1036,
 "match_method": "canonical",
-"preferred_label": "Tent"
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
 },
 {
 "id": "realia:Window",
@@ -250,6 +229,27 @@
 "confidence": 0.1036,
 "match_method": "canonical",
 "preferred_label": "Window"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Tent"
 }
 ]
 }

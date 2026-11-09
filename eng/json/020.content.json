@@ -124,13 +124,6 @@
 "preferred_label": "Perga"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.2191,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "keyterm:Love",
 "type": "keyterm",
 "confidence": 0.2191,
@@ -145,11 +138,11 @@
 "preferred_label": "Dispossess"
 },
 {
-"id": "person:Saul.2",
+"id": "person:Paul",
 "type": "person",
-"confidence": 0.1638,
+"confidence": 0.2191,
 "match_method": "canonical",
-"preferred_label": "Saul"
+"preferred_label": "Paul"
 },
 {
 "id": "person:Kish",
@@ -157,13 +150,6 @@
 "confidence": 0.1638,
 "match_method": "canonical",
 "preferred_label": "Kish"
-},
-{
-"id": "place:Paphos",
-"type": "place",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Paphos"
 },
 {
 "id": "place:Antioch.2",
@@ -180,6 +166,34 @@
 "preferred_label": "Uncircumcised Person"
 },
 {
+"id": "place:Pisidia",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Pisidia"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Pamphylia"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
 "id": "keyterm:Complete",
 "type": "keyterm",
 "confidence": 0.1638,
@@ -194,13 +208,6 @@
 "preferred_label": "Jesse"
 },
 {
-"id": "place:Pamphylia",
-"type": "place",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Pamphylia"
-},
-{
 "id": "realia:Synagogue",
 "type": "realia",
 "confidence": 0.1634,
@@ -208,39 +215,11 @@
 "preferred_label": "Synagogue"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Mark"
-},
-{
-"id": "keyterm:Sabbath",
+"id": "keyterm:Law",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Chosen"
+"preferred_label": "Law"
 },
 {
 "id": "group:Israel",
@@ -250,18 +229,25 @@
 "preferred_label": "Israelites"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Chosen",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Chosen"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "keyterm:Sabbath",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Bear Witness"
+"preferred_label": "Sabbath"
 },
 {
 "id": "place:Jordan",
@@ -271,53 +257,11 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Swear",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Tribe of Benjamin"
-},
-{
-"id": "place:Pisidia",
-"type": "place",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Pisidia"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "person:Samuel",
-"type": "person",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Samuel"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "The Way"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Swear"
 },
 {
 "id": "person:David",
@@ -327,11 +271,11 @@
 "preferred_label": "David"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
+"id": "group:Benjamin",
+"type": "group",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Swear"
+"preferred_label": "Tribe of Benjamin"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -341,11 +285,67 @@
 "preferred_label": "Force to Serve"
 },
 {
-"id": "keyterm:Law",
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Bear Witness"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Samuel"
 }
 ]
 }

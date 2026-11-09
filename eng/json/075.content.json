@@ -21,11 +21,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:SetFree",
+"id": "keyterm:Peace",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Set Free"
+"preferred_label": "Make Peace"
 },
 {
 "id": "keyterm:Baptism",
@@ -33,13 +33,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Baptism"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "keyterm:Heaven",
@@ -56,11 +49,11 @@
 "preferred_label": "Interpret"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Just",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Make Peace"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "keyterm:Decided",
@@ -68,6 +61,13 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Decided"
+},
+{
+"id": "keyterm:SetFree",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Set Free"
 },
 {
 "id": "realia:Lepton",

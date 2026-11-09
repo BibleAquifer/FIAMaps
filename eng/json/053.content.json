@@ -21,25 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "To Cleanse"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "place:Samaria",
 "type": "place",
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
 },
 {
 "id": "keyterm:Glory",
@@ -49,11 +42,32 @@
 "preferred_label": "Glory"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Believe"
 },
 {
 "id": "place:Jerusalem",
@@ -70,20 +84,6 @@
 "preferred_label": "Salvation"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Mercy"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Samaritans"
-},
-{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.2,
@@ -91,11 +91,11 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
+"id": "group:Samaritan",
+"type": "group",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Samaritans"
 }
 ]
 }

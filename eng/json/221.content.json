@@ -49,11 +49,32 @@
 "preferred_label": "Bless"
 },
 {
+"id": "person:Eshcol",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Eshcol"
+},
+{
+"id": "person:Aner",
+"type": "person",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Aner"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2313,
 "match_method": "canonical",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "place:Shaveh",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Valley of Shaveh"
 },
 {
 "id": "person:Melchizedek",
@@ -68,27 +89,6 @@
 "confidence": 0.2313,
 "match_method": "canonical",
 "preferred_label": "King’s Valley"
-},
-{
-"id": "place:Shaveh",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Valley of Shaveh"
-},
-{
-"id": "person:Aner",
-"type": "person",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Aner"
-},
-{
-"id": "person:Eshcol",
-"type": "person",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Eshcol"
 },
 {
 "id": "place:Mamre",

@@ -63,6 +63,13 @@
 "preferred_label": "LORD"
 },
 {
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
 "id": "person:Hamor",
 "type": "person",
 "confidence": 0.2091,
@@ -77,18 +84,11 @@
 "preferred_label": "Rescue"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Shechem"
-},
-{
-"id": "place:Canaan",
-"type": "place",
+"id": "keyterm:Promise",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Promise"
 },
 {
 "id": "keyterm:Favor",
@@ -98,11 +98,11 @@
 "preferred_label": "Favor"
 },
 {
-"id": "keyterm:Promise",
-"type": "keyterm",
+"id": "place:Canaan",
+"type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Promise"
+"preferred_label": "Canaan"
 },
 {
 "id": "realia:Grave",
