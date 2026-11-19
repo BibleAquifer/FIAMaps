@@ -41,18 +41,18 @@
 "preferred_label": "Heth"
 },
 {
-"id": "person:Sarah",
-"type": "person",
-"confidence": 0.4692,
-"match_method": "canonical",
-"preferred_label": "Sarah"
-},
-{
 "id": "person:Ephron.2",
 "type": "person",
 "confidence": 0.4692,
 "match_method": "canonical",
 "preferred_label": "Ephron"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.4692,
+"match_method": "canonical",
+"preferred_label": "Sarah"
 },
 {
 "id": "person:Haran",
@@ -97,13 +97,6 @@
 "preferred_label": "Ur"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
-"confidence": 0.2423,
-"match_method": "canonical",
-"preferred_label": "Chaldeans"
-},
-{
 "id": "place:Mamre",
 "type": "place",
 "confidence": 0.2423,
@@ -118,11 +111,18 @@
 "preferred_label": "Chaldea"
 },
 {
-"id": "person:Lot",
-"type": "person",
+"id": "group:Chaldea",
+"type": "group",
 "confidence": 0.2423,
 "match_method": "canonical",
-"preferred_label": "Lot"
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Haran"
 },
 {
 "id": "place:Hebron",
@@ -132,11 +132,11 @@
 "preferred_label": "Hebron"
 },
 {
-"id": "place:Haran",
-"type": "place",
+"id": "person:Lot",
+"type": "person",
 "confidence": 0.2423,
 "match_method": "canonical",
-"preferred_label": "Haran"
+"preferred_label": "Lot"
 },
 {
 "id": "person:Nahor.2",

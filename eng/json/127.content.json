@@ -48,18 +48,18 @@
 "preferred_label": "Damascus"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.304,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.304,
 "match_method": "canonical",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.304,
+"match_method": "canonical",
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Body.3",
@@ -69,25 +69,25 @@
 "preferred_label": "Body"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.236,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.236,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.236,
 "match_method": "canonical",
 "preferred_label": "Jews"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "person:Paul",
@@ -104,18 +104,11 @@
 "preferred_label": "Moses"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.236,
 "match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "place:Tarsus",
-"type": "place",
-"confidence": 0.176,
-"match_method": "canonical",
-"preferred_label": "Tarsus"
+"preferred_label": "Judea"
 },
 {
 "id": "group:Hellenist",
@@ -125,32 +118,11 @@
 "preferred_label": "Hellenists"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
-},
-{
-"id": "place:Greece",
+"id": "place:Tarsus",
 "type": "place",
-"confidence": 0.168,
+"confidence": 0.176,
 "match_method": "canonical",
-"preferred_label": "Greece"
+"preferred_label": "Tarsus"
 },
 {
 "id": "place:Samaria",
@@ -160,60 +132,11 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Fornication"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "confidence": 0.168,
 "match_method": "canonical",
 "preferred_label": "Jordan River"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Be Lawful"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Church"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Barnabas"
 },
 {
 "id": "group:GenericDisciples",
@@ -223,6 +146,48 @@
 "preferred_label": "A Group of Disciples"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "confidence": 0.168,
@@ -230,11 +195,11 @@
 "preferred_label": "Make Peace"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "To Command"
 },
 {
 "id": "group:Pharisee",
@@ -244,6 +209,34 @@
 "preferred_label": "Pharisees"
 },
 {
+"id": "keyterm:Hardheartedness",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Hardheartedness"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
 "id": "place:Caesarea",
 "type": "place",
 "confidence": 0.168,
@@ -251,11 +244,18 @@
 "preferred_label": "Caesarea"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
+"id": "person:Barnabas",
+"type": "person",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Barnabas"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Greece"
 },
 {
 "id": "keyterm:AskFor",
@@ -265,18 +265,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Kingdom"
 },
 {
-"id": "keyterm:Hardheartedness",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Hardheartedness"
+"preferred_label": "LORD"
 },
 {
 "id": "realia:Basket",
@@ -293,13 +293,6 @@
 "preferred_label": "Synagogue"
 },
 {
-"id": "realia:Scroll",
-"type": "realia",
-"confidence": 0.108,
-"match_method": "canonical",
-"preferred_label": "Scroll"
-},
-{
 "id": "realia:CityWall",
 "type": "realia",
 "confidence": 0.108,
@@ -312,6 +305,13 @@
 "confidence": 0.108,
 "match_method": "canonical",
 "preferred_label": "Temple"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.108,
+"match_method": "canonical",
+"preferred_label": "Scroll"
 }
 ]
 }

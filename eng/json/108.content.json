@@ -42,20 +42,6 @@
 "preferred_label": "Proclaim"
 },
 {
-"id": "group:Zebulun",
-"type": "group",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Tribe of Zebulun"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "confidence": 0.2643,
@@ -70,11 +56,11 @@
 "preferred_label": "Zebulun"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Serve"
 },
 {
 "id": "person:Naphtali",
@@ -82,6 +68,20 @@
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Naphtali"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
 },
 {
 "id": "person:Andrew",
@@ -105,18 +105,18 @@
 "preferred_label": "Ship"
 },
 {
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.1964,
 "match_method": "canonical",
 "preferred_label": "Nazareth"
-},
-{
-"id": "person:James",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "James"
 },
 {
 "id": "keyterm:Repent",
@@ -126,18 +126,11 @@
 "preferred_label": "Repent"
 },
 {
-"id": "person:Zebedee",
+"id": "person:James",
 "type": "person",
 "confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Zebedee"
-},
-{
-"id": "place:GalileeSea",
-"type": "place",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "James"
 },
 {
 "id": "keyterm:GoodNews",
@@ -161,39 +154,11 @@
 "preferred_label": "Decapolis"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Be Demon Possessed"
-},
-{
-"id": "place:Judea",
+"id": "place:GalileeSea",
 "type": "place",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Sky"
+"preferred_label": "Sea of Galilee"
 },
 {
 "id": "person:Isaiah",
@@ -203,6 +168,27 @@
 "preferred_label": "Isaiah"
 },
 {
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.1821,
@@ -210,18 +196,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
+"id": "keyterm:Happen",
+"type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Capernaum"
+"preferred_label": "To Cause to Happen"
 },
 {
 "id": "group:Gentile",
@@ -231,11 +210,32 @@
 "preferred_label": "Gentiles"
 },
 {
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Peter"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Synagogue",

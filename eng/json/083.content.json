@@ -34,18 +34,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"confidence": 0.372,
-"match_method": "canonical",
-"preferred_label": "Mercy"
-},
-{
 "id": "person:David",
 "type": "person",
 "confidence": 0.372,
 "match_method": "canonical",
 "preferred_label": "David"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Mercy"
 },
 {
 "id": "person:Zacchaeus",
@@ -55,18 +55,18 @@
 "preferred_label": "Zacchaeus"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.304,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
 "id": "place:Jericho",
 "type": "place",
 "confidence": 0.304,
 "match_method": "canonical",
 "preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.304,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "keyterm:Command",
@@ -76,13 +76,6 @@
 "preferred_label": "To Command"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.168,
-"match_method": "canonical",
-"preferred_label": "Nazareth"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.168,
@@ -90,11 +83,11 @@
 "preferred_label": "Believe"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
+"id": "place:Nazareth",
+"type": "place",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Nazareth"
 },
 {
 "id": "keyterm:Name",
@@ -104,11 +97,11 @@
 "preferred_label": "Name"
 },
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.168,
 "match_method": "canonical",
-"preferred_label": "Affection"
+"preferred_label": "Glory"
 },
 {
 "id": "person:Abraham",
@@ -116,6 +109,13 @@
 "confidence": 0.168,
 "match_method": "canonical",
 "preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Affection"
 },
 {
 "id": "deity:Lord",
@@ -132,18 +132,18 @@
 "preferred_label": "Sycomore Fig"
 },
 {
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.108,
-"match_method": "canonical",
-"preferred_label": "Fig"
-},
-{
 "id": "realia:House",
 "type": "realia",
 "confidence": 0.108,
 "match_method": "canonical",
 "preferred_label": "House"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.108,
+"match_method": "canonical",
+"preferred_label": "Fig"
 },
 {
 "id": "realia:Temple",

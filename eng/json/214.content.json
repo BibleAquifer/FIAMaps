@@ -35,11 +35,11 @@
 "preferred_label": "Force to Serve"
 },
 {
-"id": "place:Canaan",
-"type": "place",
+"id": "deity:Angel",
+"type": "deity",
 "confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "An Angel"
 },
 {
 "id": "group:Canaan",
@@ -56,11 +56,11 @@
 "preferred_label": "Hittites"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
+"id": "person:Heth",
+"type": "person",
 "confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "An Angel"
+"preferred_label": "Heth"
 },
 {
 "id": "group:Hivites",
@@ -70,18 +70,11 @@
 "preferred_label": "Hivites"
 },
 {
-"id": "person:Heth",
-"type": "person",
+"id": "place:Canaan",
+"type": "place",
 "confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Heth"
-},
-{
-"id": "place:GreatSea",
-"type": "place",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Mediterranean Sea"
+"preferred_label": "Canaan"
 },
 {
 "id": "keyterm:Terror",
@@ -91,18 +84,11 @@
 "preferred_label": "Terror"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.1821,
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Rebel"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Forgive"
+"preferred_label": "Mediterranean Sea"
 },
 {
 "id": "group:Jebusites",
@@ -112,25 +98,11 @@
 "preferred_label": "Jebusites"
 },
 {
-"id": "group:Amorites",
+"id": "group:Perizzites",
 "type": "group",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Amorites"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Euphrates River"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Philistines"
+"preferred_label": "Perizzites"
 },
 {
 "id": "keyterm:Covenant",
@@ -140,18 +112,11 @@
 "preferred_label": "Covenant"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Philistia"
+"preferred_label": "Forgive"
 },
 {
 "id": "keyterm:Bless",
@@ -161,11 +126,32 @@
 "preferred_label": "Bless"
 },
 {
-"id": "group:Perizzites",
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "group:Amorites",
 "type": "group",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Perizzites"
+"preferred_label": "Amorites"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "place:RedSea",
@@ -173,6 +159,20 @@
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Red Sea"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
 },
 {
 "id": "fauna:Hornet",
@@ -189,18 +189,18 @@
 "preferred_label": "Sacred Pillar"
 },
 {
-"id": "realia:Trap",
-"type": "realia",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "Trap"
-},
-{
 "id": "flora:Cattails",
 "type": "flora",
 "confidence": 0.1221,
 "match_method": "canonical",
 "preferred_label": "Cattails"
+},
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Trap"
 }
 ]
 }

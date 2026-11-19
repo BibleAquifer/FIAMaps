@@ -28,6 +28,13 @@
 "preferred_label": "Aeneas"
 },
 {
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
 "id": "place:Lod",
 "type": "place",
 "confidence": 0.425,
@@ -40,13 +47,6 @@
 "confidence": 0.425,
 "match_method": "canonical",
 "preferred_label": "Jesus"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.425,
-"match_method": "canonical",
-"preferred_label": "Peter"
 },
 {
 "id": "place:Sharon.2",

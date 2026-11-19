@@ -68,18 +68,18 @@
 "preferred_label": "Moses"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
-"confidence": 0.3852,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
 "id": "place:Nile",
 "type": "place",
 "confidence": 0.3852,
 "match_method": "canonical",
 "preferred_label": "Nile River"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.3852,
+"match_method": "canonical",
+"preferred_label": "Joseph"
 },
 {
 "id": "fauna:Bull",
@@ -152,27 +152,6 @@
 "preferred_label": "Bread of Display"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Forgive"
-},
-{
-"id": "group:GenericOfficials",
-"type": "group",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Public Officials"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Peace"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.157,
@@ -180,11 +159,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.157,
 "match_method": "canonical",
-"preferred_label": "Appoint"
+"preferred_label": "Forgive"
 },
 {
 "id": "group:Egypt",
@@ -194,13 +173,6 @@
 "preferred_label": "Egyptians"
 },
 {
-"id": "place:RedSea",
-"type": "place",
-"confidence": 0.157,
-"match_method": "canonical",
-"preferred_label": "Red Sea"
-},
-{
 "id": "keyterm:Perceive",
 "type": "keyterm",
 "confidence": 0.157,
@@ -208,11 +180,32 @@
 "preferred_label": "Perceive"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1541,
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.157,
 "match_method": "canonical",
-"preferred_label": "House"
+"preferred_label": "Peace"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.157,
+"match_method": "canonical",
+"preferred_label": "Appoint"
 },
 {
 "id": "flora:Acacia",
@@ -222,11 +215,18 @@
 "preferred_label": "Acacia"
 },
 {
-"id": "realia:Jug",
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Handbreadth",
 "type": "realia",
 "confidence": 0.1002,
 "match_method": "canonical",
-"preferred_label": "Jug"
+"preferred_label": "Handbreadth"
 },
 {
 "id": "realia:BreadOfDisplay",
@@ -236,11 +236,11 @@
 "preferred_label": "Bread of Display"
 },
 {
-"id": "realia:Dish",
+"id": "realia:Jug",
 "type": "realia",
 "confidence": 0.1002,
 "match_method": "canonical",
-"preferred_label": "Dish"
+"preferred_label": "Jug"
 }
 ]
 }

@@ -42,18 +42,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "person:Mary.3",
-"type": "person",
-"confidence": 0.2688,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
 "id": "keyterm:Stumble",
 "type": "keyterm",
 "confidence": 0.2688,
 "match_method": "canonical",
 "preferred_label": "Stumble"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 0.2688,
+"match_method": "canonical",
+"preferred_label": "Mary"
 },
 {
 "id": "person:Martha",
@@ -70,13 +70,6 @@
 "preferred_label": "A Group of Disciples"
 },
 {
-"id": "person:Thomas",
-"type": "person",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Thomas"
-},
-{
 "id": "place:Bethany",
 "type": "place",
 "confidence": 0.1906,
@@ -84,39 +77,11 @@
 "preferred_label": "Bethany"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1781,
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Anointed",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Anointed"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Thomas"
 },
 {
 "id": "group:Jews",
@@ -133,11 +98,46 @@
 "preferred_label": "Glory"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
 "id": "keyterm:Friendship",
 "type": "keyterm",
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Friendship"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "deity:Lord",
@@ -147,11 +147,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Myrrh",

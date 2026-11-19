@@ -42,11 +42,25 @@
 "preferred_label": "Serve"
 },
 {
-"id": "group:Gentile",
-"type": "group",
+"id": "keyterm:BowDown",
+"type": "keyterm",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Gentiles"
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Ransom"
 },
 {
 "id": "keyterm:Disciple",
@@ -56,11 +70,25 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Ransom",
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Authority.2",
 "type": "keyterm",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Ransom"
+"preferred_label": "Authority"
 },
 {
 "id": "keyterm:Command",
@@ -77,20 +105,6 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Bow Down"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Zebedee"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.1875,
@@ -98,18 +112,11 @@
 "preferred_label": "Life"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Condemn"
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Resurrection",
@@ -117,13 +124,6 @@
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Resurrection"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "LORD"
 },
 {
 "id": "realia:Cross",

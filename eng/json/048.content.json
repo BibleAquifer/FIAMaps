@@ -52,18 +52,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:CauseToStumble",
-"type": "keyterm",
-"confidence": 0.337,
-"match_method": "canonical",
-"preferred_label": "Cause to Stumble"
-},
-{
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "confidence": 0.337,
 "match_method": "canonical",
 "preferred_label": "Good News"
+},
+{
+"id": "keyterm:CauseToStumble",
+"type": "keyterm",
+"confidence": 0.337,
+"match_method": "canonical",
+"preferred_label": "Cause to Stumble"
 },
 {
 "id": "keyterm:Believe",
@@ -73,18 +73,18 @@
 "preferred_label": "Believe"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.3333,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.3333,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Name"
 },
 {
 "id": "deity:Lord",
@@ -94,6 +94,13 @@
 "preferred_label": "LORD"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "confidence": 0.2787,
@@ -101,11 +108,11 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Gehenna",
 "type": "keyterm",
-"confidence": 0.2787,
+"confidence": 0.275,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Gehenna"
 },
 {
 "id": "person:John",
@@ -115,13 +122,6 @@
 "preferred_label": "John"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "deity:Demons",
 "type": "deity",
 "confidence": 0.275,
@@ -129,18 +129,18 @@
 "preferred_label": "Demons"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "confidence": 0.275,
 "match_method": "canonical",
 "preferred_label": "Kingdom"
-},
-{
-"id": "keyterm:Gehenna",
-"type": "keyterm",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Gehenna"
 },
 {
 "id": "place:Hell",
@@ -171,13 +171,6 @@
 "preferred_label": "Synagogue"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.2167,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.2167,
@@ -190,6 +183,20 @@
 "confidence": 0.2167,
 "match_method": "canonical",
 "preferred_label": "John"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Affection"
 },
 {
 "id": "person:James",
@@ -213,46 +220,39 @@
 "preferred_label": "Sea of Galilee"
 },
 {
-"id": "keyterm:Affection",
-"type": "keyterm",
-"confidence": 0.162,
-"match_method": "canonical",
-"preferred_label": "Affection"
-},
-{
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.1583,
-"match_method": "canonical",
-"preferred_label": "Nazareth"
-},
-{
-"id": "keyterm:DemonPossessed",
+"id": "keyterm:Happy",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Be Demon Possessed"
+"preferred_label": "Happy"
 },
 {
-"id": "keyterm:Command",
+"id": "person:David",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Mercy",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "To Command"
+"preferred_label": "Mercy"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:Word",
 "type": "keyterm",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Resurrection"
+"preferred_label": "Word"
 },
 {
-"id": "keyterm:Repent",
-"type": "keyterm",
+"id": "person:Israel",
+"type": "person",
 "confidence": 0.1583,
 "match_method": "canonical",
-"preferred_label": "Repent"
+"preferred_label": "Israel"
 }
 ]
 }

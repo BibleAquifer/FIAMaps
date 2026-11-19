@@ -49,11 +49,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Jews"
 },
 {
 "id": "keyterm:Blood",
@@ -63,18 +63,18 @@
 "preferred_label": "Blood"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.2429,
 "match_method": "canonical",
 "preferred_label": "Favor"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Serve"
 },
 {
 "id": "fauna:Goat",
@@ -98,11 +98,11 @@
 "preferred_label": "Be Enslaved"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Happy",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Happy"
 },
 {
 "id": "keyterm:Proclaim",
@@ -112,11 +112,25 @@
 "preferred_label": "Proclaim"
 },
 {
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
 "id": "place:Asia",
 "type": "place",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Asia"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Repent",
@@ -126,88 +140,11 @@
 "preferred_label": "Repent"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Greeks"
-},
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Clean"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Church"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Happy"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Javan"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
-"id": "keyterm:Consecration.2",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Consecration"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Life"
 },
 {
 "id": "keyterm:Spirit.2",
@@ -217,6 +154,27 @@
 "preferred_label": "Spirit"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Clean"
+},
+{
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "confidence": 0.1714,
@@ -224,25 +182,46 @@
 "preferred_label": "Good News"
 },
 {
-"id": "realia:Ship",
-"type": "realia",
-"confidence": 0.1114,
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Ship"
+"preferred_label": "Greeks"
 },
 {
-"id": "fauna:Wolf",
-"type": "fauna",
-"confidence": 0.1114,
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Wolf"
+"preferred_label": "Paul"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1114,
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "House"
+"preferred_label": "Pray"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Consecration"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
 },
 {
 "id": "realia:Clothing",
@@ -252,11 +231,32 @@
 "preferred_label": "Clothing"
 },
 {
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.1114,
 "match_method": "canonical",
 "preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Wolf"
 }
 ]
 }

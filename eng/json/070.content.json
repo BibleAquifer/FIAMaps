@@ -35,53 +35,11 @@
 "preferred_label": "Idumea"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Jordan River"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Judea"
 },
 {
 "id": "place:Sidon",
@@ -96,6 +54,48 @@
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Tyre"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Ship",

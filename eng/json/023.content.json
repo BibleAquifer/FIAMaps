@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.3125,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3125,
 "match_method": "canonical",
 "preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "keyterm:Authority.2",
@@ -63,11 +63,11 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
+"id": "place:Galilee",
+"type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "To Command"
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Sabbath",
@@ -77,6 +77,13 @@
 "preferred_label": "Sabbath"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
 "id": "keyterm:Holy",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -84,18 +91,11 @@
 "preferred_label": "Holy"
 },
 {
-"id": "place:Galilee",
-"type": "place",
+"id": "keyterm:Command",
+"type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "To Command"
 }
 ]
 }

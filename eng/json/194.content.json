@@ -41,13 +41,6 @@
 "preferred_label": "Basket"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
-},
-{
 "id": "group:Pharisee",
 "type": "group",
 "confidence": 0.2429,
@@ -62,18 +55,18 @@
 "preferred_label": "Symbol"
 },
 {
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.1829,
 "match_method": "canonical",
 "preferred_label": "Ship"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Spirit"
 },
 {
 "id": "keyterm:Bless",
@@ -83,11 +76,11 @@
 "preferred_label": "Bless"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Surely!"
+"preferred_label": "Heart"
 },
 {
 "id": "keyterm:AskFor",
@@ -97,11 +90,32 @@
 "preferred_label": "Ask for"
 },
 {
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Sky"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Spirit"
 },
 {
 "id": "keyterm:Affection",
@@ -118,18 +132,11 @@
 "preferred_label": "Magadan"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.1714,
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1114,
 "match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Herod Antipas"
+"preferred_label": "House"
 },
 {
 "id": "fauna:Fish",
@@ -137,13 +144,6 @@
 "confidence": 0.1114,
 "match_method": "canonical",
 "preferred_label": "Fish"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1114,
-"match_method": "canonical",
-"preferred_label": "House"
 },
 {
 "id": "realia:Temple",

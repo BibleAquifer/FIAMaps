@@ -42,18 +42,11 @@
 "preferred_label": "Authority"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:BowDown",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Always"
+"preferred_label": "Bow Down"
 },
 {
 "id": "keyterm:Baptism",
@@ -63,25 +56,18 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Name"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Heaven",
@@ -91,18 +77,32 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:BowDown",
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Bow Down"
+"preferred_label": "To Command"
 },
 {
-"id": "place:Galilee",
-"type": "place",
+"id": "keyterm:Always",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Galilee"
+"preferred_label": "Always"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "deity:Lord",

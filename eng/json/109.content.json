@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
 "id": "place:Nain",
 "type": "place",
 "confidence": 0.2429,
@@ -35,11 +28,11 @@
 "preferred_label": "Nain"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.2143,
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "A Group of People"
+"preferred_label": "Judea"
 },
 {
 "id": "keyterm:Disciple",
@@ -49,11 +42,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Glory",
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Fear"
 },
 {
 "id": "person:Jesus.2",
@@ -70,18 +70,18 @@
 "preferred_label": "Affection"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Glory"
 },
 {
 "id": "realia:Bier",

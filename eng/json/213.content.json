@@ -35,18 +35,18 @@
 "preferred_label": "Silas"
 },
 {
-"id": "place:Berea",
-"type": "place",
-"confidence": 0.3833,
-"match_method": "canonical",
-"preferred_label": "Berea"
-},
-{
 "id": "place:Thessalonica",
 "type": "place",
 "confidence": 0.3833,
 "match_method": "canonical",
 "preferred_label": "Thessalonica"
+},
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Berea"
 },
 {
 "id": "person:Timothy",
@@ -91,6 +91,13 @@
 "preferred_label": "Believe"
 },
 {
+"id": "place:Athens",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Athens"
+},
+{
 "id": "person:Javan",
 "type": "person",
 "confidence": 0.225,
@@ -103,13 +110,6 @@
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Commandment"
-},
-{
-"id": "place:Athens",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Athens"
 },
 {
 "id": "deity:Lord",

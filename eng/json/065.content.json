@@ -35,13 +35,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.3222,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.3222,
@@ -54,6 +47,13 @@
 "confidence": 0.3222,
 "match_method": "canonical",
 "preferred_label": "Haran"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Canaan"
 },
 {
 "id": "person:Lot",
@@ -77,13 +77,6 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
 "id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.24,
@@ -91,25 +84,11 @@
 "preferred_label": "Stone Altar"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.2222,
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Canaanites"
-},
-{
-"id": "place:Ai",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Ai"
-},
-{
-"id": "place:Moreh",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Oak of Moreh"
+"preferred_label": "Altar"
 },
 {
 "id": "place:Shechem",
@@ -124,6 +103,27 @@
 "confidence": 0.2222,
 "match_method": "canonical",
 "preferred_label": "Bethel"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Oak of Moreh"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.2222,
+"match_method": "canonical",
+"preferred_label": "Ai"
 },
 {
 "id": "person:Sarah",

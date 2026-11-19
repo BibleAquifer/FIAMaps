@@ -35,18 +35,18 @@
 "preferred_label": "Isaac"
 },
 {
-"id": "person:Keturah",
-"type": "person",
-"confidence": 0.3182,
-"match_method": "canonical",
-"preferred_label": "Keturah"
-},
-{
 "id": "person:Jokshan",
 "type": "person",
 "confidence": 0.3182,
 "match_method": "canonical",
 "preferred_label": "Jokshan"
+},
+{
+"id": "person:Keturah",
+"type": "person",
+"confidence": 0.3182,
+"match_method": "canonical",
+"preferred_label": "Keturah"
 },
 {
 "id": "person:Midian",
@@ -70,32 +70,46 @@
 "preferred_label": "Medan"
 },
 {
-"id": "place:Machpelah",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Machpelah"
-},
-{
-"id": "group:Asshurim",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Asshurim"
-},
-{
-"id": "group:Leummim",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Leummites"
-},
-{
-"id": "person:Sheba.3",
+"id": "person:Shuah",
 "type": "person",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Sheba"
+"preferred_label": "Shuah"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Ephron"
+},
+{
+"id": "person:Zimran",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Zimran"
+},
+{
+"id": "person:Epher",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Epher"
+},
+{
+"id": "group:Letushim",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Letushim"
+},
+{
+"id": "person:Eldaah",
+"type": "person",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Eldaah"
 },
 {
 "id": "person:Abida",
@@ -112,32 +126,11 @@
 "preferred_label": "Ephah"
 },
 {
-"id": "person:Zimran",
+"id": "person:Zohar",
 "type": "person",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Zimran"
-},
-{
-"id": "place:Beer-lahai-roi",
-"type": "place",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Beer-lahai-roi"
-},
-{
-"id": "group:Letushim",
-"type": "group",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Letushim"
-},
-{
-"id": "person:Epher",
-"type": "person",
-"confidence": 0.2091,
-"match_method": "canonical",
-"preferred_label": "Epher"
+"preferred_label": "Zohar"
 },
 {
 "id": "person:Dedan.2",
@@ -147,18 +140,25 @@
 "preferred_label": "Dedan"
 },
 {
-"id": "person:Ephron.2",
-"type": "person",
+"id": "place:Machpelah",
+"type": "place",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Ephron"
+"preferred_label": "Machpelah"
 },
 {
-"id": "person:Zohar",
+"id": "person:Ishmael",
 "type": "person",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Zohar"
+"preferred_label": "Ishmael"
+},
+{
+"id": "group:Leummim",
+"type": "group",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Leummites"
 },
 {
 "id": "person:Ishbak",
@@ -175,25 +175,25 @@
 "preferred_label": "Hanoch"
 },
 {
-"id": "person:Shuah",
-"type": "person",
+"id": "place:Beer-lahai-roi",
+"type": "place",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Shuah"
+"preferred_label": "Beer-lahai-roi"
 },
 {
-"id": "person:Eldaah",
-"type": "person",
+"id": "group:Asshurim",
+"type": "group",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Eldaah"
+"preferred_label": "Asshurim"
 },
 {
-"id": "person:Ishmael",
+"id": "person:Sheba.3",
 "type": "person",
 "confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Ishmael"
+"preferred_label": "Sheba"
 },
 {
 "id": "place:Mamre",
@@ -203,11 +203,11 @@
 "preferred_label": "Mamre"
 },
 {
-"id": "person:Sarah",
-"type": "person",
+"id": "keyterm:Bless",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Sarah"
+"preferred_label": "Bless"
 },
 {
 "id": "group:Hittite",
@@ -217,18 +217,18 @@
 "preferred_label": "Hittites"
 },
 {
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Bless"
 }
 ]
 }

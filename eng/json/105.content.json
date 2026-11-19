@@ -42,6 +42,13 @@
 "preferred_label": "Caiaphas"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
 "id": "place:Nazareth",
 "type": "place",
 "confidence": 0.2643,
@@ -56,25 +63,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Peter"
-},
-{
-"id": "group:MilitaryMembers",
-"type": "group",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Military Members"
 },
 {
 "id": "person:Malchus",
@@ -84,6 +77,13 @@
 "preferred_label": "Malchus"
 },
 {
+"id": "group:MilitaryMembers",
+"type": "group",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Military Members"
+},
+{
 "id": "person:Annas",
 "type": "person",
 "confidence": 0.1964,
@@ -91,18 +91,25 @@
 "preferred_label": "Annas"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
 "id": "place:Kidron",
 "type": "place",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Kidron"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
 },
 {
 "id": "keyterm:Name",
@@ -119,25 +126,11 @@
 "preferred_label": "Public Officials"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Pharisees"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "realia:Lantern",
-"type": "realia",
-"confidence": 0.1364,
-"match_method": "canonical",
-"preferred_label": "Lantern"
 },
 {
 "id": "realia:Torch",
@@ -152,6 +145,13 @@
 "confidence": 0.1364,
 "match_method": "canonical",
 "preferred_label": "Sheath"
+},
+{
+"id": "realia:Lantern",
+"type": "realia",
+"confidence": 0.1364,
+"match_method": "canonical",
+"preferred_label": "Lantern"
 }
 ]
 }

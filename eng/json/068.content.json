@@ -56,18 +56,18 @@
 "preferred_label": "Negev"
 },
 {
-"id": "person:GenericServant",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "A Servant"
-},
-{
 "id": "person:Sarah",
 "type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Sarah"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "A Servant"
 },
 {
 "id": "keyterm:Love",

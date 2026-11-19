@@ -35,18 +35,18 @@
 "preferred_label": "Teaching"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"confidence": 0.3175,
-"match_method": "canonical",
-"preferred_label": "Defilement"
-},
-{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.3175,
 "match_method": "canonical",
 "preferred_label": "Heart"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.3175,
+"match_method": "canonical",
+"preferred_label": "Defilement"
 },
 {
 "id": "keyterm:Disciple",
@@ -63,18 +63,11 @@
 "preferred_label": "Pharisees"
 },
 {
-"id": "keyterm:Parable",
-"type": "keyterm",
+"id": "group:GenericDisciples",
+"type": "group",
 "confidence": 0.1725,
 "match_method": "canonical",
-"preferred_label": "Parable"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Offering"
+"preferred_label": "A Group of Disciples"
 },
 {
 "id": "keyterm:Blaspheme",
@@ -82,20 +75,6 @@
 "confidence": 0.1725,
 "match_method": "canonical",
 "preferred_label": "Blaspheme"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Speak as a Prophet"
-},
-{
-"id": "keyterm:Commandment",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Commandment"
 },
 {
 "id": "keyterm:Fornication",
@@ -112,18 +91,11 @@
 "preferred_label": "Isaiah"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "A Group of Disciples"
-},
-{
-"id": "keyterm:Worship",
+"id": "keyterm:Commandment",
 "type": "keyterm",
 "confidence": 0.1725,
 "match_method": "canonical",
-"preferred_label": "Worship"
+"preferred_label": "Commandment"
 },
 {
 "id": "place:Jerusalem",
@@ -133,13 +105,6 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "keyterm:Heavenly",
 "type": "keyterm",
 "confidence": 0.1725,
@@ -147,11 +112,46 @@
 "preferred_label": "Heavenly"
 },
 {
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.1725,
 "match_method": "canonical",
 "preferred_label": "Peter"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 }
 ]
 }

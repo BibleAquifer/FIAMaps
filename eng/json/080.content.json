@@ -35,18 +35,18 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 0.3211,
-"match_method": "canonical",
-"preferred_label": "Satan"
-},
-{
 "id": "person:Jonah.2",
 "type": "person",
 "confidence": 0.3211,
 "match_method": "canonical",
 "preferred_label": "Jonah"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Satan"
 },
 {
 "id": "keyterm:Kingdom",
@@ -63,18 +63,11 @@
 "preferred_label": "Ninevites"
 },
 {
-"id": "place:Nineveh",
-"type": "place",
-"confidence": 0.2474,
-"match_method": "canonical",
-"preferred_label": "Nineveh"
-},
-{
-"id": "keyterm:CourtCase",
+"id": "keyterm:Judgment",
 "type": "keyterm",
 "confidence": 0.2474,
 "match_method": "canonical",
-"preferred_label": "Court Case"
+"preferred_label": "Judgment"
 },
 {
 "id": "keyterm:Happy",
@@ -84,6 +77,13 @@
 "preferred_label": "Happy"
 },
 {
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"confidence": 0.2474,
+"match_method": "canonical",
+"preferred_label": "Court Case"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.2474,
@@ -91,18 +91,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Judgment",
-"type": "keyterm",
+"id": "place:Nineveh",
+"type": "place",
 "confidence": 0.2474,
 "match_method": "canonical",
-"preferred_label": "Judgment"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1874,
-"match_method": "canonical",
-"preferred_label": "House"
+"preferred_label": "Nineveh"
 },
 {
 "id": "realia:Temple",
@@ -112,32 +105,39 @@
 "preferred_label": "Temple"
 },
 {
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1874,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
 "id": "keyterm:Repent",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
 "preferred_label": "Repent"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "A Group of People"
-},
-{
-"id": "place:Sheba.2",
-"type": "place",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Sheba"
-},
-{
-"id": "person:GenericFemale",
-"type": "person",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "A Woman"
 },
 {
 "id": "keyterm:Heaven",
@@ -154,6 +154,13 @@
 "preferred_label": "Make Peace"
 },
 {
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
 "id": "keyterm:Persuade",
 "type": "keyterm",
 "confidence": 0.1737,
@@ -161,11 +168,18 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "person:Solomon",
+"id": "person:GenericFemale",
 "type": "person",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Solomon"
+"preferred_label": "A Woman"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sheba"
 },
 {
 "id": "person:QueenOfSheba",
@@ -173,20 +187,6 @@
 "confidence": 0.1737,
 "match_method": "canonical",
 "preferred_label": "Queen of Sheba"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Heart"
 },
 {
 "id": "realia:Courtyard",

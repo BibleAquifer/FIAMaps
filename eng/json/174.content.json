@@ -42,18 +42,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
 "id": "place:Joppa",
 "type": "place",
 "confidence": 0.2818,
 "match_method": "canonical",
 "preferred_label": "Joppa"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Pray"
 },
 {
 "id": "realia:House",
@@ -77,18 +77,11 @@
 "preferred_label": "Caesarea"
 },
 {
-"id": "keyterm:Defilement",
+"id": "keyterm:BowDown",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Defilement"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Bow Down"
 },
 {
 "id": "keyterm:Disgusting",
@@ -98,11 +91,18 @@
 "preferred_label": "Disgusting"
 },
 {
-"id": "keyterm:BowDown",
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Defilement",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Bow Down"
+"preferred_label": "Defilement"
 },
 {
 "id": "realia:Leather",
@@ -112,18 +112,18 @@
 "preferred_label": "Leather"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.1309,
-"match_method": "canonical",
-"preferred_label": "Temple"
-},
-{
 "id": "realia:Clothing",
 "type": "realia",
 "confidence": 0.1309,
 "match_method": "canonical",
 "preferred_label": "Clothing"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1309,
+"match_method": "canonical",
+"preferred_label": "Temple"
 }
 ]
 }

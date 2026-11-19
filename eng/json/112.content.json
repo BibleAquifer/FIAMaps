@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.385,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.385,
@@ -40,6 +33,13 @@
 "confidence": 0.385,
 "match_method": "canonical",
 "preferred_label": "Ask for"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.385,
+"match_method": "canonical",
+"preferred_label": "John"
 },
 {
 "id": "person:Jesus.2",
@@ -63,25 +63,11 @@
 "preferred_label": "Bethany"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Levi"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "group:Jews",
+"id": "group:Pharisee",
 "type": "group",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Pharisees"
 },
 {
 "id": "place:Jordan",
@@ -89,20 +75,6 @@
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Jordan River"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Pharisees"
 },
 {
 "id": "group:Levi",
@@ -117,6 +89,34 @@
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Isaiah"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jews"
 },
 {
 "id": "deity:Lord",

@@ -116,18 +116,18 @@
 "preferred_label": "Paddan-aram"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.3321,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
 "id": "person:Rebekah",
 "type": "person",
 "confidence": 0.3321,
 "match_method": "canonical",
 "preferred_label": "Rebekah"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Canaan"
 },
 {
 "id": "realia:House",
@@ -193,6 +193,13 @@
 "preferred_label": "Kindness"
 },
 {
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
 "id": "person:Mahalath",
 "type": "person",
 "confidence": 0.1616,
@@ -214,11 +221,18 @@
 "preferred_label": "Oath"
 },
 {
-"id": "place:Bethel",
+"id": "place:Beersheba",
 "type": "place",
-"confidence": 0.1616,
+"confidence": 0.158,
 "match_method": "canonical",
-"preferred_label": "Bethel"
+"preferred_label": "Beersheba"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Vow"
 },
 {
 "id": "group:Aramean",
@@ -228,25 +242,11 @@
 "preferred_label": "Arameans"
 },
 {
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Be Blameless"
-},
-{
 "id": "group:Canaan",
 "type": "group",
 "confidence": 0.158,
 "match_method": "canonical",
 "preferred_label": "Canaanites"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Dispossess"
 }
 ]
 }

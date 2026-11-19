@@ -35,13 +35,6 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.3538,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.3538,
@@ -49,11 +42,11 @@
 "preferred_label": "Jews"
 },
 {
-"id": "keyterm:Passover",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"confidence": 0.2692,
+"confidence": 0.3538,
 "match_method": "canonical",
-"preferred_label": "Passover"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Example",
@@ -63,11 +56,11 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
+"id": "keyterm:Passover",
+"type": "keyterm",
 "confidence": 0.2692,
 "match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Passover"
 },
 {
 "id": "keyterm:Disciple",
@@ -77,11 +70,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "fauna:Dove",
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "fauna:Lamb",
 "type": "fauna",
 "confidence": 0.2092,
 "match_method": "canonical",
-"preferred_label": "Dove"
+"preferred_label": "Sheep"
 },
 {
 "id": "realia:House",
@@ -98,11 +98,11 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Dove",
 "type": "fauna",
 "confidence": 0.2092,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Dove"
 },
 {
 "id": "keyterm:Extremely",
@@ -119,11 +119,11 @@
 "preferred_label": "Body"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Resurrection"
+"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Name",
@@ -133,11 +133,11 @@
 "preferred_label": "Name"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:Scripture",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Bear Witness"
+"preferred_label": "Written"
 },
 {
 "id": "deity:Lord",
@@ -147,18 +147,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Scripture",
+"id": "keyterm:Resurrection",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Written"
-},
-{
-"id": "realia:Whip",
-"type": "realia",
-"confidence": 0.14,
-"match_method": "canonical",
-"preferred_label": "Whip"
+"preferred_label": "Resurrection"
 },
 {
 "id": "realia:Rope",
@@ -166,6 +159,13 @@
 "confidence": 0.14,
 "match_method": "canonical",
 "preferred_label": "Rope"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Whip"
 }
 ]
 }

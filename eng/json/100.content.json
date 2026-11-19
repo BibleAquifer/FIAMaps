@@ -107,6 +107,13 @@
 "preferred_label": "Temple"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2725,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.2725,
@@ -142,18 +149,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.2725,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "person:Judas.2",
-"type": "person",
+"id": "place:Bethany",
+"type": "place",
 "confidence": 0.2183,
 "match_method": "canonical",
-"preferred_label": "Judas"
+"preferred_label": "Bethany"
 },
 {
 "id": "person:Mary.3",
@@ -163,11 +163,11 @@
 "preferred_label": "Mary"
 },
 {
-"id": "place:Bethany",
-"type": "place",
+"id": "person:Judas.2",
+"type": "person",
 "confidence": 0.2183,
 "match_method": "canonical",
-"preferred_label": "Bethany"
+"preferred_label": "Judas"
 },
 {
 "id": "person:John",
@@ -198,18 +198,18 @@
 "preferred_label": "Fig"
 },
 {
-"id": "keyterm:Hosanna",
-"type": "keyterm",
-"confidence": 0.1608,
-"match_method": "canonical",
-"preferred_label": "Hosanna"
-},
-{
 "id": "person:Simon.4",
 "type": "person",
 "confidence": 0.1608,
 "match_method": "canonical",
 "preferred_label": "Simon"
+},
+{
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
 },
 {
 "id": "fauna:Donkey",
@@ -219,32 +219,11 @@
 "preferred_label": "Donkey"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.1575,
 "match_method": "canonical",
-"preferred_label": "Disaster"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Baptism"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.1575,
-"match_method": "canonical",
-"preferred_label": "Forgive"
+"preferred_label": "Symbol"
 },
 {
 "id": "keyterm:Body.3",
@@ -254,11 +233,32 @@
 "preferred_label": "Body"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.1575,
 "match_method": "canonical",
-"preferred_label": "Resurrection"
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.1575,
+"match_method": "canonical",
+"preferred_label": "Discern"
 }
 ]
 }

@@ -76,6 +76,13 @@
 "preferred_label": "Hebrews"
 },
 {
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
 "id": "place:Pithom",
 "type": "place",
 "confidence": 0.2042,
@@ -83,11 +90,18 @@
 "preferred_label": "Pithom"
 },
 {
-"id": "keyterm:Work",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"confidence": 0.2042,
+"confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Work"
+"preferred_label": "Fear"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Joseph"
 },
 {
 "id": "place:Midian",
@@ -102,20 +116,6 @@
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Raamses"
-},
-{
-"id": "person:Joseph.10",
-"type": "person",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Fear"
 },
 {
 "id": "realia:Brick",

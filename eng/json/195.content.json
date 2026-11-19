@@ -34,6 +34,20 @@
 "preferred_label": "Bethsaida"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
 "id": "person:John",
 "type": "person",
 "confidence": 0.2409,
@@ -48,11 +62,11 @@
 "preferred_label": "Serve"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.2409,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Kingdom",
@@ -60,20 +74,6 @@
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Kingdom"
-},
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Herod Antipas"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "LORD"
 },
 {
 "id": "realia:House",
@@ -90,81 +90,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Demons"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
 "id": "group:GenericDisciples",
 "type": "group",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "A Group of Disciples"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Ask for"
 },
 {
 "id": "keyterm:Proclaim",
@@ -174,25 +104,74 @@
 "preferred_label": "Proclaim"
 },
 {
-"id": "realia:Basket",
-"type": "realia",
-"confidence": 0.1105,
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Basket"
+"preferred_label": "Elijah"
 },
 {
-"id": "realia:Tunic.2",
-"type": "realia",
-"confidence": 0.1105,
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Tunic"
+"preferred_label": "Bless"
 },
 {
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.1105,
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Staff"
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
 },
 {
 "id": "realia:Bag",
@@ -202,11 +181,32 @@
 "preferred_label": "Bag"
 },
 {
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Temple"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Staff"
 }
 ]
 }

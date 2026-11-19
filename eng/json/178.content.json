@@ -28,18 +28,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.325,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.325,
 "match_method": "canonical",
 "preferred_label": "Salvation"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "group:Jews",
@@ -63,13 +63,6 @@
 "preferred_label": "Simon"
 },
 {
-"id": "place:Cyrene",
-"type": "place",
-"confidence": 0.1861,
-"match_method": "canonical",
-"preferred_label": "Cyrene"
-},
-{
 "id": "person:Dysmas",
 "type": "person",
 "confidence": 0.1861,
@@ -77,67 +70,11 @@
 "preferred_label": "Criminal on the Cross"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Forgive"
-},
-{
-"id": "place:Golgotha",
+"id": "place:Cyrene",
 "type": "place",
-"confidence": 0.175,
+"confidence": 0.1861,
 "match_method": "canonical",
-"preferred_label": "Golgotha"
-},
-{
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Blaspheme"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Happy"
-},
-{
-"id": "keyterm:Paradise",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Paradise"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Surely!"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Cyrene"
 },
 {
 "id": "keyterm:Judgment",
@@ -147,11 +84,74 @@
 "preferred_label": "Judgment"
 },
 {
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Fear"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Paradise",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Paradise"
 },
 {
 "id": "realia:SourWine",
@@ -161,18 +161,18 @@
 "preferred_label": "Sour Wine"
 },
 {
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Lot"
-},
-{
 "id": "realia:Clothing",
 "type": "realia",
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Clothing"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Lot"
 }
 ]
 }

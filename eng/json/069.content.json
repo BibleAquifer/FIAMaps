@@ -49,6 +49,13 @@
 "preferred_label": "Jordan River"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "confidence": 0.2692,
@@ -70,25 +77,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Proclaim"
-},
-{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "confidence": 0.2692,
 "match_method": "canonical",
 "preferred_label": "To Sin"
-},
-{
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Nazareth"
 },
 {
 "id": "keyterm:Beloved",
@@ -98,6 +91,13 @@
 "preferred_label": "Beloved"
 },
 {
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.1846,
@@ -105,25 +105,11 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "keyterm:PutToTheTest",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Put to the Test"
-},
-{
-"id": "place:Galilee",
+"id": "place:Nazareth",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Nazareth"
 },
 {
 "id": "keyterm:Repent",
@@ -131,20 +117,6 @@
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "Repent"
-},
-{
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Satan"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Serve"
 },
 {
 "id": "person:Isaiah",
@@ -161,11 +133,39 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Straightness",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Straightness"
+"preferred_label": "Good News"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Put to the Test"
 },
 {
 "id": "deity:Lord",
@@ -175,11 +175,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Strap",
@@ -189,32 +189,11 @@
 "preferred_label": "Strap"
 },
 {
-"id": "realia:Sandal",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Sandal"
-},
-{
 "id": "fauna:Bee",
 "type": "fauna",
 "confidence": 0.1246,
 "match_method": "canonical",
 "preferred_label": "Bee"
-},
-{
-"id": "fauna:Dove",
-"type": "fauna",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Dove"
-},
-{
-"id": "fauna:Camel",
-"type": "fauna",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Camel"
 },
 {
 "id": "realia:Bag",
@@ -231,6 +210,13 @@
 "preferred_label": "Leather"
 },
 {
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
 "id": "fauna:Locust",
 "type": "fauna",
 "confidence": 0.1246,
@@ -243,6 +229,20 @@
 "confidence": 0.1246,
 "match_method": "canonical",
 "preferred_label": "Belt"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Sandal"
 }
 ]
 }

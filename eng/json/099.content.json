@@ -21,6 +21,13 @@
 "resource": [],
 "acai": [
 {
+"id": "person:GenericPriest",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "A Priest"
+},
+{
 "id": "person:Scribe",
 "type": "person",
 "confidence": 0.3538,
@@ -33,13 +40,6 @@
 "confidence": 0.3538,
 "match_method": "canonical",
 "preferred_label": "Jesus"
-},
-{
-"id": "person:GenericPriest",
-"type": "person",
-"confidence": 0.3538,
-"match_method": "canonical",
-"preferred_label": "A Priest"
 },
 {
 "id": "keyterm:Life",
@@ -56,13 +56,6 @@
 "preferred_label": "Inn"
 },
 {
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Mind"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "confidence": 0.2,
@@ -70,25 +63,11 @@
 "preferred_label": "Mercy"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Mind.2",
 "type": "keyterm",
-"confidence": 0.1846,
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Law"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Levi"
+"preferred_label": "Mind"
 },
 {
 "id": "place:Samaria",
@@ -98,11 +77,46 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "group:Levi",
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "group:Samaritan",
 "type": "group",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Tribe of Levi"
+"preferred_label": "Samaritans"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Heart"
 },
 {
 "id": "place:Jericho",
@@ -119,25 +133,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Love",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Samaritans"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Love"
 },
 {
 "id": "keyterm:Always",
@@ -147,25 +147,18 @@
 "preferred_label": "Always"
 },
 {
-"id": "keyterm:Affection",
-"type": "keyterm",
+"id": "group:Levi",
+"type": "group",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Affection"
+"preferred_label": "Tribe of Levi"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Heart"
-},
-{
-"id": "realia:Denarius",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Denarius"
+"preferred_label": "LORD"
 },
 {
 "id": "realia:OliveOil",
@@ -173,6 +166,13 @@
 "confidence": 0.1246,
 "match_method": "canonical",
 "preferred_label": "Olive Oil"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Denarius"
 },
 {
 "id": "realia:Wine",

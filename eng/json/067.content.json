@@ -63,18 +63,18 @@
 "preferred_label": "Timnah"
 },
 {
-"id": "person:Er.2",
-"type": "person",
-"confidence": 0.3083,
-"match_method": "canonical",
-"preferred_label": "Er"
-},
-{
 "id": "person:Onan",
 "type": "person",
 "confidence": 0.3083,
 "match_method": "canonical",
 "preferred_label": "Onan"
+},
+{
+"id": "person:Er.2",
+"type": "person",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Er"
 },
 {
 "id": "fauna:Flock",
@@ -98,18 +98,18 @@
 "preferred_label": "Enaim"
 },
 {
-"id": "person:Hirah",
-"type": "person",
-"confidence": 0.2433,
-"match_method": "canonical",
-"preferred_label": "Hirah"
-},
-{
 "id": "person:Shua",
 "type": "person",
 "confidence": 0.2433,
 "match_method": "canonical",
 "preferred_label": "Shua"
+},
+{
+"id": "person:Hirah",
+"type": "person",
+"confidence": 0.2433,
+"match_method": "canonical",
+"preferred_label": "Hirah"
 },
 {
 "id": "fauna:Kid",
@@ -133,18 +133,18 @@
 "preferred_label": "Thread"
 },
 {
-"id": "person:Zerah.3",
-"type": "person",
-"confidence": 0.1717,
-"match_method": "canonical",
-"preferred_label": "Zerah"
-},
-{
 "id": "person:Perez",
 "type": "person",
 "confidence": 0.1717,
 "match_method": "canonical",
 "preferred_label": "Perez"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Zerah"
 },
 {
 "id": "realia:Rod",
@@ -161,11 +161,11 @@
 "preferred_label": "Measuring Reed"
 },
 {
-"id": "place:Canaan",
-"type": "place",
+"id": "keyterm:Just",
+"type": "keyterm",
 "confidence": 0.165,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "group:Canaan",
@@ -175,6 +175,13 @@
 "preferred_label": "Canaanites"
 },
 {
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Play the Prostitute"
+},
+{
 "id": "place:Achzib",
 "type": "place",
 "confidence": 0.165,
@@ -182,18 +189,11 @@
 "preferred_label": "Achzib"
 },
 {
-"id": "keyterm:Just",
-"type": "keyterm",
+"id": "place:Canaan",
+"type": "place",
 "confidence": 0.165,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:PlayTheProstitute",
-"type": "keyterm",
-"confidence": 0.165,
-"match_method": "canonical",
-"preferred_label": "Play the Prostitute"
+"preferred_label": "Canaan"
 }
 ]
 }

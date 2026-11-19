@@ -56,6 +56,13 @@
 "preferred_label": "Joseph"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "confidence": 0.2818,
@@ -63,11 +70,11 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "person:Israel",
+"id": "person:Jeremiah.6",
 "type": "person",
-"confidence": 0.2818,
+"confidence": 0.2091,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Jeremiah"
 },
 {
 "id": "place:Nazareth",
@@ -84,11 +91,25 @@
 "preferred_label": "Archelaus"
 },
 {
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.2091,
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Jeremiah"
+"preferred_label": "Ramah"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "place:Galilee",
@@ -105,11 +126,11 @@
 "preferred_label": "Rachel"
 },
 {
-"id": "place:Judea",
-"type": "place",
+"id": "keyterm:AskFor",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Ask for"
 },
 {
 "id": "keyterm:Encourage",
@@ -119,20 +140,6 @@
 "preferred_label": "Encourage"
 },
 {
-"id": "place:Ramah.2",
-"type": "place",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Ramah"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
 "id": "place:Bethlehem",
 "type": "place",
 "confidence": 0.1909,
@@ -140,18 +147,11 @@
 "preferred_label": "Bethlehem"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Judea"
 }
 ]
 }

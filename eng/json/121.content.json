@@ -63,11 +63,11 @@
 "preferred_label": "Moses"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
+"id": "fauna:Goat",
+"type": "fauna",
 "confidence": 0.2043,
 "match_method": "canonical",
-"preferred_label": "Cloak"
+"preferred_label": "Goat"
 },
 {
 "id": "realia:House",
@@ -77,18 +77,18 @@
 "preferred_label": "House"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.2043,
-"match_method": "canonical",
-"preferred_label": "Goat"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.2043,
 "match_method": "canonical",
 "preferred_label": "Flock"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Cloak"
 },
 {
 "id": "place:Succoth.2",
@@ -98,18 +98,18 @@
 "preferred_label": "Succoth"
 },
 {
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
 "id": "person:Aaron",
 "type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Aaron"
-},
-{
-"id": "place:Rameses",
-"type": "place",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Rameses"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -126,11 +126,18 @@
 "preferred_label": "Favor"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
+"id": "place:Rameses",
+"type": "place",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Bless"
+"preferred_label": "Rameses"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
 },
 {
 "id": "realia:Prison",
@@ -145,13 +152,6 @@
 "confidence": 0.1221,
 "match_method": "canonical",
 "preferred_label": "Money"
-},
-{
-"id": "realia:UnleavenedBread",
-"type": "realia",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "Unleavened Bread"
 }
 ]
 }

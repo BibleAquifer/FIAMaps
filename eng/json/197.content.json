@@ -56,13 +56,6 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
 "id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.28,
@@ -70,11 +63,11 @@
 "preferred_label": "Stone Altar"
 },
 {
-"id": "person:Deborah",
-"type": "person",
-"confidence": 0.1933,
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Deborah"
+"preferred_label": "Altar"
 },
 {
 "id": "place:Allon-bacuth",
@@ -84,18 +77,11 @@
 "preferred_label": "Allon-bachuth"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.18,
+"id": "person:Deborah",
+"type": "person",
+"confidence": 0.1933,
 "match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Offering"
+"preferred_label": "Deborah"
 },
 {
 "id": "person:Rebekah",
@@ -105,32 +91,18 @@
 "preferred_label": "Rebekah"
 },
 {
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.18,
 "match_method": "canonical",
 "preferred_label": "Abraham"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Paddan-aram"
-},
-{
-"id": "keyterm:Pure",
-"type": "keyterm",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Pure"
-},
-{
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.18,
-"match_method": "canonical",
-"preferred_label": "Esau"
 },
 {
 "id": "keyterm:Bless",
@@ -140,11 +112,18 @@
 "preferred_label": "Bless"
 },
 {
-"id": "place:Shechem",
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Paddan-aram",
 "type": "place",
 "confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Shechem"
+"preferred_label": "Paddan-aram"
 },
 {
 "id": "person:Isaac",
@@ -154,11 +133,25 @@
 "preferred_label": "Isaac"
 },
 {
-"id": "flora:Terebinth",
-"type": "flora",
-"confidence": 0.1333,
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.18,
 "match_method": "canonical",
-"preferred_label": "Terebinth"
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Canaan"
 },
 {
 "id": "realia:AnointingOil",
@@ -173,6 +166,13 @@
 "confidence": 0.1333,
 "match_method": "canonical",
 "preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.1333,
+"match_method": "canonical",
+"preferred_label": "Terebinth"
 },
 {
 "id": "realia:OliveOil",

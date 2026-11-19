@@ -89,13 +89,6 @@
 "preferred_label": "Pray"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.2273,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.2273,
@@ -103,18 +96,18 @@
 "preferred_label": "Peter"
 },
 {
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
 "id": "realia:Stade",
 "type": "realia",
 "confidence": 0.1733,
 "match_method": "canonical",
 "preferred_label": "Stade"
-},
-{
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"confidence": 0.1697,
-"match_method": "canonical",
-"preferred_label": "Having Little Faith"
 },
 {
 "id": "place:Bethsaida",
@@ -131,11 +124,11 @@
 "preferred_label": "Capernaum"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.1673,
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.1697,
 "match_method": "canonical",
-"preferred_label": "Cloak"
+"preferred_label": "Having Little Faith"
 },
 {
 "id": "realia:Tassel",
@@ -145,6 +138,13 @@
 "preferred_label": "Tassel"
 },
 {
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
 "id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.1636,
@@ -152,18 +152,18 @@
 "preferred_label": "True"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.1636,
-"match_method": "canonical",
-"preferred_label": "Bow Down"
-},
-{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.1636,
 "match_method": "canonical",
 "preferred_label": "Heart"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
 },
 {
 "id": "realia:Bed",

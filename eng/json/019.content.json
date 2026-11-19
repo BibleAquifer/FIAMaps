@@ -55,18 +55,18 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "place:Joppa",
-"type": "place",
-"confidence": 0.3087,
-"match_method": "canonical",
-"preferred_label": "Joppa"
-},
-{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.3087,
 "match_method": "canonical",
 "preferred_label": "Sky"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.3087,
+"match_method": "canonical",
+"preferred_label": "Joppa"
 },
 {
 "id": "realia:House",
@@ -83,11 +83,11 @@
 "preferred_label": "Simon"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.2391,
 "match_method": "canonical",
-"preferred_label": "Pray"
+"preferred_label": "Fear"
 },
 {
 "id": "keyterm:Defilement",
@@ -97,11 +97,11 @@
 "preferred_label": "Defilement"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Pray",
 "type": "keyterm",
 "confidence": 0.2391,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Pray"
 },
 {
 "id": "realia:Temple",
@@ -118,11 +118,11 @@
 "preferred_label": "Italians"
 },
 {
-"id": "group:GenericMales",
-"type": "group",
+"id": "keyterm:Just",
+"type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Men"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "keyterm:Word",
@@ -132,53 +132,11 @@
 "preferred_label": "Word"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.1696,
 "match_method": "canonical",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Italy",
-"type": "place",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Italy"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"confidence": 0.1696,
-"match_method": "canonical",
-"preferred_label": "Caesarea"
 },
 {
 "id": "keyterm:Discern",
@@ -195,11 +153,11 @@
 "preferred_label": "To Cleanse"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Holy",
@@ -209,11 +167,46 @@
 "preferred_label": "Holy"
 },
 {
-"id": "realia:Housetop",
-"type": "realia",
-"confidence": 0.1183,
+"id": "group:GenericMales",
+"type": "group",
+"confidence": 0.1696,
 "match_method": "canonical",
-"preferred_label": "Housetop"
+"preferred_label": "Men"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Italy"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "realia:LinenCloth",
@@ -223,11 +216,11 @@
 "preferred_label": "Linen Cloth"
 },
 {
-"id": "fauna:Iguana",
-"type": "fauna",
-"confidence": 0.1096,
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.1183,
 "match_method": "canonical",
-"preferred_label": "Monitor"
+"preferred_label": "Housetop"
 },
 {
 "id": "fauna:Snake",
@@ -237,11 +230,11 @@
 "preferred_label": "Snake"
 },
 {
-"id": "fauna:Chameleon",
+"id": "fauna:CreepingAnimal",
 "type": "fauna",
 "confidence": 0.1096,
 "match_method": "canonical",
-"preferred_label": "Chameleon"
+"preferred_label": "Creeping Animal"
 },
 {
 "id": "realia:Leather",
@@ -251,11 +244,18 @@
 "preferred_label": "Leather"
 },
 {
-"id": "fauna:CreepingAnimal",
+"id": "fauna:Chameleon",
 "type": "fauna",
 "confidence": 0.1096,
 "match_method": "canonical",
-"preferred_label": "Creeping Animal"
+"preferred_label": "Chameleon"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Monitor"
 },
 {
 "id": "fauna:Lizard",

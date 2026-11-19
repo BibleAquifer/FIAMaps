@@ -35,18 +35,18 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.3257,
-"match_method": "canonical",
-"preferred_label": "Sheep"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "confidence": 0.3257,
 "match_method": "canonical",
 "preferred_label": "Goat"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.3257,
+"match_method": "canonical",
+"preferred_label": "Sheep"
 },
 {
 "id": "fauna:Flock",
@@ -56,11 +56,11 @@
 "preferred_label": "Flock"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Register",
 "type": "keyterm",
 "confidence": 0.3143,
 "match_method": "canonical",
-"preferred_label": "Word"
+"preferred_label": "Register"
 },
 {
 "id": "person:Mary",
@@ -70,18 +70,18 @@
 "preferred_label": "Mary"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.3143,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.3143,
 "match_method": "canonical",
 "preferred_label": "Glory"
-},
-{
-"id": "keyterm:Register",
-"type": "keyterm",
-"confidence": 0.3143,
-"match_method": "canonical",
-"preferred_label": "Register"
 },
 {
 "id": "realia:Manger",
@@ -98,25 +98,11 @@
 "preferred_label": "Bethlehem"
 },
 {
-"id": "person:Joseph.4",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
 "id": "person:David",
 "type": "person",
 "confidence": 0.2429,
 "match_method": "canonical",
 "preferred_label": "David"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Jesus"
 },
 {
 "id": "keyterm:Fear",
@@ -126,18 +112,18 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Savior",
-"type": "keyterm",
-"confidence": 0.181,
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Savior"
+"preferred_label": "Joseph"
 },
 {
-"id": "person:Augustus",
+"id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.181,
+"confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Augustus"
+"preferred_label": "Jesus"
 },
 {
 "id": "person:Quirinius",
@@ -147,39 +133,18 @@
 "preferred_label": "Quirinius"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.1714,
+"id": "person:Augustus",
+"type": "person",
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Nazareth"
+"preferred_label": "Augustus"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.1714,
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:GuardAgainst",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "To Guard Against"
+"preferred_label": "Savior"
 },
 {
 "id": "keyterm:Example",
@@ -189,32 +154,11 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "A Group of People"
-},
-{
-"id": "keyterm:Heaven",
+"id": "keyterm:GuardAgainst",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "To Guard Against"
 },
 {
 "id": "keyterm:Census",
@@ -224,6 +168,34 @@
 "preferred_label": "Census"
 },
 {
+"id": "keyterm:Engaged",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be Engaged"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "confidence": 0.1714,
@@ -231,18 +203,11 @@
 "preferred_label": "Make Peace"
 },
 {
-"id": "keyterm:CauseOfJoy",
+"id": "keyterm:Height",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Cause of Joy"
-},
-{
-"id": "keyterm:Engaged",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Be Engaged"
+"preferred_label": "Height"
 },
 {
 "id": "keyterm:GoodNews",
@@ -259,18 +224,53 @@
 "preferred_label": "Heavenly"
 },
 {
-"id": "keyterm:Height",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Height"
+"preferred_label": "Name"
 },
 {
-"id": "keyterm:Heart",
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Ability",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Inn",

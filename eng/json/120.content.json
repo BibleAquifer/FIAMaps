@@ -35,18 +35,18 @@
 "preferred_label": "Israel"
 },
 {
-"id": "person:Manasseh",
-"type": "person",
-"confidence": 0.4818,
-"match_method": "canonical",
-"preferred_label": "Manasseh"
-},
-{
 "id": "person:Ephraim",
 "type": "person",
 "confidence": 0.4818,
 "match_method": "canonical",
 "preferred_label": "Ephraim"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.4818,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
 },
 {
 "id": "deity:Lord",
@@ -63,13 +63,6 @@
 "preferred_label": "Bless"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "confidence": 0.2409,
@@ -84,11 +77,25 @@
 "preferred_label": "Isaac"
 },
 {
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
 "id": "place:Paddan-aram",
 "type": "place",
 "confidence": 0.1795,
 "match_method": "canonical",
 "preferred_label": "Paddan-aram"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Simeon"
 },
 {
 "id": "person:Reuben",
@@ -98,18 +105,25 @@
 "preferred_label": "Reuben"
 },
 {
-"id": "keyterm:Possess",
-"type": "keyterm",
+"id": "place:Bethel",
+"type": "place",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "To Cause to Possess"
+"preferred_label": "Bethel"
 },
 {
-"id": "person:Simeon.5",
-"type": "person",
+"id": "place:Egypt",
+"type": "place",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Simeon"
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "An Angel"
 },
 {
 "id": "group:Amorites",
@@ -126,11 +140,11 @@
 "preferred_label": "Rachel"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
+"id": "keyterm:Possess",
+"type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "An Angel"
+"preferred_label": "To Cause to Possess"
 },
 {
 "id": "place:Bethlehem",
@@ -140,20 +154,6 @@
 "preferred_label": "Bethlehem"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Bethel"
-},
-{
 "id": "realia:Bed",
 "type": "realia",
 "confidence": 0.1105,
@@ -161,18 +161,11 @@
 "preferred_label": "Bed"
 },
 {
-"id": "realia:Bow",
-"type": "realia",
+"id": "fauna:Goat",
+"type": "fauna",
 "confidence": 0.1105,
 "match_method": "canonical",
-"preferred_label": "Bow"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"confidence": 0.1105,
-"match_method": "canonical",
-"preferred_label": "Sword"
+"preferred_label": "Goat"
 },
 {
 "id": "fauna:Lamb",
@@ -182,11 +175,18 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
+"id": "realia:Sword",
+"type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
-"preferred_label": "Goat"
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Bow"
 },
 {
 "id": "fauna:Flock",

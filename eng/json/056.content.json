@@ -35,11 +35,11 @@
 "preferred_label": "Judea"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
+"id": "person:Jesus.2",
+"type": "person",
 "confidence": 0.29,
 "match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Jesus"
 },
 {
 "id": "group:Jews",
@@ -49,11 +49,11 @@
 "preferred_label": "Jews"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
+"id": "keyterm:Ability",
+"type": "keyterm",
 "confidence": 0.29,
 "match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "Ability"
 },
 {
 "id": "group:Relatives",
@@ -63,18 +63,18 @@
 "preferred_label": "Relatives"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Believe"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
 },
 {
 "id": "keyterm:Disciple",

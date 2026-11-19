@@ -35,13 +35,6 @@
 "preferred_label": "Paul"
 },
 {
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.3727,
-"match_method": "canonical",
-"preferred_label": "Barnabas"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.3727,
@@ -56,18 +49,18 @@
 "preferred_label": "Gentiles"
 },
 {
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.3727,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
 "id": "keyterm:Worship",
 "type": "keyterm",
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "Worship"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
 },
 {
 "id": "keyterm:Life",
@@ -84,32 +77,18 @@
 "preferred_label": "Always"
 },
 {
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
 "id": "keyterm:Resentment",
 "type": "keyterm",
 "confidence": 0.2091,
 "match_method": "canonical",
 "preferred_label": "Resentment"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Decided"
 },
 {
 "id": "keyterm:Word",
@@ -126,18 +105,18 @@
 "preferred_label": "Blaspheme"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
+"id": "keyterm:Glory",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "Glory"
 },
 {
-"id": "place:Iconium",
-"type": "place",
+"id": "keyterm:Believe",
+"type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Iconium"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Disciple",
@@ -147,11 +126,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "keyterm:Favor",
@@ -159,6 +145,13 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Favor"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
 },
 {
 "id": "keyterm:CauseOfJoy",
@@ -175,11 +168,11 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
+"id": "place:Iconium",
+"type": "place",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Iconium"
 },
 {
 "id": "keyterm:AskFor",
@@ -187,6 +180,13 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Decided"
 }
 ]
 }

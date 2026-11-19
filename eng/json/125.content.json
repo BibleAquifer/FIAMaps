@@ -70,11 +70,11 @@
 "preferred_label": "Bethsaida"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "True"
 },
 {
 "id": "keyterm:Law",
@@ -84,25 +84,11 @@
 "preferred_label": "Law"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Good",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Good"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Israelites"
+"preferred_label": "Believe"
 },
 {
 "id": "deity:Angel",
@@ -119,6 +105,48 @@
 "preferred_label": "Sky"
 },
 {
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
 "id": "person:Joseph.4",
 "type": "person",
 "confidence": 0.2,
@@ -133,39 +161,11 @@
 "preferred_label": "Surely!"
 },
 {
-"id": "person:Andrew",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Andrew"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "LORD"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Moses"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Peter"
 }
 ]
 }

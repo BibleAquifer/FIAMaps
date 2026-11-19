@@ -42,13 +42,6 @@
 "preferred_label": "Bow Down"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.275,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.275,
@@ -63,6 +56,13 @@
 "preferred_label": "Jesus"
 },
 {
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
 "id": "keyterm:CauseOfJoy",
 "type": "keyterm",
 "confidence": 0.2042,
@@ -70,18 +70,32 @@
 "preferred_label": "Cause of Joy"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Offering"
-},
-{
 "id": "person:Mary",
 "type": "person",
 "confidence": 0.1875,
 "match_method": "canonical",
 "preferred_label": "Mary"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:GenericPriest",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "A Priest"
 },
 {
 "id": "group:GenericPriests",
@@ -98,25 +112,11 @@
 "preferred_label": "Judah"
 },
 {
-"id": "person:Israel",
-"type": "person",
+"id": "keyterm:Offering",
+"type": "keyterm",
 "confidence": 0.1875,
 "match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "person:GenericPriest",
-"type": "person",
-"confidence": 0.1875,
-"match_method": "canonical",
-"preferred_label": "A Priest"
+"preferred_label": "Offering"
 },
 {
 "id": "group:ReligiousOfficials",
@@ -133,11 +133,11 @@
 "preferred_label": "Myrrh"
 },
 {
-"id": "flora:Frankincense",
-"type": "flora",
+"id": "realia:MoneyBox",
+"type": "realia",
 "confidence": 0.1442,
 "match_method": "canonical",
-"preferred_label": "Frankincense"
+"preferred_label": "Money Box"
 },
 {
 "id": "flora:Myrrh",
@@ -147,11 +147,18 @@
 "preferred_label": "Myrrh"
 },
 {
-"id": "realia:MoneyBox",
-"type": "realia",
+"id": "flora:Frankincense",
+"type": "flora",
 "confidence": 0.1442,
 "match_method": "canonical",
-"preferred_label": "Money Box"
+"preferred_label": "Frankincense"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1275,
+"match_method": "canonical",
+"preferred_label": "Goat"
 },
 {
 "id": "realia:Incense",
@@ -166,13 +173,6 @@
 "confidence": 0.1275,
 "match_method": "canonical",
 "preferred_label": "House"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.1275,
-"match_method": "canonical",
-"preferred_label": "Goat"
 },
 {
 "id": "fauna:Flock",

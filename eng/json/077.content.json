@@ -55,13 +55,6 @@
 "preferred_label": "Nazareth"
 },
 {
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Galileans"
-},
-{
 "id": "keyterm:True",
 "type": "keyterm",
 "confidence": 0.2643,
@@ -74,6 +67,13 @@
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Galilee"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Galileans"
 },
 {
 "id": "keyterm:Word",
@@ -97,11 +97,11 @@
 "preferred_label": "Courtyard"
 },
 {
-"id": "keyterm:Oath",
-"type": "keyterm",
+"id": "person:GenericServant",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Oath"
+"preferred_label": "A Servant"
 },
 {
 "id": "group:GenericGroup",
@@ -111,11 +111,11 @@
 "preferred_label": "A Group of People"
 },
 {
-"id": "person:GenericServant",
-"type": "person",
+"id": "keyterm:Oath",
+"type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "A Servant"
+"preferred_label": "Oath"
 }
 ]
 }

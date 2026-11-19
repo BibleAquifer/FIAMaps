@@ -49,18 +49,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.25,
 "match_method": "canonical",
 "preferred_label": "Fear"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Life"
 },
 {
 "id": "place:Phoenix",
@@ -84,13 +84,6 @@
 "preferred_label": "Cauda"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.175,
@@ -98,11 +91,11 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Believe"
 },
 {
 "id": "deity:Angel",
@@ -110,6 +103,13 @@
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "person:Claudius",
@@ -126,6 +126,20 @@
 "preferred_label": "Priesthood"
 },
 {
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
 "id": "keyterm:Fast",
 "type": "keyterm",
 "confidence": 0.175,
@@ -138,20 +152,6 @@
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Persuade"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Hope"
 }
 ]
 }

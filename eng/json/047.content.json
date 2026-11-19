@@ -28,13 +28,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.35,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.35,
@@ -42,11 +35,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.2583,
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.35,
 "match_method": "canonical",
-"preferred_label": "Galileans"
+"preferred_label": "Ability"
 },
 {
 "id": "keyterm:Witness",
@@ -54,6 +47,13 @@
 "confidence": 0.2583,
 "match_method": "canonical",
 "preferred_label": "Witness"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Galileans"
 },
 {
 "id": "place:Judea",
@@ -70,11 +70,18 @@
 "preferred_label": "Samaria"
 },
 {
-"id": "person:Israel",
-"type": "person",
+"id": "keyterm:AskFor",
+"type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "place:Jerusalem",
@@ -84,11 +91,18 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:AskFor",
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Authority.2",
 "type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Authority"
 },
 {
 "id": "deity:HolySpirit",
@@ -105,25 +119,11 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
+"id": "person:Israel",
+"type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Israel"
 },
 {
 "id": "realia:Clothing",

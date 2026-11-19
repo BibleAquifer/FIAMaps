@@ -69,18 +69,18 @@
 "preferred_label": "Believe"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "A Group of People"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
 },
 {
 "id": "realia:SourWine",
@@ -104,6 +104,13 @@
 "preferred_label": "Nazareth"
 },
 {
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
 "id": "person:Cleopas",
 "type": "person",
 "confidence": 0.1795,
@@ -118,95 +125,11 @@
 "preferred_label": "Bethlehem"
 },
 {
-"id": "person:Mary.4",
-"type": "person",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
-"id": "place:Golgotha",
-"type": "place",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Golgotha"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Priests"
-},
-{
 "id": "person:David",
 "type": "person",
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "David"
-},
-{
-"id": "person:Marymagdalene",
-"type": "person",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Mary Magdalene"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "keyterm:Belly",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Internal Organs"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Glory"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Spirit"
 },
 {
 "id": "keyterm:True",
@@ -223,6 +146,83 @@
 "preferred_label": "Affection"
 },
 {
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Priests"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
+"id": "keyterm:Belly",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Internal Organs"
+},
+{
 "id": "flora:Hyssop",
 "type": "flora",
 "confidence": 0.1195,
@@ -230,18 +230,18 @@
 "preferred_label": "Hyssop"
 },
 {
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.1105,
-"match_method": "canonical",
-"preferred_label": "Lot"
-},
-{
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Tunic"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Lot"
 }
 ]
 }

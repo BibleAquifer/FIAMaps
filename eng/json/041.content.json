@@ -103,39 +103,11 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Canaanites"
-},
-{
 "id": "group:Hebrews",
 "type": "group",
 "confidence": 0.1645,
 "match_method": "canonical",
 "preferred_label": "Hebrews"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Amorites"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Hittites"
 },
 {
 "id": "group:Jebusites",
@@ -145,46 +117,11 @@
 "preferred_label": "Jebusites"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
-},
-{
-"id": "group:Hivites",
+"id": "group:Perizzites",
 "type": "group",
 "confidence": 0.1645,
 "match_method": "canonical",
-"preferred_label": "Hivites"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
-},
-{
-"id": "keyterm:LandFlowingOfMilkAndHoney",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Land Flowing of Milk and Honey"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Appoint"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Perizzites"
 },
 {
 "id": "keyterm:Just",
@@ -194,25 +131,11 @@
 "preferred_label": "Be (Or Show Oneself) Just"
 },
 {
-"id": "person:Heth",
-"type": "person",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Heth"
-},
-{
-"id": "keyterm:Slaughtering",
+"id": "keyterm:LandFlowingOfMilkAndHoney",
 "type": "keyterm",
 "confidence": 0.1645,
 "match_method": "canonical",
-"preferred_label": "Slaughtering"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1645,
-"match_method": "canonical",
-"preferred_label": "Perizzites"
+"preferred_label": "Land Flowing of Milk and Honey"
 },
 {
 "id": "keyterm:Exempt",
@@ -222,32 +145,88 @@
 "preferred_label": "Exempt"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hivites"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
 "id": "fauna:Kid",
 "type": "fauna",
 "confidence": 0.111,
 "match_method": "canonical",
 "preferred_label": "Kid"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Cloak"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Vine"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.1045,
-"match_method": "canonical",
-"preferred_label": "Money"
 },
 {
 "id": "realia:UnleavenedBread",
@@ -269,6 +248,27 @@
 "confidence": 0.1045,
 "match_method": "canonical",
 "preferred_label": "Olive Tree"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Cloak"
 }
 ]
 }

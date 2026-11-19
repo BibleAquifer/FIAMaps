@@ -49,32 +49,11 @@
 "preferred_label": "Moses"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "confidence": 0.2429,
 "match_method": "canonical",
 "preferred_label": "Church"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Barnabas"
 },
 {
 "id": "place:Jerusalem",
@@ -84,6 +63,20 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
 "id": "person:Paul",
 "type": "person",
 "confidence": 0.2429,
@@ -91,11 +84,11 @@
 "preferred_label": "Paul"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
+"id": "person:Barnabas",
+"type": "person",
 "confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Barnabas"
 },
 {
 "id": "person:Peter",
@@ -105,18 +98,11 @@
 "preferred_label": "Peter"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.181,
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Phoenicia"
+"preferred_label": "Circumcision"
 },
 {
 "id": "person:James.3",
@@ -126,32 +112,18 @@
 "preferred_label": "James"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.1714,
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Phoenicia"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"confidence": 0.1714,
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Decided"
-},
-{
-"id": "group:GenericMales",
-"type": "group",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Men"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
+"preferred_label": "Judea"
 },
 {
 "id": "keyterm:Example",
@@ -161,18 +133,81 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "keyterm:Portent",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Portent"
-},
-{
 "id": "place:Samaria",
 "type": "place",
 "confidence": 0.1714,
 "match_method": "canonical",
 "preferred_label": "Samaria"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
 },
 {
 "id": "keyterm:Chosen",
@@ -189,109 +224,11 @@
 "preferred_label": "Blood"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Fornication"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Authority"
-},
-{
-"id": "person:David",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "David"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "group:Pharisee",
+"id": "group:GenericMales",
 "type": "group",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Pharisees"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Cause of Joy"
-},
-{
-"id": "keyterm:KnowerOfHearts",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Knower of Hearts"
-},
-{
-"id": "keyterm:Discern",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Discern"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "To Cleanse"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Always"
+"preferred_label": "Men"
 },
 {
 "id": "keyterm:GoodNews",
@@ -301,18 +238,81 @@
 "preferred_label": "Good News"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
+"id": "group:Pharisee",
+"type": "group",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Pharisees"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Favor",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:KnowerOfHearts",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Knower of Hearts"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "realia:Yoke",
@@ -320,6 +320,13 @@
 "confidence": 0.121,
 "match_method": "canonical",
 "preferred_label": "Yoke"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
 },
 {
 "id": "realia:Synagogue",
@@ -334,13 +341,6 @@
 "confidence": 0.1114,
 "match_method": "canonical",
 "preferred_label": "Image"
-},
-{
-"id": "realia:Tabernacle",
-"type": "realia",
-"confidence": 0.1114,
-"match_method": "canonical",
-"preferred_label": "Tabernacle"
 }
 ]
 }

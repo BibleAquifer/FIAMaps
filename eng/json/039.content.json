@@ -89,13 +89,6 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.2257,
-"match_method": "canonical",
-"preferred_label": "Aaron"
-},
-{
 "id": "place:Goshen",
 "type": "place",
 "confidence": 0.2257,
@@ -117,11 +110,25 @@
 "preferred_label": "Egyptians"
 },
 {
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "confidence": 0.2257,
 "match_method": "canonical",
 "preferred_label": "To Sin"
+},
+{
+"id": "person:Shiphrah",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Shiphrah"
 },
 {
 "id": "person:Puah.3",
@@ -131,11 +138,11 @@
 "preferred_label": "Puah"
 },
 {
-"id": "person:Shiphrah",
-"type": "person",
-"confidence": 0.1686,
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1657,
 "match_method": "canonical",
-"preferred_label": "Shiphrah"
+"preferred_label": "Grass"
 },
 {
 "id": "realia:House",
@@ -152,25 +159,11 @@
 "preferred_label": "Cattle"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.1657,
-"match_method": "canonical",
-"preferred_label": "Grass"
-},
-{
 "id": "place:Nile",
 "type": "place",
 "confidence": 0.1629,
 "match_method": "canonical",
 "preferred_label": "Nile River"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.1629,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
 },
 {
 "id": "keyterm:MiraculousSign",
@@ -180,11 +173,18 @@
 "preferred_label": "Miraculous Sign"
 },
 {
-"id": "flora:Wheat",
-"type": "flora",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "realia:Birthstool",
+"type": "realia",
 "confidence": 0.1086,
 "match_method": "canonical",
-"preferred_label": "Wheat"
+"preferred_label": "Birthstool"
 },
 {
 "id": "flora:Barley",
@@ -201,11 +201,11 @@
 "preferred_label": "Flax"
 },
 {
-"id": "realia:Birthstool",
-"type": "realia",
+"id": "flora:Wheat",
+"type": "flora",
 "confidence": 0.1086,
 "match_method": "canonical",
-"preferred_label": "Birthstool"
+"preferred_label": "Wheat"
 },
 {
 "id": "realia:Rod",

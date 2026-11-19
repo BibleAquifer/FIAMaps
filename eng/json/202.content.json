@@ -42,18 +42,18 @@
 "preferred_label": "Moses"
 },
 {
-"id": "keyterm:Pure",
-"type": "keyterm",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Pure"
-},
-{
 "id": "keyterm:Witness.2",
 "type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Testimony"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Pure"
 },
 {
 "id": "fauna:Onycha",
@@ -63,18 +63,18 @@
 "preferred_label": "Onycha"
 },
 {
-"id": "flora:Fennel",
-"type": "flora",
-"confidence": 0.22,
-"match_method": "canonical",
-"preferred_label": "Fennel"
-},
-{
 "id": "flora:Frankincense",
 "type": "flora",
 "confidence": 0.22,
 "match_method": "canonical",
 "preferred_label": "Frankincense"
+},
+{
+"id": "flora:Fennel",
+"type": "flora",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Fennel"
 },
 {
 "id": "flora:Liquidambar",

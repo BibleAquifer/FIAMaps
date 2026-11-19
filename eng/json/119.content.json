@@ -63,13 +63,6 @@
 "preferred_label": "Horse"
 },
 {
-"id": "place:Elim",
-"type": "place",
-"confidence": 0.2222,
-"match_method": "canonical",
-"preferred_label": "Elim"
-},
-{
 "id": "place:Marah",
 "type": "place",
 "confidence": 0.2222,
@@ -84,11 +77,11 @@
 "preferred_label": "Shur"
 },
 {
-"id": "place:Egypt",
+"id": "place:Elim",
 "type": "place",
-"confidence": 0.2,
+"confidence": 0.2222,
 "match_method": "canonical",
-"preferred_label": "Egypt"
+"preferred_label": "Elim"
 },
 {
 "id": "place:RedSea",
@@ -98,13 +91,6 @@
 "preferred_label": "Red Sea"
 },
 {
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Aaron"
-},
-{
 "id": "person:Pharaoh.6",
 "type": "person",
 "confidence": 0.2,
@@ -112,11 +98,18 @@
 "preferred_label": "Pharaoh"
 },
 {
-"id": "flora:DatePalm",
-"type": "flora",
-"confidence": 0.1622,
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Date Palm"
+"preferred_label": "Aaron"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Egypt"
 },
 {
 "id": "realia:Drum",
@@ -124,6 +117,13 @@
 "confidence": 0.1622,
 "match_method": "canonical",
 "preferred_label": "Drum"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Date Palm"
 },
 {
 "id": "realia:Chariot",

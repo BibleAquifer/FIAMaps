@@ -63,11 +63,18 @@
 "preferred_label": "Word"
 },
 {
-"id": "place:Joppa",
-"type": "place",
+"id": "keyterm:Discern",
+"type": "keyterm",
 "confidence": 0.25,
 "match_method": "canonical",
-"preferred_label": "Joppa"
+"preferred_label": "Discern"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
 },
 {
 "id": "keyterm:Defilement",
@@ -84,18 +91,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Discern",
-"type": "keyterm",
+"id": "place:Joppa",
+"type": "place",
 "confidence": 0.25,
 "match_method": "canonical",
-"preferred_label": "Discern"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "Gentiles"
+"preferred_label": "Joppa"
 },
 {
 "id": "realia:Temple",
@@ -105,67 +105,11 @@
 "preferred_label": "Temple"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Baptism"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Repent"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "An Angel"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Glory",
@@ -175,18 +119,25 @@
 "preferred_label": "Glory"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Life"
+"preferred_label": "Believe"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
+"id": "deity:Angel",
+"type": "deity",
 "confidence": 0.175,
 "match_method": "canonical",
-"preferred_label": "Caesarea"
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Repent"
 },
 {
 "id": "keyterm:Cleanse.2",
@@ -196,11 +147,60 @@
 "preferred_label": "To Cleanse"
 },
 {
+"id": "person:John",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.175,
 "match_method": "canonical",
 "preferred_label": "Salvation"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "realia:LinenCloth",
@@ -210,18 +210,18 @@
 "preferred_label": "Linen Cloth"
 },
 {
-"id": "fauna:Iguana",
-"type": "fauna",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Monitor"
-},
-{
 "id": "fauna:Snake",
 "type": "fauna",
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Snake"
+},
+{
+"id": "fauna:CreepingAnimal",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Creeping Animal"
 },
 {
 "id": "fauna:Chameleon",
@@ -231,11 +231,11 @@
 "preferred_label": "Chameleon"
 },
 {
-"id": "fauna:CreepingAnimal",
+"id": "fauna:Iguana",
 "type": "fauna",
 "confidence": 0.115,
 "match_method": "canonical",
-"preferred_label": "Creeping Animal"
+"preferred_label": "Monitor"
 },
 {
 "id": "fauna:Lizard",

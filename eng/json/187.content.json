@@ -63,6 +63,13 @@
 "preferred_label": "Ishmael"
 },
 {
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2562,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
 "id": "place:Egypt",
 "type": "place",
 "confidence": 0.2562,
@@ -70,11 +77,11 @@
 "preferred_label": "Egypt"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"confidence": 0.2562,
+"id": "place:Bered",
+"type": "place",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Egyptians"
+"preferred_label": "Bered"
 },
 {
 "id": "place:Beer-lahai-roi",
@@ -84,11 +91,11 @@
 "preferred_label": "Beer-lahai-roi"
 },
 {
-"id": "place:Bered",
+"id": "place:Shur",
 "type": "place",
-"confidence": 0.1906,
+"confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Bered"
+"preferred_label": "Shur"
 },
 {
 "id": "place:Kadesh-barnea",
@@ -103,13 +110,6 @@
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Canaan"
-},
-{
-"id": "place:Shur",
-"type": "place",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Shur"
 },
 {
 "id": "fauna:WildDonkey",
