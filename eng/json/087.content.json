@@ -35,18 +35,18 @@
 "preferred_label": "Salvation"
 },
 {
-"id": "place:Golgotha",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Golgotha"
-},
-{
 "id": "person:Simon.5",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Simon"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
 },
 {
 "id": "place:Cyrene",
@@ -56,11 +56,11 @@
 "preferred_label": "Cyrene"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Deliver",
 "type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Deliver"
 },
 {
 "id": "keyterm:Blaspheme",
@@ -70,18 +70,11 @@
 "preferred_label": "Blaspheme"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Deliver"
+"preferred_label": "Jews"
 },
 {
 "id": "person:Israel",
@@ -91,25 +84,25 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "keyterm:Heart",
+"type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Heart"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
+"id": "keyterm:Believe",
+"type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "Believe"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
+"id": "keyterm:Name",
+"type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Name"
 },
 {
 "id": "keyterm:Persuade",
@@ -119,11 +112,18 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "realia:Wine",
@@ -133,18 +133,18 @@
 "preferred_label": "Wine"
 },
 {
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.1246,
-"match_method": "canonical",
-"preferred_label": "Lot"
-},
-{
 "id": "realia:Clothing",
 "type": "realia",
 "confidence": 0.1246,
 "match_method": "canonical",
 "preferred_label": "Clothing"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Lot"
 },
 {
 "id": "realia:Temple",

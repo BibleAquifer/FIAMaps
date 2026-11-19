@@ -131,13 +131,6 @@
 "preferred_label": "Love"
 },
 {
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"confidence": 0.2191,
-"match_method": "canonical",
-"preferred_label": "Dispossess"
-},
-{
 "id": "person:Paul",
 "type": "person",
 "confidence": 0.2191,
@@ -145,32 +138,11 @@
 "preferred_label": "Paul"
 },
 {
-"id": "person:Kish",
-"type": "person",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Kish"
-},
-{
-"id": "place:Antioch.2",
-"type": "place",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Antioch"
-},
-{
-"id": "keyterm:UncircumcisedPerson",
+"id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.1638,
+"confidence": 0.2191,
 "match_method": "canonical",
-"preferred_label": "Uncircumcised Person"
-},
-{
-"id": "place:Pisidia",
-"type": "place",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Pisidia"
+"preferred_label": "Dispossess"
 },
 {
 "id": "person:Saul.2",
@@ -180,6 +152,13 @@
 "preferred_label": "Saul"
 },
 {
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Uncircumcised Person"
+},
+{
 "id": "place:Pamphylia",
 "type": "place",
 "confidence": 0.1638,
@@ -187,18 +166,11 @@
 "preferred_label": "Pamphylia"
 },
 {
-"id": "place:Paphos",
+"id": "place:Pisidia",
 "type": "place",
 "confidence": 0.1638,
 "match_method": "canonical",
-"preferred_label": "Paphos"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.1638,
-"match_method": "canonical",
-"preferred_label": "Complete"
+"preferred_label": "Pisidia"
 },
 {
 "id": "person:Jesse",
@@ -208,46 +180,39 @@
 "preferred_label": "Jesse"
 },
 {
+"id": "person:Kish",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Kish"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
 "id": "realia:Synagogue",
 "type": "realia",
 "confidence": 0.1634,
 "match_method": "canonical",
 "preferred_label": "Synagogue"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Law"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Israelites"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Benjamin"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
 },
 {
 "id": "place:Jordan",
@@ -257,13 +222,6 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Swear"
-},
-{
 "id": "person:David",
 "type": "person",
 "confidence": 0.1596,
@@ -271,39 +229,11 @@
 "preferred_label": "David"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Tribe of Benjamin"
-},
-{
-"id": "keyterm:EnticedToServe",
+"id": "keyterm:Law",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Force to Serve"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Mark"
+"preferred_label": "Law"
 },
 {
 "id": "place:Egypt",
@@ -313,18 +243,11 @@
 "preferred_label": "Egypt"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "The Way"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1596,
-"match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Heart"
 },
 {
 "id": "keyterm:Fear",
@@ -334,11 +257,25 @@
 "preferred_label": "Fear"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1596,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "person:Samuel",
@@ -346,6 +283,69 @@
 "confidence": 0.1596,
 "match_method": "canonical",
 "preferred_label": "Samuel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
 }
 ]
 }

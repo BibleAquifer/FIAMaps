@@ -63,13 +63,6 @@
 "preferred_label": "LORD"
 },
 {
-"id": "person:Gad",
-"type": "person",
-"confidence": 0.1732,
-"match_method": "canonical",
-"preferred_label": "Gad"
-},
-{
 "id": "person:Simeon.5",
 "type": "person",
 "confidence": 0.1732,
@@ -84,11 +77,11 @@
 "preferred_label": "Zebulun"
 },
 {
-"id": "person:Asher",
+"id": "person:Issachar",
 "type": "person",
 "confidence": 0.1732,
 "match_method": "canonical",
-"preferred_label": "Asher"
+"preferred_label": "Issachar"
 },
 {
 "id": "person:Shiloh",
@@ -98,11 +91,11 @@
 "preferred_label": "Shiloh"
 },
 {
-"id": "person:Issachar",
+"id": "person:Gad",
 "type": "person",
 "confidence": 0.1732,
 "match_method": "canonical",
-"preferred_label": "Issachar"
+"preferred_label": "Gad"
 },
 {
 "id": "place:Sidon",
@@ -112,11 +105,11 @@
 "preferred_label": "Sidon"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.1721,
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.1732,
 "match_method": "canonical",
-"preferred_label": "Vine"
+"preferred_label": "Asher"
 },
 {
 "id": "fauna:Donkey",
@@ -126,32 +119,18 @@
 "preferred_label": "Donkey"
 },
 {
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
 "id": "realia:Wine",
 "type": "realia",
 "confidence": 0.1721,
 "match_method": "canonical",
 "preferred_label": "Wine"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Reuben"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Strength"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "To Curse"
 },
 {
 "id": "keyterm:Arrow",
@@ -168,18 +147,11 @@
 "preferred_label": "Levi"
 },
 {
-"id": "person:Benjamin",
+"id": "person:Reuben",
 "type": "person",
 "confidence": 0.1661,
 "match_method": "canonical",
-"preferred_label": "Benjamin"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
+"preferred_label": "Reuben"
 },
 {
 "id": "keyterm:Delight",
@@ -196,6 +168,13 @@
 "preferred_label": "Salvation"
 },
 {
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
 "id": "keyterm:Dishonor",
 "type": "keyterm",
 "confidence": 0.1661,
@@ -210,11 +189,25 @@
 "preferred_label": "Naphtali"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"confidence": 0.1132,
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1661,
 "match_method": "canonical",
-"preferred_label": "Lion"
+"preferred_label": "To Curse"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
 },
 {
 "id": "fauna:Viper",
@@ -224,46 +217,11 @@
 "preferred_label": "Viper"
 },
 {
-"id": "realia:Bed",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Bed"
-},
-{
-"id": "realia:Ship",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Ship"
-},
-{
-"id": "realia:Rod",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Staff"
-},
-{
-"id": "fauna:Snake",
+"id": "fauna:Lion",
 "type": "fauna",
-"confidence": 0.1061,
+"confidence": 0.1132,
 "match_method": "canonical",
-"preferred_label": "Snake"
-},
-{
-"id": "fauna:Horse",
-"type": "fauna",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Horse"
+"preferred_label": "Lion"
 },
 {
 "id": "fauna:Deer",
@@ -273,53 +231,25 @@
 "preferred_label": "Deer"
 },
 {
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Bow"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Sword"
-},
-{
-"id": "fauna:Wolf",
+"id": "fauna:Snake",
 "type": "fauna",
 "confidence": 0.1061,
 "match_method": "canonical",
-"preferred_label": "Wolf"
+"preferred_label": "Snake"
 },
 {
-"id": "realia:Sheepfold",
+"id": "realia:Ship",
 "type": "realia",
 "confidence": 0.1061,
 "match_method": "canonical",
-"preferred_label": "Sheepfold"
+"preferred_label": "Ship"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Cattle"
-},
-{
-"id": "realia:Arrow",
+"id": "realia:Bed",
 "type": "realia",
 "confidence": 0.1061,
 "match_method": "canonical",
-"preferred_label": "Arrow"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1061,
-"match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Bed"
 },
 {
 "id": "fauna:Goat",
@@ -329,11 +259,81 @@
 "preferred_label": "Goat"
 },
 {
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Sheepfold"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Wolf"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.1061,
 "match_method": "canonical",
 "preferred_label": "Flock"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 }
 ]
 }

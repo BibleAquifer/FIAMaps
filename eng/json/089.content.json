@@ -108,20 +108,6 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.2745,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"confidence": 0.2745,
-"match_method": "canonical",
-"preferred_label": "Surely!"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2745,
@@ -136,18 +122,25 @@
 "preferred_label": "Salvation"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
 "id": "group:Angels",
 "type": "group",
 "confidence": 0.2236,
 "match_method": "canonical",
 "preferred_label": "Angels"
-},
-{
-"id": "keyterm:Week",
-"type": "keyterm",
-"confidence": 0.22,
-"match_method": "canonical",
-"preferred_label": "Week"
 },
 {
 "id": "person:Mary.2",
@@ -157,25 +150,11 @@
 "preferred_label": "Mary"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Believe",
+"id": "keyterm:Week",
 "type": "keyterm",
-"confidence": 0.2164,
+"confidence": 0.22,
 "match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "To Command"
+"preferred_label": "Week"
 },
 {
 "id": "person:David",
@@ -185,6 +164,20 @@
 "preferred_label": "David"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "person:Marymagdalene",
 "type": "person",
 "confidence": 0.2164,
@@ -192,11 +185,25 @@
 "preferred_label": "Mary Magdalene"
 },
 {
-"id": "person:Israel",
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "person:John",
 "type": "person",
 "confidence": 0.2164,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Holy"
 },
 {
 "id": "keyterm:Life",
@@ -213,13 +220,6 @@
 "preferred_label": "Promise"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.2164,
-"match_method": "canonical",
-"preferred_label": "Holy"
-},
-{
 "id": "realia:Cross",
 "type": "realia",
 "confidence": 0.2145,
@@ -234,25 +234,25 @@
 "preferred_label": "Salome"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
+"id": "person:James.3",
+"type": "person",
 "confidence": 0.1582,
 "match_method": "canonical",
-"preferred_label": "Nazareth"
+"preferred_label": "James"
 },
 {
-"id": "keyterm:Happen",
+"id": "keyterm:Witness",
 "type": "keyterm",
 "confidence": 0.1582,
 "match_method": "canonical",
-"preferred_label": "To Cause to Happen"
+"preferred_label": "Witness"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.1582,
 "match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Baptism"
 }
 ]
 }

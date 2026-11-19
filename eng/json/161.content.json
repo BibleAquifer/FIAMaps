@@ -56,13 +56,6 @@
 "preferred_label": "Attalia"
 },
 {
-"id": "place:Pisidia",
-"type": "place",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Pisidia"
-},
-{
 "id": "place:Pamphylia",
 "type": "place",
 "confidence": 0.2313,
@@ -70,11 +63,11 @@
 "preferred_label": "Pamphylia"
 },
 {
-"id": "place:Iconium",
+"id": "place:Pisidia",
 "type": "place",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Iconium"
+"preferred_label": "Pisidia"
 },
 {
 "id": "keyterm:Fast",
@@ -91,42 +84,14 @@
 "preferred_label": "Perga"
 },
 {
-"id": "place:Lystra",
+"id": "place:Iconium",
 "type": "place",
-"confidence": 0.2063,
+"confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Lystra"
+"preferred_label": "Iconium"
 },
 {
 "id": "place:Antioch.2",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Antioch"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Kingdom"
-},
-{
-"id": "place:Antioch",
 "type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
@@ -140,6 +105,13 @@
 "preferred_label": "Good News"
 },
 {
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
 "id": "group:Gentile",
 "type": "group",
 "confidence": 0.2063,
@@ -147,11 +119,39 @@
 "preferred_label": "Gentiles"
 },
 {
+"id": "place:Lystra",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Lystra"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Ask for"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
 },
 {
 "id": "realia:Door",

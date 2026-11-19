@@ -83,32 +83,11 @@
 "preferred_label": "Synagogue"
 },
 {
-"id": "person:Kish",
+"id": "person:Saul.2",
 "type": "person",
 "confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Kish"
-},
-{
-"id": "place:Canaan",
-"type": "place",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "place:Antioch.2",
-"type": "place",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Antioch"
-},
-{
-"id": "place:Cilicia",
-"type": "place",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Cilicia"
+"preferred_label": "Saul"
 },
 {
 "id": "place:Pisidia",
@@ -118,13 +97,6 @@
 "preferred_label": "Pisidia"
 },
 {
-"id": "place:Paphos",
-"type": "place",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Paphos"
-},
-{
 "id": "person:Jesse",
 "type": "person",
 "confidence": 0.1906,
@@ -132,53 +104,39 @@
 "preferred_label": "Jesse"
 },
 {
-"id": "person:Saul.2",
+"id": "person:Kish",
 "type": "person",
 "confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Saul"
+"preferred_label": "Kish"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.1781,
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Antioch"
 },
 {
-"id": "person:Silas",
-"type": "person",
-"confidence": 0.1781,
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Silas"
+"preferred_label": "Paphos"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.1781,
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Israelites"
+"preferred_label": "Cilicia"
 },
 {
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"confidence": 0.1781,
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Chosen"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Benjamin"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
+"preferred_label": "Canaan"
 },
 {
 "id": "person:David",
@@ -195,32 +153,11 @@
 "preferred_label": "Church"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Tribe of Benjamin"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Favor",
+"id": "keyterm:Law",
 "type": "keyterm",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
+"preferred_label": "Law"
 },
 {
 "id": "place:Egypt",
@@ -230,11 +167,18 @@
 "preferred_label": "Egypt"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Heart"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Silas"
 },
 {
 "id": "keyterm:Fear",
@@ -244,18 +188,25 @@
 "preferred_label": "Fear"
 },
 {
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Cyprus"
-},
-{
-"id": "keyterm:Heart",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "person:Samuel",
@@ -263,6 +214,55 @@
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Samuel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
 }
 ]
 }

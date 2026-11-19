@@ -35,18 +35,18 @@
 "preferred_label": "Peter"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.3125,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.3125,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Sky"
 },
 {
 "id": "keyterm:Church",
@@ -63,13 +63,6 @@
 "preferred_label": "Caesarea Philippi"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -77,46 +70,11 @@
 "preferred_label": "Body"
 },
 {
-"id": "person:John.4",
+"id": "person:Jeremiah.6",
 "type": "person",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Baptist"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Blood"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "World of the Dead"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Elijah"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Happy"
+"preferred_label": "Jeremiah"
 },
 {
 "id": "group:GenericDisciples",
@@ -126,11 +84,39 @@
 "preferred_label": "A Group of Disciples"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Happy",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Happy"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "World of the Dead"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Blood"
 },
 {
 "id": "keyterm:Life",
@@ -138,6 +124,27 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Life"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Baptist"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Ask for"
 },
 {
 "id": "deity:Lord",
@@ -154,18 +161,11 @@
 "preferred_label": "Hell"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Jeremiah"
+"preferred_label": "Kingdom"
 },
 {
 "id": "realia:Key",

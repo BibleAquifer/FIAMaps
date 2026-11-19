@@ -35,11 +35,11 @@
 "preferred_label": "Damascus"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.3538,
 "match_method": "canonical",
-"preferred_label": "Name"
+"preferred_label": "Be a Disciple"
 },
 {
 "id": "place:Jerusalem",
@@ -49,11 +49,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.3538,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "Name"
 },
 {
 "id": "group:Jews",
@@ -63,13 +63,6 @@
 "preferred_label": "Jews"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.2692,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.2692,
@@ -77,11 +70,11 @@
 "preferred_label": "Fear"
 },
 {
-"id": "place:Tarsus",
-"type": "place",
-"confidence": 0.2,
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.2692,
 "match_method": "canonical",
-"preferred_label": "Tarsus"
+"preferred_label": "Paul"
 },
 {
 "id": "group:Hellenist",
@@ -91,39 +84,11 @@
 "preferred_label": "Hellenists"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "place:Galilee",
+"id": "place:Tarsus",
 "type": "place",
-"confidence": 0.1846,
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:CallUpon",
-"type": "keyterm",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Call Upon"
-},
-{
-"id": "place:Greece",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Greece"
+"preferred_label": "Tarsus"
 },
 {
 "id": "place:Samaria",
@@ -133,6 +98,13 @@
 "preferred_label": "Samaria"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
 "id": "keyterm:Church",
 "type": "keyterm",
 "confidence": 0.1846,
@@ -140,18 +112,18 @@
 "preferred_label": "Church"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
+"id": "keyterm:Believe",
+"type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "Believe"
 },
 {
-"id": "person:Barnabas",
-"type": "person",
+"id": "keyterm:CallUpon",
+"type": "keyterm",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Barnabas"
+"preferred_label": "Call Upon"
 },
 {
 "id": "keyterm:Peace",
@@ -161,11 +133,39 @@
 "preferred_label": "Make Peace"
 },
 {
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
 "id": "place:Caesarea",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
 "preferred_label": "Caesarea"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Greece"
 },
 {
 "id": "keyterm:AskFor",
@@ -175,11 +175,11 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
+"id": "place:Judea",
+"type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Proclaim"
+"preferred_label": "Judea"
 },
 {
 "id": "realia:Basket",

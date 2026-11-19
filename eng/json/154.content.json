@@ -56,18 +56,18 @@
 "preferred_label": "Gerar"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.25,
-"match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.25,
 "match_method": "canonical",
 "preferred_label": "Fear"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "place:Shur",
@@ -91,13 +91,6 @@
 "preferred_label": "Negev"
 },
 {
-"id": "place:Kadesh-barnea",
-"type": "place",
-"confidence": 0.175,
-"match_method": "canonical",
-"preferred_label": "Kadesh-barnea"
-},
-{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "confidence": 0.175,
@@ -105,11 +98,25 @@
 "preferred_label": "Kindness"
 },
 {
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Kadesh-barnea"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Flock"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Cattle"
 },
 {
 "id": "realia:Money",
@@ -124,13 +131,6 @@
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Goat"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Cattle"
 }
 ]
 }

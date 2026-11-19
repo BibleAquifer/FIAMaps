@@ -62,6 +62,13 @@
 "preferred_label": "Bethany"
 },
 {
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
 "id": "group:GenericGroup",
 "type": "group",
 "confidence": 0.2982,
@@ -76,25 +83,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.2982,
-"match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
 "id": "place:Bethphage",
 "type": "place",
 "confidence": 0.2464,
 "match_method": "canonical",
 "preferred_label": "Bethphage"
-},
-{
-"id": "keyterm:Hosanna",
-"type": "keyterm",
-"confidence": 0.2393,
-"match_method": "canonical",
-"preferred_label": "Hosanna"
 },
 {
 "id": "keyterm:Height",
@@ -104,18 +97,18 @@
 "preferred_label": "Height"
 },
 {
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
+},
+{
 "id": "flora:OliveTree",
 "type": "flora",
 "confidence": 0.2382,
 "match_method": "canonical",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2321,
-"match_method": "canonical",
-"preferred_label": "Name"
 },
 {
 "id": "keyterm:Peace",
@@ -125,18 +118,18 @@
 "preferred_label": "Make Peace"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
 "id": "place:OlivesMount",
 "type": "place",
 "confidence": 0.1804,
 "match_method": "canonical",
 "preferred_label": "Mount of Olives"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.1721,
-"match_method": "canonical",
-"preferred_label": "Cloak"
 },
 {
 "id": "realia:Clothing",
@@ -146,32 +139,11 @@
 "preferred_label": "Clothing"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1661,
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1721,
 "match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
-"id": "person:David",
-"type": "person",
-"confidence": 0.1661,
-"match_method": "canonical",
-"preferred_label": "David"
+"preferred_label": "Cloak"
 },
 {
 "id": "group:GenericDisciples",
@@ -181,6 +153,13 @@
 "preferred_label": "A Group of Disciples"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.1661,
@@ -188,11 +167,18 @@
 "preferred_label": "Glory"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.1661,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "To Command"
 },
 {
 "id": "group:Pharisee",
@@ -202,11 +188,25 @@
 "preferred_label": "Pharisees"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "confidence": 0.1661,
 "match_method": "canonical",
 "preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
 },
 {
 "id": "flora:Rush",

@@ -76,18 +76,18 @@
 "preferred_label": "Canaan"
 },
 {
-"id": "place:Machpelah",
-"type": "place",
-"confidence": 0.2961,
-"match_method": "canonical",
-"preferred_label": "Machpelah"
-},
-{
 "id": "place:Hebron",
 "type": "place",
 "confidence": 0.2961,
 "match_method": "canonical",
 "preferred_label": "Hebron"
+},
+{
+"id": "place:Machpelah",
+"type": "place",
+"confidence": 0.2961,
+"match_method": "canonical",
+"preferred_label": "Machpelah"
 },
 {
 "id": "place:Mamre",
@@ -97,18 +97,18 @@
 "preferred_label": "Mamre"
 },
 {
-"id": "person:Sarah",
-"type": "person",
-"confidence": 0.2908,
-"match_method": "canonical",
-"preferred_label": "Sarah"
-},
-{
 "id": "place:Sodom",
 "type": "place",
 "confidence": 0.2908,
 "match_method": "canonical",
 "preferred_label": "Sodom"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.2908,
+"match_method": "canonical",
+"preferred_label": "Sarah"
 },
 {
 "id": "fauna:Goat",
@@ -132,18 +132,18 @@
 "preferred_label": "Jordan River"
 },
 {
-"id": "place:Negeb",
-"type": "place",
-"confidence": 0.2237,
-"match_method": "canonical",
-"preferred_label": "Negev"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "confidence": 0.2237,
 "match_method": "canonical",
 "preferred_label": "Egypt"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Negev"
 },
 {
 "id": "realia:Shekel",
@@ -181,11 +181,11 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
+"id": "fauna:Lamb",
+"type": "fauna",
 "confidence": 0.1637,
 "match_method": "canonical",
-"preferred_label": "Altar"
+"preferred_label": "Sheep"
 },
 {
 "id": "realia:StoneAltar",
@@ -195,11 +195,32 @@
 "preferred_label": "Stone Altar"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
+"id": "realia:Altar",
+"type": "realia",
 "confidence": 0.1637,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Altar"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Gomorrah"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Bethel"
 },
 {
 "id": "group:Canaan",
@@ -209,11 +230,11 @@
 "preferred_label": "Canaanites"
 },
 {
-"id": "place:Gomorrah",
-"type": "place",
+"id": "keyterm:Sin",
+"type": "keyterm",
 "confidence": 0.1618,
 "match_method": "canonical",
-"preferred_label": "Gomorrah"
+"preferred_label": "To Sin"
 },
 {
 "id": "group:Hittite",
@@ -237,25 +258,11 @@
 "preferred_label": "Zoar"
 },
 {
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1618,
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1018,
 "match_method": "canonical",
-"preferred_label": "Perizzites"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 0.1618,
-"match_method": "canonical",
-"preferred_label": "Bethel"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.1618,
-"match_method": "canonical",
-"preferred_label": "To Sin"
+"preferred_label": "Oak"
 },
 {
 "id": "fauna:Bull",
@@ -263,13 +270,6 @@
 "confidence": 0.1018,
 "match_method": "canonical",
 "preferred_label": "Cattle"
-},
-{
-"id": "flora:Oak",
-"type": "flora",
-"confidence": 0.1018,
-"match_method": "canonical",
-"preferred_label": "Oak"
 }
 ]
 }

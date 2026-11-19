@@ -62,6 +62,20 @@
 "preferred_label": "Jerusalem"
 },
 {
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.245,
@@ -76,11 +90,11 @@
 "preferred_label": "Truth"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
 "confidence": 0.245,
 "match_method": "canonical",
-"preferred_label": "Law"
+"preferred_label": "Spirit"
 },
 {
 "id": "person:GenericFemale",
@@ -90,46 +104,11 @@
 "preferred_label": "A Woman"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.245,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.245,
-"match_method": "canonical",
-"preferred_label": "True"
-},
-{
 "id": "person:Nicodemus",
 "type": "person",
 "confidence": 0.1825,
 "match_method": "canonical",
 "preferred_label": "Nicodemus"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Decided"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Worshiper",
-"type": "keyterm",
-"confidence": 0.1725,
-"match_method": "canonical",
-"preferred_label": "Worshiper"
 },
 {
 "id": "group:Jews",
@@ -139,11 +118,32 @@
 "preferred_label": "Jews"
 },
 {
+"id": "keyterm:Worshiper",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Worshiper"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.1725,
 "match_method": "canonical",
 "preferred_label": "Salvation"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Decided"
 },
 {
 "id": "group:ReligiousOfficials",
@@ -153,18 +153,18 @@
 "preferred_label": "Religious Officials"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1125,
-"match_method": "canonical",
-"preferred_label": "House"
-},
-{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.1125,
 "match_method": "canonical",
 "preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "House"
 }
 ]
 }

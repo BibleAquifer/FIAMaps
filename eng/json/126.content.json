@@ -33,18 +33,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.4812,
-"match_method": "canonical",
-"preferred_label": "Barnabas"
-},
-{
 "id": "person:Paul",
 "type": "person",
 "confidence": 0.4812,
 "match_method": "canonical",
 "preferred_label": "Paul"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.4812,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
 },
 {
 "id": "place:Antioch",
@@ -89,6 +89,13 @@
 "preferred_label": "Mark"
 },
 {
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.2375,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
 "id": "keyterm:Chosen",
 "type": "keyterm",
 "confidence": 0.2375,
@@ -101,13 +108,6 @@
 "confidence": 0.2375,
 "match_method": "canonical",
 "preferred_label": "Name"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"confidence": 0.2375,
-"match_method": "canonical",
-"preferred_label": "Church"
 },
 {
 "id": "deity:HolySpirit",
@@ -138,13 +138,6 @@
 "preferred_label": "Agabus"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "keyterm:Beloved",
 "type": "keyterm",
 "confidence": 0.1688,
@@ -152,32 +145,18 @@
 "preferred_label": "Beloved"
 },
 {
-"id": "place:Judea",
+"id": "place:Pamphylia",
 "type": "place",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Judea"
+"preferred_label": "Pamphylia"
 },
 {
-"id": "keyterm:Encourage",
+"id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Encourage"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Blood"
+"preferred_label": "Be a Disciple"
 },
 {
 "id": "keyterm:Fornication",
@@ -185,13 +164,6 @@
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Fornication"
-},
-{
-"id": "place:Pamphylia",
-"type": "place",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Pamphylia"
 },
 {
 "id": "keyterm:Peace",
@@ -208,25 +180,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Blood",
 "type": "keyterm",
 "confidence": 0.1688,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1688,
-"match_method": "canonical",
-"preferred_label": "Favor"
+"preferred_label": "Blood"
 },
 {
 "id": "keyterm:Life",
@@ -243,6 +201,13 @@
 "preferred_label": "Good News"
 },
 {
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
 "id": "group:Gentile",
 "type": "group",
 "confidence": 0.1688,
@@ -250,11 +215,46 @@
 "preferred_label": "Gentiles"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
 "id": "place:Cyprus",
 "type": "place",
 "confidence": 0.1688,
 "match_method": "canonical",
 "preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Judea"
 }
 ]
 }

@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Macedonia",
-"type": "place",
-"confidence": 0.3833,
-"match_method": "canonical",
-"preferred_label": "Macedonia"
-},
-{
 "id": "place:Troas",
 "type": "place",
 "confidence": 0.3833,
@@ -35,11 +28,11 @@
 "preferred_label": "Troas"
 },
 {
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 0.35,
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3833,
 "match_method": "canonical",
-"preferred_label": "Encourage"
+"preferred_label": "Macedonia"
 },
 {
 "id": "keyterm:AskFor",
@@ -49,18 +42,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "person:Secundus",
-"type": "person",
-"confidence": 0.2583,
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.35,
 "match_method": "canonical",
-"preferred_label": "Secundus"
+"preferred_label": "Encourage"
 },
 {
-"id": "person:Gaius.2",
-"type": "person",
+"id": "group:Asia",
+"type": "group",
 "confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Gaius"
+"preferred_label": "Asians"
 },
 {
 "id": "person:Pyrrhus",
@@ -70,32 +63,25 @@
 "preferred_label": "Pyrrhus"
 },
 {
-"id": "place:Greece",
-"type": "place",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Greece"
-},
-{
-"id": "person:Trophimus",
+"id": "person:Gaius.2",
 "type": "person",
 "confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Trophimus"
+"preferred_label": "Gaius"
 },
 {
-"id": "group:Berea",
-"type": "group",
+"id": "person:Secundus",
+"type": "person",
 "confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Bereans"
+"preferred_label": "Secundus"
 },
 {
-"id": "group:Asia",
-"type": "group",
+"id": "place:Philippi",
+"type": "place",
 "confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Asians"
+"preferred_label": "Philippi"
 },
 {
 "id": "person:Tychicus",
@@ -112,25 +98,25 @@
 "preferred_label": "Sopater"
 },
 {
-"id": "place:Philippi",
+"id": "person:Trophimus",
+"type": "person",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Trophimus"
+},
+{
+"id": "group:Berea",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Bereans"
+},
+{
+"id": "place:Greece",
 "type": "place",
 "confidence": 0.2583,
 "match_method": "canonical",
-"preferred_label": "Philippi"
-},
-{
-"id": "person:Timothy",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Timothy"
-},
-{
-"id": "place:Asia",
-"type": "place",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Asia"
+"preferred_label": "Greece"
 },
 {
 "id": "group:Thessalonica",
@@ -140,18 +126,11 @@
 "preferred_label": "Thessalonians"
 },
 {
-"id": "person:Aristarchus",
-"type": "person",
+"id": "place:Derbe",
+"type": "place",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Aristarchus"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "Derbe"
 },
 {
 "id": "group:Jews",
@@ -161,11 +140,11 @@
 "preferred_label": "Jews"
 },
 {
-"id": "person:Paul",
-"type": "person",
+"id": "place:Asia",
+"type": "place",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Paul"
+"preferred_label": "Asia"
 },
 {
 "id": "place:Berea",
@@ -175,6 +154,20 @@
 "preferred_label": "Berea"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Aristarchus"
+},
+{
 "id": "place:Thessalonica",
 "type": "place",
 "confidence": 0.225,
@@ -182,11 +175,18 @@
 "preferred_label": "Thessalonica"
 },
 {
-"id": "place:Derbe",
-"type": "place",
+"id": "person:Paul",
+"type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Derbe"
+"preferred_label": "Paul"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Timothy"
 }
 ]
 }

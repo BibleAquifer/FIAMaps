@@ -35,13 +35,6 @@
 "preferred_label": "Blood"
 },
 {
-"id": "place:Corban",
-"type": "place",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Temple Treasury"
-},
-{
 "id": "person:Pilate",
 "type": "person",
 "confidence": 0.215,
@@ -49,11 +42,11 @@
 "preferred_label": "Pilate"
 },
 {
-"id": "person:Judas.2",
-"type": "person",
-"confidence": 0.195,
+"id": "place:Corban",
+"type": "place",
+"confidence": 0.215,
 "match_method": "canonical",
-"preferred_label": "Judas"
+"preferred_label": "Temple Treasury"
 },
 {
 "id": "keyterm:Happen",
@@ -63,32 +56,11 @@
 "preferred_label": "To Cause to Happen"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Israel"
-},
-{
 "id": "person:Jeremiah.6",
 "type": "person",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Jeremiah"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Priests"
 },
 {
 "id": "keyterm:Lawful",
@@ -98,25 +70,25 @@
 "preferred_label": "Be Lawful"
 },
 {
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Condemn"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "To Sin"
-},
-{
 "id": "keyterm:Repent",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Repent"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Priests"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "deity:Lord",
@@ -126,11 +98,32 @@
 "preferred_label": "LORD"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.135,
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Temple"
+"preferred_label": "Condemn"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "realia:Treasury",
@@ -138,6 +131,13 @@
 "confidence": 0.135,
 "match_method": "canonical",
 "preferred_label": "Treasury"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.135,
+"match_method": "canonical",
+"preferred_label": "Temple"
 }
 ]
 }

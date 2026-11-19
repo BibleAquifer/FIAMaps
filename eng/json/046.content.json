@@ -28,11 +28,11 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
+"id": "deity:Angel",
+"type": "deity",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Surely!"
+"preferred_label": "An Angel"
 },
 {
 "id": "keyterm:Ability",
@@ -42,11 +42,11 @@
 "preferred_label": "Ability"
 },
 {
-"id": "keyterm:Chosen",
+"id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Chosen"
+"preferred_label": "Surely!"
 },
 {
 "id": "keyterm:Parable",
@@ -56,6 +56,13 @@
 "preferred_label": "Parable"
 },
 {
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.2063,
@@ -63,11 +70,11 @@
 "preferred_label": "Glory"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"confidence": 0.2063,
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1463,
 "match_method": "canonical",
-"preferred_label": "An Angel"
+"preferred_label": "Door"
 },
 {
 "id": "flora:Fig",
@@ -75,13 +82,6 @@
 "confidence": 0.1463,
 "match_method": "canonical",
 "preferred_label": "Fig"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"confidence": 0.1463,
-"match_method": "canonical",
-"preferred_label": "Door"
 }
 ]
 }

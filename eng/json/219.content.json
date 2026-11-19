@@ -90,11 +90,11 @@
 "preferred_label": "Sarah"
 },
 {
-"id": "place:Canaan",
+"id": "place:Haran",
 "type": "place",
 "confidence": 0.2407,
 "match_method": "canonical",
-"preferred_label": "Canaan"
+"preferred_label": "Haran"
 },
 {
 "id": "person:Lot",
@@ -104,18 +104,18 @@
 "preferred_label": "Lot"
 },
 {
-"id": "place:Haran",
+"id": "place:Canaan",
 "type": "place",
 "confidence": 0.2407,
 "match_method": "canonical",
-"preferred_label": "Haran"
+"preferred_label": "Canaan"
 },
 {
-"id": "group:Amorites",
-"type": "group",
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
 "confidence": 0.2333,
 "match_method": "canonical",
-"preferred_label": "Amorites"
+"preferred_label": "Word of the Lord"
 },
 {
 "id": "keyterm:EnticedToServe",
@@ -125,11 +125,11 @@
 "preferred_label": "Force to Serve"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
+"id": "group:Amorites",
+"type": "group",
 "confidence": 0.2333,
 "match_method": "canonical",
-"preferred_label": "Word of the Lord"
+"preferred_label": "Amorites"
 },
 {
 "id": "person:Nahor.2",
@@ -146,6 +146,20 @@
 "preferred_label": "Kadmonites"
 },
 {
+"id": "person:Eliezer.2",
+"type": "person",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Eliezer"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
 "id": "person:Milcah",
 "type": "person",
 "confidence": 0.1741,
@@ -153,11 +167,11 @@
 "preferred_label": "Milcah"
 },
 {
-"id": "place:Euphrates",
-"type": "place",
+"id": "group:Kenizzites",
+"type": "group",
 "confidence": 0.1741,
 "match_method": "canonical",
-"preferred_label": "Euphrates River"
+"preferred_label": "Kenizzites"
 },
 {
 "id": "person:Iscah",
@@ -174,13 +188,6 @@
 "preferred_label": "Shield"
 },
 {
-"id": "person:Eliezer.2",
-"type": "person",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Eliezer"
-},
-{
 "id": "keyterm:BelieveIn",
 "type": "keyterm",
 "confidence": 0.1741,
@@ -188,25 +195,11 @@
 "preferred_label": "Believe In"
 },
 {
-"id": "group:Kenizzites",
-"type": "group",
+"id": "place:Euphrates",
+"type": "place",
 "confidence": 0.1741,
 "match_method": "canonical",
-"preferred_label": "Kenizzites"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Fear"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Canaanites"
+"preferred_label": "Euphrates River"
 },
 {
 "id": "group:Jebusites",
@@ -216,18 +209,46 @@
 "preferred_label": "Jebusites"
 },
 {
-"id": "group:Hittite",
+"id": "group:Perizzites",
 "type": "group",
 "confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Hittites"
+"preferred_label": "Perizzites"
 },
 {
-"id": "keyterm:IntactState",
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Girgashites"
+},
+{
+"id": "keyterm:Covenant",
 "type": "keyterm",
 "confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Peace"
+"preferred_label": "Covenant"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Passion"
 },
 {
 "id": "keyterm:Terror",
@@ -237,18 +258,11 @@
 "preferred_label": "Terror"
 },
 {
-"id": "group:Rephaim",
+"id": "group:Hittite",
 "type": "group",
 "confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Rephaim"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Covenant"
+"preferred_label": "Hittites"
 },
 {
 "id": "place:Damascus",
@@ -265,32 +279,18 @@
 "preferred_label": "Heth"
 },
 {
-"id": "group:Girgashites",
-"type": "group",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Girgashites"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Egypt"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Perizzites"
-},
-{
-"id": "keyterm:Ardour",
+"id": "keyterm:IntactState",
 "type": "keyterm",
 "confidence": 0.1667,
 "match_method": "canonical",
-"preferred_label": "Passion"
+"preferred_label": "Peace"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Rephaim"
 },
 {
 "id": "group:Kenite",
@@ -307,27 +307,6 @@
 "preferred_label": "Goat"
 },
 {
-"id": "fauna:Bird",
-"type": "fauna",
-"confidence": 0.1067,
-"match_method": "canonical",
-"preferred_label": "Bird"
-},
-{
-"id": "fauna:Dove",
-"type": "fauna",
-"confidence": 0.1067,
-"match_method": "canonical",
-"preferred_label": "Dove"
-},
-{
-"id": "realia:MoltenImage",
-"type": "realia",
-"confidence": 0.1067,
-"match_method": "canonical",
-"preferred_label": "Molten Image"
-},
-{
 "id": "fauna:Vulture",
 "type": "fauna",
 "confidence": 0.1067,
@@ -335,11 +314,11 @@
 "preferred_label": "Vulture"
 },
 {
-"id": "fauna:Bull",
+"id": "fauna:Bird",
 "type": "fauna",
 "confidence": 0.1067,
 "match_method": "canonical",
-"preferred_label": "Cattle"
+"preferred_label": "Bird"
 },
 {
 "id": "fauna:Lamb",
@@ -356,11 +335,32 @@
 "preferred_label": "Flock"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
 "id": "realia:SmallShield",
 "type": "realia",
 "confidence": 0.1067,
 "match_method": "canonical",
 "preferred_label": "Small Shield"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
 }
 ]
 }

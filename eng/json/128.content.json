@@ -55,18 +55,18 @@
 "preferred_label": "Believe"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.3114,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "confidence": 0.3114,
 "match_method": "canonical",
 "preferred_label": "Life"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3114,
+"match_method": "canonical",
+"preferred_label": "Paul"
 },
 {
 "id": "person:Stephen",
@@ -90,18 +90,18 @@
 "preferred_label": "Symbol"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.2409,
-"match_method": "canonical",
-"preferred_label": "Sky"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "confidence": 0.2409,
 "match_method": "canonical",
 "preferred_label": "Church"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Sky"
 },
 {
 "id": "deity:Lord",
@@ -132,11 +132,11 @@
 "preferred_label": "Cana"
 },
 {
-"id": "keyterm:Portent",
+"id": "keyterm:Witness",
 "type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Portent"
+"preferred_label": "Witness"
 },
 {
 "id": "place:Samaria",
@@ -144,13 +144,6 @@
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Samaria"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
 },
 {
 "id": "keyterm:Glory",
@@ -167,11 +160,18 @@
 "preferred_label": "Bear Witness"
 },
 {
-"id": "person:GenericOfficial",
-"type": "person",
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Public Official"
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Portent"
 },
 {
 "id": "place:Capernaum",
@@ -181,11 +181,18 @@
 "preferred_label": "Capernaum"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
+"id": "deity:HolySpirit",
+"type": "deity",
 "confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Spirit"
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Public Official"
 },
 {
 "id": "keyterm:AskFor",
@@ -193,13 +200,6 @@
 "confidence": 0.1705,
 "match_method": "canonical",
 "preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Witness",
-"type": "keyterm",
-"confidence": 0.1705,
-"match_method": "canonical",
-"preferred_label": "Witness"
 },
 {
 "id": "keyterm:Sin",
@@ -214,13 +214,6 @@
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Prison"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.1105,
-"match_method": "canonical",
-"preferred_label": "Cloak"
 },
 {
 "id": "realia:Temple",
@@ -242,6 +235,13 @@
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Wine"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Cloak"
 }
 ]
 }

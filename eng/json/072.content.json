@@ -69,25 +69,11 @@
 "preferred_label": "Fish"
 },
 {
-"id": "person:SyrophonecianWoman",
-"type": "person",
-"confidence": 0.1842,
-"match_method": "canonical",
-"preferred_label": "Syrophonecian Woman"
-},
-{
 "id": "place:Magadan",
 "type": "place",
 "confidence": 0.1842,
 "match_method": "canonical",
 "preferred_label": "Magadan"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.1842,
-"match_method": "canonical",
-"preferred_label": "Tyre"
 },
 {
 "id": "place:Sidon",
@@ -97,46 +83,18 @@
 "preferred_label": "Sidon"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1737,
+"id": "person:SyrophonecianWoman",
+"type": "person",
+"confidence": 0.1842,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Syrophonecian Woman"
 },
 {
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Be Demon Possessed"
-},
-{
-"id": "place:Canaan",
+"id": "place:Tyre",
 "type": "place",
-"confidence": 0.1737,
+"confidence": 0.1842,
 "match_method": "canonical",
-"preferred_label": "Canaan"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Canaanites"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Honest"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Tyre"
 },
 {
 "id": "person:David",
@@ -146,18 +104,18 @@
 "preferred_label": "David"
 },
 {
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
 "preferred_label": "Mercy"
-},
-{
-"id": "place:GalileeSea",
-"type": "place",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "Sea of Galilee"
 },
 {
 "id": "keyterm:Glory",
@@ -167,18 +125,25 @@
 "preferred_label": "Glory"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.1737,
-"match_method": "canonical",
-"preferred_label": "LORD"
-},
-{
-"id": "keyterm:AskFor",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Ask for"
+"preferred_label": "Believe"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
 },
 {
 "id": "keyterm:BowDown",
@@ -188,18 +153,46 @@
 "preferred_label": "Bow Down"
 },
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Affection"
+"preferred_label": "Serve"
 },
 {
-"id": "realia:Basket",
-"type": "realia",
-"confidence": 0.1137,
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.1737,
 "match_method": "canonical",
-"preferred_label": "Basket"
+"preferred_label": "Honest"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Canaan"
 },
 {
 "id": "realia:Ship",
@@ -207,6 +200,13 @@
 "confidence": 0.1137,
 "match_method": "canonical",
 "preferred_label": "Ship"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Basket"
 },
 {
 "id": "fauna:Lamb",

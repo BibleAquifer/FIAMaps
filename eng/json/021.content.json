@@ -63,6 +63,13 @@
 "preferred_label": "LORD"
 },
 {
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.2091,
+"match_method": "canonical",
+"preferred_label": "Rescue"
+},
+{
 "id": "place:Shechem",
 "type": "place",
 "confidence": 0.2091,
@@ -77,11 +84,11 @@
 "preferred_label": "Hamor"
 },
 {
-"id": "keyterm:Rescue",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.2091,
+"confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Rescue"
+"preferred_label": "Favor"
 },
 {
 "id": "keyterm:Promise",
@@ -89,13 +96,6 @@
 "confidence": 0.1909,
 "match_method": "canonical",
 "preferred_label": "Promise"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Favor"
 },
 {
 "id": "place:Canaan",

@@ -41,25 +41,11 @@
 "preferred_label": "Paul"
 },
 {
-"id": "person:John",
-"type": "person",
-"confidence": 0.29,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.29,
 "match_method": "canonical",
 "preferred_label": "Believe"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.29,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
 },
 {
 "id": "keyterm:Disciple",
@@ -69,11 +55,18 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "person:Jesus.2",
+"id": "person:John",
 "type": "person",
 "confidence": 0.29,
 "match_method": "canonical",
-"preferred_label": "Jesus"
+"preferred_label": "John"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
 },
 {
 "id": "deity:Lord",
@@ -83,18 +76,18 @@
 "preferred_label": "LORD"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
 "id": "place:Asia",
 "type": "place",
 "confidence": 0.215,
 "match_method": "canonical",
 "preferred_label": "Asia"
-},
-{
-"id": "person:Tyrannus",
-"type": "person",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Tyrannus"
 },
 {
 "id": "place:Ephesus",
@@ -104,53 +97,18 @@
 "preferred_label": "Ephesus"
 },
 {
+"id": "person:Tyrannus",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Tyrannus"
+},
+{
 "id": "place:Corinth",
 "type": "place",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Corinth"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Repent"
-},
-{
-"id": "person:Apollos",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Apollos"
-},
-{
-"id": "group:Greek",
-"type": "group",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Greeks"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Speak as a Prophet"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Javan"
 },
 {
 "id": "group:Jews",
@@ -160,11 +118,32 @@
 "preferred_label": "Jews"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Repent",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Greeks"
 },
 {
 "id": "keyterm:Persuade",
@@ -174,11 +153,32 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:Speak",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "The Way"
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Apollos"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
 },
 {
 "id": "realia:LectureHall",

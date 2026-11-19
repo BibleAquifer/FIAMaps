@@ -28,18 +28,18 @@
 "preferred_label": "Publius"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.29,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
 "id": "person:Paul",
 "type": "person",
 "confidence": 0.29,
 "match_method": "canonical",
 "preferred_label": "Paul"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "place:Malta",
@@ -56,32 +56,11 @@
 "preferred_label": "Pray"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Name"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Kindness"
 },
 {
 "id": "keyterm:Life",
@@ -91,11 +70,32 @@
 "preferred_label": "Life"
 },
 {
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
 "id": "keyterm:Hospitably",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Hospitably"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Kindness"
 },
 {
 "id": "fauna:Cobra",

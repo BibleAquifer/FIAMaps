@@ -49,11 +49,11 @@
 "preferred_label": "Paul"
 },
 {
-"id": "place:Samos",
+"id": "place:Chios",
 "type": "place",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Samos"
+"preferred_label": "Chios"
 },
 {
 "id": "place:Mitylene",
@@ -63,18 +63,11 @@
 "preferred_label": "Mitylene"
 },
 {
-"id": "place:Chios",
+"id": "place:Samos",
 "type": "place",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Chios"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "Samos"
 },
 {
 "id": "place:Asia",
@@ -89,6 +82,13 @@
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Decided"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
 },
 {
 "id": "keyterm:Church",

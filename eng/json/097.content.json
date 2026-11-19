@@ -55,13 +55,6 @@
 "preferred_label": "Resurrection"
 },
 {
-"id": "person:Mary.3",
-"type": "person",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Mary"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2643,
@@ -76,18 +69,11 @@
 "preferred_label": "Life"
 },
 {
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Mount of Olives"
-},
-{
-"id": "person:Thomas",
+"id": "person:Mary.3",
 "type": "person",
-"confidence": 0.1964,
+"confidence": 0.2643,
 "match_method": "canonical",
-"preferred_label": "Thomas"
+"preferred_label": "Mary"
 },
 {
 "id": "person:Mary",
@@ -104,32 +90,18 @@
 "preferred_label": "Alphaeus"
 },
 {
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
 "id": "place:Bethany",
 "type": "place",
 "confidence": 0.1964,
 "match_method": "canonical",
 "preferred_label": "Bethany"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "person:Simon.2",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Simon"
-},
-{
-"id": "person:Andrew",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Andrew"
 },
 {
 "id": "person:Bartholomew",
@@ -139,25 +111,39 @@
 "preferred_label": "Bartholomew"
 },
 {
-"id": "person:James.2",
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Mount of Olives"
+},
+{
+"id": "person:Andrew",
 "type": "person",
 "confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "James"
+"preferred_label": "Andrew"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Pray"
 },
 {
-"id": "person:James",
+"id": "person:Thomas",
 "type": "person",
-"confidence": 0.1821,
+"confidence": 0.1964,
 "match_method": "canonical",
-"preferred_label": "James"
+"preferred_label": "Thomas"
+},
+{
+"id": "person:Simon.2",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Simon"
 },
 {
 "id": "person:Judas",
@@ -167,25 +153,11 @@
 "preferred_label": "Judas"
 },
 {
-"id": "keyterm:HalfAMile",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Sabbath Journey"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Jews"
-},
-{
-"id": "person:Philip",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Philip"
 },
 {
 "id": "person:Matthew",
@@ -195,11 +167,18 @@
 "preferred_label": "Matthew"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
+"id": "person:James",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "James"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Philip"
 },
 {
 "id": "keyterm:Always",
@@ -216,11 +195,32 @@
 "preferred_label": "John"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:HalfAMile",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sabbath Journey"
+},
+{
 "id": "person:Peter",
 "type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Peter"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "realia:HalfAMile",
@@ -244,13 +244,6 @@
 "preferred_label": "Grave"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "Temple"
-},
-{
 "id": "realia:Stade",
 "type": "realia",
 "confidence": 0.1221,
@@ -258,18 +251,25 @@
 "preferred_label": "Stade"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1221,
-"match_method": "canonical",
-"preferred_label": "House"
-},
-{
 "id": "flora:OliveTree",
 "type": "flora",
 "confidence": 0.1221,
 "match_method": "canonical",
 "preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "House"
 }
 ]
 }

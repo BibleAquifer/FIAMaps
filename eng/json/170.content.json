@@ -34,18 +34,18 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.3143,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
 "id": "group:Gentile",
 "type": "group",
 "confidence": 0.3143,
 "match_method": "canonical",
 "preferred_label": "Gentiles"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3143,
+"match_method": "canonical",
+"preferred_label": "Paul"
 },
 {
 "id": "realia:Ship",
@@ -55,13 +55,6 @@
 "preferred_label": "Ship"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"confidence": 0.2524,
-"match_method": "canonical",
-"preferred_label": "Tyre"
-},
-{
 "id": "place:Caesarea",
 "type": "place",
 "confidence": 0.2524,
@@ -69,11 +62,18 @@
 "preferred_label": "Caesarea"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2524,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Jews"
 },
 {
 "id": "keyterm:Law",
@@ -83,6 +83,13 @@
 "preferred_label": "Law"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.2429,
@@ -90,11 +97,11 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "place:Cyprus",
+"type": "place",
 "confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Cyprus"
 },
 {
 "id": "keyterm:Pure",
@@ -111,25 +118,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Cyprus"
-},
-{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.1829,
 "match_method": "canonical",
 "preferred_label": "Temple"
-},
-{
-"id": "person:Mnason",
-"type": "person",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Mnason"
 },
 {
 "id": "group:Cyprus",
@@ -139,18 +132,11 @@
 "preferred_label": "Cypriots"
 },
 {
-"id": "place:Phoenicia",
-"type": "place",
+"id": "person:Mnason",
+"type": "person",
 "confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Phoenicia"
-},
-{
-"id": "place:Cos",
-"type": "place",
-"confidence": 0.181,
-"match_method": "canonical",
-"preferred_label": "Cos"
+"preferred_label": "Mnason"
 },
 {
 "id": "place:Patara",
@@ -174,18 +160,25 @@
 "preferred_label": "Philip"
 },
 {
-"id": "place:Acco",
+"id": "place:Cos",
 "type": "place",
-"confidence": 0.1714,
+"confidence": 0.181,
 "match_method": "canonical",
-"preferred_label": "Acco"
+"preferred_label": "Cos"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "person:James.3",
+"type": "person",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Decided"
+"preferred_label": "James"
 },
 {
 "id": "keyterm:Live.3",
@@ -195,25 +188,32 @@
 "preferred_label": "Live"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Offering"
+"preferred_label": "Glory"
 },
 {
-"id": "keyterm:Speak",
+"id": "keyterm:Vow",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Speak as a Prophet"
+"preferred_label": "Vow"
 },
 {
-"id": "keyterm:Serve",
+"id": "place:Acco",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Acco"
+},
+{
+"id": "keyterm:Fornication",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Fornication"
 },
 {
 "id": "keyterm:Blood",
@@ -223,11 +223,11 @@
 "preferred_label": "Blood"
 },
 {
-"id": "keyterm:Fornication",
+"id": "keyterm:Serve",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Fornication"
+"preferred_label": "Serve"
 },
 {
 "id": "deity:HolySpirit",
@@ -244,18 +244,11 @@
 "preferred_label": "Pray"
 },
 {
-"id": "keyterm:Vow",
+"id": "keyterm:Speak",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Vow"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Speak as a Prophet"
 },
 {
 "id": "person:Moses",
@@ -265,11 +258,18 @@
 "preferred_label": "Moses"
 },
 {
-"id": "person:James.3",
-"type": "person",
+"id": "keyterm:Offering",
+"type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "James"
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Decided"
 },
 {
 "id": "realia:House",

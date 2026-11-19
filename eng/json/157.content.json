@@ -42,18 +42,18 @@
 "preferred_label": "Cyprus"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.3125,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "confidence": 0.3125,
 "match_method": "canonical",
 "preferred_label": "Church"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Believe"
 },
 {
 "id": "person:Jesus.2",
@@ -70,11 +70,11 @@
 "preferred_label": "Cypriots"
 },
 {
-"id": "place:Phoenicia",
-"type": "place",
+"id": "group:Hellenist",
+"type": "group",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Phoenicia"
+"preferred_label": "Hellenists"
 },
 {
 "id": "keyterm:Disciple",
@@ -84,13 +84,6 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "group:Hellenist",
-"type": "group",
-"confidence": 0.2313,
-"match_method": "canonical",
-"preferred_label": "Hellenists"
-},
-{
 "id": "group:Christ",
 "type": "group",
 "confidence": 0.2313,
@@ -98,18 +91,25 @@
 "preferred_label": "Christians"
 },
 {
-"id": "keyterm:Good",
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.2313,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Heart",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Good"
-},
-{
-"id": "place:Greece",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Greece"
+"preferred_label": "Heart"
 },
 {
 "id": "place:Tarsus",
@@ -119,27 +119,6 @@
 "preferred_label": "Tarsus"
 },
 {
-"id": "place:Cyrene",
-"type": "place",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Cyrene"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Holy Spirit"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Barnabas"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2063,
@@ -147,18 +126,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "person:Stephen",
-"type": "person",
+"id": "keyterm:GoodNews",
+"type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Stephen"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Good News"
 },
 {
 "id": "keyterm:Favor",
@@ -175,11 +147,39 @@
 "preferred_label": "Paul"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Greece"
+},
+{
+"id": "keyterm:Good",
 "type": "keyterm",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Good News"
+"preferred_label": "Good"
 },
 {
 "id": "keyterm:AskFor",
@@ -189,11 +189,11 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
+"id": "place:Cyrene",
+"type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Cyrene"
 }
 ]
 }

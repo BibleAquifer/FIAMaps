@@ -76,18 +76,18 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.3067,
-"match_method": "canonical",
-"preferred_label": "Altar"
-},
-{
 "id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.3067,
 "match_method": "canonical",
 "preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Altar"
 },
 {
 "id": "place:Negeb",
@@ -97,18 +97,11 @@
 "preferred_label": "Negev"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"confidence": 0.2407,
-"match_method": "canonical",
-"preferred_label": "Canaanites"
-},
-{
-"id": "place:Ai",
+"id": "place:Bethel",
 "type": "place",
 "confidence": 0.2407,
 "match_method": "canonical",
-"preferred_label": "Ai"
+"preferred_label": "Bethel"
 },
 {
 "id": "keyterm:Bless",
@@ -118,6 +111,13 @@
 "preferred_label": "Bless"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
 "id": "place:Haran",
 "type": "place",
 "confidence": 0.2407,
@@ -125,11 +125,18 @@
 "preferred_label": "Haran"
 },
 {
-"id": "place:Bethel",
+"id": "place:Ai",
 "type": "place",
 "confidence": 0.2407,
 "match_method": "canonical",
-"preferred_label": "Bethel"
+"preferred_label": "Ai"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Tent"
 },
 {
 "id": "fauna:Goat",
@@ -144,13 +151,6 @@
 "confidence": 0.24,
 "match_method": "canonical",
 "preferred_label": "Flock"
-},
-{
-"id": "realia:Tent",
-"type": "realia",
-"confidence": 0.24,
-"match_method": "canonical",
-"preferred_label": "Tent"
 },
 {
 "id": "place:Jordan",
@@ -174,6 +174,13 @@
 "preferred_label": "Oak"
 },
 {
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
 "id": "place:Moreh",
 "type": "place",
 "confidence": 0.1741,
@@ -188,13 +195,6 @@
 "preferred_label": "Hebron"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"confidence": 0.1741,
-"match_method": "canonical",
-"preferred_label": "Shechem"
-},
-{
 "id": "fauna:Lamb",
 "type": "fauna",
 "confidence": 0.1733,
@@ -202,11 +202,32 @@
 "preferred_label": "Sheep"
 },
 {
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Gomorrah"
+},
+{
 "id": "place:Mamre",
 "type": "place",
 "confidence": 0.1667,
 "match_method": "canonical",
 "preferred_label": "Mamre"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "person:Sarah",
@@ -223,32 +244,11 @@
 "preferred_label": "To Curse"
 },
 {
-"id": "place:Gomorrah",
-"type": "place",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Gomorrah"
-},
-{
 "id": "place:Zoar",
 "type": "place",
 "confidence": 0.1667,
 "match_method": "canonical",
 "preferred_label": "Zoar"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "Perizzites"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.1667,
-"match_method": "canonical",
-"preferred_label": "To Sin"
 },
 {
 "id": "realia:Money",

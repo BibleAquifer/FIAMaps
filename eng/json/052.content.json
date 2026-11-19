@@ -75,13 +75,6 @@
 "preferred_label": "Holy Spirit"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"confidence": 0.2814,
-"match_method": "canonical",
-"preferred_label": "Nazareth"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.2814,
@@ -89,11 +82,18 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "person:Judas.2",
-"type": "person",
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.2814,
 "match_method": "canonical",
-"preferred_label": "Judas"
+"preferred_label": "Jews"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
 },
 {
 "id": "keyterm:Name",
@@ -103,11 +103,11 @@
 "preferred_label": "Name"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "person:Judas.2",
+"type": "person",
 "confidence": 0.2814,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Judas"
 },
 {
 "id": "realia:CastingNet",
@@ -138,27 +138,6 @@
 "preferred_label": "Fishnet"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.2209,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.2209,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"confidence": 0.2209,
-"match_method": "canonical",
-"preferred_label": "Word"
-},
-{
 "id": "keyterm:Witness",
 "type": "keyterm",
 "confidence": 0.2209,
@@ -173,39 +152,25 @@
 "preferred_label": "Proclaim"
 },
 {
-"id": "person:Nathanael",
-"type": "person",
-"confidence": 0.1651,
-"match_method": "canonical",
-"preferred_label": "Nathanael"
-},
-{
-"id": "keyterm:Anointed",
+"id": "keyterm:Word",
 "type": "keyterm",
-"confidence": 0.1651,
+"confidence": 0.2209,
 "match_method": "canonical",
-"preferred_label": "Anointed"
+"preferred_label": "Word"
 },
 {
-"id": "group:MilitaryMembers",
-"type": "group",
-"confidence": 0.1651,
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2209,
 "match_method": "canonical",
-"preferred_label": "Military Members"
+"preferred_label": "Galilee"
 },
 {
-"id": "keyterm:Declare",
+"id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.1651,
+"confidence": 0.2209,
 "match_method": "canonical",
-"preferred_label": "Declare"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"confidence": 0.1651,
-"match_method": "canonical",
-"preferred_label": "Bear Witness"
+"preferred_label": "Resurrection"
 },
 {
 "id": "person:Malchus",
@@ -215,6 +180,34 @@
 "preferred_label": "Malchus"
 },
 {
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "group:MilitaryMembers",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Military Members"
+},
+{
 "id": "person:Annas",
 "type": "person",
 "confidence": 0.1651,
@@ -222,81 +215,11 @@
 "preferred_label": "Annas"
 },
 {
-"id": "person:John",
+"id": "person:Nathanael",
 "type": "person",
-"confidence": 0.1605,
+"confidence": 0.1651,
 "match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "To Cause to Happen"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Believe"
-},
-{
-"id": "place:Kidron",
-"type": "place",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Kidron"
-},
-{
-"id": "person:Thomas",
-"type": "person",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Thomas"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Truth"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Forgive"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Love"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Circumcision"
+"preferred_label": "Nathanael"
 },
 {
 "id": "person:Zebedee",
@@ -306,25 +229,18 @@
 "preferred_label": "Zebedee"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Just",
 "type": "keyterm",
 "confidence": 0.1605,
 "match_method": "canonical",
-"preferred_label": "Authority"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
-"id": "group:GenericOfficials",
-"type": "group",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Public Officials"
-},
-{
-"id": "keyterm:Faithfulness",
+"id": "keyterm:Forgive",
 "type": "keyterm",
 "confidence": 0.1605,
 "match_method": "canonical",
-"preferred_label": "Faithfulness"
+"preferred_label": "Forgive"
 },
 {
 "id": "person:Israel",
@@ -334,81 +250,18 @@
 "preferred_label": "Israel"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.1605,
 "match_method": "canonical",
-"preferred_label": "Make Peace"
+"preferred_label": "Believe"
 },
 {
-"id": "place:GalileeSea",
-"type": "place",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Jerusalem"
-},
-{
-"id": "keyterm:Just",
+"id": "keyterm:Truth",
 "type": "keyterm",
 "confidence": 0.1605,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Life"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Pharisees"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
-"id": "place:Cana",
-"type": "place",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Cana"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Gentiles"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"confidence": 0.1605,
-"match_method": "canonical",
-"preferred_label": "To Sin"
+"preferred_label": "Truth"
 },
 {
 "id": "keyterm:Fear",
@@ -418,11 +271,151 @@
 "preferred_label": "Fear"
 },
 {
-"id": "realia:Lantern",
-"type": "realia",
-"confidence": 0.1051,
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1605,
 "match_method": "canonical",
-"preferred_label": "Lantern"
+"preferred_label": "Make Peace"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Thomas"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "To Sin"
 },
 {
 "id": "realia:Torch",
@@ -439,6 +432,20 @@
 "preferred_label": "Sheath"
 },
 {
+"id": "realia:Lantern",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Lantern"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
 "id": "realia:Cubit.2",
 "type": "realia",
 "confidence": 0.1005,
@@ -451,13 +458,6 @@
 "confidence": 0.1005,
 "match_method": "canonical",
 "preferred_label": "Cloak"
-},
-{
-"id": "realia:Cross",
-"type": "realia",
-"confidence": 0.1005,
-"match_method": "canonical",
-"preferred_label": "Cross"
 }
 ]
 }

@@ -70,13 +70,6 @@
 "preferred_label": "Nod"
 },
 {
-"id": "person:Eve",
-"type": "person",
-"confidence": 0.1906,
-"match_method": "canonical",
-"preferred_label": "Eve"
-},
-{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "confidence": 0.1906,
@@ -84,39 +77,11 @@
 "preferred_label": "To Sin"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Strength"
-},
-{
-"id": "person:Adam",
+"id": "person:Eve",
 "type": "person",
-"confidence": 0.1781,
+"confidence": 0.1906,
 "match_method": "canonical",
-"preferred_label": "Adam"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "To Curse"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Passion"
-},
-{
-"id": "keyterm:BearTheConsequencesOf",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Bear the Consequences Of"
+"preferred_label": "Eve"
 },
 {
 "id": "place:Eden.2",
@@ -126,11 +91,39 @@
 "preferred_label": "Garden of Eden"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1181,
+"id": "person:Adam",
+"type": "person",
+"confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Adam"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Bear the Consequences Of"
 },
 {
 "id": "flora:Sorghum",
@@ -138,6 +131,13 @@
 "confidence": 0.1181,
 "match_method": "canonical",
 "preferred_label": "Sorghum"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Sheep"
 },
 {
 "id": "flora:Wheat",

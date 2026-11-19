@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joseph.6",
-"type": "person",
-"confidence": 0.3375,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
 "id": "person:Mary.2",
 "type": "person",
 "confidence": 0.3375,
 "match_method": "canonical",
 "preferred_label": "Mary"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Joseph"
 },
 {
 "id": "person:Pilate",
@@ -56,14 +56,14 @@
 "preferred_label": "James"
 },
 {
-"id": "place:Arimathea",
-"type": "place",
+"id": "person:Joseph.5",
+"type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Arimathea"
+"preferred_label": "Joseph"
 },
 {
-"id": "person:Joseph.5",
+"id": "person:Joseph.3",
 "type": "person",
 "confidence": 0.2313,
 "match_method": "canonical",
@@ -77,11 +77,18 @@
 "preferred_label": "Salome"
 },
 {
-"id": "person:Joseph.3",
-"type": "person",
+"id": "place:Arimathea",
+"type": "place",
 "confidence": 0.2313,
 "match_method": "canonical",
-"preferred_label": "Joseph"
+"preferred_label": "Arimathea"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2063,
+"match_method": "canonical",
+"preferred_label": "Body"
 },
 {
 "id": "keyterm:DayBeforeTheSabbath",
@@ -91,11 +98,11 @@
 "preferred_label": "Day Before the Sabbath"
 },
 {
-"id": "keyterm:Body.3",
-"type": "keyterm",
+"id": "place:Jerusalem",
+"type": "place",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Body"
+"preferred_label": "Jerusalem"
 },
 {
 "id": "place:Galilee",
@@ -112,11 +119,11 @@
 "preferred_label": "Serve"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.2063,
 "match_method": "canonical",
-"preferred_label": "Jerusalem"
+"preferred_label": "LORD"
 },
 {
 "id": "person:Jesus.2",
@@ -131,13 +138,6 @@
 "confidence": 0.2063,
 "match_method": "canonical",
 "preferred_label": "Kingdom"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.2063,
-"match_method": "canonical",
-"preferred_label": "LORD"
 },
 {
 "id": "realia:Grave",

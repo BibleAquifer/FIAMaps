@@ -90,32 +90,11 @@
 "preferred_label": "Tiberias"
 },
 {
-"id": "person:James",
-"type": "person",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "place:Gennesaret",
-"type": "place",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Gennesaret"
-},
-{
 "id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
 "preferred_label": "Symbol"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Word"
 },
 {
 "id": "person:Zebedee",
@@ -125,11 +104,32 @@
 "preferred_label": "Zebedee"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Word",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Surely!"
+"preferred_label": "Word"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Gennesaret"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "James"
 },
 {
 "id": "keyterm:Life",
@@ -146,6 +146,13 @@
 "preferred_label": "Capernaum"
 },
 {
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "confidence": 0.1765,
@@ -160,18 +167,11 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "John"
-},
-{
-"id": "keyterm:Fear",
+"id": "keyterm:Surely",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Surely!"
 }
 ]
 }

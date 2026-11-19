@@ -28,6 +28,27 @@
 "preferred_label": "Temple"
 },
 {
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:OfThisLife",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Everyday Matters"
+},
+{
 "id": "place:OlivesMount",
 "type": "place",
 "confidence": 0.195,
@@ -42,20 +63,6 @@
 "preferred_label": "Surely!"
 },
 {
-"id": "keyterm:Parable",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Parable"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Ask for"
-},
-{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.195,
@@ -63,18 +70,18 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Parable",
 "type": "keyterm",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "Parable"
 },
 {
-"id": "keyterm:OfThisLife",
-"type": "keyterm",
+"id": "deity:Lord",
+"type": "deity",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Everyday Matters"
+"preferred_label": "LORD"
 },
 {
 "id": "keyterm:Kingdom",
@@ -84,11 +91,11 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.195,
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.135,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Net"
 },
 {
 "id": "flora:Fig",
@@ -103,13 +110,6 @@
 "confidence": 0.135,
 "match_method": "canonical",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "realia:Net",
-"type": "realia",
-"confidence": 0.135,
-"match_method": "canonical",
-"preferred_label": "Net"
 }
 ]
 }

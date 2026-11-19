@@ -35,13 +35,6 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 0.2529,
-"match_method": "canonical",
-"preferred_label": "Name"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.2529,
@@ -49,11 +42,18 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Name",
 "type": "keyterm",
 "confidence": 0.2529,
 "match_method": "canonical",
-"preferred_label": "Kingdom"
+"preferred_label": "Name"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "John"
 },
 {
 "id": "deity:Lord",
@@ -63,11 +63,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "person:John.2",
-"type": "person",
+"id": "keyterm:Kingdom",
+"type": "keyterm",
 "confidence": 0.2529,
 "match_method": "canonical",
-"preferred_label": "John"
+"preferred_label": "Kingdom"
 },
 {
 "id": "group:Samaritan",
@@ -84,18 +84,11 @@
 "preferred_label": "Religious Official"
 },
 {
-"id": "person:James",
-"type": "person",
+"id": "place:Samaria",
+"type": "place",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "James"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "To Command"
+"preferred_label": "Samaria"
 },
 {
 "id": "person:GenericMale",
@@ -105,18 +98,11 @@
 "preferred_label": "A Man"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
+"id": "keyterm:Heart",
+"type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Demons"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Samaria"
+"preferred_label": "Heart"
 },
 {
 "id": "deity:Angel",
@@ -133,25 +119,32 @@
 "preferred_label": "Be a Disciple"
 },
 {
-"id": "keyterm:Heart",
+"id": "person:James",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:Command",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Heart"
+"preferred_label": "To Command"
 },
 {
-"id": "realia:Mattock",
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "realia:Temple",
 "type": "realia",
 "confidence": 0.1165,
 "match_method": "canonical",
-"preferred_label": "Mattock"
-},
-{
-"id": "fauna:Jackal",
-"type": "fauna",
-"confidence": 0.1165,
-"match_method": "canonical",
-"preferred_label": "Jackal"
+"preferred_label": "Temple"
 },
 {
 "id": "realia:House",
@@ -161,11 +154,18 @@
 "preferred_label": "House"
 },
 {
-"id": "realia:Temple",
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Jackal"
+},
+{
+"id": "realia:Mattock",
 "type": "realia",
 "confidence": 0.1165,
 "match_method": "canonical",
-"preferred_label": "Temple"
+"preferred_label": "Mattock"
 }
 ]
 }

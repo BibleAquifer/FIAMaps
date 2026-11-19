@@ -84,25 +84,18 @@
 "preferred_label": "Sheep"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.12,
-"match_method": "canonical",
-"preferred_label": "Goat"
-},
-{
-"id": "realia:Denarius",
-"type": "realia",
-"confidence": 0.12,
-"match_method": "canonical",
-"preferred_label": "Denarius"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "confidence": 0.12,
 "match_method": "canonical",
 "preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "Goat"
 },
 {
 "id": "realia:Ship",
@@ -117,6 +110,13 @@
 "confidence": 0.12,
 "match_method": "canonical",
 "preferred_label": "Grass"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "Denarius"
 }
 ]
 }

@@ -134,20 +134,6 @@
 "preferred_label": "Covering"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.3225,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.3225,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
 "id": "person:Kohath",
 "type": "person",
 "confidence": 0.3225,
@@ -155,11 +141,25 @@
 "preferred_label": "Kohath"
 },
 {
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
 "id": "person:Gershon",
 "type": "person",
 "confidence": 0.3225,
 "match_method": "canonical",
 "preferred_label": "Gershon"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
 },
 {
 "id": "realia:Tent",
@@ -190,11 +190,11 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
-"id": "realia:Altar",
+"id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.2625,
 "match_method": "canonical",
-"preferred_label": "Altar"
+"preferred_label": "Stone Altar"
 },
 {
 "id": "realia:TempleAltar",
@@ -204,11 +204,11 @@
 "preferred_label": "Temple Altar"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
 "confidence": 0.2625,
 "match_method": "canonical",
-"preferred_label": "Stone Altar"
+"preferred_label": "Altar"
 },
 {
 "id": "place:Elim",
@@ -218,6 +218,13 @@
 "preferred_label": "Elim"
 },
 {
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
 "id": "person:Miriam",
 "type": "person",
 "confidence": 0.2137,
@@ -225,11 +232,18 @@
 "preferred_label": "Miriam"
 },
 {
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 0.2137,
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2112,
 "match_method": "canonical",
-"preferred_label": "Decree"
+"preferred_label": "Levi"
+},
+{
+"id": "person:Ithamar",
+"type": "person",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Ithamar"
 },
 {
 "id": "place:Canaan",
@@ -239,25 +253,11 @@
 "preferred_label": "Canaan"
 },
 {
-"id": "keyterm:Witness.2",
+"id": "keyterm:Glory",
 "type": "keyterm",
 "confidence": 0.2112,
 "match_method": "canonical",
-"preferred_label": "Testimony"
-},
-{
-"id": "person:Merari",
-"type": "person",
-"confidence": 0.2112,
-"match_method": "canonical",
-"preferred_label": "Merari"
-},
-{
-"id": "person:Ithamar",
-"type": "person",
-"confidence": 0.2112,
-"match_method": "canonical",
-"preferred_label": "Ithamar"
+"preferred_label": "Glory"
 },
 {
 "id": "place:SinaiMount",

@@ -34,18 +34,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.2643,
-"match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.2643,
 "match_method": "canonical",
 "preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "fauna:Fish",
@@ -55,18 +55,18 @@
 "preferred_label": "Fish"
 },
 {
-"id": "person:Jude",
-"type": "person",
-"confidence": 0.1964,
-"match_method": "canonical",
-"preferred_label": "Jude"
-},
-{
 "id": "person:James.3",
 "type": "person",
 "confidence": 0.1964,
 "match_method": "canonical",
 "preferred_label": "James"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Jude"
 },
 {
 "id": "keyterm:Disbelieve",
@@ -90,11 +90,11 @@
 "preferred_label": "Bless"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
+"id": "person:Joseph.4",
+"type": "person",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Serve"
+"preferred_label": "Joseph"
 },
 {
 "id": "person:Mary",
@@ -111,18 +111,18 @@
 "preferred_label": "Sky"
 },
 {
-"id": "person:Joseph.4",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Joseph"
-},
-{
 "id": "keyterm:Affection",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
 "preferred_label": "Affection"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Serve"
 },
 {
 "id": "realia:Basket",

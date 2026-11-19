@@ -62,13 +62,6 @@
 "preferred_label": "Chariot"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.3692,
-"match_method": "canonical",
-"preferred_label": "Pharaoh"
-},
-{
 "id": "group:Egypt",
 "type": "group",
 "confidence": 0.3692,
@@ -76,11 +69,11 @@
 "preferred_label": "Egyptians"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.2346,
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3692,
 "match_method": "canonical",
-"preferred_label": "Offering"
+"preferred_label": "Pharaoh"
 },
 {
 "id": "keyterm:BringHonorAndGloryOnOneself",
@@ -88,6 +81,13 @@
 "confidence": 0.2346,
 "match_method": "canonical",
 "preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Offering"
 },
 {
 "id": "keyterm:BelieveIn",
@@ -111,25 +111,18 @@
 "preferred_label": "Fear"
 },
 {
+"id": "realia:PurpleCloth",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Purple Cloth"
+},
+{
 "id": "fauna:Dugong",
 "type": "fauna",
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Dugong"
-},
-{
-"id": "flora:BalsamTree",
-"type": "flora",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Balsam Tree"
-},
-{
-"id": "realia:DyedCloth",
-"type": "realia",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Dyed Cloth"
 },
 {
 "id": "realia:Leather",
@@ -139,18 +132,60 @@
 "preferred_label": "Leather"
 },
 {
-"id": "realia:PurpleCloth",
-"type": "realia",
-"confidence": 0.115,
-"match_method": "canonical",
-"preferred_label": "Purple Cloth"
-},
-{
 "id": "realia:Linen",
 "type": "realia",
 "confidence": 0.115,
 "match_method": "canonical",
 "preferred_label": "Linen"
+},
+{
+"id": "realia:DyedCloth",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Dyed Cloth"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Balsam Tree"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Acacia"
 },
 {
 "id": "realia:Breast-piece",
@@ -167,25 +202,11 @@
 "preferred_label": "Rod"
 },
 {
-"id": "fauna:Horse",
-"type": "fauna",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Horse"
-},
-{
 "id": "realia:Money",
 "type": "realia",
 "confidence": 0.1073,
 "match_method": "canonical",
 "preferred_label": "Money"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Anointing Oil"
 },
 {
 "id": "realia:Wagon",
@@ -200,27 +221,6 @@
 "confidence": 0.1073,
 "match_method": "canonical",
 "preferred_label": "Ephod"
-},
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Olive Oil"
-},
-{
-"id": "flora:Acacia",
-"type": "flora",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Acacia"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.1073,
-"match_method": "canonical",
-"preferred_label": "Sheep"
 }
 ]
 }

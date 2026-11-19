@@ -65,18 +65,18 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.3891,
-"match_method": "canonical",
-"preferred_label": "Demons"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.3891,
 "match_method": "canonical",
 "preferred_label": "Fear"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3891,
+"match_method": "canonical",
+"preferred_label": "Demons"
 },
 {
 "id": "keyterm:Salvation",
@@ -163,13 +163,6 @@
 "preferred_label": "House"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.2188,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
 "id": "deity:Legion",
 "type": "deity",
 "confidence": 0.2188,
@@ -177,11 +170,11 @@
 "preferred_label": "Legion"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Command",
 "type": "keyterm",
-"confidence": 0.213,
+"confidence": 0.2188,
 "match_method": "canonical",
-"preferred_label": "Be a Disciple"
+"preferred_label": "To Command"
 },
 {
 "id": "keyterm:Proclaim",
@@ -191,11 +184,11 @@
 "preferred_label": "Proclaim"
 },
 {
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.2125,
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.213,
 "match_method": "canonical",
-"preferred_label": "Chain"
+"preferred_label": "Be a Disciple"
 },
 {
 "id": "realia:Cloak",
@@ -205,18 +198,18 @@
 "preferred_label": "Cloak"
 },
 {
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.2125,
+"match_method": "canonical",
+"preferred_label": "Chain"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "confidence": 0.2096,
 "match_method": "canonical",
 "preferred_label": "Temple"
-},
-{
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"confidence": 0.1594,
-"match_method": "canonical",
-"preferred_label": "Having Little Faith"
 },
 {
 "id": "person:Jairus",
@@ -233,6 +226,13 @@
 "preferred_label": "Abyss"
 },
 {
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Having Little Faith"
+},
+{
 "id": "place:Decapolis",
 "type": "place",
 "confidence": 0.1594,
@@ -247,18 +247,18 @@
 "preferred_label": "Fetter"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Body.3",
 "type": "keyterm",
 "confidence": 0.1565,
 "match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Body"
 },
 {
-"id": "person:James",
-"type": "person",
+"id": "group:GenericDisciples",
+"type": "group",
 "confidence": 0.1565,
 "match_method": "canonical",
-"preferred_label": "James"
+"preferred_label": "A Group of Disciples"
 }
 ]
 }

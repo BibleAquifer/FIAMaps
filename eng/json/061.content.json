@@ -49,32 +49,11 @@
 "preferred_label": "Intention"
 },
 {
-"id": "place:Euphrates",
-"type": "place",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Euphrates River"
-},
-{
-"id": "place:Cush",
-"type": "place",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Cush"
-},
-{
 "id": "place:Tigris",
 "type": "place",
 "confidence": 0.1795,
 "match_method": "canonical",
 "preferred_label": "Tigris River"
-},
-{
-"id": "place:Havilah",
-"type": "place",
-"confidence": 0.1795,
-"match_method": "canonical",
-"preferred_label": "Havilah"
 },
 {
 "id": "place:Gihon",
@@ -84,11 +63,25 @@
 "preferred_label": "Gihon"
 },
 {
-"id": "place:Assyria",
+"id": "place:Euphrates",
 "type": "place",
-"confidence": 0.1705,
+"confidence": 0.1795,
 "match_method": "canonical",
-"preferred_label": "Assyria"
+"preferred_label": "Euphrates River"
+},
+{
+"id": "place:Havilah",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Havilah"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Cush"
 },
 {
 "id": "place:Cush.2",
@@ -98,11 +91,11 @@
 "preferred_label": "Cush"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.1105,
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1705,
 "match_method": "canonical",
-"preferred_label": "Grass"
+"preferred_label": "Assyria"
 },
 {
 "id": "fauna:Bull",
@@ -110,6 +103,13 @@
 "confidence": 0.1105,
 "match_method": "canonical",
 "preferred_label": "Cattle"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Grass"
 }
 ]
 }

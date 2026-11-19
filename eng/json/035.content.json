@@ -84,13 +84,6 @@
 "preferred_label": "Mahanaim"
 },
 {
-"id": "fauna:Camel",
-"type": "fauna",
-"confidence": 0.1829,
-"match_method": "canonical",
-"preferred_label": "Camel"
-},
-{
 "id": "fauna:Donkey",
 "type": "fauna",
 "confidence": 0.1829,
@@ -98,25 +91,18 @@
 "preferred_label": "Donkey"
 },
 {
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1829,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
 "id": "place:Edom",
 "type": "place",
 "confidence": 0.181,
 "match_method": "canonical",
 "preferred_label": "Edom"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Truth"
-},
-{
-"id": "place:Seir",
-"type": "place",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Seir"
 },
 {
 "id": "place:Jordan",
@@ -133,20 +119,6 @@
 "preferred_label": "Abraham"
 },
 {
-"id": "person:Laban",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Laban"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
 "id": "keyterm:Appease",
 "type": "keyterm",
 "confidence": 0.1714,
@@ -154,18 +126,11 @@
 "preferred_label": "Appease"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Truth",
 "type": "keyterm",
 "confidence": 0.1714,
 "match_method": "canonical",
-"preferred_label": "Kindness"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.1714,
-"match_method": "canonical",
-"preferred_label": "Isaac"
+"preferred_label": "Truth"
 },
 {
 "id": "keyterm:Fear",
@@ -175,11 +140,46 @@
 "preferred_label": "Fear"
 },
 {
-"id": "realia:Rod",
-"type": "realia",
+"id": "place:Seir",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Seir"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
 "confidence": 0.1114,
 "match_method": "canonical",
-"preferred_label": "Rod"
+"preferred_label": "Sheep"
 },
 {
 "id": "realia:Staff",
@@ -189,11 +189,11 @@
 "preferred_label": "Staff"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
+"id": "realia:Rod",
+"type": "realia",
 "confidence": 0.1114,
 "match_method": "canonical",
-"preferred_label": "Sheep"
+"preferred_label": "Rod"
 }
 ]
 }

@@ -49,11 +49,11 @@
 "preferred_label": "A Midwife"
 },
 {
-"id": "person:Israel",
-"type": "person",
+"id": "keyterm:Fear",
+"type": "keyterm",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Israel"
+"preferred_label": "Fear"
 },
 {
 "id": "place:Bethel",
@@ -63,11 +63,11 @@
 "preferred_label": "Bethel"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
+"id": "person:Israel",
+"type": "person",
 "confidence": 0.24,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Israel"
 }
 ]
 }

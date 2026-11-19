@@ -49,25 +49,11 @@
 "preferred_label": "Jerusalem"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
 "id": "person:GenericFemale",
 "type": "person",
 "confidence": 0.2818,
 "match_method": "canonical",
 "preferred_label": "A Woman"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"confidence": 0.2818,
-"match_method": "canonical",
-"preferred_label": "True"
 },
 {
 "id": "keyterm:Truth",
@@ -77,6 +63,20 @@
 "preferred_label": "Truth"
 },
 {
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.1909,
@@ -84,11 +84,11 @@
 "preferred_label": "Believe"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Worshiper",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Worshiper"
 },
 {
 "id": "group:Jews",
@@ -98,11 +98,11 @@
 "preferred_label": "Jews"
 },
 {
-"id": "keyterm:Worshiper",
+"id": "keyterm:Salvation",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Worshiper"
+"preferred_label": "Salvation"
 }
 ]
 }

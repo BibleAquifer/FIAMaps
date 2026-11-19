@@ -49,18 +49,11 @@
 "preferred_label": "Phrygia"
 },
 {
-"id": "person:Priscilla",
-"type": "person",
+"id": "keyterm:Vow",
+"type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Priscilla"
-},
-{
-"id": "person:Aquila",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Aquila"
+"preferred_label": "Vow"
 },
 {
 "id": "keyterm:Disciple",
@@ -77,18 +70,25 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Vow",
-"type": "keyterm",
+"id": "place:Antioch",
+"type": "place",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Vow"
+"preferred_label": "Antioch"
 },
 {
-"id": "group:Jews",
-"type": "group",
+"id": "person:Priscilla",
+"type": "person",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Jews"
+"preferred_label": "Priscilla"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Aquila"
 },
 {
 "id": "person:Paul",
@@ -98,11 +98,18 @@
 "preferred_label": "Paul"
 },
 {
-"id": "place:Antioch",
-"type": "place",
+"id": "group:Jews",
+"type": "group",
 "confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Antioch"
+"preferred_label": "Jews"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "LORD"
 },
 {
 "id": "place:Caesarea",
@@ -117,13 +124,6 @@
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Church"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "LORD"
 },
 {
 "id": "realia:Synagogue",

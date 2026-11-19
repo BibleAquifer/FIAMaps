@@ -42,6 +42,13 @@
 "preferred_label": "Glory"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "confidence": 0.3,
@@ -49,11 +56,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.3,
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "LORD"
+"preferred_label": "Believe"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Galilee"
 },
 {
 "id": "keyterm:Mercy",
@@ -63,11 +77,11 @@
 "preferred_label": "Mercy"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
+"id": "group:Samaritan",
+"type": "group",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Samaritans"
 },
 {
 "id": "place:Jerusalem",
@@ -82,20 +96,6 @@
 "confidence": 0.2,
 "match_method": "canonical",
 "preferred_label": "Salvation"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Samaritans"
 }
 ]
 }

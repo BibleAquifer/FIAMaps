@@ -42,13 +42,6 @@
 "preferred_label": "Dog"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"confidence": 0.2429,
-"match_method": "canonical",
-"preferred_label": "Greeks"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.2429,
@@ -56,11 +49,11 @@
 "preferred_label": "Syrophoenicians"
 },
 {
-"id": "place:Phoenicia",
-"type": "place",
+"id": "group:Greek",
+"type": "group",
 "confidence": 0.2429,
 "match_method": "canonical",
-"preferred_label": "Phoenicia"
+"preferred_label": "Greeks"
 },
 {
 "id": "place:Tyre",
@@ -70,11 +63,18 @@
 "preferred_label": "Tyre"
 },
 {
-"id": "person:Javan",
-"type": "person",
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Javan"
+"preferred_label": "Honest"
 },
 {
 "id": "keyterm:AskFor",
@@ -84,11 +84,11 @@
 "preferred_label": "Ask for"
 },
 {
-"id": "keyterm:Honest",
-"type": "keyterm",
+"id": "person:Javan",
+"type": "person",
 "confidence": 0.2143,
 "match_method": "canonical",
-"preferred_label": "Honest"
+"preferred_label": "Javan"
 },
 {
 "id": "realia:Bed",

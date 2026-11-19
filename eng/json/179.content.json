@@ -98,25 +98,18 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "person:Priscilla",
+"id": "person:Justus.2",
 "type": "person",
 "confidence": 0.1882,
 "match_method": "canonical",
-"preferred_label": "Priscilla"
+"preferred_label": "Justus"
 },
 {
-"id": "place:Rome",
-"type": "place",
+"id": "group:Corinth",
+"type": "group",
 "confidence": 0.1882,
 "match_method": "canonical",
-"preferred_label": "Rome"
-},
-{
-"id": "person:Crispus",
-"type": "person",
-"confidence": 0.1882,
-"match_method": "canonical",
-"preferred_label": "Crispus"
+"preferred_label": "Corinthians"
 },
 {
 "id": "group:Pontus",
@@ -133,18 +126,11 @@
 "preferred_label": "Achaia"
 },
 {
-"id": "person:Sosthenes",
-"type": "person",
+"id": "place:Rome",
+"type": "place",
 "confidence": 0.1882,
 "match_method": "canonical",
-"preferred_label": "Sosthenes"
-},
-{
-"id": "group:Corinth",
-"type": "group",
-"confidence": 0.1882,
-"match_method": "canonical",
-"preferred_label": "Corinthians"
+"preferred_label": "Rome"
 },
 {
 "id": "person:Aquila",
@@ -154,11 +140,32 @@
 "preferred_label": "Aquila"
 },
 {
+"id": "person:Crispus",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Crispus"
+},
+{
 "id": "person:Claudius",
 "type": "person",
 "confidence": 0.1882,
 "match_method": "canonical",
 "preferred_label": "Claudius"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Priscilla"
+},
+{
+"id": "person:Sosthenes",
+"type": "person",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Sosthenes"
 },
 {
 "id": "place:Pontus",
@@ -168,11 +175,11 @@
 "preferred_label": "Pontus"
 },
 {
-"id": "person:Justus.2",
-"type": "person",
-"confidence": 0.1882,
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Justus"
+"preferred_label": "Baptism"
 },
 {
 "id": "keyterm:UnrighteousAct",
@@ -182,6 +189,13 @@
 "preferred_label": "Unrighteous Act"
 },
 {
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "confidence": 0.1765,
@@ -189,18 +203,18 @@
 "preferred_label": "Believe"
 },
 {
-"id": "person:Timothy",
-"type": "person",
+"id": "place:Athens",
+"type": "place",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Timothy"
+"preferred_label": "Athens"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Declare",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Baptism"
+"preferred_label": "Declare"
 },
 {
 "id": "person:Silas",
@@ -210,18 +224,11 @@
 "preferred_label": "Silas"
 },
 {
-"id": "keyterm:Blaspheme",
+"id": "keyterm:Fear",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Blaspheme"
-},
-{
-"id": "group:Greek",
-"type": "group",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Greeks"
+"preferred_label": "Fear"
 },
 {
 "id": "keyterm:Blood",
@@ -229,20 +236,6 @@
 "confidence": 0.1765,
 "match_method": "canonical",
 "preferred_label": "Blood"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
-"id": "place:Macedonia",
-"type": "place",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Macedonia"
 },
 {
 "id": "keyterm:Clean",
@@ -259,25 +252,18 @@
 "preferred_label": "Italy"
 },
 {
-"id": "person:Javan",
-"type": "person",
+"id": "group:Gentile",
+"type": "group",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Javan"
+"preferred_label": "Gentiles"
 },
 {
-"id": "keyterm:Declare",
-"type": "keyterm",
+"id": "group:Greek",
+"type": "group",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Declare"
-},
-{
-"id": "place:Athens",
-"type": "place",
-"confidence": 0.1765,
-"match_method": "canonical",
-"preferred_label": "Athens"
+"preferred_label": "Greeks"
 },
 {
 "id": "keyterm:Persuade",
@@ -287,18 +273,32 @@
 "preferred_label": "Persuade"
 },
 {
-"id": "group:Gentile",
-"type": "group",
+"id": "place:Macedonia",
+"type": "place",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Gentiles"
+"preferred_label": "Macedonia"
 },
 {
-"id": "keyterm:Fear",
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Sabbath",
 "type": "keyterm",
 "confidence": 0.1765,
 "match_method": "canonical",
-"preferred_label": "Fear"
+"preferred_label": "Sabbath"
 },
 {
 "id": "realia:Tent",
@@ -308,18 +308,18 @@
 "preferred_label": "Tent"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.1165,
-"match_method": "canonical",
-"preferred_label": "House"
-},
-{
 "id": "realia:Clothing",
 "type": "realia",
 "confidence": 0.1165,
 "match_method": "canonical",
 "preferred_label": "Clothing"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "House"
 }
 ]
 }

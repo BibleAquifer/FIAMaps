@@ -42,18 +42,11 @@
 "preferred_label": "Daniel"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:Example",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Disaster"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Ability"
+"preferred_label": "Symbol"
 },
 {
 "id": "keyterm:Body.3",
@@ -63,60 +56,11 @@
 "preferred_label": "Body"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Judea"
-},
-{
-"id": "keyterm:Example",
+"id": "keyterm:Disaster",
 "type": "keyterm",
 "confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Symbol"
-},
-{
-"id": "keyterm:Portent",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Portent"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Sabbath"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "keyterm:AbominationOfDesolation",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Abomination of Desolation"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.1821,
-"match_method": "canonical",
-"preferred_label": "Salvation"
+"preferred_label": "Disaster"
 },
 {
 "id": "keyterm:Holy",
@@ -126,11 +70,60 @@
 "preferred_label": "Holy"
 },
 {
-"id": "realia:InnerRoom",
-"type": "realia",
-"confidence": 0.1364,
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1821,
 "match_method": "canonical",
-"preferred_label": "Inner Room"
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:AbominationOfDesolation",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Abomination of Desolation"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Judea"
 },
 {
 "id": "fauna:Vulture",
@@ -140,6 +133,13 @@
 "preferred_label": "Vulture"
 },
 {
+"id": "realia:InnerRoom",
+"type": "realia",
+"confidence": 0.1364,
+"match_method": "canonical",
+"preferred_label": "Inner Room"
+},
+{
 "id": "realia:Housetop",
 "type": "realia",
 "confidence": 0.1364,
@@ -147,11 +147,11 @@
 "preferred_label": "Housetop"
 },
 {
-"id": "realia:Cloak",
+"id": "realia:Tabernacle",
 "type": "realia",
 "confidence": 0.1221,
 "match_method": "canonical",
-"preferred_label": "Cloak"
+"preferred_label": "Tabernacle"
 },
 {
 "id": "realia:House",
@@ -161,11 +161,11 @@
 "preferred_label": "House"
 },
 {
-"id": "realia:Tabernacle",
+"id": "realia:Cloak",
 "type": "realia",
 "confidence": 0.1221,
 "match_method": "canonical",
-"preferred_label": "Tabernacle"
+"preferred_label": "Cloak"
 }
 ]
 }

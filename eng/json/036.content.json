@@ -35,6 +35,13 @@
 "preferred_label": "Baal-hanan"
 },
 {
+"id": "person:Samlah",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Samlah"
+},
+{
 "id": "person:Husham",
 "type": "person",
 "confidence": 0.3,
@@ -47,13 +54,6 @@
 "confidence": 0.3,
 "match_method": "canonical",
 "preferred_label": "Hadad"
-},
-{
-"id": "person:Samlah",
-"type": "person",
-"confidence": 0.3,
-"match_method": "canonical",
-"preferred_label": "Samlah"
 },
 {
 "id": "person:Jobab.2",
@@ -91,6 +91,34 @@
 "preferred_label": "Shaul"
 },
 {
+"id": "person:Alvah",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Alvah"
+},
+{
+"id": "place:Dinhabah",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Dinhabah"
+},
+{
+"id": "person:Hadad.2",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Hadad"
+},
+{
+"id": "person:Bedad",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Bedad"
+},
+{
 "id": "person:Mehetabel",
 "type": "person",
 "confidence": 0.2,
@@ -105,81 +133,11 @@
 "preferred_label": "Elah"
 },
 {
-"id": "person:Oholibamah.3",
+"id": "person:Mibzar",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Oholibamah"
-},
-{
-"id": "place:Avith",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Avith"
-},
-{
-"id": "person:Hadad.2",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Hadad"
-},
-{
-"id": "person:Alvah",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Alvah"
-},
-{
-"id": "person:Iram",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Iram"
-},
-{
-"id": "person:Matred",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Matred"
-},
-{
-"id": "person:Mezahab",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Mezahab"
-},
-{
-"id": "person:Bedad",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Bedad"
-},
-{
-"id": "person:Kenaz.2",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Kenaz"
-},
-{
-"id": "person:Beor",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Beor"
-},
-{
-"id": "person:Timna.3",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Timna"
+"preferred_label": "Mibzar"
 },
 {
 "id": "place:Pau",
@@ -189,11 +147,18 @@
 "preferred_label": "Pau"
 },
 {
-"id": "person:Pinon",
+"id": "person:Oholibamah.3",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Pinon"
+"preferred_label": "Oholibamah"
+},
+{
+"id": "person:Mezahab",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Mezahab"
 },
 {
 "id": "person:Jetheth",
@@ -203,39 +168,11 @@
 "preferred_label": "Jetheth"
 },
 {
-"id": "place:Masrekah",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Masrekah"
-},
-{
-"id": "person:Magdiel",
+"id": "person:Beor",
 "type": "person",
 "confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Magdiel"
-},
-{
-"id": "person:Zerah.2",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Zerah"
-},
-{
-"id": "place:Dinhabah",
-"type": "place",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Dinhabah"
-},
-{
-"id": "person:Mibzar",
-"type": "person",
-"confidence": 0.2,
-"match_method": "canonical",
-"preferred_label": "Mibzar"
+"preferred_label": "Beor"
 },
 {
 "id": "place:Rehoboth.2",
@@ -245,39 +182,74 @@
 "preferred_label": "Rehoboth"
 },
 {
-"id": "group:Teman",
-"type": "group",
-"confidence": 0.1846,
+"id": "person:Iram",
+"type": "person",
+"confidence": 0.2,
 "match_method": "canonical",
-"preferred_label": "Temanites"
+"preferred_label": "Iram"
 },
 {
-"id": "place:Teman",
+"id": "place:Masrekah",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Masrekah"
+},
+{
+"id": "person:Kenaz.2",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Kenaz"
+},
+{
+"id": "person:Matred",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Matred"
+},
+{
+"id": "person:Timna.3",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Timna"
+},
+{
+"id": "person:Pinon",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Pinon"
+},
+{
+"id": "person:Magdiel",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Magdiel"
+},
+{
+"id": "place:Avith",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Avith"
+},
+{
+"id": "person:Zerah.2",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "place:Moab",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Teman"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Israelites"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Euphrates River"
-},
-{
-"id": "place:Bozrah.2",
-"type": "place",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Bozrah"
+"preferred_label": "Moab"
 },
 {
 "id": "person:Israel",
@@ -287,13 +259,6 @@
 "preferred_label": "Israel"
 },
 {
-"id": "person:Teman",
-"type": "person",
-"confidence": 0.1846,
-"match_method": "canonical",
-"preferred_label": "Teman"
-},
-{
 "id": "place:Midian",
 "type": "place",
 "confidence": 0.1846,
@@ -301,11 +266,46 @@
 "preferred_label": "Midian"
 },
 {
-"id": "place:Moab",
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "place:Bozrah.2",
 "type": "place",
 "confidence": 0.1846,
 "match_method": "canonical",
-"preferred_label": "Moab"
+"preferred_label": "Bozrah"
+},
+{
+"id": "group:Teman",
+"type": "group",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Temanites"
+},
+{
+"id": "person:Teman",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Teman"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Teman"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
 }
 ]
 }

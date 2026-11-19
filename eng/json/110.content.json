@@ -28,11 +28,11 @@
 "preferred_label": "Jesus"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
+"id": "group:GenericGroup",
+"type": "group",
 "confidence": 0.3286,
 "match_method": "canonical",
-"preferred_label": "Mercy"
+"preferred_label": "A Group of People"
 },
 {
 "id": "person:David",
@@ -42,11 +42,11 @@
 "preferred_label": "David"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
+"id": "keyterm:Mercy",
+"type": "keyterm",
 "confidence": 0.3286,
 "match_method": "canonical",
-"preferred_label": "A Group of People"
+"preferred_label": "Mercy"
 },
 {
 "id": "person:Timaeus",
@@ -70,20 +70,6 @@
 "preferred_label": "Believe"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "Salvation"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"confidence": 0.2143,
-"match_method": "canonical",
-"preferred_label": "To Command"
-},
-{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "confidence": 0.2143,
@@ -103,6 +89,20 @@
 "confidence": 0.2143,
 "match_method": "canonical",
 "preferred_label": "Cheer Up"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Salvation"
 },
 {
 "id": "realia:Cloak",

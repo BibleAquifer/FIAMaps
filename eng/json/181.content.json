@@ -69,32 +69,11 @@
 "preferred_label": "Church"
 },
 {
-"id": "place:Cilicia",
-"type": "place",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Cilicia"
-},
-{
-"id": "person:Manaen",
-"type": "person",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Manaen"
-},
-{
 "id": "person:Simeon.4",
 "type": "person",
 "confidence": 0.215,
 "match_method": "canonical",
 "preferred_label": "Simeon"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"confidence": 0.215,
-"match_method": "canonical",
-"preferred_label": "Antioch"
 },
 {
 "id": "person:Herod.2",
@@ -104,32 +83,25 @@
 "preferred_label": "Herod Antipas"
 },
 {
-"id": "person:Silas",
+"id": "person:Manaen",
 "type": "person",
-"confidence": 0.195,
+"confidence": 0.215,
 "match_method": "canonical",
-"preferred_label": "Silas"
+"preferred_label": "Manaen"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"confidence": 0.195,
-"match_method": "canonical",
-"preferred_label": "Serve"
-},
-{
-"id": "place:Cyrene",
+"id": "place:Cilicia",
 "type": "place",
-"confidence": 0.195,
+"confidence": 0.215,
 "match_method": "canonical",
-"preferred_label": "Cyrene"
+"preferred_label": "Cilicia"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.195,
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.215,
 "match_method": "canonical",
-"preferred_label": "Holy Spirit"
+"preferred_label": "Antioch"
 },
 {
 "id": "place:Pamphylia",
@@ -139,11 +111,11 @@
 "preferred_label": "Pamphylia"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
+"id": "person:Silas",
+"type": "person",
 "confidence": 0.195,
 "match_method": "canonical",
-"preferred_label": "Pray"
+"preferred_label": "Silas"
 },
 {
 "id": "place:Jerusalem",
@@ -167,11 +139,39 @@
 "preferred_label": "Priesthood"
 },
 {
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
 "id": "place:Cyprus",
 "type": "place",
 "confidence": 0.195,
 "match_method": "canonical",
 "preferred_label": "Cyprus"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.195,
+"match_method": "canonical",
+"preferred_label": "Cyrene"
 }
 ]
 }

@@ -70,13 +70,6 @@
 "preferred_label": "Paddan-aram"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Force to Serve"
-},
-{
 "id": "group:Aramean",
 "type": "group",
 "confidence": 0.1781,
@@ -84,11 +77,18 @@
 "preferred_label": "Arameans"
 },
 {
-"id": "person:Laban",
+"id": "person:Bethuel",
 "type": "person",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Laban"
+"preferred_label": "Bethuel"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Abraham"
 },
 {
 "id": "keyterm:Swear",
@@ -105,18 +105,18 @@
 "preferred_label": "Love"
 },
 {
-"id": "person:Abraham",
+"id": "person:Laban",
 "type": "person",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Abraham"
+"preferred_label": "Laban"
 },
 {
-"id": "person:Bethuel",
-"type": "person",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Bethuel"
+"preferred_label": "Force to Serve"
 },
 {
 "id": "flora:Lentil",
@@ -126,18 +126,18 @@
 "preferred_label": "Lentil"
 },
 {
-"id": "realia:Clothing",
-"type": "realia",
-"confidence": 0.1181,
-"match_method": "canonical",
-"preferred_label": "Clothing"
-},
-{
 "id": "realia:Tent",
 "type": "realia",
 "confidence": 0.1181,
 "match_method": "canonical",
 "preferred_label": "Tent"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Clothing"
 }
 ]
 }

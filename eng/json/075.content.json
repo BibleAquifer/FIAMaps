@@ -21,13 +21,6 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
-"confidence": 0.1909,
-"match_method": "canonical",
-"preferred_label": "Make Peace"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "confidence": 0.1909,
@@ -35,11 +28,11 @@
 "preferred_label": "Baptism"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Just",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Sky"
+"preferred_label": "Be (Or Show Oneself) Just"
 },
 {
 "id": "keyterm:Interpret",
@@ -49,11 +42,18 @@
 "preferred_label": "Interpret"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Heaven",
 "type": "keyterm",
 "confidence": 0.1909,
 "match_method": "canonical",
-"preferred_label": "Be (Or Show Oneself) Just"
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1909,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
 },
 {
 "id": "keyterm:Decided",

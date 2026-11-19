@@ -28,6 +28,20 @@
 "preferred_label": "Athens"
 },
 {
+"id": "group:Athens",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Athenians"
+},
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 0.2583,
+"match_method": "canonical",
+"preferred_label": "Stoics"
+},
+{
 "id": "group:Epicurean",
 "type": "group",
 "confidence": 0.2583,
@@ -42,67 +56,11 @@
 "preferred_label": "Areopagus"
 },
 {
-"id": "group:Stoic",
-"type": "group",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Stoics"
-},
-{
-"id": "group:Athens",
-"type": "group",
-"confidence": 0.2583,
-"match_method": "canonical",
-"preferred_label": "Athenians"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Spirit"
-},
-{
 "id": "keyterm:Worship",
 "type": "keyterm",
 "confidence": 0.225,
 "match_method": "canonical",
 "preferred_label": "Worship"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Good News"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Jews"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Paul"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
 },
 {
 "id": "keyterm:BringToTheAttentionOf",
@@ -119,11 +77,46 @@
 "preferred_label": "Demons"
 },
 {
-"id": "realia:Synagogue",
-"type": "realia",
-"confidence": 0.165,
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Synagogue"
+"preferred_label": "Paul"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Good News"
 },
 {
 "id": "realia:Image",
@@ -131,6 +124,13 @@
 "confidence": 0.165,
 "match_method": "canonical",
 "preferred_label": "Image"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
 }
 ]
 }

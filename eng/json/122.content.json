@@ -104,25 +104,18 @@
 "preferred_label": "Massah"
 },
 {
-"id": "keyterm:Destroy",
-"type": "keyterm",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Destroy"
-},
-{
-"id": "place:SinaiMount",
-"type": "place",
-"confidence": 0.1781,
-"match_method": "canonical",
-"preferred_label": "Mount Sinai"
-},
-{
 "id": "place:Nile",
 "type": "place",
 "confidence": 0.1781,
 "match_method": "canonical",
 "preferred_label": "Nile River"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Egypt"
 },
 {
 "id": "place:Meribah",
@@ -132,11 +125,18 @@
 "preferred_label": "Meribah"
 },
 {
-"id": "place:Egypt",
+"id": "place:SinaiMount",
 "type": "place",
 "confidence": 0.1781,
 "match_method": "canonical",
-"preferred_label": "Egypt"
+"preferred_label": "Mount Sinai"
+},
+{
+"id": "keyterm:Destroy",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Destroy"
 },
 {
 "id": "realia:Throne",
@@ -160,6 +160,13 @@
 "preferred_label": "Tabernacle Altar"
 },
 {
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
 "id": "realia:Sword",
 "type": "realia",
 "confidence": 0.1181,
@@ -179,13 +186,6 @@
 "confidence": 0.1181,
 "match_method": "canonical",
 "preferred_label": "Scroll"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.1181,
-"match_method": "canonical",
-"preferred_label": "Stone Altar"
 }
 ]
 }

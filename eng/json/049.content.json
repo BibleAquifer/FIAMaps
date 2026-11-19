@@ -71,18 +71,18 @@
 "preferred_label": "Forgive"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.3846,
-"match_method": "canonical",
-"preferred_label": "Jesus"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.3846,
 "match_method": "canonical",
 "preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Jesus"
 },
 {
 "id": "realia:Bed",
@@ -113,13 +113,6 @@
 "preferred_label": "Kingdom"
 },
 {
-"id": "flora:Grain",
-"type": "flora",
-"confidence": 0.2677,
-"match_method": "canonical",
-"preferred_label": "Grain"
-},
-{
 "id": "realia:House",
 "type": "realia",
 "confidence": 0.2677,
@@ -127,18 +120,11 @@
 "preferred_label": "House"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"confidence": 0.2138,
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.2677,
 "match_method": "canonical",
-"preferred_label": "Ability"
-},
-{
-"id": "keyterm:TaxCollector",
-"type": "keyterm",
-"confidence": 0.2138,
-"match_method": "canonical",
-"preferred_label": "Tax Collector"
+"preferred_label": "Grain"
 },
 {
 "id": "keyterm:Proclaim",
@@ -148,11 +134,11 @@
 "preferred_label": "Proclaim"
 },
 {
-"id": "flora:Brier",
-"type": "flora",
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
 "confidence": 0.2138,
 "match_method": "canonical",
-"preferred_label": "Brier"
+"preferred_label": "Tax Collector"
 },
 {
 "id": "keyterm:Heart",
@@ -162,11 +148,18 @@
 "preferred_label": "Heart"
 },
 {
-"id": "flora:Boxthorn",
+"id": "flora:Brier",
 "type": "flora",
-"confidence": 0.2108,
+"confidence": 0.2138,
 "match_method": "canonical",
-"preferred_label": "Boxthorn"
+"preferred_label": "Brier"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Ability"
 },
 {
 "id": "flora:Thistle",
@@ -176,25 +169,18 @@
 "preferred_label": "Thistle"
 },
 {
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Boxthorn"
+},
+{
 "id": "flora:Acacia",
 "type": "flora",
 "confidence": 0.2108,
 "match_method": "canonical",
 "preferred_label": "Acacia"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.16,
-"match_method": "canonical",
-"preferred_label": "Galilee"
-},
-{
-"id": "person:Alphaeus.2",
-"type": "person",
-"confidence": 0.16,
-"match_method": "canonical",
-"preferred_label": "Alphaeus"
 },
 {
 "id": "person:Matthew",
@@ -204,6 +190,20 @@
 "preferred_label": "Matthew"
 },
 {
+"id": "person:Alphaeus.2",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Alphaeus"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
 "id": "place:Capernaum",
 "type": "place",
 "confidence": 0.16,
@@ -211,11 +211,18 @@
 "preferred_label": "Capernaum"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Just",
 "type": "keyterm",
 "confidence": 0.1569,
 "match_method": "canonical",
-"preferred_label": "Believe"
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Glory"
 },
 {
 "id": "keyterm:TaxOffice",
@@ -225,18 +232,18 @@
 "preferred_label": "Tax Office"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
+"id": "keyterm:Healthy",
+"type": "keyterm",
 "confidence": 0.1569,
 "match_method": "canonical",
-"preferred_label": "Demons"
+"preferred_label": "Be Healthy"
 },
 {
-"id": "deity:Satan",
-"type": "deity",
+"id": "keyterm:Believe",
+"type": "keyterm",
 "confidence": 0.1569,
 "match_method": "canonical",
-"preferred_label": "Satan"
+"preferred_label": "Believe"
 },
 {
 "id": "keyterm:Heaven",
@@ -246,25 +253,18 @@
 "preferred_label": "Sky"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
 "confidence": 0.1569,
 "match_method": "canonical",
-"preferred_label": "Authority"
+"preferred_label": "Spirit"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
+"id": "group:Pharisee",
+"type": "group",
 "confidence": 0.1569,
 "match_method": "canonical",
-"preferred_label": "Pray"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.1569,
-"match_method": "canonical",
-"preferred_label": "Glory"
+"preferred_label": "Pharisees"
 }
 ]
 }

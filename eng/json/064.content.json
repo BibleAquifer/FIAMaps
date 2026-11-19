@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Milcah",
-"type": "person",
-"confidence": 0.42,
-"match_method": "canonical",
-"preferred_label": "Milcah"
-},
-{
 "id": "person:Bethuel",
 "type": "person",
 "confidence": 0.42,
 "match_method": "canonical",
 "preferred_label": "Bethuel"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 0.42,
+"match_method": "canonical",
+"preferred_label": "Milcah"
 },
 {
 "id": "person:Nahor.2",
@@ -56,25 +56,18 @@
 "preferred_label": "Chesed"
 },
 {
-"id": "person:Pildash",
+"id": "person:Kemuel",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Pildash"
+"preferred_label": "Kemuel"
 },
 {
-"id": "person:Tahash",
+"id": "person:Aram.2",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Tahash"
-},
-{
-"id": "person:Jidlaph",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Jidlaph"
+"preferred_label": "Aram"
 },
 {
 "id": "person:Maacah",
@@ -84,11 +77,11 @@
 "preferred_label": "Maacah"
 },
 {
-"id": "person:Uz.2",
+"id": "person:Gaham",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Uz"
+"preferred_label": "Gaham"
 },
 {
 "id": "person:Reumah",
@@ -105,18 +98,32 @@
 "preferred_label": "Buz"
 },
 {
-"id": "person:Aram.2",
+"id": "person:Jidlaph",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Aram"
+"preferred_label": "Jidlaph"
 },
 {
-"id": "person:Kemuel",
+"id": "person:Tebah",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Kemuel"
+"preferred_label": "Tebah"
+},
+{
+"id": "person:Uz.2",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Uz"
+},
+{
+"id": "person:Tahash",
+"type": "person",
+"confidence": 0.28,
+"match_method": "canonical",
+"preferred_label": "Tahash"
 },
 {
 "id": "person:Hazo",
@@ -126,18 +133,11 @@
 "preferred_label": "Hazo"
 },
 {
-"id": "person:Gaham",
+"id": "person:Pildash",
 "type": "person",
 "confidence": 0.28,
 "match_method": "canonical",
-"preferred_label": "Gaham"
-},
-{
-"id": "person:Tebah",
-"type": "person",
-"confidence": 0.28,
-"match_method": "canonical",
-"preferred_label": "Tebah"
+"preferred_label": "Pildash"
 },
 {
 "id": "person:Rebekah",

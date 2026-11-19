@@ -35,13 +35,6 @@
 "preferred_label": "Peter"
 },
 {
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 0.225,
-"match_method": "canonical",
-"preferred_label": "Resurrection"
-},
-{
 "id": "keyterm:PollTax",
 "type": "keyterm",
 "confidence": 0.225,
@@ -70,18 +63,11 @@
 "preferred_label": "Capernaum"
 },
 {
-"id": "realia:Fishhook",
-"type": "realia",
-"confidence": 0.1983,
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.225,
 "match_method": "canonical",
-"preferred_label": "Fishhook"
-},
-{
-"id": "realia:Stater",
-"type": "realia",
-"confidence": 0.1983,
-"match_method": "canonical",
-"preferred_label": "Stater"
+"preferred_label": "Resurrection"
 },
 {
 "id": "realia:Two-drachmaPiece",
@@ -91,11 +77,18 @@
 "preferred_label": "Two-Drachma Piece"
 },
 {
-"id": "fauna:Fish",
-"type": "fauna",
-"confidence": 0.165,
+"id": "realia:Stater",
+"type": "realia",
+"confidence": 0.1983,
 "match_method": "canonical",
-"preferred_label": "Fish"
+"preferred_label": "Stater"
+},
+{
+"id": "realia:Fishhook",
+"type": "realia",
+"confidence": 0.1983,
+"match_method": "canonical",
+"preferred_label": "Fishhook"
 },
 {
 "id": "realia:House",
@@ -103,6 +96,13 @@
 "confidence": 0.165,
 "match_method": "canonical",
 "preferred_label": "House"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Fish"
 }
 ]
 }

@@ -110,18 +110,11 @@
 "preferred_label": "An Angel"
 },
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.1616,
-"match_method": "canonical",
-"preferred_label": "Angels"
-},
-{
-"id": "person:Moab",
+"id": "person:Ben-ammi",
 "type": "person",
 "confidence": 0.1616,
 "match_method": "canonical",
-"preferred_label": "Moab"
+"preferred_label": "Ben-ammi"
 },
 {
 "id": "group:Ammon",
@@ -131,53 +124,25 @@
 "preferred_label": "Ammonites"
 },
 {
+"id": "person:Moab",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Angels"
+},
+{
 "id": "place:Ammon",
 "type": "place",
 "confidence": 0.1616,
 "match_method": "canonical",
 "preferred_label": "Ammon"
-},
-{
-"id": "person:Ben-ammi",
-"type": "person",
-"confidence": 0.1616,
-"match_method": "canonical",
-"preferred_label": "Ben-ammi"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Bless"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "The Way"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Kindness"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.158,
-"match_method": "canonical",
-"preferred_label": "Passion"
 },
 {
 "id": "place:Moab",
@@ -187,11 +152,11 @@
 "preferred_label": "Moab"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Bless",
 "type": "keyterm",
 "confidence": 0.158,
 "match_method": "canonical",
-"preferred_label": "To Sin"
+"preferred_label": "Bless"
 },
 {
 "id": "keyterm:Fear",
@@ -201,6 +166,41 @@
 "preferred_label": "Fear"
 },
 {
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
 "id": "realia:Kiln",
 "type": "realia",
 "confidence": 0.1016,
@@ -208,18 +208,18 @@
 "preferred_label": "Kiln"
 },
 {
-"id": "realia:Housetop",
-"type": "realia",
-"confidence": 0.098,
-"match_method": "canonical",
-"preferred_label": "Housetop"
-},
-{
 "id": "realia:UnleavenedBread",
 "type": "realia",
 "confidence": 0.098,
 "match_method": "canonical",
 "preferred_label": "Unleavened Bread"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.098,
+"match_method": "canonical",
+"preferred_label": "Housetop"
 }
 ]
 }
